@@ -140,7 +140,7 @@ def generate_html(data, date):
     """
     return html
 
-def save_html(html_content, filename='web/index.html'):
+def save_html(html_content, filename='docs/index.html'):
     with open(filename, 'w') as file:
         file.write(html_content)
 
