@@ -1,0 +1,10 @@
+# Dev environment
+pip
+autopep8
+black
+
+# App
+pandas
+google-generativeai
+python-dotenv
+
