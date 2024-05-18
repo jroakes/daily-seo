@@ -42,12 +42,10 @@ def format_df(df):
     return "\n--------------------\n".join(output)
 
 
-def generate_content(prompt, content):
-    model = genai.GenerativeModel("gemini-1.5-pro-latest")
-    response = model.generate_content(prompt.format(content=content))
-
-    # Debug: Print the raw response for troubleshooting
-    print("Raw response:", response.text)
+def generate_content(prompt):
+    generation_config = {"temperature":0.1, "max_output_tokens":4000}
+    model = genai.GenerativeModel("gemini-1.5-pro-latest", generation_config=generation_config)
+    response = model.generate_content(prompt)
 
     try:
         return json.loads(response.text)
@@ -202,7 +200,7 @@ def main():
     formatted_prompt = PROMPT.format(
         existing_data=existing_data_df.to_markdown(), content=feed_text
     )
-    new_data = generate_content(formatted_prompt, feed_text)
+    new_data = generate_content(formatted_prompt)
 
     # Append new items to the existing data
     if new_data:
