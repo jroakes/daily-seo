@@ -23,22 +23,22 @@ FEEDS = [
 ]
 
 
-PROMPT = """Please review the following new content and combine it into a concise list of core events, news items, or important updates.
+PROMPT = """Please review the following new content and combine it into a concise list of unique news events, news stories, or important updates.
 
-Guidelines:
+Guidelines you must follow:
 1. Ignore promotional or non-serious content.
-2. Be thorough and include as many new items as possible, but avoid duplication with existing content.
-3. Only keep items relevant to digital marketing, including SEO, paid marketing, and the internet.
-4. Choose the best example when multiple items cover the same news item or event. Don't cover the same story twice.
-5. Provide a link to the source of the content.
-6. Do not include any markdown formatting in your response; it will be interpreted as an error.
-7. Do not add new items if they are already covered in the existing titles.
-8. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
+2. Only keep items relevant to digital marketing, including SEO, paid marketing, and the internet.
+3. Provide a link to the source of the content.
+4. Do not include any markdown formatting in your response; it will be interpreted as an error.
+5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
+6. DO NOT repeat headlines covering the same event or news story.
+7. Only ouput new content in the required format.  
 
-Existing titles and categories:
+
+Content you added earlier:
 {existing_data}
 
-New content for review:
+New content for you to review:
 {content}
 
 Output should be valid JSON with a list of objects with the following keys:

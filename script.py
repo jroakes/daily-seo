@@ -200,6 +200,11 @@ def main():
     formatted_prompt = PROMPT.format(
         existing_data=existing_data_df.to_markdown(), content=feed_text
     )
+
+    # Log the formatted prompt to a file:
+    with open("prompt.txt", "w") as file:
+        file.write(formatted_prompt)
+
     new_data = generate_content(formatted_prompt)
 
     # Append new items to the existing data
