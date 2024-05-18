@@ -1,146 +1,56 @@
 [
     {
         "Title": "Google Reveals Two New Web Crawlers",
-        "Category": "Search",
-        "Description": "Google has launched two new web crawlers: GoogleOther-Image & GoogleOther-Video.",
-        "Link": "https://www.searchenginejournal.com/google-reveals-two-new-web-crawlers/516658/"
-    },
-    {
-        "Title": "Why advertisers can no longer trust Google",
-        "Category": "Paid Marketing",
-        "Description": "Article discusses the declining trust advertisers have in Google.",
-        "Link": "https://searchengineland.com/advertisers-google-trust-collapse-440543"
-    },
-    {
-        "Title": "EU asks Microsoft to provide information about Bing\u2019s generative AI features",
-        "Category": "Search",
-        "Description": "The EU is requesting information from Microsoft about the risks of generative AI features in Bing.",
-        "Link": "https://siliconangle.com/2024/05/17/eu-asks-microsoft-provide-information-bings-generative-ai-features/"
-    },
-    {
-        "Title": "TikTok now testing 60-minute video uploads",
-        "Category": "Internet",
-        "Description": "TikTok is currently testing the ability for users to upload videos up to 60 minutes long.",
-        "Link": "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588"
-    },
-    {
-        "Title": "Investment in martech companies down 87% vs. Q1 of 2023",
-        "Category": "Internet",
-        "Description": "Investment in marketing technology companies has seen a significant drop compared to the first quarter of 2023.",
-        "Link": "https://martech.org/investment-in-martech-companies-down-87-vs-q1-of-2023/"
-    },
-    {
-        "Title": "Microsoft faces EU pressure but avoids UK probe",
-        "Category": "Search",
-        "Description": "The EU is demanding information from Microsoft about Bing's generative AI, while the UK has chosen not to investigate its partnership with Mistral AI.",
-        "Link": "https://www.siliconrepublic.com/business/microsoft-bing-eu-ai-dsa-uk-cma-mistral"
-    },
-    {
-        "Title": "How marketers are rolling out cookieless strategies in 2024",
-        "Category": "Paid Marketing",
-        "Description": "Article explores how marketers are adapting to a cookieless future in their digital strategies.",
-        "Link": "https://digiday.com/sponsored/how-marketers-are-rolling-out-cookieless-strategies-in-2024/"
-    },
-    {
-        "Title": "Remove Your Content From Google's AI Overviews",
-        "Category": "Search",
-        "Description": "Instructions on how to remove your content from Google's AI Overviews, a new feature in search results.",
-        "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
-    },
-    {
-        "Title": "EU warns Microsoft to give risk data on Bing AI or face fines",
-        "Category": "Search",
-        "Description": "The EU has threatened Microsoft with fines if they do not provide internal data on Bing's AI features and their potential risks related to elections.",
-        "Link": "https://www.tuko.co.ke/business-economy/technology/548719-eu-warns-microsoft-give-risk-data-bing-ai-face-fines/"
-    },
-    {
-        "Title": "Google Ads AI Summaries Live For Some Advertisers",
-        "Category": "Paid Marketing",
-        "Description": "Google Ads has launched a new AI-powered feature that summarizes campaign performance for some advertisers.",
-        "Link": "https://www.seroundtable.com/google-ads-ai-summaries-37410.html"
-    },
-    {
-        "Title": "Order with Google For Food Delivery Going Away End Of June",
-        "Category": "Search",
-        "Description": "The 'Order with Google' feature for food delivery services will be discontinued at the end of June.",
-        "Link": "https://www.seroundtable.com/order-with-google-discontinued-37399.html"
-    },
-    {
-        "Title": "Google Locks Down Complaints Of Image Thumbnails Not Showing In Search",
-        "Category": "Search",
-        "Description": "Google has stopped responding to complaints on their support forums about ongoing issues with image thumbnails not appearing in search results.",
-        "Link": "https://www.seroundtable.com/google-complaints-image-thumbnails-locked-37408.html"
-    },
-    {
-        "Title": "Mikhail Parakhin, Former Microsoft Bing Head, Joins Perplexity Advisor Board",
-        "Category": "Search",
-        "Description": "Mikhail Parakhin, former head of Bing Search at Microsoft, has joined the advisory board of Perplexity, an AI search startup.",
-        "Link": "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html"
-    },
-    {
-        "Title": "Microsoft PC Manager Promotes Bing for 'PC Repair'",
-        "Category": "Search",
-        "Description": "Microsoft's PC Manager app suggests switching to Bing as the default search engine as a way to 'repair' Windows devices.",
-        "Link": "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/"
-    },
-    {
-        "Title": "EU Investigates Bing's AI Risks",
-        "Category": "Search",
-        "Description": "The European Commission demands Microsoft provide information about Bing's generative AI features, including potential risks to electoral processes.",
-        "Link": "https://siliconangle.com/2024/05/17/eu-asks-microsoft-provide-information-bings-generative-ai-features/"
-    },
-    {
-        "Title": "Google Adds New Web Crawlers",
-        "Category": "Search",
-        "Description": "Google introduced two new web crawlers, 'GoogleOther-Image' and 'GoogleOther-Video', for enhanced image and video indexing.",
+        "Category": "SEO",
+        "Description": "Google has introduced two new web crawlers: GoogleOther-Image & GoogleOther-Video.",
         "Link": "https://www.seroundtable.com/googleother-image-and-googleother-video-37412.html"
     },
     {
-        "Title": "Former Bing Head Joins Perplexity",
-        "Category": "Search",
-        "Description": "Mikhail Parakhin, former head of Bing Search at Microsoft, joins the advisory board of AI search engine Perplexity.",
-        "Link": "https://www.seroundtable.com/mikhail-parakh\u2026"
+        "Title": "EU Demands Microsoft Provide Data on Bing AI Risks or Face Fines",
+        "Category": "AI",
+        "Description": "The European Commission has given Microsoft a deadline of May 27 to provide information on risks stemming from generative AI features in Bing, or face potential fines.",
+        "Link": "https://www.reuters.com/technology/eu-demands-clarity-microsoft-ai-risks-bing-2024-05-17/"
     },
     {
-        "Title": "Google Ads Introduces AI Summaries",
+        "Title": "Microsoft PC Manager Promotes Bing as Default Search Engine for 'PC Repair'",
+        "Category": "Search",
+        "Description": "Microsoft's PC Manager app suggests using Bing as the default search engine as a way to 'repair' Windows 11 devices, sparking debate about the company's tactics.",
+        "Link": "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/"
+    },
+    {
+        "Title": "Google Ads AI Summaries Rolling Out to Advertisers",
         "Category": "Paid Marketing",
-        "Description": "Google Ads is rolling out AI-powered summaries to provide concise overviews of campaign performance for advertisers.",
+        "Description": "Google Ads is reportedly rolling out AI-powered summaries to provide insights into campaign performance for some advertisers.",
         "Link": "https://www.seroundtable.com/google-ads-ai-summaries-37410.html"
     },
     {
-        "Title": "TikTok Tests 60-Minute Videos",
-        "Category": "Internet",
-        "Description": "TikTok is experimenting with longer video uploads, allowing users to create videos up to 60 minutes in length.",
-        "Link": "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588"
-    },
-    {
-        "Title": "Martech Investment Declines",
-        "Category": "Internet",
-        "Description": "Investment in martech companies dropped significantly in the first quarter of 2024 compared to the same period in 2023.",
-        "Link": "https://martech.org/investment-in-martech-companies-down-87-vs-q1-of-2023/"
-    },
-    {
-        "Title": "Marketers Adopt Cookieless Strategies",
-        "Category": "Paid Marketing",
-        "Description": "With the impending demise of third-party cookies, marketers are implementing new strategies to target audiences and measure campaign effectiveness.",
-        "Link": "https://digiday.com/sponsored/how-marketers-are-rolling-out-cookieless-strategies-in-2024/"
-    },
-    {
-        "Title": "Removing Content from Google's AI Overviews",
+        "Title": "Order with Google Integration to be Discontinued",
         "Category": "Search",
-        "Description": "Users can now remove their content from Google's AI Overviews, a new feature providing AI-generated summaries, using techniques like the 'nosnippet' tag.",
-        "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
-    },
-    {
-        "Title": "'Order with Google' for Food Delivery Ends",
-        "Category": "Search",
-        "Description": "Google is discontinuing its 'Order with Google' feature for food delivery, ending integration with platforms like Uber Eats and DoorDash.",
+        "Description": "Google's 'Order with Google' integration for food delivery services like Uber Eats, DoorDash, and Grubhub will be discontinued at the end of June.",
         "Link": "https://www.seroundtable.com/order-with-google-discontinued-37399.html"
     },
     {
-        "Title": "Google Addresses Image Thumbnail Issues",
-        "Category": "Search",
-        "Description": "Google acknowledges complaints about missing image thumbnails in search results, assuring users they are aware of the problem and working on a solution.",
+        "Title": "Users Seek Ways to Remove Content from Google's AI Overviews",
+        "Category": "SEO",
+        "Description": "SEOs and users are exploring methods, such as using the 'nosnippet' tag, to remove their content from Google's AI Overviews, indicating concerns about content control and visibility.",
+        "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
+    },
+    {
+        "Title": "Former Bing AI Head Joins Perplexity Advisor Board",
+        "Category": "AI",
+        "Description": "Mikhail Parakhin, the former head of Bing Search, AI, and Ads at Microsoft, has joined the advisory board of Perplexity, an AI search startup, signaling potential competition in the AI search space.",
+        "Link": "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html"
+    },
+    {
+        "Title": "TikTok Testing 60-Minute Video Uploads",
+        "Category": "Social Media",
+        "Description": "TikTok is currently testing the ability for users to upload videos up to 60 minutes long, potentially impacting content creation and consumption habits on the platform.",
+        "Link": "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588"
+    },
+    {
+        "Title": "Google Locks Down Complaints Of Image Thumbnails Not Showing In Search",
+        "Category": "SEO",
+        "Description": "Google has locked down a support thread where users were complaining about image thumbnails not appearing in search results. The issue has been ongoing for months, and Google acknowledges it but has stopped responding to specific complaints.",
         "Link": "https://www.seroundtable.com/google-complaints-image-thumbnails-locked-37408.html"
     },
     {
