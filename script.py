@@ -176,12 +176,16 @@ def main():
     existing_data = []
    
   existing_titles = {item['Title'] for item in existing_data}
-  existing_categories = {item['Category'] for item in existing_data}
+  existing_data_df = pd.DataFrame(existing_data)
+
+  # Limit existing_data_df to Title and Category
+  if not existing_data_df.empty:
+    existing_data_df = existing_data_df[['Title', 'Category']]
 
   df = get_and_filter_feeds(FEEDS)
   feed_text = format_df(df)
 
-  formatted_prompt = PROMPT.format(existing_titles=', '.join(existing_titles), existing_data=pd.DataFrame(existing_data).to_markdown(), content=feed_text)
+  formatted_prompt = PROMPT.format(existing_data=existing_data_df.to_markdown(), content=feed_text)
   new_data = generate_content(formatted_prompt, feed_text)
 
   # Append new items to the existing data
