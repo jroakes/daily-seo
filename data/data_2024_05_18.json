@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "Title": "Google Reveals Two New Web Crawlers",
         "Category": "SEO",
         "Description": "Google has introduced two new web crawlers: GoogleOther-Image and GoogleOther-Video.",
@@ -46,5 +47,53 @@
         "Category": "SEO & AI",
         "Description": "Instructions and strategies for website owners who wish to remove their content from Google's AI-generated overviews in search results.",
         "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
+=======
+        "Title": "Microsoft PC Manager Recommends Bing for PC 'Repair'",
+        "Category": "SEO",
+        "Description": "Microsoft's PC Manager app recommends using Bing as the default search engine as part of its PC repair suggestions. This has been met with criticism from users.",
+        "Link": "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/"
+    },
+    {
+        "Title": "Google Introduces Two New Web Crawlers",
+        "Category": "SEO",
+        "Description": "Google has launched two new web crawlers: GoogleOther-Image and GoogleOther-Video. Their specific functions are not yet fully known.",
+        "Link": "https://www.searchenginejournal.com/google-reveals-two-new-web-crawlers/516658/"
+    },
+    {
+        "Title": "EU Demands Information from Microsoft on Bing's AI Risks",
+        "Category": "SEO",
+        "Description": "The EU is demanding Microsoft provide details on how Bing's generative AI features could pose risks related to elections, deepfakes, and misinformation.",
+        "Link": "https://siliconangle.com/2024/05/17/eu-asks-microsoft-provide-information-bings-generative-ai-features/"
+    },
+    {
+        "Title": "How to Remove Your Content from Google AI Overviews",
+        "Category": "SEO",
+        "Description": "A guide on how to remove your content from Google's AI Overviews using techniques like the 'nosnippet' tag. This comes as users express concerns about AI-generated summaries.",
+        "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
+    },
+    {
+        "Title": "TikTok Tests 60-Minute Video Uploads",
+        "Category": "Digital Marketing",
+        "Description": "TikTok is experimenting with longer-form video content, allowing some users to upload videos up to 60 minutes long.",
+        "Link": "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588"
+    },
+    {
+        "Title": "Google Ads Testing AI-Powered Campaign Summaries",
+        "Category": "Paid Marketing",
+        "Description": "Google Ads is rolling out AI summaries for advertisers, providing automated overviews of campaign performance.",
+        "Link": "https://www.seroundtable.com/google-ads-ai-summaries-37410.html"
+    },
+    {
+        "Title": "Order with Google for Food Delivery to End in June",
+        "Category": "SEO",
+        "Description": "Google's 'Order with Google' integration for food delivery services like Uber Eats and DoorDash will be discontinued at the end of June.",
+        "Link": "https://www.seroundtable.com/order-with-google-discontinued-37399.html"
+    },
+    {
+        "Title": "Former Bing AI Head Joins Perplexity AI",
+        "Category": "SEO",
+        "Description": "Mikhail Parakhin, the former head of Bing Search and AI at Microsoft, has joined the advisory board of Perplexity AI, a new AI-powered search engine startup.",
+        "Link": "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html"
+>>>>>>> 1ea417c (update html)
     }
 ]
