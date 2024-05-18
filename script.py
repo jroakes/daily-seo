@@ -43,7 +43,7 @@ def format_df(df):
 
 
 def generate_content(prompt):
-    generation_config = {"temperature":0.1, "max_output_tokens":4000}
+    generation_config = {"temperature": 0.1, "max_output_tokens": 4000}
     model = genai.GenerativeModel("gemini-1.5-pro-latest", generation_config=generation_config)
     response = model.generate_content(prompt)
 
@@ -72,27 +72,51 @@ def generate_html(data, date):
         background-color: #f5f5f5;
         color: #333;
       }}
-      .navbar {{
-        background-color: #0288d1;
+      nav {{
+        background-color: #333 !important;
       }}
       .brand-logo {{
         font-size: 2rem;
         font-weight: bold;
+        animation: throb 3s infinite;
+        background: linear-gradient(90deg, #ffeb3b, #fdd835);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }}
+      @keyframes throb {{
+        0%, 100% {{
+          opacity: 1;
+        }}
+        50% {{
+          opacity: 0.5;
+        }}
       }}
       .card {{
-        margin: 20px 0;
+        margin: 15px 0;
+        padding: 10px;
       }}
       .card-title {{
         font-weight: bold;
       }}
       .card-content {{
         color: #000;
+        padding: 10px;
       }}
       .card-action .btn {{
         background-color: #0277bd;
       }}
       .container {{
         max-width: 100%;
+      }}
+      h1 {{
+        color: #0288d1;
+        margin-top: 40px;
+        text-align: center;
+      }}
+      .date {{
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 2rem;
+        text-align: center;
       }}
       h2 {{
         color: #0288d1;
@@ -113,7 +137,8 @@ def generate_html(data, date):
       </div>
     </nav>
     <div class="container">
-      <h1>Daily Updates - {pretty_date}</h1>
+      <h1>Daily Updates</h1>
+      <div class="date">{pretty_date}</div>
   """
 
     categories = set(item["Category"] for item in data)
@@ -130,7 +155,7 @@ def generate_html(data, date):
               <p>{item['Description']}</p>
             </div>
             <div class="card-action">
-              <a href="{item['Link']}" class="btn">Visit Source</a>
+              <a href="{item['Link']}" class="btn" target="_blank">Visit Source</a>
             </div>
           </div>
         </div>
