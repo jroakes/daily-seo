@@ -26,19 +26,19 @@ FEEDS = [
 PROMPT = """Please review the following new content and combine it into a concise list of unique news events, news stories, or important updates.
 
 Guidelines you must follow:
-1. Ignore promotional and non-serious content. Keep only important news and events for respected companies.
+1. Ignore promotional and non-serious content. Keep only important news and events about respected companies.
 2. Only keep items relevant to digital marketing, including SEO, paid marketing, social, and the internet.
-3. The link musk be a valid URL and come from the Source provided in the content. DO NOT attepmt to guess a link URL.
+3. The link must be a valid URL and come from the source provided in the content. DO NOT attepmt to guess a link URL.
 4. Do not include any markdown formatting in your response; it will be interpreted as an error.
 5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
-6. DO NOT repeat headlines covering the same event or news story.
-7. Only ouput new, unique, and relevant content in the required format. 
+6. DO NOT repeat headlines covering the same event or news story. If the story is covered in the existing titles, omit it when reviewing new content.
+7. Only ouput new, unique, and relevant news events, stories, and updates in the required format. 
 
 
-Content you added earlier:
+Existing content:
 {existing_data}
 
-New content for you to review:
+New content for review:
 {content}
 
 Output should be valid JSON with a list of objects with the following keys:
