@@ -26,29 +26,29 @@ FEEDS = ['https://rss.app/feeds/AABZSamcHV77NMiB.csv',
 
 
 
-PROMPT = """Please review the following new content published recently and combine into a concise list of core events, news items, or other important updates.
-  
-  Please follow the following guidelines:
-  1. Ignore content that is promotional or not serious.
-  2. Be thorough and attempt to cover as many new items as possible as long as they are not already covered in the existing content.
-  3. Items should be relevant to digital marketing, including: SEO, paid marketing, and the internet in general.
-  4. Pick the best example where there are duplicate items covering the same content. Be careful not to recover something just because the title is different
-  5. Provide a link to the source of the content.
-  6. DO NOT include any markdown formatting in your response, otherwise it will be interpreted as an error.
-  7. Don't add new items if they are already coverted in the existing content.
-  8. Keep categories high-level and simple.  Don't use multiple areas, e.g. "Search & AI" for the same category.  Pick the best one.
-  
-  Existing titles and categories:
-  {existing_data}
+PROMPT = """Please review the following new content and combine it into a concise list of core events, news items, or important updates.
 
-  New content for review:
-  {content}
+Guidelines:
+1. Ignore promotional or non-serious content.
+2. Be thorough and include as many new items as possible, but avoid duplication with existing content.
+3. Only keep items relevant to digital marketing, including SEO, paid marketing, and the internet.
+4. Choose the best example when multiple items cover the same news item or event. Don't cover the same story twice.
+5. Provide a link to the source of the content.
+6. Do not include any markdown formatting in your response; it will be interpreted as an error.
+7. Do not add new items if they are already covered in the existing titles.
+8. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
 
-  Output should be valid JSON with a list of objects with the following keys:
-  - Title
-  - Category
-  - Description
-  - Link
+Existing titles and categories:
+{existing_data}
 
-  Valid JSON:
-  """
+New content for review:
+{content}
+
+Output should be valid JSON with a list of objects with the following keys:
+- Title
+- Category
+- Description
+- Link
+
+Valid JSON:
+"""
