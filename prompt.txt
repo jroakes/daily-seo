@@ -1,31 +1,29 @@
 Please review the following new content and combine it into a concise list of unique news events, news stories, or important updates.
 
 Guidelines you must follow:
-1. Ignore promotional and non-serious content. Keep only important news and events for respected companies.
+1. Ignore promotional and non-serious content. Keep only important news and events about respected companies.
 2. Only keep items relevant to digital marketing, including SEO, paid marketing, social, and the internet.
-3. The link musk be a valid URL and come from the Source provided in the content. DO NOT attepmt to guess a link URL.
+3. The link must be a valid URL and come from the source provided in the content. DO NOT attepmt to guess a link URL.
 4. Do not include any markdown formatting in your response; it will be interpreted as an error.
 5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
-6. DO NOT repeat headlines covering the same event or news story.
-7. Only ouput new, unique, and relevant content in the required format. 
+6. DO NOT repeat headlines covering the same event or news story. If the story is covered in the existing titles, omit it when reviewing new content.
+7. Only ouput new, unique, and relevant news events, stories, and updates in the required format. 
 
 
-Content you added earlier:
-|    | Title                                                                            | Category       |
-|---:|:---------------------------------------------------------------------------------|:---------------|
-|  0 | Perplexity CEO Calls Google's AI Search a Mess                                   | Search         |
-|  1 | LinkedIn's Collaborative Articles See Decline After Initial Surge                | Social Media   |
-|  2 | OpenAI Disbands Team Focused on Long-Term AI Risks                               | AI             |
-|  3 | Google's Helpful Content System Integrated into Core Algorithm                   | SEO            |
-|  4 | Women in Tech SEO Festival Returns to Philadelphia                               | SEO            |
-|  5 | Microsoft Promotes Bing as Default Search Engine for PC Health                   | Search         |
-|  6 | Google Introduces Two New Web Crawlers                                           | SEO            |
-|  7 | Advertisers Losing Trust in Google                                               | Paid Marketing |
-|  8 | EU Demands Information from Microsoft on Bing's Generative AI Risks              | AI             |
-|  9 | Microsoft Bing Faces EU Scrutiny Over Generative AI Risks to Electoral Processes | AI             |
-| 10 | YouTube Unveils New Content and Ad Offerings at Brandcast                        | Paid Marketing |
+Existing content:
 
-New content for you to review:
+
+New content for review:
+@aleyda: Watching a full Mendizorroza stadium cheering, singing and jumping for @Alaves during almost the whole last match of the season at home, makes me realize how Football (soccer for Americans) has likely the biggest display of brand loyalty and community engagement around the world,…
+2024-05-18
+nan
+Source: https://twitter.com/aleyda/status/1791934110430097625
+--------------------
+Microsoft faces multi-billion dollar fine in EU over Bing AI
+2024-05-18
+Microsoft faces a May 27 deadline to respond to a European Commission request for information concerning its Bing artificial intelligence services else it faces a multi-billion dollar fine.
+Source: https://cointelegraph.com/news/microsoft-billion-dollar-fine-eu-bing-artificial-intelligence-ai
+--------------------
 @SpencrGreenberg: RT by @aleyda: 18) 🥈 Award for the 2nd best "self-improvement insight" goes to @JamesClear
 2024-05-18
 nan
@@ -35,6 +33,11 @@ Source: https://twitter.com/SpencrGreenberg/status/1791861354913017979
 2024-05-18
 nan
 Source: https://twitter.com/glenngabe/status/1791824375785701450
+--------------------
+@JohnMu: RT by @aleyda: @GenSkinJob @Katie16282772 @glenngabe Yes, and I imagine for most sites strongly affected, the effects will be site-wide for the time being, and it will take until the next update to see similar strong effects (assuming the new state of the site is significantly better than before).
+2024-05-18
+nan
+Source: https://twitter.com/JohnMu/status/1791823865749856376
 --------------------
 @glenngabe: Interesting: LinkedIn's collaborative articles got hammered in the fall of 2023. Those articles begin with AI content and then users can add their own advice, recommendations, etc. over time. For many, it's just AI content... Well, the directory surged like crazy with the March…
 2024-05-18
@@ -70,16 +73,6 @@ Source: https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc
 2024-05-17
 nan
 Source: https://twitter.com/aleyda/status/1791591781978497095
---------------------
-Google Reveals Two New Web Crawlers
-2024-05-17
-nan
-Source: https://www.searchenginejournal.com/google-reveals-two-new-web-crawlers/516658/
---------------------
-@rustybrick: 40,000 but earlier today via @CNBC
-2024-05-17
-nan
-Source: https://twitter.com/rustybrick/status/1791562345178665374
 
 Output should be valid JSON with a list of objects with the following keys:
 - Title
