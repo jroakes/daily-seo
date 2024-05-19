@@ -1,475 +1,239 @@
 {
-    "existing_data": [
-        {
-            "Title": "Microsoft Might Face EU Probe Over Bing AI Safety Concerns",
-            "Category": "AI",
-            "Description": "EU Commission investigates Bing's AI for safety risks like deepfakes, and manipulation. Microsoft risks fines for non-compliance.",
-            "Link": "https://www.cryptotimes.io/2024/05/19/microsoft-might-face-eu-probe-over-bing-ai-safety-concerns/"
-        },
-        {
-            "Title": "A healthy PC means using Bing, according to Microsoft",
-            "Category": "Search",
-            "Description": "Microsoft adds Bing as default search engine in an attempt to help clean up your PC.",
-            "Link": "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/"
-        },
-        {
-            "Title": "Google Reveals Two New Web Crawlers",
-            "Category": "Search",
-            "Description": "Google has added two new web crawlers: GoogleOther-Image and GoogleOther-Video.",
-            "Link": "https://www.searchenginejournal.com/google-reveals-two-new-web-crawlers/516658/"
-        },
-        {
-            "Title": "ChatGPT To Surface Reddit Content Via Partnership With OpenAI",
-            "Category": "AI",
-            "Description": "OpenAI and Reddit have partnered to bring Reddit content to ChatGPT.",
-            "Link": "https://www.searchenginejournal.com/chatgpt-to-surface-reddit-content-via-partnership-with-openai/516605/"
-        },
-        {
-            "Title": "Google Ads Restricts Brand Names & Logos From AI Image Generation",
-            "Category": "AI",
-            "Description": "Google Ads has restricted the use of brand names and logos in AI image generation.",
-            "Link": "https://www.searchenginejournal.com/google-ads-restricts-brand-names-logos-from-ai-image-generation/516517/"
-        },
-        {
-            "Title": "Google Hints At Improving Site Rankings In Next Update",
-            "Category": "Search",
-            "Description": "Google aims to better reward high-quality content sites in the next core update.",
-            "Link": "https://www.searchenginejournal.com/google-hints-at-improving-site-rankings-in-next-update/516697/"
-        },
-        {
-            "Title": "Microsoft Under $2.1 Billion Fine From EU Over Bing AI Risks",
-            "Category": "AI",
-            "Description": "Microsoft faces potential $2 billion fine from the EU over concerns about misinformation and manipulation risks from Bing's AI features like Copilot.",
-            "Link": "https://www.cryptotimes.io/2024/05/19/microsoft-under-2-1-billion-fine-from-eu-over-bing-ai-risks/"
-        },
-        {
-            "Title": "EU Commission gives Microsoft 10 days to hand over Bing AI documents",
-            "Category": "AI",
-            "Description": "The European Commission on Friday gave Microsoft a legally binding deadline of May 27 to supply documents concerning the use of generative artificial intelligence (AI) in its Bing search engine. The order concerns two features: \"Copilot in Bing,\" a multipurpose system that can create text and images based on prompts from the user, and \"Image Creato...",
-            "Link": "https://www.msn.com/en-gb/money/technology/eu-commission-gives-microsoft-10-days-to-hand-over-bing-ai-documents/ar-BB1mznn2?ocid=finance-verthp-feeds"
-        },
-        {
-            "Title": "YouTube Unveils New Content And Ad Offerings At Brandcast",
-            "Category": "Paid Marketing",
-            "Description": "YouTube is updating its YouTube Select program that packages top creators\u2019 channels, adding creator takeovers and introducing a new AI-powered ad product.",
-            "Link": "https://www.searchenginejournal.com/youtube-unveils-new-content-and-ad-offerings-at-brandcast/516466/"
-        },
-        {
-            "Title": "TikTok now testing 60-minute video uploads",
-            "Category": "Social",
-            "Description": "TikTok is testing longer video uploads as it continues to compete with YouTube.",
-            "Link": "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588"
-        },
-        {
-            "Title": "Google adds two new Googlebot crawlers: GoogleOther-Image\u00a0and\u00a0GoogleOther-Video",
-            "Category": "Search",
-            "Description": "Google said these new crawlers are to \"better support crawling of binary data that may be used for research and development.\"",
-            "Link": "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-and-googleother-video-440573"
-        },
-        {
-            "Title": "Former Bing AI Head, Mikhail Parakhin, Joins Perplexity Advisor Board",
-            "Category": "AI",
-            "Description": "Mikhail Parakhin, the former head of Bing Search and Microsoft Advertising at Microsoft, has announced he is now on the advisory board for Perplexity. Perplexity is a new AI search start up, which technically would be in competition with Microsoft's Bing Search and Copilot.",
-            "Link": "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html"
-        },
-        {
-            "Title": "Order with Google For Food Delivery Going Away End Of June",
-            "Category": "Search",
-            "Description": "Order with Google integration with Uber Eats, Door Dash, GrubHub is going away at the end of June.",
-            "Link": "https://www.seroundtable.com/order-with-google-discontinued-37399.html"
-        },
-        {
-            "Title": "Google Ads AI Summaries Live For Some Advertisers",
-            "Category": "AI",
-            "Description": "Google Ads AI summaries, which summarize campaign performance, are rolling out to some advertisers.",
-            "Link": "https://www.seroundtable.com/google-ads-ai-summaries-37410.html"
-        },
+    "valid_articles": [
         {
             "Title": "EU warns Microsoft to give Bing AI risk data or face fines",
-            "Category": "AI",
             "Description": "The EU on Friday told Microsoft to hand over internal documents or face fines as it examines generative AI risks on the company's search engine Bing ahead of elections.",
             "Link": "https://www.tuko.co.ke/business-economy/technology/548719-eu-warns-microsoft-give-risk-data-bing-ai-face-fines/"
         },
         {
+            "Title": "EU warns Microsoft\u2019s Bing could face probes over deepfakes and false news",
+            "Description": "Brussels suspects tech giant violated content moderation law.",
+            "Link": "https://www.politico.eu/article/microsoft-bing-receives-eu-order-over-suspected-violation-of-content-moderation-law-with-deepfakes/"
+        },
+        {
+            "Title": "EU Commission gives Microsoft 10 days to hand over Bing AI documents",
+            "Description": "The European Commission on Friday gave Microsoft a legally binding deadline of May 27 to supply documents concerning the use of generative artificial intelligence (AI) in its Bing search engine. The order concerns two features: \"Copilot in Bing,\" a multipurpose system that can create text and images based on prompts from the user, and \"Image Creato...",
+            "Link": "https://www.msn.com/en-gb/money/technology/eu-commission-gives-microsoft-10-days-to-hand-over-bing-ai-documents/ar-BB1mznn2?ocid=finance-verthp-feeds"
+        },
+        {
+            "Title": "EU demands clarity from Microsoft on AI risks in Bing",
+            "Description": "BRUSSELS (Reuters) - The European Commission on Friday said it had given Microsoft until May 27 to provide information on risks stemming from generative AI features in search engine Bing. The Commission said it is woried about the dissemination of deep fakes and automated manipulation of services ...",
+            "Link": "https://www.usnews.com/news/technology/articles/2024-05-17/eu-demands-clarity-from-microsoft-on-ai-risks-in-bing"
+        },
+        {
             "Title": "Microsoft faces EU pressure but avoids UK probe",
-            "Category": "AI",
             "Description": "The EU wants info from Microsoft about Bing's generative AI features, while the UK has decided not to investigate its Mistral AI partnership.",
             "Link": "https://www.siliconrepublic.com/business/microsoft-bing-eu-ai-dsa-uk-cma-mistral"
         },
         {
             "Title": "Microsoft's Bing could face fine in EU if information on AI risks is not provided",
-            "Category": "AI",
-            "Description": "Microsoft could face fines from the European Commission if it does not provide information on risks relating to generative AI in its search engine Bing.",
+            "Description": "Microsoft could face fines from the European Commission if it does not provide information on risks relating to generative AI in its search engine Bing. Read more here",
             "Link": "https://seekingalpha.com/news/4107849-microsofts-bing-could-face-fine-in-eu-if-information-on-ai-risks-is-not-provided"
         },
         {
-            "Title": "EU warns Microsoft\u2019s Bing could face probes over deepfakes and false news",
-            "Category": "AI",
-            "Description": "Brussels suspects tech giant violated content moderation law.",
-            "Link": "https://www.politico.eu/article/microsoft-bing-receives-eu-order-over-suspected-violation-of-content-moderation-law-with-deepfakes/"
+            "Title": "Navigating the AI wars: Winning SEO strategies for brands",
+            "Description": "See how AI is changing our quest for information, the key players in the AI wars and the attributes that will define the future of search.",
+            "Link": "https://searchengineland.com/navigating-ai-wars-winning-seo-strategies-for-brands-440564"
+        },
+        {
+            "Title": "Former Bing AI Head, Mikhail Parakhin, Joins Perplexity Advisor Board",
+            "Description": "Mikhail Parakhin, the former head of Bing Search and Microsoft Advertising at Microsoft, has announced he is now on the advisory board for Perplexity. Perplexity is a new AI search start up, which technically would be in competition with Microsoft's Bing Search and Copilot.",
+            "Link": "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html"
+        },
+        {
+            "Title": "Order with Google integration is going away at the end of June",
+            "Description": "Order with Google integration with Uber Eats, Door Dash, GrubHub is going away at the end of June",
+            "Link": "https://www.seroundtable.com/order-with-google-going-away-37408.html"
+        },
+        {
+            "Title": "Two new Googlebot crawlers GoogleOther-Image & GoogleOther-Video",
+            "Description": "Google added two new Googlebot crawlers GoogleOther-Image & GoogleOther-Video",
+            "Link": "https://www.seroundtable.com/googleother-image-googleother-video-37405.html"
+        },
+        {
+            "Title": "Google search ranking volatility still super heated through today",
+            "Description": "Google search ranking volatility still super heated through today - story updated",
+            "Link": "https://www.seroundtable.com/continued-google-search-ranking-volatility-37403.html"
+        },
+        {
+            "Title": "Microsoft PC Manager utility warns Windows 11 users switching from Bing that they need to 'repair' their PC",
+            "Description": "The Microsoft PC Manager app \u2014 a free and official tweaking and optimization utility available from the Microsoft Store \u2014 is the latest software from the company to offer up questionabl\u2026",
+            "Link": "https://betanews.com/2024/05/17/microsoft-pc-manager-utility-warns-windows-11-users-switching-from-bing-that-they-need-to-repair-their-pc/"
+        },
+        {
+            "Title": "Microsoft PC Manager's Definition Of Repairing Apparently Means Switching To Bing Search",
+            "Description": "If you're a Windows 11 user who has Microsoft Edge's search engine set as anything outside of Bing Search, the Microsoft PC Manager app will tell you to \"repair\" it.",
+            "Link": "https://pokde.net/system/software/operating-system/pc-manager-repair-bing"
         },
         {
             "Title": "AI search startup adds veterans of Google, Bing as advisers",
-            "Category": "AI",
             "Description": "The new advisors will include former Uber Technologies Inc. executive Emil Michael, Android co-founder and Google advisor Rich Miner, and Mikhail Parakhin, the former head of Microsoft Corp.\u2019s Bing Search, the company said.",
             "Link": "https://www.moneycontrol.com/news/world/ai-search-startup-adds-veterans-of-google-bing-as-advisers-12724967.html"
         },
         {
-            "Title": "AI Startup Perplexity Adds Ex-Uber and Bing Execs as Advisers",
-            "Category": "AI",
-            "Description": "AI startup Perplexity has added three new advisers: Emil Michael, Rich Miner and Mikhail Parakhin, who come from Uber, Google and Bing.",
-            "Link": "https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/"
+            "Title": "Google Ads AI summaries may be rolling out?",
+            "Description": "Google Ads AI summaries may be rolling out?",
+            "Link": "https://twitter.com/rustybrick/status/1791340620981690466"
         },
         {
-            "Title": "Microsoft PC Manager App 'Fixes' Your PC By Restoring Bing as the Default Search Engine",
-            "Category": "Search",
-            "Description": "Gee, thanks Microsoft! We can't imagine how that setting got changed in the first place.",
-            "Link": "https://www.extremetech.com/computing/microsoft-pc-manager-app-fixes-your-pc-by-restoring-bing-as-the-default"
+            "Title": "TV networks embrace AI at the upfront to improve audience targeting and commerce",
+            "Description": "Legacy networks and digitally native streaming platforms are adding AI features to find and reach new audiences with targeted ads.",
+            "Link": "https://digiday.com/media-buying/tv-networks-embrace-ai-at-the-upfronts-to-improve-audience-targeting-and-commerce/"
         },
         {
-            "Title": "Microsoft lures users to improve their PCs by doing THIS",
-            "Category": "Search",
-            "Description": "Bill Gates-founded American technology behemoth Microsoft attempted an innovative way to make people shift from Google to its search engine Bing, as the Redmond-based company continuously markets its products.",
-            "Link": "https://www.geo.tv/latest/544553-microsoft-urges-people-to-improve-their-pcs-by-this"
+            "Title": "Transparency shift: CMOs navigate new norms in agency profit models",
+            "Description": "Many CMOs seem to be okay with their agencies finding new ways to increase margins, as long as the process is transparent, or at least openly acknowledges a lack of transparency.",
+            "Link": "https://digiday.com/media/transparency-shift-cmos-navigate-new-norms-in-agency-profit-models/"
         },
         {
-            "Title": "Microsoft's 4.5-rated performance optimization tool bizarrely recommends using Bing as the default search engine to 'repair' Windows 11",
-            "Category": "Search",
-            "Description": "Microsoft PC Manager recommends using Bing as the default search engine to \"repair\" your Windows device.",
-            "Link": "https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11"
+            "Title": "Publisher execs talk AI licensing deals, new applications for AI in latest earnings calls",
+            "Description": "Publicly-traded media companies touted new deals with generative AI tech companies and other new applications for the technology in their Q1 2024 earnings calls.",
+            "Link": "https://digiday.com/media/publisher-execs-talk-ai-licensing-deals-new-applications-for-ai-in-latest-earnings-calls/"
         },
         {
-            "Title": "Pushy Microsoft app wants you to \"repair\" your PC by switching to Bing",
-            "Category": "Search",
-            "Description": "The PC Manager app has been kicking around the Microsoft Store since late 2022, but it's an optional download and not something that comes pre-installed with Windows...",
-            "Link": "https://www.techspot.com/news/103042-pushy-microsoft-app-wants-you-repair-pc-switching.html"
-        },
-        {
-            "Title": "Two New Googlebots: GoogleOther-Image & GoogleOther-Video",
-            "Category": "Search",
-            "Description": "Google has added two new Googlebot user agents to its lineup: GoogleOther-Image and GoogleOther-Video.",
-            "Link": "https://www.seroundtable.com/googleother-image-and-googleother-video-37412.html"
-        },
-        {
-            "Title": "Google Locks Down Complaints Of Image Thumbnails Not Showing In Search",
-            "Category": "Search",
-            "Description": "Google has locked down the Google support thread with complaints about image thumbnails not showing in the search results, an ongoing issue for the past few months.",
-            "Link": "https://www.seroundtable.com/google-complaints-image-thumbnails-locked-37408.html"
-        },
-        {
-            "Title": "Google: Sites Hit By Helpful Content Update Could See Improvements With Next Core Update If...",
-            "Category": "Search",
-            "Description": "Google's John Mueller was asked when can a site expect to recover from the September 2023 helpful content update, assuming the site took all measures to \"fix\" their site.",
-            "Link": "https://www.seroundtable.com/google-helpful-content-update-recovery-if-37397.html"
-        },
-        {
-            "Title": "Is Service Areas A New Google Local Ranking Factor?",
-            "Category": "Search",
-            "Description": "A bunch of local SEOs are buzzing about a possible new local SEO Google ranking factor and are looking to confirm it.",
-            "Link": "https://www.seroundtable.com/new-google-local-ranking-factor-service-areas-37398.html"
-        },
-        {
-            "Title": "Google AdSense Will Not Change Minimum Reporting Thresholds",
-            "Category": "Paid Marketing",
-            "Description": "Google is not going to change the minimum reporting thresholds in Google AdSense.",
-            "Link": "https://www.seroundtable.com/google-adsense-will-not-change-minimum-reporting-thresholds-37383.html"
-        },
-        {
-            "Title": "Many Searchers Want To Turn Off Google AI Overviews",
-            "Category": "Search",
-            "Description": "Searchers are complaining in the Google Search help forums that they want to turn off the new Google AI Overviews.",
-            "Link": "https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html"
-        },
-        {
-            "Title": "Continued Heated Google Search Ranking Volatility Through May 16th",
-            "Category": "Search",
-            "Description": "The May 9th Google ranking volatility is super unusual to see such heated volatility for such a long period within the Google Search rankings.",
-            "Link": "https://www.seroundtable.com/continued-google-search-ranking-volatility-37406.html"
-        },
-        {
-            "Title": "Google Local Service Ads Tests Message Multiple Businesses",
-            "Category": "Paid Marketing",
-            "Description": "Google is testing a \"message multiple businesses\" button in the Google Local Service Ads search results.",
-            "Link": "https://www.seroundtable.com/google-local-service-ads-message-multiple-businesses-37400.html"
-        },
-        {
-            "Title": "OpenAI and Reddit partner to bring Reddit content to ChatGPT",
-            "Category": "AI",
-            "Description": "OpenAI and Reddit partner to bring Reddit content to ChatGPT and more via Reddit's Data API, bring new AI tools to Reddit, and make OpenAI a Reddit ad partner.",
-            "Link": "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/"
-        },
-        {
-            "Title": "EU tells Microsoft to provide information on GenAI risks in Bing search else face fine",
-            "Category": "AI",
-            "Description": "The European Commission on Friday directed Microsoft to provide more information about the generative AI (GenAI) features in its search engine Bing else face fine, as the tech giant failed to respond to a March 14 request for inputs regarding specific risks stemming from Bing's GenAI features.",
-            "Link": "https://www.lokmattimes.com/international/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-1/"
-        },
-        {
-            "Title": "Microsoft PC Manager App 'Repairs' Your System by Making Bing the Search Default",
-            "Category": "Search",
-            "Description": "PC Manager will sneakily try to change the Edge browser's default search to Bing if it's been set to a third-party search engine such as Google.",
-            "Link": "https://www.pcmag.com/news/microsoft-pc-manager-app-repairs-your-system-by-making-bing-the-search"
-        },
-        {
-            "Title": "Google adds two new Googlebot crawlers: GoogleOther-Image and GoogleOther-Video",
-            "Category": "Search",
-            "Description": "Google adds two new Googlebot crawlers: GoogleOther-Image and GoogleOther-Video",
-            "Link": "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-googleother-video-440547"
-        },
-        {
-            "Title": "AI Search Startup Adds Veterans of Google, Bing as Advisers",
-            "Category": "AI",
-            "Description": "Perplexity\u2019s new advisory board includes ex-executives from its biggest competitors.",
-            "Link": "https://www.bloomberg.com/news/articles/2024-05-16/ai-search-startup-perplexity-adds-veterans-of-google-bing-as-advisors"
-        },
-        {
-            "Title": "Netflix ads tier hits 40 million subscribers",
-            "Category": "Paid Marketing",
-            "Description": "Netflix says its ad tier has 40M MAUs, up from 23M in January 2024, and plans to launch its own ad platform and no longer partner with Microsoft for that tech",
-            "Link": "https://searchengineland.com/netflix-ads-tier-hits-40-million-subscribers-440549"
-        },
-        {
-            "Title": "TikTok tests 60-minute video uploads as it continues to take on YouTube",
-            "Category": "Social",
-            "Description": "TikTok tests 60-minute video uploads as it continues to take on YouTube",
-            "Link": "https://techcrunch.com/2024/05/16/tiktok-tests-60-minute-video-uploads-as-it-continues-to-take-on-youtube/"
-        },
-        {
-            "Title": "Women in Tech SEO Festival Returns to Philadelphia: A Day of Insightful Discussions Await",
-            "Category": "Search",
-            "Description": "PHILADELPHIA, PA \u2014 The highly anticipated Women in Tech SEO Festival is poised to make a grand return to Philadelphia on Thursday, September 19th, 2024. Organized by Women in Tech \u2026",
-            "Link": "https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/"
-        },
-        {
-            "Title": "EU demands clarity from Microsoft on AI risks in Bing",
-            "Category": "AI",
-            "Description": "The European Commission could fine Microsoft if it doesn't provide adequate information on risks stemming from generative AI features in search engine Bing by May 27.",
-            "Link": "https://www.reuters.com/technology/eu-demands-clarity-microsoft-ai-risks-bing-2024-05-17/"
+            "Title": "How Digitas North America\u2019s Leah Askew is looking to rein in the agency\u2019s programmatic supply sources",
+            "Description": "This year the agency plans to exit the programmatic open market and only purchase auction packages through PMP deals with a limited number of SSPs.",
+            "Link": "https://digiday.com/media-buying/how-digitas-north-americas-leah-askew-is-looking-to-rein-in-the-agencys-programmatic-supply-sources/"
         },
         {
             "Title": "Microsoft Rewards expands to all 7 continents with new streak restore and protection capabilities \u2014 Oh, you can learn a new language for free for using Bing on Edge, too",
-            "Category": "Search",
             "Description": "Microsoft Rewards expands to new regions with new daily streak bonus capabilities.",
             "Link": "https://www.windowscentral.com/software-apps/microsoft-rewards-expands-to-all-7-continents-with-new-streak-restore-and-protection-capabilities-oh-you-can-learn-a-new-language-for-free-for-using-bing-on-edge-too"
         },
         {
             "Title": "Google, GenAI and Search: How Marketers Can Prepare for the Changing SEO Landscape",
-            "Category": "Search",
             "Description": "How genAI is transforming the way we search, strategies that organizations can use to create LLM-friendly content and insights on how genAI will continue to transform the marketing landscape.",
             "Link": "https://chiefmarketer.com/google-genai-and-search-how-marketers-can-prepare-for-the-changing-seo-landscape/"
         },
         {
-            "Title": "Pi Datametrics, Lumar team up to unify technical & search intelligence",
-            "Category": "Search",
-            "Description": "Enterprise Search Intelligence and SEO platform Pi Datametrics announced a data exchange partnership with recognized leader in technical SEO solutions, Lumar",
-            "Link": "https://www.martechcube.com/pi-datametrics-lumar-team-up-to-unify-technical/"
-        },
-        {
-            "Title": "Securing Email Addresses for Abandoned Carts",
-            "Category": "Paid Marketing",
-            "Description": "A series of emails can often recover sales from abandoned carts, but only if a shopper provides an email address.",
-            "Link": "https://www.practicalecommerce.com/securing-email-addresses-for-abandoned-carts"
-        },
-        {
-            "Title": "Search Engine Marketing (SEM) Costs in 2024",
-            "Category": "Paid Marketing",
-            "Description": "Typical SEM costs include the cost of any tools or platforms you use, landing page development, employee salaries, Cost Per Click (CPC) payments, and any content creation costs.",
-            "Link": "https://influencermarketinghub.com/agency/digital-marketing/insights/search-engine-marketing-costs/"
-        },
-        {
-            "Title": "Microsoft faces multi-billion dollar fine in EU over Bing AI",
-            "Category": "AI",
-            "Description": "Microsoft faces a May 27 deadline to respond to a European Commission request for information concerning its Bing artificial intelligence services else it faces a multi-billion dollar fine.",
-            "Link": "https://cointelegraph.com/news/microsoft-billion-dollar-fine-eu-bing-artificial-intelligence-ai"
-        },
-        {
-            "Title": "Perplexity CEO calls Google\u2019s AI search a mess",
-            "Category": "AI",
-            "Description": "Perplexity CEO Aravind Srinivas: Google\u2019s AI search is a mess \u201cThat\u2019s what it looks like when you have an SGE answer. There\u2019s ads, there\u2019s panels, there\u2019s links, all sorts of things in one single UI; it\u2019s pretty complicated.\u201d",
-            "Link": "https://www.fastcompany.com/91118176/want-to-understand-the-future-of-search-look-to-perplexity-ai"
-        },
-        {
-            "Title": "OpenAI dissolves team focused on long-term AI risks",
-            "Category": "AI",
-            "Description": "OpenAI\u2019s Superalignment team, announced in 2023, has been working to achieve\u2026",
-            "Link": "https://twitter.com/glenngabe/status/1791810064803664115"
-        },
-        {
-            "Title": "Google AI Overviews inclusion are now visible in Semrush sensor",
-            "Category": "Search",
-            "Description": "Google AI Overviews inclusion are now visible in Semrush sensor, shown to be included only in 0.4% of the overall tracked desktop SERPs and 0.57% of mobile ones in the US.",
-            "Link": "https://twitter.com/aleyda/status/1792174722077106593"
-        },
-        {
-            "Title": "About 38% of webpages that existed in 2013 are unavailable now",
-            "Category": "Search",
-            "Description": "About 38% of webpages that existed in 2013 are unavailable now and 8% of pages from 2023 are unavailable; 23% of news pages have at least one broken link",
-            "Link": "https://twitter.com/glenngabe/status/1792167453293768890"
-        },
-        {
-            "Title": "Remove Your Content From Google's AI Overviews",
-            "Category": "Search",
-            "Description": "Google explained that 'preview controls' can be used to remove content from AI Overviews. These controls include nosnippet, noarchive, and unavailable_after.",
-            "Link": "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html"
-        },
-        {
-            "Title": "Reddit partners with OpenAI",
-            "Category": "AI",
-            "Description": "OpenAI and Reddit partner to bring Reddit content to ChatGPT and more via Reddit's Data API, bring new AI tools to Reddit, and make OpenAI a Reddit ad partner",
-            "Link": "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/"
-        },
-        {
-            "Title": "New tool to track your Google's AI Overviews Inclusion: ZipTie",
-            "Category": "Search",
-            "Description": "A new tool called ZipTie has been released that allows users to track their website's inclusion in Google's AI Overviews. The tool offers a 14-day free trial.",
-            "Link": "https://twitter.com/aleyda/status/1792241679312843229"
-        },
-        {
-            "Title": "Semrush Now Provides Data on Google AI Overviews Inclusion",
-            "Category": "Search",
-            "Description": "Semrush has started providing data on Google AI Overviews inclusion in its reporting and position tracking tool.",
-            "Link": "https://twitter.com/glenngabe/status/1792178115105431901"
-        },
-        {
-            "Title": "Perplexity CEO Calls Google\u2019s AI Search a Mess",
-            "Category": "AI",
-            "Description": "Perplexity CEO Aravind Srinivas has criticized Google's AI search, calling it a mess due to its complicated UI with ads, panels, and links.",
-            "Link": "https://twitter.com/glenngabe/status/1791824375785701450"
-        },
-        {
-            "Title": "LinkedIn's Collaborative Articles Impacted by Google's Helpful Content System",
-            "Category": "Search",
-            "Description": "LinkedIn's collaborative articles, which often begin with AI-generated content, have been negatively impacted by Google's helpful content system.",
-            "Link": "https://twitter.com/glenngabe/status/1791817597756862694"
-        },
-        {
-            "Title": "Slack Confirms Training Some AI-Powered Features on User Content",
-            "Category": "AI",
-            "Description": "Slack has confirmed that it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default.",
-            "Link": "https://twitter.com/glenngabe/status/1791496880335335543"
-        },
-        {
-            "Title": "Sony Music Issues Warnings to AI Companies Over Unauthorized Use of Content",
-            "Category": "AI",
-            "Description": "Sony Music has sent letters to over 700 AI companies, developers, and music streaming platforms warning them against the unauthorized use of Sony's content in training AI.",
-            "Link": "https://twitter.com/glenngabe/status/1791436286995120313"
-        },
-        {
-            "Title": "OpenAI and Reddit Partner to Bring Reddit Content to ChatGPT",
-            "Category": "AI",
-            "Description": "OpenAI and Reddit have partnered to bring Reddit content to ChatGPT and other AI tools. The partnership also includes making OpenAI a Reddit ad partner.",
-            "Link": "https://twitter.com/glenngabe/status/1791434166271193299"
-        },
-        {
-            "Title": "Google Adds Two New Googlebot Crawlers: GoogleOther-Image & GoogleOther-Video",
-            "Category": "Search",
-            "Description": "Google has added two new Googlebot crawlers: GoogleOther-Image and GoogleOther-Video. These crawlers are specifically designed for crawling images and videos.",
-            "Link": "https://twitter.com/rustybrick/status/1791428701911146821"
-        },
-        {
-            "Title": "Google Locks Down Support Thread on Image Thumbnails Not Showing in Search Results",
-            "Category": "Search",
-            "Description": "Google has locked down a support thread on its forum where users were complaining about image thumbnails not showing in search results. The company acknowledged the issue but said it couldn't reply to specifics.",
-            "Link": "https://twitter.com/rustybrick/status/1791426184930054468"
-        },
-        {
-            "Title": "Former Bing AI Head Joins Perplexity Advisory Board",
-            "Category": "AI",
-            "Description": "Mikhail Parakhin, the former head of Bing Search, AI, and Ads, has joined the advisory board of AI search engine Perplexity.",
-            "Link": "https://twitter.com/rustybrick/status/1791424675785957644"
-        },
-        {
-            "Title": "EU Gives Microsoft 10 Days to Provide Information on Bing's AI Risks or Face Fines",
-            "Category": "AI",
-            "Description": "The European Commission has given Microsoft 10 days to provide information on the risks associated with Bing's generative AI features or face fines of up to 6% of its global income.",
-            "Link": "https://mspoweruser.com/microsoft-has-10-days-to-give-information-eu-needs-to-assess-bings-ai-features-or-face-fines-up to-6-of-global-income/"
-        },
-        {
-            "Title": "Microsoft PC Manager App Recommends Using Bing as Default Search Engine",
-            "Category": "Search",
-            "Description": "Microsoft's PC Manager app is recommending users to switch to Bing as their default search engine as part of its system optimization recommendations.",
-            "Link": "https://betanews.com/2024/05/17/microsoft-pc-manager-utility-warns-windows-11-users-switching-from-bing-that-they-need-to-repair-their-pc/"
-        },
-        {
-            "Title": "Google Adds New AI Overviews Documentation to Search Console",
-            "Category": "Search",
-            "Description": "Google has added new documentation about AI Overviews to Google Search Console. The documentation explains when and why AI Overviews appear in search results.",
-            "Link": "https://twitter.com/aleyda/status/1791360324316356697"
-        },
-        {
-            "Title": "Google Ads AI Summaries Rolling Out to Advertisers",
-            "Category": "AI",
-            "Description": "Google Ads AI summaries, which provide summarized insights into campaign performance, are reportedly rolling out to advertisers.",
-            "Link": "https://twitter.com/rustybrick/status/1791340620981690466"
+            "Title": "AI Startup Perplexity Adds Ex-Uber and Bing Execs as Advisers",
+            "Description": "AI startup Perplexity has added three new advisers: Emil Michael, Rich Miner and Mikhail Parakhin, who come from Uber, Google and Bing.",
+            "Link": "https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/"
         }
     ],
-    "processed_urls": [
-        "https://www.cryptotimes.io/2024/05/19/microsoft-might-face-eu-probe-over-bing-ai-safety-concerns/",
-        "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/",
-        "https://www.searchenginejournal.com/google-reveals-two-new-web-crawlers/516658/",
-        "https://www.searchenginejournal.com/chatgpt-to-surface-reddit-content-via-partnership-with-openai/516605/",
-        "https://www.searchenginejournal.com/google-ads-restricts-brand-names-logos-from-ai-image-generation/516517/",
-        "https://www.searchenginejournal.com/google-hints-at-improving-site-rankings-in-next-update/516697/",
-        "https://www.cryptotimes.io/2024/05/19/microsoft-under-2-1-billion-fine-from-eu-over-bing-ai-risks/",
-        "https://www.msn.com/en-gb/money/technology/eu-commission-gives-microsoft-10-days-to-hand-over-bing-ai-documents/ar-BB1mznn2?ocid=finance-verthp-feeds",
-        "https://www.searchenginejournal.com/youtube-unveils-new-content-and-ad-offerings-at-brandcast/516466/",
-        "https://searchengineland.com/tiktok-testing-60-minute-video-uploads-440588",
-        "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-and-googleother-video-440573",
-        "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html",
-        "https://www.seroundtable.com/order-with-google-discontinued-37399.html",
-        "https://www.seroundtable.com/google-ads-ai-summaries-37410.html",
-        "https://www.tuko.co.ke/business-economy/technology/548719-eu-warns-microsoft-give-risk-data-bing-ai-face-fines/",
-        "https://www.siliconrepublic.com/business/microsoft-bing-eu-ai-dsa-uk-cma-mistral",
-        "https://seekingalpha.com/news/4107849-microsofts-bing-could-face-fine-in-eu-if-information-on-ai-risks-is-not-provided",
-        "https://www.politico.eu/article/microsoft-bing-receives-eu-order-over-suspected-violation-of-content-moderation-law-with-deepfakes/",
-        "https://www.moneycontrol.com/news/world/ai-search-startup-adds-veterans-of-google-bing-as-advisers-12724967.html",
-        "https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/",
-        "https://www.extremetech.com/computing/microsoft-pc-manager-app-fixes-your-pc-by-restoring-bing-as-the-default",
-        "https://www.geo.tv/latest/544553-microsoft-urges-people-to-improve-their-pcs-by-this",
-        "https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11",
-        "https://www.techspot.com/news/103042-pushy-microsoft-app-wants-you-repair-pc-switching.html",
-        "https://www.seroundtable.com/googleother-image-and-googleother-video-37412.html",
-        "https://www.seroundtable.com/google-complaints-image-thumbnails-locked-37408.html",
-        "https://www.seroundtable.com/google-helpful-content-update-recovery-if-37397.html",
-        "https://www.seroundtable.com/new-google-local-ranking-factor-service-areas-37398.html",
-        "https://www.seroundtable.com/google-adsense-will-not-change-minimum-reporting-thresholds-37383.html",
-        "https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html",
-        "https://www.seroundtable.com/continued-google-search-ranking-volatility-37406.html",
-        "https://www.seroundtable.com/google-local-service-ads-message-multiple-businesses-37400.html",
-        "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/",
-        "https://www.lokmattimes.com/international/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-1/",
-        "https://www.pcmag.com/news/microsoft-pc-manager-app-repairs-your-system-by-making-bing-the-search",
-        "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-googleother-video-440547",
-        "https://www.bloomberg.com/news/articles/2024-05-16/ai-search-startup-perplexity-adds-veterans-of-google-bing-as-advisors",
-        "https://searchengineland.com/netflix-ads-tier-hits-40-million-subscribers-440549",
-        "https://techcrunch.com/2024/05/16/tiktok-tests-60-minute-video-uploads-as-it-continues-to-take-on-youtube/",
-        "https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/",
-        "https://www.reuters.com/technology/eu-demands-clarity-microsoft-ai-risks-bing-2024-05-17/",
-        "https://www.windowscentral.com/software-apps/microsoft-rewards-expands-to-all-7-continents-with-new-streak-restore-and-protection-capabilities-oh-you-can-learn-a-new-language-for-free-for-using-bing-on-edge-too",
-        "https://chiefmarketer.com/google-genai-and-search-how-marketers-can-prepare-for-the-changing-seo-landscape/",
-        "https://www.martechcube.com/pi-datametrics-lumar-team-up-to-unify-technical/",
-        "https://www.practicalecommerce.com/securing-email-addresses-for-abandoned-carts",
-        "https://influencermarketinghub.com/agency/digital-marketing/insights/search-engine-marketing-costs/",
-        "https://cointelegraph.com/news/microsoft-billion-dollar-fine-eu-bing-artificial-intelligence-ai",
-        "https://www.fastcompany.com/91118176/want-to-understand-the-future-of-search-look-to-perplexity-ai",
-        "https://twitter.com/glenngabe/status/1791810064803664115",
+    "reviewed_urls": [
+        "https://twitter.com/aleyda/status/1792241679312843229",
+        "https://twitter.com/glenngabe/status/1792187509142704314",
+        "https://twitter.com/rustybrick/status/1792185984030765190",
+        "https://twitter.com/glenngabe/status/1792178115105431901",
         "https://twitter.com/aleyda/status/1792174722077106593",
         "https://twitter.com/glenngabe/status/1792167453293768890",
-        "https://www.seroundtable.com/remove-your-content-from-googles-ai-overviews-37409.html",
-        "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/",
-        "https://twitter.com/aleyda/status/1792241679312843229",
-        "https://twitter.com/glenngabe/status/1792178115105431901",
+        "https://twitter.com/rustybrick/status/1792161605817368661",
+        "https://twitter.com/rustybrick/status/1792160114834591929",
+        "https://www.practicalecommerce.com/securing-email-addresses-for-abandoned-carts",
+        "https://www.cryptotimes.io/2024/05/19/microsoft-might-face-eu-probe-over-bing-ai-safety-concerns/",
+        "https://www.cryptotimes.io/2024/05/19/microsoft-under-2-1-billion-fine-from-eu-over-bing-ai-risks/",
+        "https://twitter.com/bryanfcasey/status/1791966264467882241",
+        "https://twitter.com/aleyda/status/1791934110430097625",
+        "https://cointelegraph.com/news/microsoft-billion-dollar-fine-eu-bing-artificial-intelligence-ai",
+        "https://www.tradingview.com/news/cointelegraph:a6f8c800b094b:0-microsoft-faces-multi-billion-dollar-fine-in-eu-over-bing-ai/",
+        "https://twitter.com/SpencrGreenberg/status/1791861354913017979",
         "https://twitter.com/glenngabe/status/1791824375785701450",
+        "https://twitter.com/JohnMu/status/1791823865749856376",
         "https://twitter.com/glenngabe/status/1791817597756862694",
+        "https://twitter.com/aleyda/status/1791815572914635156",
+        "https://twitter.com/glenngabe/status/1791810064803664115",
+        "https://twitter.com/glenngabe/status/1791801932757049745",
+        "https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/",
+        "https://influencermarketinghub.com/agency/digital-marketing/insights/search-engine-marketing-costs/",
+        "https://www.digitaltrends.com/computing/microsoft-fixes-your-computer-pc-manager-cleanup/",
+        "https://twitter.com/aleyda/status/1791591781978497095",
+        "https://www.reuters.com/technology/eu-demands-clarity-microsoft-ai-risks-bing-2024-05-17/",
+        "https://cdn-4.dmnews.com/seo-harnesses-user-insights-for-effective-marketing/",
+        "https://twitter.com/rustybrick/status/1791562345178665374",
+        "https://twitter.com/rustybrick/status/1791544464483201184",
+        "https://twitter.com/rustybrick/status/1791540689450471450",
+        "https://www.ilounge.com/articles/unveiling-the-power-of-natural-language-processing-in-seo-strategies",
+        "https://twitter.com/rustybrick/status/1791536914727845939",
+        "https://twitter.com/rustybrick/status/1791533139732332611",
+        "https://siliconangle.com/2024/05/17/eu-asks-microsoft-provide-information-bings-generative-ai-features/",
+        "https://twitter.com/rustybrick/status/1791529365244625182",
+        "https://www.lokmattimes.com/international/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-1/",
+        "https://twitter.com/rustybrick/status/1791525589834187205",
+        "https://twitter.com/rustybrick/status/1791523073331495037",
+        "https://twitter.com/rustybrick/status/1791521814981792250",
+        "https://www.euractiv.com/section/digital/news/commission-compels-microsoft-to-provide-information-on-bing-and-generative-ai/",
+        "https://influencermarketinghub.com/agency/digital-marketing/insights/seo-vs-sem/",
+        "https://www.windowscentral.com/microsoft/microsoft-bing-is-under-the-eu-scrutiny-again-for-its-generative-ai-risks-on-electoral-processes-months-after-being-exempted-from-dma-regulation-for-not-being-dominant-enough",
         "https://twitter.com/glenngabe/status/1791496880335335543",
+        "https://mspoweruser.com/microsoft-has-10-days-to-give-information-eu-needs-to-assess-bings-ai-features-or-face-fines-up-to-6-of-global-income/",
+        "https://www.forbes.com/advisor/business/software/white-hat-seo/",
+        "https://www.geo.tv/latest/544553-microsoft-urges-people-to-improve-their-pcs-by-this",
+        "https://twitter.com/rustybrick/status/1791484067084681216",
+        "https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11",
+        "https://twitter.com/patrickstox/status/1791482070583111800",
+        "https://www.businesstoday.in/technology/news/story/alert-govt-issues-security-warning-for-microsoft-windows-microsoft-office-bing-browser-users-430020-2024-05-17",
+        "https://twitter.com/rustybrick/status/1791480291498008592",
+        "https://tech.hindustantimes.com/tech/news/eu-warns-microsoft-to-give-bing-ai-risk-data-or-face-fines-71715956017117.html",
+        "https://www.cmswire.com/the-wire/tekpon-announces-the-best-seo-software-for-businesses/",
+        "https://twitter.com/rustybrick/status/1791474401319268826",
+        "https://twitter.com/rustybrick/status/1791473210338222502",
+        "https://www.siliconrepublic.com/business/microsoft-bing-eu-ai-dsa-uk-cma-mistral",
+        "https://twitter.com/rustybrick/status/1791472741880648097",
+        "https://twitter.com/rustybrick/status/1791468967099519239",
+        "https://digiday.com/sponsored/how-marketers-are-rolling-out-cookieless-strategies-in-2024/",
+        "https://twitter.com/glenngabe/status/1791465759815651362",
+        "https://twitter.com/rustybrick/status/1791465291060252834",
+        "https://twitter.com/rustybrick/status/1791465192196653438",
+        "https://www.practicalecommerce.com/the-best-email-marketing-tells-a-story",
+        "https://www.latestly.com/quickly/technology/eu-tells-microsoft-to-givre-more-details-on-genai-risks-in-bing-search-engine-else-face-fine-5972092.html",
+        "https://www.latestly.com/technology/european-union-directs-microsoft-to-provide-more-information-on-generative-ai-features-in-its-search-engine-bing-or-face-fine-5972092.html",
+        "https://english.jagran.com/technology/centre-flags-vulnerabilities-in-microsoft-windows-office-and-bing-users-5-tips-to-be-safe-10161259",
+        "https://twitter.com/rustybrick/status/1791462675383243152",
+        "https://twitter.com/rustybrick/status/1791461417272406362",
+        "https://www.msn.com/en-gb/money/technology/eu-commission-gives-microsoft-10-days-to-hand-over-bing-ai-documents/ar-BB1mznn2?ocid=finance-verthp-feeds",
+        "https://zeenews.india.com/technology/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-2750151.html",
+        "https://www.yardbarker.com/entertainment/articles/the_20_funniest_chandler_bing_moments_on_friends/s1__39492887",
+        "https://searchengineland.com/navigating-ai-wars-winning-seo-strategies-for-brands-440564",
+        "https://twitter.com/glenngabe/status/1791443274093216076",
+        "https://twitter.com/glenngabe/status/1791441373960282234",
+        "https://www.extremetech.com/computing/microsoft-pc-manager-app-fixes-your-pc-by-restoring-bing-as-the-default",
+        "https://twitter.com/rustybrick/status/1791438697574850834",
+        "https://en.wenews.pk/eu-seeks-microsoft-clarity-on-ai-risks-in-bing/",
+        "https://www.techspot.com/news/103042-pushy-microsoft-app-wants-you-repair-pc-switching.html",
+        "https://twitter.com/glenngabe/status/1791437955438907662",
         "https://twitter.com/glenngabe/status/1791436286995120313",
+        "https://twitter.com/rustybrick/status/1791436251175735701",
+        "https://www.tuko.co.ke/business-economy/technology/548719-eu-warns-microsoft-give-risk-data-bing-ai-face-fines/",
+        "https://twitter.com/glenngabe/status/1791435523849900321",
+        "https://twitter.com/rustybrick/status/1791435302986223757",
         "https://twitter.com/glenngabe/status/1791434166271193299",
+        "https://twitter.com/rustybrick/status/1791433734614311078",
+        "https://www.politico.eu/article/microsoft-bing-receives-eu-order-over-suspected-violation-of-content-moderation-law-with-deepfakes/",
+        "https://twitter.com/rustybrick/status/1791431218304807075",
+        "https://seekingalpha.com/news/4107849-microsofts-bing-could-face-fine-in-eu-if-information-on-ai-risks-is-not-provided",
+        "https://twitter.com/rustybrick/status/1791428701911146821",
         "https://twitter.com/rustybrick/status/1791428701911146821",
         "https://twitter.com/rustybrick/status/1791426184930054468",
         "https://twitter.com/rustybrick/status/1791424675785957644",
-        "https://mspoweruser.com/microsoft-has-10-days-to-give-information-eu-needs-to-assess-bings-ai-features-or-face-fines-up to-6-of-global-income/",
+        "https://www.seroundtable.com/mikhail-parakhin-joins-perplexity-advisor-board-37411.html",
+        "https://twitter.com/rustybrick/status/1791423425820643335",
+        "https://www.saltwire.com/www.saltwire.com/halifax/business/eu-demands-clarity-from-microsoft-on-ai-risks-in-bing-100965907/",
+        "https://www.usnews.com/news/technology/articles/2024-05-17/eu-demands-clarity-from-microsoft-on-ai-risks-in-bing",
+        "https://www.laptopmag.com/software/browsers-search-engines/microsoft-tool-warns-of-issue-with-your-pc-or-laptop-its-not-using-bing",
+        "https://www.indiatoday.in/technology/news/story/govt-issues-security-warning-for-microsoft-windows-office-and-bing-users-2540349-2024-05-17",
+        "https://twitter.com/rustybrick/status/1791406742426788048",
+        "https://twitter.com/rustybrick/status/1791405643791786312",
+        "https://twitter.com/aleyda/status/1791398461499449689",
         "https://betanews.com/2024/05/17/microsoft-pc-manager-utility-warns-windows-11-users-switching-from-bing-that-they-need-to-repair-their-pc/",
+        "https://twitter.com/aleyda/status/1791370046641500274",
+        "https://pokde.net/system/software/operating-system/pc-manager-repair-bing",
         "https://twitter.com/aleyda/status/1791360324316356697",
-        "https://twitter.com/rustybrick/status/1791340620981690466"
+        "https://www.moneycontrol.com/news/world/ai-search-startup-adds-veterans-of-google-bing-as-advisers-12724967.html",
+        "https://twitter.com/brodieseo/status/1791353681792884980",
+        "https://twitter.com/rustybrick/status/1791340620981690466",
+        "https://digiday.com/media-buying/tv-networks-embrace-ai-at-the-upfronts-to-improve-audience-targeting-and-commerce/",
+        "https://digiday.com/media/transparency-shift-cmos-navigate-new-norms-in-agency-profit-models/",
+        "https://digiday.com/media/publisher-execs-talk-ai-licensing-deals-new-applications-for-ai-in-latest-earnings-calls/",
+        "https://digiday.com/media-buying/how-digitas-north-americas-leah-askew-is-looking-to-rein-in-the-agencys-programmatic-supply-sources/",
+        "https://digiday.com/podcasts/how-to-have-hard-conversations-as-a-manager-the-return-podcast-season-3-episode-4/",
+        "https://markets.businessinsider.com/news/stocks/calgary-content-marketing-for-naturopaths-seo-alternative-solutions-available-1033386060",
+        "https://twitter.com/rustybrick/status/1791242976745722039",
+        "https://www.windowscentral.com/software-apps/microsoft-rewards-expands-to-all-7-continents-with-new-streak-restore-and-protection-capabilities-oh-you-can-learn-a-new-language-for-free-for-using-bing-on-edge-too",
+        "https://chiefmarketer.com/google-genai-and-search-how-marketers-can-prepare-for-the-changing-seo-landscape/",
+        "https://twitter.com/rustybrick/status/1791234294662255099",
+        "https://twitter.com/rustybrick/status/1791233781237486073",
+        "https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/",
+        "https://twitter.com/rustybrick/status/1791210979948147181"
     ]
 }
