@@ -29,12 +29,12 @@ Articles to Review:
 {content}
 
 Output should be valid JSON with a list of story objects with the following keys:
-- Title (string): TItle of the story
+- Title (string): Title of the story. Escape any quotes in title value.
 - Category (string): Category of the story
-- Description (string): Description of the story
+- Description (string): Description of the story. Escape any quotes in description value.
 - Links (array of strings): List of links to pages that discuss the same story
 
-DO NOT use markdown formatting in your response; it will be interpreted as an error.
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
 
 Valid JSON:
 """
@@ -60,11 +60,11 @@ Content for review:
 {content}
 
 Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value.  The JSON should be an array of objects with the following keys:
-- Title (string): Title of the article
-- Description (string): Description of the article
+- Title (string): Title of the article. Escape any quotes in title value.
+- Description (string): Description of the article. Escape any quotes in description value.
 - Link (string): Link to the article
 
-DO NOT use markdown formatting in your response; it will be interpreted as an error.
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
 
 Valid JSON:
 """

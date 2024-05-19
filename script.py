@@ -96,15 +96,26 @@ def generate_content(prompt: str) -> dict | None:
     Returns:
     dict | None: Generated content in JSON format, or None if an error occurs.
     """
-    generation_config = {"temperature": 0.1, "max_output_tokens": 4000}
+    generation_config = {"temperature": 0.1, "max_output_tokens": 8192}
     model = genai.GenerativeModel(
         "gemini-1.5-pro-latest", generation_config=generation_config
     )
     response = model.generate_content(prompt)
 
     try:
-        return json.loads(re.sub(r"```(?:json)?\n|```", "", response.text))
-        
+        data = json.loads(re.sub(r"```(?:json)?\n|```", "", response.text))
+
+        if not isinstance(data, list):
+            logger.error(f"Invalid response from API")
+            # Send prompt to error log
+            save_generation_error("PROMPT: \n" + prompt)
+            # Send response to error log    
+            save_generation_error("RESPONSE: \n" + response.text)
+            return None
+
+        return data
+
+
     except json.JSONDecodeError as e:
 
         logger.error(f"JSON decode error: {e}")
@@ -179,6 +190,10 @@ def main() -> None:
         content=json.dumps(valid_articles, indent=2)
     )
     consolidated_data = generate_content(consolidate_prompt)
+
+    if not consolidated_data:
+        logger.error("Failed to generate consolidated data.")
+        return
 
     cache = {"valid_articles": valid_articles, "reviewed_urls": reviewed_urls}
     save_json(cache, json_filename)
