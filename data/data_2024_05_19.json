@@ -197,6 +197,48 @@
             "Category": "AI",
             "Description": "OpenAI and Reddit partner to bring Reddit content to ChatGPT and more via Reddit's Data API, bring new AI tools to Reddit, and make OpenAI a Reddit ad partner.",
             "Link": "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/"
+        },
+        {
+            "Title": "EU tells Microsoft to provide information on GenAI risks in Bing search else face fine",
+            "Category": "AI",
+            "Description": "The European Commission on Friday directed Microsoft to provide more information about the generative AI (GenAI) features in its search engine Bing else face fine, as the tech giant failed to respond to a March 14 request for inputs regarding specific risks stemming from Bing's GenAI features.",
+            "Link": "https://www.lokmattimes.com/international/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-1/"
+        },
+        {
+            "Title": "Microsoft PC Manager App 'Repairs' Your System by Making Bing the Search Default",
+            "Category": "Search",
+            "Description": "PC Manager will sneakily try to change the Edge browser's default search to Bing if it's been set to a third-party search engine such as Google.",
+            "Link": "https://www.pcmag.com/news/microsoft-pc-manager-app-repairs-your-system-by-making-bing-the-search"
+        },
+        {
+            "Title": "Google adds two new Googlebot crawlers: GoogleOther-Image and GoogleOther-Video",
+            "Category": "Search",
+            "Description": "Google adds two new Googlebot crawlers: GoogleOther-Image and GoogleOther-Video",
+            "Link": "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-googleother-video-440547"
+        },
+        {
+            "Title": "AI Search Startup Adds Veterans of Google, Bing as Advisers",
+            "Category": "AI",
+            "Description": "Perplexity\u2019s new advisory board includes ex-executives from its biggest competitors.",
+            "Link": "https://www.bloomberg.com/news/articles/2024-05-16/ai-search-startup-perplexity-adds-veterans-of-google-bing-as-advisors"
+        },
+        {
+            "Title": "Netflix ads tier hits 40 million subscribers",
+            "Category": "Paid Marketing",
+            "Description": "Netflix says its ad tier has 40M MAUs, up from 23M in January 2024, and plans to launch its own ad platform and no longer partner with Microsoft for that tech",
+            "Link": "https://searchengineland.com/netflix-ads-tier-hits-40-million-subscribers-440549"
+        },
+        {
+            "Title": "TikTok tests 60-minute video uploads as it continues to take on YouTube",
+            "Category": "Social",
+            "Description": "TikTok tests 60-minute video uploads as it continues to take on YouTube",
+            "Link": "https://techcrunch.com/2024/05/16/tiktok-tests-60-minute-video-uploads-as-it-continues-to-take-on-youtube/"
+        },
+        {
+            "Title": "Women in Tech SEO Festival Returns to Philadelphia: A Day of Insightful Discussions Await",
+            "Category": "Search",
+            "Description": "PHILADELPHIA, PA \u2014 The highly anticipated Women in Tech SEO Festival is poised to make a grand return to Philadelphia on Thursday, September 19th, 2024. Organized by Women in Tech \u2026",
+            "Link": "https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/"
         }
     ],
     "processed_urls": [
@@ -232,6 +274,13 @@
         "https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html",
         "https://www.seroundtable.com/continued-google-search-ranking-volatility-37406.html",
         "https://www.seroundtable.com/google-local-service-ads-message-multiple-businesses-37400.html",
-        "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/"
+        "https://www.reuters.com/markets/deals/openai-reddit-partner-bring-reddit-content-chatgpt-2024-05-16/",
+        "https://www.lokmattimes.com/international/eu-tells-microsoft-to-provide-information-on-genai-risks-in-bing-search-else-face-fine-1/",
+        "https://www.pcmag.com/news/microsoft-pc-manager-app-repairs-your-system-by-making-bing-the-search",
+        "https://searchengineland.com/google-adds-two-new-googlebot-crawlers-googleother-image-googleother-video-440547",
+        "https://www.bloomberg.com/news/articles/2024-05-16/ai-search-startup-perplexity-adds-veterans-of-google-bing-as-advisors",
+        "https://searchengineland.com/netflix-ads-tier-hits-40-million-subscribers-440549",
+        "https://techcrunch.com/2024/05/16/tiktok-tests-60-minute-video-uploads-as-it-continues-to-take-on-youtube/",
+        "https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/"
     ]
 }
