@@ -1,0 +1,47 @@
+Error occurred at 2024-05-19 21:28:06.573387: PROMPT: 
+Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet). 
+
+Filter out:
+* Promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+Content for review:
+@rustybrick: #imessage 💣
+2024-05-16
+
+Source: https://twitter.com/rustybrick/status/1791233781237486073
+--------------------
+AI Startup Perplexity Adds Ex-Uber and Bing Execs as Advisers
+2024-05-16
+AI startup Perplexity has added three new advisers: Emil Michael, Rich Miner and Mikhail Parakhin, who come from Uber, Google and Bing.
+Source: https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value.  The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article
+- Description (string): Description of the article
+- Link (string): Link to the article
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.
+
+Valid JSON:
+
+Error occurred at 2024-05-19 21:28:06.573770: RESPONSE: 
+```json
+[
+  {
+    "Title": "AI Startup Perplexity Adds Ex-Uber and Bing Execs as Advisers",
+    "Description": "AI startup Perplexity has added three new advisers: Emil Michael, Rich Miner and Mikhail Parakhin, who come from Uber, Google and Bing.",
+    "Link": "https://www.pymnts.com/personnel/2024/ai-startup-perplexity-adds-3-advisors-to-guide-companys-growth/"
+  }
+]
+```
