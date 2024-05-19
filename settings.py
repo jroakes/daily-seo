@@ -117,7 +117,16 @@ HTML_STYLE = """<style>
         }
         .sources a {
             color: #0277bd;
-            text-decoration: underline;
+            text-decoration: none;
+            position: relative;
+            padding-left: 20px;
+        }
+        .sources a::before {
+            content: '↗';
+            color: #fdd835;
+            position: absolute;
+            left: 0;
+            top: 0;
         }
         .container {
             max-width: 100%;
