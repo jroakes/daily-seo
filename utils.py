@@ -140,7 +140,6 @@ def load_json(filename: str) -> dict:
         return {}
 
 
-
 def save_generation_error(data: str):
     """
     Saves the provided error data to a log file.
@@ -165,4 +164,3 @@ def save_generation_error(data: str):
 
     except Exception as e:
         logger.error(f"Failed to save error data: {e}")
-

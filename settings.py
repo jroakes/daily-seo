@@ -70,8 +70,8 @@ Valid JSON:
 """
 
 DAYS_BACK = 3
-
 BATCH_SIZE = 30
+MODEL_NAME = "gemini-1.5-pro-latest"
 
 HTML_STYLE = """<style>
         body {

@@ -9,7 +9,14 @@ from loguru import logger
 from tqdm.auto import tqdm
 
 from utils import save_json, load_json, generate_html, save_html, save_generation_error
-from settings import REVIEW_PROMPT, CONSOLIDATE_PROMPT, FEEDS, DAYS_BACK, BATCH_SIZE
+from settings import (
+    REVIEW_PROMPT,
+    CONSOLIDATE_PROMPT,
+    FEEDS,
+    DAYS_BACK,
+    BATCH_SIZE,
+    MODEL_NAME,
+)
 
 load_dotenv()
 
@@ -97,9 +104,7 @@ def generate_content(prompt: str) -> dict | None:
     dict | None: Generated content in JSON format, or None if an error occurs.
     """
     generation_config = {"temperature": 0.1, "max_output_tokens": 8192}
-    model = genai.GenerativeModel(
-        "gemini-1.5-pro-latest", generation_config=generation_config
-    )
+    model = genai.GenerativeModel(MODEL_NAME, generation_config=generation_config)
     response = model.generate_content(prompt)
 
     try:
@@ -109,19 +114,18 @@ def generate_content(prompt: str) -> dict | None:
             logger.error(f"Invalid response from API")
             # Send prompt to error log
             save_generation_error("PROMPT: \n" + prompt)
-            # Send response to error log    
+            # Send response to error log
             save_generation_error("RESPONSE: \n" + response.text)
             return None
 
         return data
-
 
     except json.JSONDecodeError as e:
 
         logger.error(f"JSON decode error: {e}")
         # Send prompt to error log
         save_generation_error("PROMPT: \n" + prompt)
-        # Send response to error log    
+        # Send response to error log
         save_generation_error("RESPONSE: \n" + response.text)
 
     except ValueError as e:
@@ -136,7 +140,8 @@ def main() -> None:
     """
     logger.info("Starting the process...")
 
-    api_key = os.getenv("GOOGLE_API_KEY")
+    api_key = os.getenv("GOOGLE_API_KEY_2")
+
     if not api_key:
         logger.error(
             "Google API key not set. Please set the GOOGLE_API_KEY environment variable."
