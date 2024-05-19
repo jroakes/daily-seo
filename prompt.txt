@@ -11,20 +11,38 @@ Guidelines you must follow:
 
 
 Existing content:
-|    | Title                                                                                       | Category   |
-|---:|:--------------------------------------------------------------------------------------------|:-----------|
-|  0 | Microsoft faces multi-billion dollar fine in EU over Bing AI                                | AI         |
-|  1 | Perplexity CEO Aravind Srinivas: Google’s AI search is a mess                               | AI         |
-|  2 | Interesting: LinkedIn's collaborative articles got hammered in the fall of 2023             | SEO        |
-|  3 | OpenAI dissolves team focused on long-term AI risks, less than one year after announcing it | AI         |
-|  4 | Women in Tech SEO Festival Returns to Philadelphia: A Day of Insightful Discussions Await   | SEO        |
-|  5 | A healthy PC means using Bing, according to Microsoft                                       | Search     |
+
 
 New content for review:
+Google Hints At Improving Site Rankings In Next Update
+2024-05-18
+nan
+Source: https://www.searchenginejournal.com/google-hints-at-improving-site-rankings-in-next-update/516697/
+--------------------
+Google Hints At Improving Site Rankings In Next Update
+2024-05-18
+Google aims to better reward high-quality content sites in the next core update.
+Source: https://www.searchenginejournal.com/google-hints-at-improving-site-rankings-in-next-update/516697/
+--------------------
+Microsoft Might Face EU Probe Over Bing AI Safety Concerns
+2024-05-18
+EU Commission investigates Bing's AI for safety risks like deepfakes, and manipulation. Microsoft risks fines for non-compliance.
+Source: https://www.cryptotimes.io/2024/05/19/microsoft-might-face-eu-probe-over-bing-ai-safety-concerns/
+--------------------
+Microsoft Under $2.1 Billion Fine From EU Over Bing AI Risks
+2024-05-18
+Microsoft faces potential $2 billion fine from the EU over concerns about misinformation and manipulation risks from Bing's AI features like Copilot.
+Source: https://www.cryptotimes.io/2024/05/19/microsoft-under-2-1-billion-fine-from-eu-over-bing-ai-risks/
+--------------------
 @aleyda: Watching a full Mendizorroza stadium cheering, singing and jumping for @Alaves during almost the whole last match of the season at home, makes me realize how Football (soccer for Americans) has likely the biggest display of brand loyalty and community engagement around the world,…
 2024-05-18
 nan
 Source: https://twitter.com/aleyda/status/1791934110430097625
+--------------------
+Microsoft faces multi-billion dollar fine in EU over Bing AI
+2024-05-18
+Microsoft faces a May 27 deadline to respond to a European Commission request for information concerning its Bing artificial intelligence services else it faces a multi-billion dollar fine.
+Source: https://cointelegraph.com/news/microsoft-billion-dollar-fine-eu-bing-artificial-intelligence-ai
 --------------------
 @SpencrGreenberg: RT by @aleyda: 18) 🥈 Award for the 2nd best "self-improvement insight" goes to @JamesClear
 2024-05-18
@@ -41,20 +59,30 @@ Source: https://twitter.com/glenngabe/status/1791824375785701450
 nan
 Source: https://twitter.com/JohnMu/status/1791823865749856376
 --------------------
+@glenngabe: Interesting: LinkedIn's collaborative articles got hammered in the fall of 2023. Those articles begin with AI content and then users can add their own advice, recommendations, etc. over time. For many, it's just AI content... Well, the directory surged like crazy with the March…
+2024-05-18
+nan
+Source: https://twitter.com/glenngabe/status/1791817597756862694
+--------------------
 @aleyda: I'm finishing my #wtsfest presentation about "Advancing your SEO career" where I'll be sharing my top 10 tips based on my *own* professional journey... after hundreds of presentations, this is certainly my most "personal" one! It has given me the chance to reflect on all that has…
 2024-05-18
 nan
 Source: https://twitter.com/aleyda/status/1791815572914635156
+--------------------
+@glenngabe: For those scared about the dangers of AI, the world just got a little scarier (at least for now) -> OpenAI dissolves team focused on long-term AI risks, less than one year after announcing it "OpenAI’s Superalignment team, announced in 2023, has been working to achieve…
+2024-05-18
+nan
+Source: https://twitter.com/glenngabe/status/1791810064803664115
 --------------------
 @glenngabe: Yep, like I've been saying, Google's helpful content system was baked into core, and there are site-level algorithms that are at play with broad core updates. It's not as simple as saying "page-level" for assessing the helpfulness of content. And I'm also glad John explained…
 2024-05-18
 nan
 Source: https://twitter.com/glenngabe/status/1791801932757049745
 --------------------
-@aleyda: This is rather worrying to see 😐
-2024-05-17
-nan
-Source: https://twitter.com/aleyda/status/1791591781978497095
+Women in Tech SEO Festival Returns to Philadelphia: A Day of Insightful Discussions Await 
+2024-05-18
+PHILADELPHIA, PA — The highly anticipated Women in Tech SEO Festival is poised to make a grand return to Philadelphia on Thursday, September 19th, 2024. Organized by Women in Tech …
+Source: https://www.mychesco.com/a/news/regional/women-in-tech-seo-festival-returns-to-philadelphia-a-day-of-insightful-discussions-await/
 
 Output should be valid JSON with a list of objects with the following keys:
 - Title
