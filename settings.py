@@ -71,7 +71,7 @@ Valid JSON:
 
 DAYS_BACK = 3
 
-BATCH_SIZE = 50
+BATCH_SIZE = 30
 
 HTML_STYLE = """<style>
         body {

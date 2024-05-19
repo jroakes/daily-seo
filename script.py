@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from loguru import logger
 from tqdm.auto import tqdm
 
-from utils import save_json, load_json, generate_html, save_html
+from utils import save_json, load_json, generate_html, save_html, save_generation_error
 from settings import REVIEW_PROMPT, CONSOLIDATE_PROMPT, FEEDS, DAYS_BACK, BATCH_SIZE
 
 load_dotenv()
@@ -104,6 +104,7 @@ def generate_content(prompt: str) -> dict | None:
     try:
         return json.loads(response.text)
     except json.JSONDecodeError as e:
+        save_generation_error(response.text)
         logger.error(f"JSON decode error: {e}")
     except ValueError as e:
         logger.error(f"API Value error: {e}")

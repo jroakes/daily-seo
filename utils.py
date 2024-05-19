@@ -138,3 +138,23 @@ def load_json(filename: str) -> dict:
     else:
         logger.warning(f"JSON file {filename} does not exist.")
         return {}
+
+
+
+def save_generation_error(data: str):
+    """
+    Saves the provided error data to a log file.
+
+    Parameters:
+    data (str): The error data to be saved.
+    """
+
+    data = f"Error occurred at {datetime.now()}: {data}\n"
+
+    try:
+        with open("data/generation_error.log", "a") as file:
+            file.write(data)
+        logger.info("Error data saved to error.log.")
+    except Exception as e:
+        logger.error(f"Failed to save error data: {e}")
+
