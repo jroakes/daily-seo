@@ -140,7 +140,7 @@ def main() -> None:
     """
     logger.info("Starting the process...")
 
-    api_key = os.getenv("GOOGLE_API_KEY_2")
+    api_key = os.getenv("GOOGLE_API_KEY")
 
     if not api_key:
         logger.error(
