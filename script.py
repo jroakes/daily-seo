@@ -48,6 +48,7 @@ def get_and_filter_feeds(
     df = df[(df["Date"] >= before) & (df["Date"] <= now)]
     df = df.sort_values(by="Date", ascending=False).drop_duplicates()
     df["Date"] = df["Date"].dt.strftime("%Y-%m-%d")
+    df["Plain Description"] = df["Plain Description"].fillna("")
     df["Description"] = df["Description"].fillna(df["Plain Description"])
     df = df.drop(columns=["Plain Description"])
 
@@ -129,12 +130,15 @@ def main() -> None:
     # Limit existing_data_df to Title and Category
     if not existing_data_df.empty:
         existing_data_df = existing_data_df[["Title", "Category"]]
+        existing_data_df = existing_data_df.to_markdown()
+    else:
+        existing_data_df = "No existing data found."
 
     df = get_and_filter_feeds(FEEDS, processed_urls, days=DAYS_BACK)
     feed_text = format_df(df)
 
     formatted_prompt = PROMPT.format(
-        existing_data=existing_data_df.to_markdown(), content=feed_text
+        existing_data=existing_data_df, content=feed_text
     )
 
     # Log the formatted prompt to a file:

@@ -33,6 +33,7 @@ Guidelines you must follow:
 5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
 6. DO NOT repeat headlines covering the same event or news story. If the story is covered in the existing titles, omit it when reviewing new content.
 7. If different titles covering the same news item are found in the new content, pick only one.  NEVER output a new item that is covered in the existing content or prior in the new content.
+8. Prioritize newer content over older.  
 
 Existing content:
 {existing_data}
