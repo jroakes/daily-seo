@@ -1,7 +1,8 @@
 import os
 import json
 from datetime import datetime
-
+from loguru import logger
+from settings import HTML_STYLE
 
 def generate_html(data: list[dict], date: datetime) -> str:
     """
@@ -15,6 +16,7 @@ def generate_html(data: list[dict], date: datetime) -> str:
     str: Generated HTML content.
     """
     if not data:
+        logger.warning("No valid data to display.")
         return "<html><body><h1>No valid data to display</h1></html></body>"
 
     pretty_date = date.strftime("%B %d, %Y")
@@ -27,78 +29,7 @@ def generate_html(data: list[dict], date: datetime) -> str:
         <link rel="icon" href="/daily-seo-logo.png">
         <title>DailySEO Updates - {pretty_date}</title>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
-        <style>
-        body {{
-            background-color: #f5f5f5;
-            color: #333;
-        }}
-        nav {{
-            background-color: #333 !important;
-        }}
-        .brand-logo {{
-            font-size: 2rem;
-            font-weight: bold;
-            animation: throb 3s infinite;
-            background: linear-gradient(90deg, #ffeb3b, #fdd835);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }}
-        @keyframes throb {{
-            0%, 100% {{
-                opacity: 1;
-            }}
-            50% {{
-                opacity: 0.5;
-            }}
-        }}
-        .card {{
-            margin: 15px 0;
-            padding: 10px;
-        }}
-        .card-title {{
-            font-weight: bold;
-        }}
-        .card-content {{
-            color: #000;
-            padding: 10px;
-        }}
-        .card-action .btn {{
-            background-color: #0277bd;
-        }}
-        .container {{
-            max-width: 100%;
-        }}
-        h1 {{
-            color: #333;
-            margin-top: 40px;
-            text-align: center;
-            text-decoration: underline;
-            text-decoration-color: #fdd835;
-            margin-bottom: 10px;
-            text-underline-offset: 10px;
-        }}
-        .date {{
-            color: rgba(0, 0, 0, 0.6);
-            font-size: 2rem;
-            text-align: center;
-            margin-bottom: 60px;
-        }}
-        h2 {{
-            color: #0288d1;
-            margin-top: 40px;
-            font-size: 3rem;
-            text-decoration: underline;
-            text-decoration-style: dashed;
-            text-decoration-color: #fdd835;
-            text-underline-offset: 10px;
-        }}
-        footer {{
-            margin-top: 40px;
-            padding: 20px;
-            background-color: #e0e0e0;
-            text-align: center;
-        }}
-        </style>
+        {HTML_STYLE}
     </head>
     <body>
         <nav>
@@ -117,15 +48,19 @@ def generate_html(data: list[dict], date: datetime) -> str:
         html += '<div class="row">'
         for item in data:
             if item["Category"] == category:
+                sources = ''.join(
+                    f'<li><a href="{link}" target="_blank">Read on {link.split("/")[2]}</a></li>' for link in item['Links']
+                )
                 html += f"""
         <div class="col s12">
             <div class="card blue-grey lighten-4">
             <div class="card-content">
                 <span class="card-title">{item['Title']}</span>
                 <p>{item['Description']}</p>
-            </div>
-            <div class="card-action">
-                <a href="{item['Link']}" class="btn" target="_blank">Visit Source</a>
+                <h5>Sources:</h5>
+                <ul class="sources">
+                    {sources}
+                </ul>
             </div>
             </div>
         </div>
@@ -143,6 +78,7 @@ def generate_html(data: list[dict], date: datetime) -> str:
     </body>
     </html>
     """
+    logger.info("HTML content generated successfully.")
     return html
 
 
@@ -154,8 +90,12 @@ def save_html(html_content: str, filename: str = "docs/index.html") -> None:
     html_content (str): The HTML content to be saved.
     filename (str): The file name where the content will be saved (default is "docs/index.html").
     """
-    with open(filename, "w") as file:
-        file.write(html_content)
+    try:
+        with open(filename, "w") as file:
+            file.write(html_content)
+        logger.info(f"HTML content saved to {filename}.")
+    except Exception as e:
+        logger.error(f"Failed to save HTML content: {e}")
 
 
 def save_json(data: dict, filename: str) -> None:
@@ -166,8 +106,12 @@ def save_json(data: dict, filename: str) -> None:
     data (dict): The data to be saved.
     filename (str): The file name where the data will be saved.
     """
-    with open(filename, "w") as file:
-        json.dump(data, file, indent=4)
+    try:
+        with open(filename, "w") as file:
+            json.dump(data, file, indent=4)
+        logger.info(f"Data saved to JSON file {filename}.")
+    except Exception as e:
+        logger.error(f"Failed to save JSON data: {e}")
 
 
 def load_json(filename: str) -> dict:
@@ -181,6 +125,14 @@ def load_json(filename: str) -> dict:
     dict: Loaded data from the JSON file.
     """
     if os.path.exists(filename):
-        with open(filename, "r") as file:
-            return json.load(file)
-    return {}
+        try:
+            with open(filename, "r") as file:
+                data = json.load(file)
+            logger.info(f"Data loaded from JSON file {filename}.")
+            return data
+        except Exception as e:
+            logger.error(f"Failed to load JSON data: {e}")
+            return {}
+    else:
+        logger.warning(f"JSON file {filename} does not exist.")
+        return {}

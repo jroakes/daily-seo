@@ -4,12 +4,12 @@ import json
 from datetime import datetime, timedelta
 import os
 from dotenv import load_dotenv
+from loguru import logger
 
 from utils import save_json, load_json, generate_html, save_html
-from settings import PROMPT, FEEDS, DAYS_BACK
+from settings import REVIEW_PROMPT, CONSOLIDATE_PROMPT, FEEDS, DAYS_BACK, BATCH_SIZE
 
 load_dotenv()
-
 
 def configure_genai(api_key: str) -> None:
     """
@@ -21,40 +21,43 @@ def configure_genai(api_key: str) -> None:
     genai.configure(api_key=api_key)
 
 
-def get_and_filter_feeds(
-    feeds: list[str], processed_urls: list[str], days: int = 1
-) -> pd.DataFrame:
+def get_and_filter_feeds(feeds: list[str], reviewed_urls: list[str], days: int = 1) -> pd.DataFrame:
     """
-    Retrieves and filters feed data, excluding already processed URLs and limiting results to the specified number of days.
+    Retrieves and filters feed data, excluding already reviewed URLs and limiting results to the specified number of days.
 
     Parameters:
     feeds (list[str]): List of feed URLs.
-    processed_urls (list[str]): List of already processed URLs.
+    reviewed_urls (list[str]): List of already reviewed URLs.
     days (int): Number of days to filter data (default is 1).
 
     Returns:
     pd.DataFrame: Filtered DataFrame containing the feed data.
     """
+    logger.info("Reading and filtering feeds...")
     dfs = [pd.read_csv(feed) for feed in feeds]
     df = pd.concat(dfs)
-    df["Date"] = pd.to_datetime(df["Date"])
-
-    # Ensure 'Date' column is timezone-naive for comparison
-    df["Date"] = df["Date"].dt.tz_localize(None)
+    
+    df["Date"] = pd.to_datetime(df["Date"]).dt.tz_localize(None)
 
     now = datetime.now()
     before = now - timedelta(days=days)
-
     df = df[(df["Date"] >= before) & (df["Date"] <= now)]
+    
     df = df.sort_values(by="Date", ascending=False).drop_duplicates()
     df["Date"] = df["Date"].dt.strftime("%Y-%m-%d")
+    
     df["Plain Description"] = df["Plain Description"].fillna("")
     df["Description"] = df["Description"].fillna(df["Plain Description"])
     df = df.drop(columns=["Plain Description"])
 
-    # Filter out already processed URLs
-    df = df[~df["Link"].isin(processed_urls)]
+    df = df[~df["Link"].isin(reviewed_urls)]
+    df = df.drop_duplicates(subset=["Title", "Link"])
+    df = df[
+        df["Description"].str.strip().astype(bool) 
+        | df["Link"].str.contains("twitter.com|x.com")
+    ]
 
+    logger.info(f"Filtered {len(df)} articles from feeds.")
     return df
 
 
@@ -86,81 +89,76 @@ def generate_content(prompt: str) -> dict | None:
     dict | None: Generated content in JSON format, or None if an error occurs.
     """
     generation_config = {"temperature": 0.1, "max_output_tokens": 4000}
-    model = genai.GenerativeModel(
-        "gemini-1.5-pro-latest", generation_config=generation_config
-    )
+    model = genai.GenerativeModel("gemini-1.5-pro-latest", generation_config=generation_config)
     response = model.generate_content(prompt)
 
     try:
         return json.loads(response.text)
     except json.JSONDecodeError as e:
-        print("JSON decode error:", e)
-        return None
+        logger.error(f"JSON decode error: {e}")
+    except ValueError as e:
+        logger.error(f"API Value error: {e}")
+    
+    return None
 
 
 def main() -> None:
     """
     Main function to configure the AI, load and process feed data, generate new content, and save the output as HTML and JSON files.
     """
-    # API key should be set as an environment variable for security
+    logger.info("Starting the process...")
+
     api_key = os.getenv("GOOGLE_API_KEY")
     if not api_key:
-        raise ValueError(
-            "Google API key not set. Please set the GOOGLE_API_KEY environment variable."
-        )
+        logger.error("Google API key not set. Please set the GOOGLE_API_KEY environment variable.")
+        raise ValueError("Google API key not set. Please set the GOOGLE_API_KEY environment variable.")
 
     configure_genai(api_key)
 
-    # Load existing data and processed URLs for the day
     date = datetime.now()
     json_filename = f"data/data_{date.strftime('%Y_%m_%d')}.json"
 
-    # Check if the JSON file for today exists
     if os.path.exists(json_filename):
         cache = load_json(json_filename)
-        existing_data = cache.get("existing_data", [])
-        processed_urls = cache.get("processed_urls", [])
+        valid_articles = cache.get("valid_articles", [])
+        reviewed_urls = cache.get("reviewed_urls", [])
     else:
-        existing_data = []
-        processed_urls = []
+        valid_articles = []
+        reviewed_urls = []
 
-    existing_titles = {item["Title"] for item in existing_data}
-    existing_data_df = pd.DataFrame(existing_data)
+    reviewed_titles = {item["Title"] for item in valid_articles}
 
-    # Limit existing_data_df to Title and Category
-    if not existing_data_df.empty:
-        existing_data_df = existing_data_df[["Title", "Category"]]
-        existing_data_df = existing_data_df.to_markdown()
-    else:
-        existing_data_df = "No existing data found."
+    df = get_and_filter_feeds(FEEDS, reviewed_urls, days=DAYS_BACK)
 
-    df = get_and_filter_feeds(FEEDS, processed_urls, days=DAYS_BACK)
-    feed_text = format_df(df)
+    if df.empty:
+        logger.info("No new articles found. Exiting.")
+        return
 
-    formatted_prompt = PROMPT.format(
-        existing_data=existing_data_df, content=feed_text
-    )
+    reviewed_urls.extend(df["Link"].tolist())
 
-    # Log the formatted prompt to a file:
-    with open("prompt.txt", "w") as file:
-        file.write(formatted_prompt)
+    total_rows = len(df)
+    batches = [df[i:i + BATCH_SIZE] for i in range(0, total_rows, BATCH_SIZE)]
 
-    new_data = generate_content(formatted_prompt)
+    for batch in batches:
+        feed_text = format_df(batch)
+        review_prompt = REVIEW_PROMPT.format(content=feed_text)
+        reviewed_articles = generate_content(review_prompt)
 
-    # Append new items to the existing data
-    if new_data:
-        for item in new_data:
-            if item["Title"] not in existing_titles:
-                existing_data.append(item)
-                processed_urls.append(item["Link"])
+        if reviewed_articles:
+            for item in reviewed_articles:
+                if item["Title"] not in reviewed_titles:
+                    valid_articles.append(item)
 
-    # Save the updated data and processed URLs to the JSON file for today
-    cache = {"existing_data": existing_data, "processed_urls": processed_urls}
+    consolidate_prompt = CONSOLIDATE_PROMPT.format(content=json.dumps(valid_articles, indent=2))
+    consolidated_data = generate_content(consolidate_prompt)
+
+    cache = {"valid_articles": valid_articles, "reviewed_urls": reviewed_urls}
     save_json(cache, json_filename)
 
-    html_output = generate_html(existing_data, date)
+    html_output = generate_html(consolidated_data, date)
     save_html(html_output)
 
+    logger.info("Process completed successfully.")
 
 if __name__ == "__main__":
     main()

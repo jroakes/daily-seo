@@ -23,32 +23,137 @@ FEEDS = [
 ]
 
 
-PROMPT = """Please review the following new content and combine it into a concise list of unique news events, news stories, or important updates.
+CONSOLIDATE_PROMPT = """Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  These links MUST be covering the same news story.  Each story MUST have at least one source link.
 
-Guidelines you must follow:
-1. Ignore promotional and non-serious content. Keep only important news and events about respected companies.
-2. Only keep items relevant to digital marketing, including SEO, paid marketing, social, and the internet.
-3. The link must be a valid URL and come from the source provided in the content. DO NOT attepmt to guess a link URL.
-4. Do not include any markdown formatting in your response; it will be interpreted as an error.
-5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
-6. DO NOT repeat headlines covering the same event or news story. If the story is covered in the existing titles, omit it when reviewing new content.
-7. If different titles covering the same news item are found in the new content, pick only one.  NEVER output a new item that is covered in the existing content or prior in the new content.
-8. Prioritize newer content over older.  
-
-Existing content:
-{existing_data}
-
-New content for review:
+Articles to Review:
 {content}
 
-Output should be valid JSON with a list of objects with the following keys:
-- Title
-- Category
-- Description
-- Link
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): TItle of the story
+- Category (string): Category of the story
+- Description (string): Description of the story
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.
 
 Valid JSON:
 """
 
 
+REVIEW_PROMPT = """Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet). 
+
+Filter out:
+* Promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+Content for review:
+{content}
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value.  The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article
+- Description (string): Description of the article
+- Link (string): Link to the article
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.
+
+Valid JSON:
+"""
+
 DAYS_BACK = 3
+
+BATCH_SIZE = 50
+
+HTML_STYLE = """<style>
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        nav {
+            background-color: #333 !important;
+        }
+        .brand-logo {
+            font-size: 2rem;
+            font-weight: bold;
+            animation: throb 3s infinite;
+            background: linear-gradient(90deg, #ffeb3b, #fdd835);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        @keyframes throb {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.5;
+            }
+        }
+        .card {
+            margin: 15px 0;
+            padding: 10px;
+        }
+        .card-title {
+            font-weight: bold;
+        }
+        .card-content {
+            color: #000;
+            padding: 10px;
+        }
+        .sources {
+            list-style-type: none;
+            padding: 0;
+        }
+        .sources li {
+            margin-bottom: 5px;
+        }
+        .sources a {
+            color: #0277bd;
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 100%;
+        }
+        h1 {
+            color: #333;
+            margin-top: 40px;
+            text-align: center;
+            text-decoration: underline;
+            text-decoration-color: #fdd835;
+            margin-bottom: 10px;
+            text-underline-offset: 10px;
+        }
+        .date {
+            color: rgba(0, 0, 0, 0.6);
+            font-size: 2rem;
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        h2 {
+            color: #0288d1;
+            margin-top: 40px;
+            font-size: 3rem;
+            text-decoration: underline;
+            text-decoration-style: dashed;
+            text-decoration-color: #fdd835;
+            text-underline-offset: 10px;
+        }
+        h5 {
+            margin-top: 20px;
+            color: #333;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #e0e0e0;
+            text-align: center;
+        }
+        </style>"""
