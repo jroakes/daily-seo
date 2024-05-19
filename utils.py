@@ -50,7 +50,7 @@ def generate_html(data: list[dict], date: datetime) -> str:
         for item in data:
             if item["Category"] == category:
                 sources = "".join(
-                    f'<li><a href="{link}" target="_blank">↗ Read on {link.split("/")[2]}</a></li>'
+                    f'<li><a href="{link}" target="_blank">Read on {link.split("/")[2]}</a></li>'
                     for link in item["Links"]
                 )
                 html += f"""

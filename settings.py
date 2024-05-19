@@ -122,11 +122,11 @@ HTML_STYLE = """<style>
             padding-left: 20px;
         }
         .sources a::before {
-            content: '↗';
+            content: '→';
             color: #fdd835;
-            position: absolute;
-            left: 0;
-            top: 0;
+            margin-right: 10px;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
         }
         .container {
             max-width: 100%;
