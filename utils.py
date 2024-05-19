@@ -149,12 +149,20 @@ def save_generation_error(data: str):
     data (str): The error data to be saved.
     """
 
-    data = f"Error occurred at {datetime.now()}: {data}\n"
+    data = f"Error occurred at {datetime.now()}:\n{data}\n"
+    log_dir = "data"
+    log_file = "generation_error.log"
+    log_path = os.path.join(log_dir, log_file)
 
     try:
-        with open("data/generation_error.log", "a") as file:
+        # Ensure the directory exists
+        os.makedirs(log_dir, exist_ok=True)
+
+        # Open the file in append mode and write the data
+        with open(log_path, "a") as file:
             file.write(data)
-        logger.info("Error data saved to error.log.")
+        logger.info("Error data saved to generation_error.log.")
+
     except Exception as e:
         logger.error(f"Failed to save error data: {e}")
 
