@@ -32,8 +32,7 @@ Guidelines you must follow:
 4. Do not include any markdown formatting in your response; it will be interpreted as an error.
 5. Keep categories high-level and simple. Do not use multiple areas for the same category (e.g., "Search & AI"). Choose the best category.
 6. DO NOT repeat headlines covering the same event or news story. If the story is covered in the existing titles, omit it when reviewing new content.
-7. Only ouput new, unique, and relevant news events, stories, and updates in the required format. 
-
+7. If different titles covering the same news item are found in the new content, pick only one.  NEVER output a new item that is covered in the existing content or prior in the new content.
 
 Existing content:
 {existing_data}
@@ -49,3 +48,6 @@ Output should be valid JSON with a list of objects with the following keys:
 
 Valid JSON:
 """
+
+
+DAYS_BACK = 3

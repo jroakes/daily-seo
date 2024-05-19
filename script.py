@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 
 from utils import save_json, load_json, generate_html, save_html
-from settings import PROMPT, FEEDS
+from settings import PROMPT, FEEDS, DAYS_BACK
 
 load_dotenv()
 
@@ -130,7 +130,7 @@ def main() -> None:
     if not existing_data_df.empty:
         existing_data_df = existing_data_df[["Title", "Category"]]
 
-    df = get_and_filter_feeds(FEEDS, processed_urls)
+    df = get_and_filter_feeds(FEEDS, processed_urls, days=DAYS_BACK)
     feed_text = format_df(df)
 
     formatted_prompt = PROMPT.format(
