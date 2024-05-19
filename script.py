@@ -1,8 +1,9 @@
+import os
+import re
 import pandas as pd
 import google.generativeai as genai
 import json
 from datetime import datetime, timedelta
-import os
 from dotenv import load_dotenv
 from loguru import logger
 from tqdm.auto import tqdm
@@ -102,9 +103,10 @@ def generate_content(prompt: str) -> dict | None:
     response = model.generate_content(prompt)
 
     try:
-        return json.loads(response.text)
-    except json.JSONDecodeError as e:
+        return json.loads(re.sub(r"```(?:json)?\n|```", "", response.text))
         
+    except json.JSONDecodeError as e:
+
         logger.error(f"JSON decode error: {e}")
         # Send prompt to error log
         save_generation_error("PROMPT: \n" + prompt)
