@@ -4,6 +4,7 @@ from datetime import datetime
 from loguru import logger
 from settings import HTML_STYLE
 
+
 def generate_html(data: list[dict], date: datetime) -> str:
     """
     Generates an HTML string based on the provided data and date.
@@ -48,8 +49,9 @@ def generate_html(data: list[dict], date: datetime) -> str:
         html += '<div class="row">'
         for item in data:
             if item["Category"] == category:
-                sources = ''.join(
-                    f'<li><a href="{link}" target="_blank">Read on {link.split("/")[2]}</a></li>' for link in item['Links']
+                sources = "".join(
+                    f'<li><a href="{link}" target="_blank">Read on {link.split("/")[2]}</a></li>'
+                    for link in item["Links"]
                 )
                 html += f"""
         <div class="col s12">

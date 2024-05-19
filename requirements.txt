@@ -2,6 +2,7 @@
 pip
 autopep8
 black
+loguru
 
 # App
 pandas

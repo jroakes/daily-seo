@@ -11,6 +11,7 @@ from settings import REVIEW_PROMPT, CONSOLIDATE_PROMPT, FEEDS, DAYS_BACK, BATCH_
 
 load_dotenv()
 
+
 def configure_genai(api_key: str) -> None:
     """
     Configures the Google Generative AI with the provided API key.
@@ -21,7 +22,9 @@ def configure_genai(api_key: str) -> None:
     genai.configure(api_key=api_key)
 
 
-def get_and_filter_feeds(feeds: list[str], reviewed_urls: list[str], days: int = 1) -> pd.DataFrame:
+def get_and_filter_feeds(
+    feeds: list[str], reviewed_urls: list[str], days: int = 1
+) -> pd.DataFrame:
     """
     Retrieves and filters feed data, excluding already reviewed URLs and limiting results to the specified number of days.
 
@@ -36,16 +39,16 @@ def get_and_filter_feeds(feeds: list[str], reviewed_urls: list[str], days: int =
     logger.info("Reading and filtering feeds...")
     dfs = [pd.read_csv(feed) for feed in feeds]
     df = pd.concat(dfs)
-    
+
     df["Date"] = pd.to_datetime(df["Date"]).dt.tz_localize(None)
 
     now = datetime.now()
     before = now - timedelta(days=days)
     df = df[(df["Date"] >= before) & (df["Date"] <= now)]
-    
+
     df = df.sort_values(by="Date", ascending=False).drop_duplicates()
     df["Date"] = df["Date"].dt.strftime("%Y-%m-%d")
-    
+
     df["Plain Description"] = df["Plain Description"].fillna("")
     df["Description"] = df["Description"].fillna(df["Plain Description"])
     df = df.drop(columns=["Plain Description"])
@@ -53,7 +56,7 @@ def get_and_filter_feeds(feeds: list[str], reviewed_urls: list[str], days: int =
     df = df[~df["Link"].isin(reviewed_urls)]
     df = df.drop_duplicates(subset=["Title", "Link"])
     df = df[
-        df["Description"].str.strip().astype(bool) 
+        df["Description"].str.strip().astype(bool)
         | df["Link"].str.contains("twitter.com|x.com")
     ]
 
@@ -89,7 +92,9 @@ def generate_content(prompt: str) -> dict | None:
     dict | None: Generated content in JSON format, or None if an error occurs.
     """
     generation_config = {"temperature": 0.1, "max_output_tokens": 4000}
-    model = genai.GenerativeModel("gemini-1.5-pro-latest", generation_config=generation_config)
+    model = genai.GenerativeModel(
+        "gemini-1.5-pro-latest", generation_config=generation_config
+    )
     response = model.generate_content(prompt)
 
     try:
@@ -98,7 +103,7 @@ def generate_content(prompt: str) -> dict | None:
         logger.error(f"JSON decode error: {e}")
     except ValueError as e:
         logger.error(f"API Value error: {e}")
-    
+
     return None
 
 
@@ -110,8 +115,12 @@ def main() -> None:
 
     api_key = os.getenv("GOOGLE_API_KEY")
     if not api_key:
-        logger.error("Google API key not set. Please set the GOOGLE_API_KEY environment variable.")
-        raise ValueError("Google API key not set. Please set the GOOGLE_API_KEY environment variable.")
+        logger.error(
+            "Google API key not set. Please set the GOOGLE_API_KEY environment variable."
+        )
+        raise ValueError(
+            "Google API key not set. Please set the GOOGLE_API_KEY environment variable."
+        )
 
     configure_genai(api_key)
 
@@ -137,7 +146,7 @@ def main() -> None:
     reviewed_urls.extend(df["Link"].tolist())
 
     total_rows = len(df)
-    batches = [df[i:i + BATCH_SIZE] for i in range(0, total_rows, BATCH_SIZE)]
+    batches = [df[i : i + BATCH_SIZE] for i in range(0, total_rows, BATCH_SIZE)]
 
     for batch in batches:
         feed_text = format_df(batch)
@@ -149,7 +158,9 @@ def main() -> None:
                 if item["Title"] not in reviewed_titles:
                     valid_articles.append(item)
 
-    consolidate_prompt = CONSOLIDATE_PROMPT.format(content=json.dumps(valid_articles, indent=2))
+    consolidate_prompt = CONSOLIDATE_PROMPT.format(
+        content=json.dumps(valid_articles, indent=2)
+    )
     consolidated_data = generate_content(consolidate_prompt)
 
     cache = {"valid_articles": valid_articles, "reviewed_urls": reviewed_urls}
@@ -159,6 +170,7 @@ def main() -> None:
     save_html(html_output)
 
     logger.info("Process completed successfully.")
+
 
 if __name__ == "__main__":
     main()
