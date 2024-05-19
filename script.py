@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 import os
 from dotenv import load_dotenv
 from loguru import logger
+from tqdm.auto import tqdm
 
 from utils import save_json, load_json, generate_html, save_html
 from settings import REVIEW_PROMPT, CONSOLIDATE_PROMPT, FEEDS, DAYS_BACK, BATCH_SIZE
@@ -51,6 +52,9 @@ def get_and_filter_feeds(
 
     df["Plain Description"] = df["Plain Description"].fillna("")
     df["Description"] = df["Description"].fillna(df["Plain Description"])
+
+    # Limit description to reasonable length
+    df["Description"] = df["Description"].str[:1000]
     df = df.drop(columns=["Plain Description"])
 
     df = df[~df["Link"].isin(reviewed_urls)]
@@ -148,7 +152,7 @@ def main() -> None:
     total_rows = len(df)
     batches = [df[i : i + BATCH_SIZE] for i in range(0, total_rows, BATCH_SIZE)]
 
-    for batch in batches:
+    for batch in tqdm(batches, desc="Processing batches", total=len(batches)):
         feed_text = format_df(batch)
         review_prompt = REVIEW_PROMPT.format(content=feed_text)
         reviewed_articles = generate_content(review_prompt)
@@ -157,6 +161,11 @@ def main() -> None:
             for item in reviewed_articles:
                 if item["Title"] not in reviewed_titles:
                     valid_articles.append(item)
+
+    # Check if any articles were found
+    if not valid_articles:
+        logger.info("No valid articles found. Exiting.")
+        return
 
     consolidate_prompt = CONSOLIDATE_PROMPT.format(
         content=json.dumps(valid_articles, indent=2)
