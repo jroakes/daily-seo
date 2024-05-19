@@ -104,8 +104,13 @@ def generate_content(prompt: str) -> dict | None:
     try:
         return json.loads(response.text)
     except json.JSONDecodeError as e:
-        save_generation_error(response.text)
+        
         logger.error(f"JSON decode error: {e}")
+        # Send prompt to error log
+        save_generation_error("PROMPT: \n" + prompt)
+        # Send response to error log    
+        save_generation_error("RESPONSE: \n" + response.text)
+
     except ValueError as e:
         logger.error(f"API Value error: {e}")
 
