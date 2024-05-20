@@ -23,6 +23,12 @@ FEEDS = [
 ]
 
 
+DAYS_BACK = 3
+BATCH_SIZE = 30
+MODEL_NAME = "gemini-1.5-pro-latest"
+
+
+
 CONSOLIDATE_PROMPT = """Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
 
 Articles to Review:
@@ -40,7 +46,7 @@ Valid JSON:
 """
 
 
-REVIEW_PROMPT = """Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet). 
+REVIEW_PROMPT = """Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
 
 Filter out:
 * Promotional content (press releases, product announcements, company-specific achievements)
@@ -56,24 +62,21 @@ Examples of News Content to Keep:
 * "Google updates its search ranking algorithm with a focus on Core Web Vitals."
 * "Facebook announces changes to its advertising policies regarding political content."
 
-DO NOT attempt to guess link URLs.  Only use the provided links and do not attempt to infer them from the titles or descriptions.
+IMPORTANT: DO NOT attempt to guess link URLs. Only use the provided links and do not attempt to infer them from the titles or descriptions.
 
 Content for review:
 {content}
 
-Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value.  The JSON should be an array of objects with the following keys:
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value. The JSON should be an array of objects with the following keys:
 - Title (string): Title of the article. Escape any quotes in title value.
 - Description (string): Description of the article. Escape any quotes in description value.
-- Link (string): Link to the content.
+- Link (string): Link to the content. Only use provided links; do not guess or infer URLs.
 
-DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+DO NOT use markdown formatting in your response; it will be interpreted as an error. Ensure that you escape any quotes found within JSON values.
 
 Valid JSON:
 """
 
-DAYS_BACK = 3
-BATCH_SIZE = 30
-MODEL_NAME = "gemini-1.5-pro-latest"
 
 HTML_STYLE = """<style>
         body {
