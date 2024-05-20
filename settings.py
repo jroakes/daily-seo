@@ -49,7 +49,7 @@ Valid JSON:
 REVIEW_PROMPT = """Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
 
 Filter out:
-* Promotional content (press releases, product announcements, company-specific achievements)
+* Self-promotional content (press releases, product announcements, company-specific achievements)
 * Non-serious content
 * Content not relevant to digital marketing
 * Articles or Posts with missing or incomplete information
@@ -62,7 +62,7 @@ Examples of News Content to Keep:
 * "Google updates its search ranking algorithm with a focus on Core Web Vitals."
 * "Facebook announces changes to its advertising policies regarding political content."
 
-IMPORTANT: DO NOT attempt to guess link URLs. Only use the provided links and do not attempt to infer them from the titles or descriptions.
+IMPORTANT: Only use the FULL provided Source as the link for each item.  DO NOT use any other links
 
 Content for review:
 {content}

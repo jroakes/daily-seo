@@ -186,6 +186,11 @@ def main() -> None:
                 if item["Title"] not in reviewed_titles:
                     valid_articles.append(item)
 
+    # Review valid_articles and only keep ones where the Link is in reviewed_urls
+    valid_articles = [
+        item for item in valid_articles if item["Link"] in reviewed_urls
+    ]
+
     # Check if any articles were found
     if not valid_articles:
         logger.info("No valid articles found. Exiting.")
