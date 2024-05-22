@@ -1995,3 +1995,553 @@ Error occurred at 2024-05-21 12:04:37.050808:
 RESPONSE: 
 {"stories": [{"Title": "Google AI Overviews", "Category": "Search Engine Optimization", "Description": "Google has been rolling out AI Overviews in its search results since last week and more and more searchers are super unhappy that there is no way to turn off the AI Overviews. ", "Links": ["https://twitter.com/rustybrick/status/1792639033442497021", "https://twitter.com/aleyda/status/1792636023966421377", "https://www.seroundtable.com/bing-lets-you-turn-off-ai-copilot-responses-in-search-37415.html"]}, {"Title": "Google Notes on Search", "Category": "Search Engine Optimization", "Description": "ICYMI: Google Notes on Search within Labs \"ends soon\"", "Links": ["https://twitter.com/rustybrick/status/1792616528543695147", "https://twitter.com/rustybrick/status/1792620303555633295", "https://twitter.com/glenngabe/status/1792533493047517583"]}, {"Title": "Google Core Update", "Category": "Search Engine Optimization", "Description": "Google is looking to update ranking algorithms to surface more content where sites have taken helpfulness to heart says @JohnMu", "Links": ["https://twitter.com/rustybrick/status/1792627852938027499", "https://www.seroundtable.com/google-improving-helpful-content-in-search-37417.html", "https://www.searchenginejournal.com/google-hints-at-improving-site-rankings-in-next-update/516697/"]}, {"Title": "Google and AI", "Category": "Artificial Intelligence", "Description": "Google CEO downplays concerns over AI search impacting website traffic, claims it drives more engagement.", "Links": ["https://www.searchenginejournal.com/google-ceo-addresses-concerns-over-ais-impact-on-search-traffic/516842/", "https://twitter.com/glenngabe/status/1792572655423381699", "https://twitter.com/aleyda/status/1792779776052089141"]}, {"Title": "Bing AI", "Category": "Artificial Intelligence", "Description": "EU Commission investigates Bing's AI for safety risks like deepfakes, and manipulation. Microsoft risks fines for non-compliance.", "Links": ["https://www.androidheadlines.com/2024/05/eu-asks-microsoft-for-information-about-risks-associated-with-bing-ai.html", "https://www.cryptotimes.io/2024/05/19/microsoft-might-face-eu-probe-over-bing-ai-safety-concerns/", "https://www.cryptotimes.io/2024/05/19/microsoft-under-2-1-billion-fine-from-eu-over-bing-ai-risks/"]}, {"Title": "ChatGPT Mobile App Revenue", "Category": "Artificial Intelligence", "Description": "$4.2M in net revenue from 5/13 to 5/17 -> ChatGPT\u2019s mobile app revenue saw biggest spike yet following GPT-4o launch \"On Tuesday, net revenue was up to $900,000, nearly twice that of the app\u2019s daily average of $491,000. (The net revenue figure is calculated after Apple and\u2026", "Links": ["https://twitter.com/glenngabe/status/1792598324224168089"]}, {"Title": "Digital Decay", "Category": "Internet", "Description": "Pew Research Center study reveals widespread digital decay: 38% webpages, government links, tweets vanish within years.", "Links": ["https://www.searchenginejournal.com/38-of-webpages-from-2013-have-vanished-pew-study-finds/516834/", "https://twitter.com/glenngabe/status/1792187509142704314", "https://twitter.com/glenngabe/status/1792167453293768890"]}, {"Title": "Pinterest Advertising", "Category": "Advertising", "Description": "Esta historia fue reportada por primera vez en\u00a0Modern Retail\u00a0una publicaci\u00f3n hermana de Digiday en Espa\u00f1ol. Algunas marcas est\u00e1n volviendo a incluir Pinterest en sus presupuestos publicitarios a medida que la red social intensifica su impulso de las compras en l\u00ednea. \u201cPinterest est\u00e1 renaciendo\u201d, afirma Jack Johnston, director de innovaci\u00f3n social de Tinuiti. \u201cLo que estamos [\u2026]", "Links": ["https://digiday.com/es/las-marcas-le-hacen-espacio-a-pinterest-en-sus-presupuestos-publicitarios/"]}]}
 
+Error occurred at 2024-05-22 04:06:27.858966:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "WordPress 6.5 Enhances SEO With 'Lastmod' Support",
+    "Description": "WordPress 6.5 introduces native lastmod support, improving crawl efficiency for search engines.",
+    "Link": "https://www.searchenginejournal.com/wordpress-6-5-enhances-seo-with-lastmod-support/517013/"
+  },
+  {
+    "Title": "Google's algorithm updates hint positive changes for SEO",
+    "Description": "Explore how Google's recent algorithm updates could bolster SEO strategies, shedding light on improvements in search optimization and user experience.",
+    "Link": "https://www.dmnews.com/googles-algorithm-updates-hint-positive-changes-for-seo/"
+  },
+  {
+    "Title": "Boost Business Visibility with Local SEO: Don't Be Invisible to Potential Customers for Online Searches",
+    "Description": "Image https www getnews info wp content uploads 2024 05 1715998592 png John Local SEO A new study highlights the growing importance of local search engines for finding businesses products and services A unified multi channel strategy is essential encompassing ...",
+    "Link": "https://www.openpr.com/news/3506765/boost-business-visibility-with-local-seo-don-t-be-invisible"
+  },
+  {
+    "Title": "Google announces a new visual brand profile right in Search that gives richer results for branded shopping queries",
+    "Description": "Like a knowledge panel, but from a merchant perspective -> Google announces a new visual brand profile right in Search that gives richer results for branded shopping queries \"Your profile will spotlight engaging product and brand imagery, videos and customer reviews. Plus, we\u2019ll\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1793001194685681878"
+  },
+  {
+    "Title": "Sundar Pichai on the web dying (again), Google killing small publishers, Search Console data on clicks for AI Overviews and much more",
+    "Description": "ICYMI: Sundar Pichai on the web dying (again), Google killing small publishers, Search Console data on clicks for AI Overviews and much more seroundtable.com/sundar-pichai-\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792986466022502904"
+  },
+  {
+    "Title": "Google Search \"about this\" source knowledge snippet panel now graphical",
+    "Description": "ICYMI: Google Search \"about this\" source knowledge snippet panel now graphical seroundtable.com/google-about-s\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792982691178225758"
+  },
+  {
+    "Title": "Google AI Overviews colors are unrelated to the confidence of the responses",
+    "Description": "ICYMI: Google AI Overviews colors are unrelated to the confidence of the responses seroundtable.com/colors-of-goog\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792978916728287317"
+  },
+  {
+    "Title": "Google rolling out a more graphical and richer search results interface over coming weeks",
+    "Description": "ICYMI: Google rolling out a more graphical and richer search results interface over coming weeks bringing links, facts and AI Overviews to Google Lens and Circle to Search seroundtable.com/google-more-gr\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792975141401444792"
+  },
+  {
+    "Title": "Google rolls out immersive, AI-powered Shopping Ads",
+    "Description": "Here's a rundown of some of the latest AI ad announcements. Google has been busy :) -> Google rolls out immersive, AI-powered Shopping Ads 3 gifs below of: *video-powered search ads *virtual try-on expansion *3D product ads (starting with shoes) searchengineland.com/google-rolls-o\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792967022302703744"
+  },
+  {
+    "Title": "Google plans to test search and shopping ads in its AI Overviews, drawing from advertisers' existing campaigns",
+    "Description": "Yep, I saw a similar ad unit tested several months ago and shared about it -> Google plans to test search and shopping ads in its AI Overviews, drawing from advertisers' existing campaigns; AI Overviews rolled out to US users last week \"How it works. When an ad is deemed\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792962846608753023"
+  },
+  {
+    "Title": "Insider Tips: Kai Cromwell's Top 10 SEO Strategies for Google Domination Unveiled",
+    "Description": "Simple websites can rank on Google's first page; complex themes aren't necessary, per Cromwell's findings.",
+    "Link": "https://www.digitalinformationworld.com/2024/05/insider-tips-kai-cromwells-top-10-seo.html"
+  },
+  {
+    "Title": "Don\u2019t Call It A Comeback: The Reinvention Of Search Engine Marketing",
+    "Description": "For decades, search engine marketing was considered \u201cboring\u201d or \u201calready figured out.\u201d But no more. With the rise of generative AI software and major changes to search platforms even in just the past year or two, SEO and SEM tactics are back. Everyone and their mother is trying to figure out how to make search [\u2026]",
+    "Link": "https://www.adexchanger.com/adexchanger-talks/dont-call-it-a-comeback-the-reinvention-of-search-engine-marketing/"
+  },
+  {
+    "Title": "Google's site reputation abuse policy also applies to Google Discover",
+    "Description": "Google's site reputation abuse policy also applies to Google Discover seroundtable.com/site-reputatio\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792929842712993918"
+  },
+  {
+    "Title": "Sundar Pichai on the web dying (again), Google killing small publishers, Search Console data on clicks for AI Overviews and much more",
+    "Description": "Sundar Pichai on the web dying (again), Google killing small publishers, Search Console data on clicks for AI Overviews and much more seroundtable.com/sundar-pichai-\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792926068049088645"
+  },
+  {
+    "Title": "Google Search \"about this\" source knowledge snippet panel now graphical",
+    "Description": "Google Search \"about this\" source knowledge snippet panel now graphical seroundtable.com/google-about-s\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792922293007732814"
+  },
+  {
+    "Title": "Google AI Overviews colors are unrelated to the confidence of the responses",
+    "Description": "Google AI Overviews colors are unrelated to the confidence of the responses seroundtable.com/colors-of-goog\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792918518364786693"
+  },
+  {
+    "Title": "Google Has No Search Setting For Turning AI Overviews Off But You Can Get Rid Of AI Replies On Bing",
+    "Description": "Microsoft capitalizes on Google's AI Overviews controversy, allowing Bing users to disable AI replies effortlessly.",
+    "Link": "https://www.digitalinformationworld.com/2024/05/google-has-no-search-setting-for.html"
+  },
+  {
+    "Title": "Google updates Discover with new site rep abuse policy",
+    "Description": "Google has updated its Discover platform with a new site rep abuse policy, extending the existing policy from Search. The update aims to maintain a safe and trustworthy user experience on Discover.",
+    "Link": "https://twitter.com/glenngabe/status/1792906470033408441"
+  },
+  {
+    "Title": "Google Lens and Circle to Search get more graphical results interface",
+    "Description": "Google Lens and Circle to Search now feature a more graphical results interface, going beyond visual matches to include links, Knowledge Graph facts, and AI Overviews. Ads may also appear within these results.",
+    "Link": "https://twitter.com/glenngabe/status/1792898719496499204"
+  },
+  {
+    "Title": "Google preemptively pays damages to US government in antitrust lawsuit",
+    "Description": "In an unusual move, Google has preemptively paid damages to the US government in an attempt to avoid a jury trial in the Department of Justice's antitrust lawsuit. The Justice Department has not yet confirmed if they will accept the payment.",
+    "Link": "https://twitter.com/glenngabe/status/1792886840434864270"
+  },
+  {
+    "Title": "Microsoft launches Recall for Copilot Plus PCs",
+    "Description": "Microsoft is launching Recall for Copilot Plus PCs, a new Windows 11 tool that tracks user activity on their computer. The tool allows users to search and retrieve past content and actions, similar to a personal AI assistant.",
+    "Link": "https://twitter.com/glenngabe/status/1792885097701499321"
+  },
+  {
+    "Title": "Making sense of the allegations and defenses in the Colossus ad tech controversy",
+    "Description": "An in-depth look at the controversy surrounding ad tech vendor Colossus, examining the allegations of shady practices and the company's defense. The article delves into the complexities of the situation, going beyond a simple case of right and wrong.",
+    "Link": "https://digiday.com/marketing/making-sense-of-the-allegations-and-defenses-in-the-colossus-ad-tech-controversy/"
+  },
+  {
+    "Title": "Brands collaborate on influencer marketing with an eye on 'community infiltration,' finding fee savings",
+    "Description": "Marketers are increasingly collaborating with other brands on influencer marketing campaigns to tap into existing communities and potentially reduce influencer fees. This trend reflects a growing understanding of the benefits of shared audiences and strategic partnerships in influencer marketing.",
+    "Link": "https://digiday.com/marketing/marketing-briefing-brands-collaborate-on-influencer-marketing-with-an-eye-on-community-infiltration-finding-fee-savings/"
+  },
+  {
+    "Title": "How sending fewer emails and content previews improved The New Yorker\u2019s newsletter engagement",
+    "Description": "The New Yorker has increased newsletter engagement by reducing sending frequency and offering paid subscribers early access to content. This strategy prioritizes quality over quantity and leverages exclusive content to incentivize subscriptions.",
+    "Link": "https://digiday.com/media/how-sending-fewer-emails-and-content-previews-improved-the-new-yorkers-newsletter-engagement/"
+  },
+  {
+    "Title": "Ikea launched an AI assistant earlier this year. Has it actually driven sales?",
+    "Description": "An exploration of Ikea's AI assistant, launched earlier this year, and its impact on sales. The article features insights from Ikea's data chief on how they are measuring the effectiveness of the AI assistant in driving business outcomes.",
+    "Link": "https://digiday.com/marketing/ikea-launched-an-ai-assistant-earlier-this-year-has-it-actually-driven-sales/"
+  },
+  {
+    "Title": "Horizon's Blue Hour social shop partners with platform Key to launch talent management tool",
+    "Description": "Horizon Media's social content agency, Blue Hour Studios, has partnered with talent management platform Key to create Swell Audience Network. This new platform aims to connect brands with social media talent and streamline the influencer marketing process.",
+    "Link": "https://digiday.com/media-buying/horizons-blue-hour-social-shop-partners-with-platform-key-to-launch-talent-management-tool/"
+  },
+  {
+    "Title": "Publisher strategies: Cond\u00e9 Nast, Forbes, The Atlantic, The Guardian and The Independent on key revenue trends",
+    "Description": "A two-part series exploring the revenue strategies of leading publishers, including Cond\u00e9 Nast, Forbes, The Atlantic, The Guardian, and The Independent. This installment focuses on affiliate commerce, revenue diversification, and global expansion as key areas of focus for publishers.",
+    "Link": "https://digiday.com/media/publisher-strategies-conde-nast-forbes-the-atlantic-the-guardian-and-the-independent-on-key-revenue-trends/"
+  },
+  {
+    "Title": "How one content creator thrives on X, despite Elon Musk's shakeup",
+    "Description": "A case study of a content creator who continues to find success on X (formerly Twitter) despite the platform's recent controversies under Elon Musk's leadership. The article highlights the creator's strategies for navigating the changing landscape of X and maintaining audience engagement.",
+    "Link": "https://digiday.com/podcasts/how-one-content-creator-thrives-on-x-despite-elon-musks-shakeup/"
+  },
+  {
+    "Title": "The Rundown: How Amazon is wooing publishers to bolster its $50 billion ad business",
+    "Description": "Amazon is making moves to attract publishers and expand its advertising business, which is estimated to be worth $50 billion. The company has introduced enhancements to Amazon Publisher Cloud and launched Signal IQ, signaling its commitment to becoming a major player in the advertising industry.",
+    "Link": "https://digiday.com/media/the-rundown-how-amazon-is-wooing-publishers-to-bolster-its-50-billion-ad-business/"
+  },
+  {
+    "Title": "Google cuts mystery check to US in bid to sidestep jury trial",
+    "Description": "Google has made an undisclosed payment to the US government in an effort to avoid a jury trial in an ongoing antitrust lawsuit. The move highlights the high stakes involved in the case and Google's willingness to explore alternative resolutions.",
+    "Link": "https://twitter.com/rustybrick/status/1792665413219958947"
+  },
+  {
+    "Title": "The Washington Post adds AI-generated audio to three of its newsletters",
+    "Description": "The Washington Post has incorporated AI-generated audio into three of its political newsletters, providing readers with an alternative way to consume content. This move reflects the growing trend of publishers experimenting with audio formats and leveraging AI to enhance accessibility.",
+    "Link": "https://digiday.com/es/the-washington-post-anade-audio-generado-por-ia-a-tres-de-sus-newsletters/"
+  },
+  {
+    "Title": "It's New - Google on heartfelt helpful content, comments on notes, hide AI search answers and Google communications with @MordyOberstein @CrystalontheWeb @gregfinn",
+    "Description": "It's New - Google on heartfelt helpful content, comments on notes, hide AI search answers and Google communications with @MordyOberstein @CrystalontheWeb @gregfinn",
+    "Link": "https://twitter.com/rustybrick/status/1792647455072268548"
+  },
+  {
+    "Title": "Top latest SEO Updates & News from SEOFOMO \ud83d\udc40\ud83d\udd25 * About Google's AI Overview & Organized Results, Tools to Track AI Overviews Results & What to Expect Next * \u200bHow to remove content and links from Google\u2019s AI Overviews by using \u2018preview controls\u2019 like nosnippet, data-nosnippet,\u2026",
+    "Description": "Top latest SEO Updates & News from SEOFOMO \ud83d\udc40\ud83d\udd25 * About Google's AI Overview & Organized Results, Tools to Track AI Overviews Results & What to Expect Next * \u200bHow to remove content and links from Google\u2019s AI Overviews by using \u2018preview controls\u2019 like nosnippet, data-nosnippet,\u2026",
+    "Link": "https://twitter.com/aleyda/status/1792639843568132388"
+  },
+  {
+    "Title": "People searching to \"turn off Google AI\" \ud83d\udc40",
+    "Description": "People searching to \"turn off Google AI\" \ud83d\udc40",
+    "Link": "https://twitter.com/aleyda/status/1792636023966421377"
+  },
+  {
+    "Title": "ICYMI: Google's next core update to reward content where helpfulness is taken to heart...",
+    "Description": "ICYMI: Google's next core update to reward content where helpfulness is taken to heart...",
+    "Link": "https://twitter.com/rustybrick/status/1792627852938027499"
+  },
+  {
+    "Title": "ICYMI: Google's site reputation abuse policy also applies to Google Discover",
+    "Description": "ICYMI: Google's site reputation abuse policy also applies to Google Discover",
+    "Link": "https://twitter.com/rustybrick/status/1792627852871086228"
+  },
+  {
+    "Title": "ICYMI: Danny Sullivan said he speaks directly to the engineers who work on the Google ranking systems",
+    "Description": "ICYMI: Danny Sullivan said he speaks directly to the engineers who work on the Google ranking systems",
+    "Link": "https://twitter.com/rustybrick/status/1792624078303670607"
+  },
+  {
+    "Title": "ICYMI: Comments may be coming to Notes on Google Search",
+    "Description": "ICYMI: Comments may be coming to Notes on Google Search",
+    "Link": "https://twitter.com/rustybrick/status/1792620303555633295"
+  },
+  {
+    "Title": "Google CEO Addresses Concerns Over AI's Impact On Search Traffic",
+    "Description": "Google CEO downplays concerns over AI search impacting website traffic, claims it drives more engagement.",
+    "Link": "https://www.searchenginejournal.com/google-ceo-addresses-concerns-over-ais-impact-on-search-traffic/516842/"
+  },
+  {
+    "Title": "ICYMI: Google Notes on Search within Labs \"ends soon\"",
+    "Description": "ICYMI: Google Notes on Search within Labs \"ends soon\"",
+    "Link": "https://twitter.com/rustybrick/status/1792616528543695147"
+  },
+  {
+    "Title": "The Future of SEO \u2014 3 Trends Every CEO Should Know",
+    "Description": "AI has caused many changes in SEO. Here's how the changes are impacting your online visibility and what you can do to maximize your business growth.",
+    "Link": "https://www.entrepreneur.com/growing-a-business/3-seo-trends-every-ceo-should-know/473997"
+  },
+  {
+    "Title": "ICYMI: Bing lets searchers turn off AI (Copilot) responses, but Google doesn't",
+    "Description": "ICYMI: Bing lets searchers turn off AI (Copilot) responses, but Google doesn't",
+    "Link": "https://twitter.com/rustybrick/status/1792612753514922375"
+  },
+  {
+    "Title": "38% Of Webpages From 2013 Have Vanished, Pew Study Finds",
+    "Description": "Pew Research Center study reveals widespread digital decay: 38% webpages, government links, tweets vanish within years.",
+    "Link": "https://www.searchenginejournal.com/38-of-webpages-from-2013-have-vanished-pew-study-finds/516834/"
+  },
+  {
+    "Title": "Niche blogging in the new Google reality: 5 strategies to thrive or die by @MediaWyse: 1. Recognize your zone of genius 2. Concentrate on social and non-Google traffic sources 3. Build up that email list More \ud83d\udc47",
+    "Description": "Niche blogging in the new Google reality: 5 strategies to thrive or die by @MediaWyse: 1. Recognize your zone of genius 2. Concentrate on social and non-Google traffic sources 3. Build up that email list More \ud83d\udc47",
+    "Link": "https://twitter.com/aleyda/status/1792601072713810262"
+  },
+  {
+    "Title": "Pop quiz! \ud83d\udca5 @Google\u2019s March Core Update confirmed four SEO trends. Can you name all of them? Check your answer here: mz.cm/3K6LiUh via @lilyraynyc",
+    "Description": "Pop quiz! \ud83d\udca5 @Google\u2019s March Core Update confirmed four SEO trends. Can you name all of them? Check your answer here: mz.cm/3K6LiUh via @lilyraynyc",
+    "Link": "https://twitter.com/Moz/status/1792596905798558154"
+  },
+  {
+    "Title": "Straight from the source: 2024 Search Engine Land Awards judges reveal what makes an application award-worthy",
+    "Description": "Submit your entry by Friday, May 24, to lock in Super Early Bird rates!",
+    "Link": "https://searchengineland.com/2024-search-engine-land-awards-judge-advice-440447"
+  },
+  {
+    "Title": "Love how @reckless put @sundarpichai on the spot about showing AI Overviews data in Google Search Console",
+    "Description": "Love how @reckless put @sundarpichai on the spot about showing AI Overviews data in Google Search Console",
+    "Link": "https://twitter.com/rustybrick/status/1792569862067236891"
+  },
+  {
+    "Title": "Google's next core update to reward content where helpfulness is taken to heart...",
+    "Description": "Google's next core update to reward content where helpfulness is taken to heart...",
+    "Link": "https://twitter.com/rustybrick/status/1792567455250071606"
+  },
+  {
+    "Title": "Danny Sullivan said he speaks directly to the engineers who work on the Google ranking systems",
+    "Description": "Danny Sullivan said he speaks directly to the engineers who work on the Google ranking systems",
+    "Link": "https://twitter.com/rustybrick/status/1792563680426733711"
+  },
+  {
+    "Title": "Comments may be coming to Notes on Google Search",
+    "Description": "Comments may be coming to Notes on Google Search",
+    "Link": "https://twitter.com/rustybrick/status/1792559905389351296"
+  },
+  {
+    "Title": "Early Look at Google's AI Overviews",
+    "Description": "The new feature in search results is an AI-generated response to queries. Here's our first assessment of the traffic impact.",
+    "Link": "https://www.practicalecommerce.com/early-look-at-googles-ai-overviews"
+  },
+  {
+    "Title": "Google Notes on Search within Labs \"ends soon\"",
+    "Description": "Google Notes on Search within Labs \"ends soon\"",
+    "Link": "https://twitter.com/rustybrick/status/1792556131291897988"
+  },
+  {
+    "Title": "RT by @rustybrick: Ex-Googler: Google\u2019s AI projects are driven by \u2018stone cold panic\u2019 via @MrDannyGoodwin",
+    "Description": "RT by @rustybrick: Ex-Googler: Google\u2019s AI projects are driven by \u2018stone cold panic\u2019 via @MrDannyGoodwin",
+    "Link": "https://twitter.com/sengineland/status/1792555085089677382"
+  },
+  {
+    "Title": "Bing lets searchers turn off AI (Copilot) responses, but Google doesn't",
+    "Description": "Bing lets searchers turn off AI (Copilot) responses, but Google doesn't",
+    "Link": "https://twitter.com/rustybrick/status/1792552355566670103"
+  },
+  {
+    "Title": "Yes \ud83d\udc4f @searchliaison there should be an easy, visible way for users to opt-out from AI Overviews too",
+    "Description": "Yes \ud83d\udc4f @searchliaison there should be an easy, visible way for users to opt-out from AI Overviews too",
+    "Link": "https://twitter.com/aleyda/status/1792549666636386707"
+  },
+  {
+    "Title": "RT by @aleyda: Just released a small update to version 20.1 of the @screamingfrog SEO Spider - screamingfrog.co.uk/seo-spider-20/\u2026. Mostly small improvements & bug fixes from the recent release. It also includes new JS snippets to be able to crawl with Google Gemini.",
+    "Description": "RT by @aleyda: Just released a small update to version 20.1 of the @screamingfrog SEO Spider - screamingfrog.co.uk/seo-spider-20/\u2026. Mostly small improvements & bug fixes from the recent release. It also includes new JS snippets to be able to crawl with Google Gemini.",
+    "Link": "https://twitter.com/screamingfrog/status/1792544584259510309"
+  },
+  {
+    "Title": "Labs says the Notes experiment ends soon, but Google is also testing comments on Notes (so expanding Notes functionality to be like Reddit in the SERPs). Where will it go from here? Only Google knows. Muahahaha :)",
+    "Description": "Labs says the Notes experiment ends soon, but Google is also testing comments on Notes (so expanding Notes functionality to be like Reddit in the SERPs). Where will it go from here? Only Google knows. Muahahaha :)",
+    "Link": "https://twitter.com/glenngabe/status/1792533493047517583"
+  },
+  {
+    "Title": "When people push back on what John, Danny, or Gary say, it's important to understand this. Am I saying things are perfect? Nope. But Search is hard and there are many systems working together that can counterbalance each other -> Danny Sullivan: We Speak Directly To Engineers\u2026",
+    "Description": "When people push back on what John, Danny, or Gary say, it's important to understand this. Am I saying things are perfect? Nope. But Search is hard and there are many systems working together that can counterbalance each other -> Danny Sullivan: We Speak Directly To Engineers\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792528277224989167"
+  },
+  {
+    "Title": "Combat AI-powered Fraud with AI, Experts Say",
+    "Description": "The rise of AI-powered fraud attacks requires AI-powered tools, per researchers at LexisNexis Risk Solutions and Verizon Business.",
+    "Link": "https://www.practicalecommerce.com/combat-ai-powered-fraud-with-ai-experts-say"
+  },
+  {
+    "Title": "\"On July 1st, Google will delete all historical data from Universal Analytics properties\" -> How to archive your Universal Analytics historical data Janet covers four options for archiving your UA data from manual exports to Google Sheets to the GA API to BigQuery.\u2026",
+    "Description": "\"On July 1st, Google will delete all historical data from Universal Analytics properties\" -> How to archive your Universal Analytics historical data Janet covers four options for archiving your UA data from manual exports to Google Sheets to the GA API to BigQuery.\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792526742864711734"
+  },
+  {
+    "Title": "Google search ranking volatility has continued to calm over the past few days - story from last week at seroundtable.com/continued-goog\u2026",
+    "Description": "Google search ranking volatility has continued to calm over the past few days - story from last week at seroundtable.com/continued-goog\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1792526500362658222"
+  },
+  {
+    "Title": "Focus on News? -> Many publishers have increased reliance on Apple News+; The Daily Beast is set to make $3M-$4M from it in 2024, and Time says it delivers a 7-figure annual revenue \"Apple licenses articles from behind publishers\u2019 paywalls, and pays them monthly based partially\u2026",
+    "Description": "Focus on News? -> Many publishers have increased reliance on Apple News+; The Daily Beast is set to make $3M-$4M from it in 2024, and Time says it delivers a 7-figure annual revenue \"Apple licenses articles from behind publishers\u2019 paywalls, and pays them monthly based partially\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792523903186735473"
+  },
+  {
+    "Title": "Google Working On Surfacing More Heartful Helpful Content In Search",
+    "Description": "Last week we reported how Danny Sullivan, Google's Search Liaison, said how they are looking for ways to better promote sites that were hit by that helpful content update in September. Now, over the weekend, John Mueller from Google added, \"the team working on this is explictly evaluating how sites can / will improve in Search for the next update.\"",
+    "Link": "https://www.seroundtable.com/google-improving-helpful-content-in-search-37417.html"
+  },
+  {
+    "Title": "Google is looking to update ranking algorithms to surface more content where sites have taken helpfulness to heart says @JohnMu",
+    "Description": "Google is looking to update ranking algorithms to surface more content where sites have taken helpfulness to heart says @JohnMu",
+    "Link": "https://twitter.com/rustybrick/status/1792523414755803484"
+  },
+  {
+    "Title": "More about iChatGPT :) -> Apple and OpenAI are preparing a major announcement about their Generative AI partnership at WWDC \"Still, that agreement will only go so far. To be as successful as possible in AI, Apple is going to have to eventually move away from a partnership\u2026",
+    "Description": "More about iChatGPT :) -> Apple and OpenAI are preparing a major announcement about their Generative AI partnership at WWDC \"Still, that agreement will only go so far. To be as successful as possible in AI, Apple is going to have to eventually move away from a partnership\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1792522963918487975"
+  },
+  {
+    "Title": "Google's @searchliaison says he and @JohnMu and team speak directly to the engineers who work on the Google ranking systems",
+    "Description": "Google's @searchliaison says he and @JohnMu and team speak directly to the engineers who work on the Google ranking systems",
+    "Link": "https://twitter.com/rustybrick/status/1792520898169213438"
+  },
+  {
+    "Title": "Danny Sullivan Speaks Directly To Engineers Working On Google Ranking Systems",
+    "Description": "Google was asked where Google's Danny Sullivan and John Mueller get their information from when responding to search and ranking-related questions. Sullivan responded directly to the engineers who code those ranking systems at Google.",
+    "Link": "https://www.seroundtable.com/communication-engineers-google-ranking-systems-37376.html"
+  },
+  {
+    "Title": "Comments coming to Notes on Google Search (and Discover)?",
+    "Description": "Comments coming to Notes on Google Search (and Discover)?",
+    "Link": "https://twitter.com/rustybrick/status/1792518381813567728"
+  },
+  {
+    "Title": "Google Notes on Search within Labs \"ends soon\" but will it stick around like SGE as AI Overview or go away",
+    "Description": "Google Notes on Search within Labs \"ends soon\" but will it stick around like SGE as AI Overview or go away",
+    "Link": "https://twitter.com/rustybrick/status/1792515864962412562"
+  },
+  {
+    "Title": "Bing lets searchers turn off AI (Copilot) responses, why doesn't Google do the same - love how @mikeschechter from @bing posted that screenshot",
+    "Description": "Bing lets searchers turn off AI (Copilot) responses, why doesn't Google do the same - love how @mikeschechter from @bing posted that screenshot",
+    "Link": "https://twitter.com/rustybrick/status/1792513348673720348"
+  },
+  {
+    "Title": "Bing Lets You Turn Off AI Copilot Responses In Search",
+    "Description": "Google has been rolling out AI Overviews in its search results since last week and more and more searchers are super unhappy that there is no way to turn off the AI Overviews.  Michael Schechter, a Vice President at Microsoft, shared a screenshot in Bing, on how you can turn off Copilot responses in Bing Search with the click of a button.",
+    "Link": "https://www.seroundtable.com/bing-lets-you-turn-off-ai-copilot-responses-in-search-37415.html"
+  },
+  {
+    "Title": "RT by @aleyda: A pretty brutal perspective from a Xoogler on 'AI Projects' at Google. Although I'm more shocked at how long ago Google+ was \ud83d\ude02.",
+    "Description": "RT by @aleyda: A pretty brutal perspective from a Xoogler on 'AI Projects' at Google. Although I'm more shocked at how long ago Google+ was \ud83d\ude02.",
+    "Link": "https://twitter.com/carlhendy/status/1792502222137524663"
+  },
+  {
+    "Title": "Digital Content Next divests TRUSTX to Symitri",
+    "Description": "The new venture will emerge as a real-time data clean room called Symitri following a $5 million investment.",
+    "Link": "https://digiday.com/media/digital-content-next-divests-trustx-to-symitri/"
+  },
+  {
+    "Title": "Google Helpfulness Signals Might Change - Why It's Not Enough",
+    "Description": "Google might adjust the helpful content signals so that new pages are able to rank. This is why some sites may not see improvement",
+    "Link": "https://www.searchenginejournal.com/google-helpfulness-signal-changes/516718/"
+  },
+  {
+    "Title": "Yassin Aberra: Comprehensive Guide to SEO - Olive Press News Spain",
+    "Description": "Businesses need to have a strong online presence now more than ever in the digital world. Search Engine Optimization (SEO) is a fundamental strategy to",
+    "Link": "https://www.theolivepress.es/spain-news/2024/05/20/yassin-aberra-comprehensive-guide-to-seo/"
+  },
+  {
+    "Title": "SEO Tracker: 32Red pulls away from the crowd in slots market",
+    "Description": "In this month's SEO Tracker, Stickyeyes analyses trends in the online slots search market as 32Red and Betfred experience contrasting fortunes",
+    "Link": "https://www.egr.global/intel/insight/seo-tracker-32red-pulls-away-from-the-crowd-in-slots-market/"
+  },
+  {
+    "Title": "Why Exverus' head of strategy is marrying performance with brand in programmatic",
+    "Description": "Independent boutique agency Exverus Media is reshaping what KPIs and client expectations amid marketing shifts.",
+    "Link": "https://digiday.com/marketing/why-exverus-head-of-strategy-is-marrying-performance-with-brand-in-programmatic/"
+  },
+  {
+    "Title": "The Washington Post adds AI-generated audio to three newsletters",
+    "Description": "The Washington Post added AI-generated audio (and AI-read ads) to three politics- and policy-focused newsletters.",
+    "Link": "https://digiday.com/media/the-washington-post-adds-ai-generated-audio-to-three-newsletters/"
+  },
+  {
+    "Title": "It's becoming impossible for game publishers to avoid the question of advertising inside premium titles",
+    "Description": "Major game publishers\u2019 flirtation with in-game ads has yet to blossom into a full romance in 2024 \u2014 but the question of advertising has become nearly impossible for them to avoid, as shown by Electronic Arts CEO Andrew Wilson\u2019s endorsement of the revenue stream during the company\u2019s earnings call last week.",
+    "Link": "https://digiday.com/marketing/its-becoming-impossible-for-game-publishers-to-avoid-the-question-of-advertising-inside-premium-titles/"
+  },
+  {
+    "Title": "Behind closed doors: the intrigue and reality of platform marketer councils",
+    "Description": "The truth is, these councils are ways for the platforms to curry favor with senior marketers and extract market intelligence from them.",
+    "Link": "https://digiday.com/marketing/behind-closed-doors-the-intrigue-and-reality-of-platform-marketer-councils/"
+  },
+  {
+    "Title": "Media Buying Briefing: How the upfront has changed over the last 30 years",
+    "Description": "What used to be a relationship business with finite parameters has become tech-heavy and snarky. Could this be the end so long predicted?",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-how-the-upfront-has-changed-over-the-last-30-years/"
+  },
+  {
+    "Title": "AI Briefing: How Lexicon researches its approach to AI naming strategies",
+    "Description": "The agency behind names like Blackberry, Subaru and InDesign is researching emotions and associations consumers have with AI.",
+    "Link": "https://digiday.com/media/ai-briefing-how-lexicon-researches-its-approach-to-ai-naming-strategies/"
+  },
+  {
+    "Title": "\u2018There\u2019s a lack of trust\u2019: Agency execs discuss AI, cookie burnout and inventory issues during the Digiday Programmatic Marketing Summit",
+    "Description": "At the Digiday Programmatic Marketing Summit, agency executives participated in closed-door town hall discussions, in which they were granted anonymity for their candor.",
+    "Link": "https://digiday.com/media-buying/theres-a-lack-of-trust-agency-execs-discuss-ai-cookie-burnout-and-inventory-issues-during-the-digiday-programmatic-marketing-summit/"
+  },
+  {
+    "Title": "EU asks Microsoft for information about risks associated with Bing AI",
+    "Description": "The EU wanted to examine risks associated with generative AI in Microsoft Bing and asked the company to hand over its information by May 27.",
+    "Link": "https://www.androidheadlines.com/2024/05/eu-asks-microsoft-for-information-about-risks-associated-with-bing-ai.html"
+  },
+  {
+    "Title": "This not-for-profit is revolutionising Google Ads and SEO for suicide prevention",
+    "Description": "Trigger warning: This article contains discussions about suicide. Support is available from Lifeline on 13 11 14.\u00a0In a world where the internet is often the first place people turn to for help, one Black Dog Institute researcher is leveraging\u00a0popular marketing strategies to reach people in their darkest moments.\u00a0Dr. Sandersan Onie and his team are harnessing [\u2026]",
+    "Link": "https://mumbrella.com.au/this-not-for-profit-is-revolutionising-google-ads-and-seo-for-suicide-prevention-832119"
+  },
+  {
+    "Title": "Securing Email Addresses for Abandoned Carts",
+    "Description": "Merchants can often recover sales from abandoned carts, but only if a shopper provides an email address.",
+    "Link": "https://www.practicalecommerce.com/securing-email-addresses-for-abandoned-carts"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-05-22 04:06:27.859394:
+RESPONSE: 
+{
+"news_stories": [
+{
+"Title": "Google Updates Search with AI Overviews and Enhanced Visuals",
+"Category": "Search Engine Optimization",
+"Description": "Google is rolling out significant changes to its search results interface, incorporating AI-powered overviews, richer visuals, and potential ad placements within these elements. These updates aim to provide more comprehensive and engaging search experiences but have sparked debate about their impact on website traffic and user control over AI-generated content.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792962846608753023",
+"https://twitter.com/rustybrick/status/1792975141401444792",
+"https://twitter.com/glenngabe/status/1792898719496499204"
+]
+},
+{
+"Title": "Google's AI Initiatives Driven by \"Stone Cold Panic,\" Claims Former Employee",
+"Category": "Artificial Intelligence",
+"Description": "A former Google employee alleges that the company's recent surge in AI projects stems from a sense of \"stone cold panic\" rather than strategic foresight. This perspective sheds light on the potential internal pressures and motivations behind Google's aggressive push into the AI landscape.",
+"Links": [
+"https://twitter.com/sengineland/status/1792555085089677382"
+]
+},
+{
+"Title": "WordPress 6.5 Improves SEO with 'Lastmod' Support",
+"Category": "Search Engine Optimization",
+"Description": "WordPress 6.5 introduces native 'lastmod' support, a feature that signals the last modification date of a webpage to search engines. This enhancement aims to improve crawl efficiency and potentially boost rankings by ensuring search engines prioritize updated content.",
+"Links": [
+"https://www.searchenginejournal.com/wordpress-6-5-enhances-seo-with-lastmod-support/517013/"
+]
+},
+{
+"Title": "Google Emphasizes \"Heartfelt Helpfulness\" in Upcoming Search Algorithm Update",
+"Category": "Search Engine Optimization",
+"Description": "Google announces its intention to prioritize \"heartfelt helpful content\" in an upcoming search algorithm update. This shift suggests a focus on content that genuinely addresses user needs and provides valuable information, potentially rewarding websites that prioritize user experience over search engine manipulation.",
+"Links": [
+"https://www.seroundtable.com/google-improving-helpful-content-in-search-37417.html",
+"https://twitter.com/rustybrick/status/1792567455250071606",
+"https://www.searchenginejournal.com/google-helpfulness-signal-changes/516718/"
+]
+},
+{
+"Title": "Google to Test Search and Shopping Ads within AI Overviews",
+"Category": "Advertising Technology",
+"Description": "Google plans to experiment with integrating search and shopping ads directly within its AI-powered search overviews. This move could significantly impact advertiser visibility and user engagement with both organic and paid search results.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792962846608753023"
+]
+},
+{
+"Title": "Google Rolls Out Immersive, AI-Powered Shopping Ads",
+"Category": "Advertising Technology",
+"Description": "Google introduces a suite of immersive, AI-driven shopping ad formats, including video-powered search ads, expanded virtual try-on capabilities, and 3D product ads. These innovations aim to enhance the online shopping experience and provide advertisers with more engaging ways to showcase their products.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792967022302703744"
+]
+},
+{
+"Title": "Google Updates Discover with New Site Reputation Abuse Policy",
+"Category": "Content Moderation",
+"Description": "Google extends its site reputation abuse policy to its Discover platform, aiming to maintain a safe and trustworthy user experience by cracking down on websites engaging in misleading or harmful practices.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792906470033408441",
+"https://twitter.com/rustybrick/status/1792929842712993918"
+]
+},
+{
+"Title": "Google Pays Damages to US Government in Antitrust Lawsuit",
+"Category": "Antitrust",
+"Description": "In an unusual move, Google preemptively pays an undisclosed sum to the US government in an attempt to avoid a jury trial in the Department of Justice's antitrust lawsuit. The outcome of this strategy remains uncertain, as the Justice Department has yet to confirm whether they will accept the payment.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792886840434864270",
+"https://twitter.com/rustybrick/status/1792665413219958947"
+]
+},
+{
+"Title": "Microsoft Launches Recall for Copilot Plus PCs",
+"Category": "Operating Systems",
+"Description": "Microsoft introduces Recall, a new Windows 11 feature for Copilot Plus PCs that tracks user activity and enables retrieval of past content and actions. This tool functions similarly to a personal AI assistant, raising potential privacy concerns.",
+"Links": [
+"https://twitter.com/glenngabe/status/1792885097701499321"
+]
+},
+{
+"Title": "Bing Allows Users to Disable AI Copilot Responses, Unlike Google",
+"Category": "Search Engine Optimization",
+"Description": "While Google faces criticism for the lack of an option to disable its AI Overviews in search results, Microsoft highlights Bing's feature allowing users to turn off AI Copilot responses. This distinction underscores the ongoing debate about user control and preference in the age of AI-driven search.",
+"Links": [
+"https://www.seroundtable.com/bing-lets-you-turn-off-ai-copilot-responses-in-search-37415.html",
+"https://twitter.com/rustybrick/status/1792513348673720348"
+]
+},
+{
+"Title": "The Washington Post Integrates AI-Generated Audio into Newsletters",
+"Category": "Media Innovation",
+"Description": "The Washington Post incorporates AI-generated audio into three of its political newsletters, offering an alternative content consumption method for readers. This move reflects the growing trend of publishers experimenting with audio formats and leveraging AI to enhance accessibility.",
+"Links": [
+"https://digiday.com/es/the-washington-post-anade-audio-generado-por-ia-a-tres-de-sus-newsletters/",
+"https://digiday.com/media/the-washington-post-adds-ai-generated-audio-to-three-newsletters/"
+]
+}
+]
+}
