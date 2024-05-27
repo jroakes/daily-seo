@@ -1,49 +1,99 @@
 {
     "data": [
         {
-            "Title": "Google AI Overviews Draw Criticism for Inaccurate and Unsafe Information",
-            "Category": "Artificial Intelligence",
-            "Description": "Google's new AI Overviews feature is facing backlash for providing dangerous, incorrect, and often humorous answers. Critics question the adequacy of testing, particularly for queries related to Your Money or Your Life (YMYL) topics.  The feature's tendency to recommend harmful actions, such as suggesting drivers consider changing lanes while driving, has raised concerns about its safety and reliability.",
+            "Title": "Microsoft Services Restored After Global Outage",
+            "Category": "Technology",
+            "Description": "Microsoft experienced a major outage that disrupted services such as Bing Search, Copilot, ChatGPT, and DuckDuckGo globally. The outage lasted for over 24 hours, and no information was released regarding the cause. Services have since been restored.",
+            "Links": [
+                "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-fixed-worldwide-after-24-hour-outage/",
+                "https://www.globalvillagespace.com/massive-outage-disrupts-microsoft-services-bing-and-ai-tools-globally/",
+                "https://dataconomy.com/2024/05/24/microsoft-outage-bing-chatgpt-duckgogo/"
+            ]
+        },
+        {
+            "Title": "Google AI Overviews Draw Criticism for Inaccurate and Harmful Information",
+            "Category": "Technology",
+            "Description": "Google's new AI-powered Search Generative Experience (SGE) overviews are facing backlash for providing dangerous, wrong, and embarrassing answers. Critics argue that the feature was rushed without proper testing, particularly for YMYL (Your Money or Your Life) queries.",
             "Links": [
                 "https://twitter.com/aleyda/status/1794051825907192179",
                 "https://twitter.com/sengineland/status/1794029758453305689",
-                "https://twitter.com/glenngabe/status/1793977650681172346"
+                "https://twitter.com/rustybrick/status/1793990307601912031"
             ]
         },
         {
-            "Title": "Microsoft Services Restored After Global Outage Disrupts Bing, Copilot, and ChatGPT",
+            "Title": "Google Search Updates Spark Concerns Among Businesses",
+            "Category": "Business",
+            "Description": "Airlines, hotels, and retailers are expressing concerns over recent Google Search algorithm changes, fearing a potential drop in direct sales. The updates have caused significant ranking volatility, impacting businesses across various industries.",
+            "Links": [
+                "https://gulfnews.com/business/retail/google-search-update-airlines-hotels-and-retailers-fear-seo-algorithm-changes-1.1716576326350",
+                "https://www.practicalecommerce.com/amazon-marketplace-fears",
+                "https://digiday.com/media/why-publishers-fear-traffic-ad-declines-from-googles-ai-generated-search-results/"
+            ]
+        },
+        {
+            "Title": "Google Search Console Reports Fewer Links, Raising Concerns Among SEOs",
             "Category": "Technology",
-            "Description": "A major Microsoft outage on May 23, 2024, caused widespread disruptions to services including Bing Search, Microsoft Copilot, ChatGPT, and even DuckDuckGo. The outage lasted over 24 hours, impacting users worldwide. While the cause remains undisclosed, Microsoft confirmed the restoration of services.",
-            "Links": [
-                "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-fixed-worldwide-after-24-hour-outage/",
-                "https://dataconomy.com/2024/05/24/microsoft-outage-bing-chatgpt-duckgogo/",
-                "http://gigazine.net/gsc_news/en/20240524-microsoft-outage-affects-chatgpt/"
-            ]
-        },
-        {
-            "Title": "Google Search Algorithm Update Raises Concerns Among Airlines, Hotels, and Retailers",
-            "Category": "Search Engine Optimization",
-            "Description": "A recent Google Search algorithm update has sparked fear among businesses, particularly in the travel and retail sectors, who anticipate a potential decline in direct sales. Companies are concerned about the impact of these changes on their search engine rankings and visibility.",
-            "Links": [
-                "https://gulfnews.com/business/retail/google-search-update-airlines-hotels-and-retailers-fear-seo-algorithm-changes-1.1716576326350"
-            ]
-        },
-        {
-            "Title": "Google Search Expands Indexing Capabilities to Include Electronic Publication (.epub) Files",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search can now index Electronic Publication (.epub) files, expanding the range of content accessible through its search engine. This update provides authors and publishers with an additional avenue to reach their target audience.",
-            "Links": [
-                "https://www.seroundtable.com/google-search-index-electronic-publication-epub-37446.html",
-                "https://twitter.com/rustybrick/status/1793970449874903278"
-            ]
-        },
-        {
-            "Title": "Google Search Console Links Report Raises Concerns Among SEOs as Link Counts Dwindle",
-            "Category": "Search Engine Optimization",
-            "Description": "SEOs are reporting a significant decrease in the number of links displayed in the Google Search Console links report. This discrepancy has sparked speculation about potential bugs or changes in Google's link tracking and reporting mechanisms.",
+            "Description": "SEOs are reporting a significant decrease in the number of links displayed in Google Search Console's link reports. The issue has sparked speculation about potential bugs or updates to the platform's algorithms.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-links-report-37450.html",
-                "https://twitter.com/rustybrick/status/1795055096834785371"
+                "https://twitter.com/rustybrick/status/1795055096834785371",
+                "https://twitter.com/rustybrick/status/1795096620352070090"
+            ]
+        },
+        {
+            "Title": "Google Search Expands Indexing Capabilities to Include .epub Files",
+            "Category": "Technology",
+            "Description": "Google Search can now index Electronic Publication (.epub) files, expanding its reach and accessibility to a wider range of digital content. This update allows users to discover and access e-books and other publications directly through Google Search.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-index-electronic-publication-epub-37446.html",
+                "https://twitter.com/rustybrick/status/1793970449874903278",
+                "https://twitter.com/rustybrick/status/1794013231872131099"
+            ]
+        },
+        {
+            "Title": "Google Analytics Introduces Real-Time User Metrics",
+            "Category": "Technology",
+            "Description": "Google Analytics 4 (GA4) now displays real-time user data for the last 5 minutes, providing website owners with more immediate insights into user activity. This feature is reminiscent of the real-time metrics offered in Universal Analytics (UA).",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1794005682439561623",
+                "https://twitter.com/rustybrick/status/1793965416563261861",
+                "https://twitter.com/rustybrick/status/1794066080018661793"
+            ]
+        },
+        {
+            "Title": "Google Search Testing New Visual Elements for Mobile Results",
+            "Category": "Technology",
+            "Description": "Google is experimenting with a larger, blue \"visit\" link for mobile search results, potentially aiming to improve user experience and click-through rates. The new design is currently being tested and may be rolled out more widely in the future.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1795050063468593586",
+                "https://twitter.com/rustybrick/status/1794098954239365199",
+                "https://twitter.com/rustybrick/status/1795089070575563204"
+            ]
+        },
+        {
+            "Title": "Google to Introduce New User Profiles with Public Reviews and Notes",
+            "Category": "Technology",
+            "Description": "Google is set to launch updated user profiles that allow users to manage their reviews and notes, which will become publicly visible to others in the coming month. This feature aims to enhance user interaction and provide more transparency within the Google ecosystem.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1793962900245344609"
+            ]
+        },
+        {
+            "Title": "Google's John Mueller Dismisses \"Toxic Links\" as an SEO Tool Myth",
+            "Category": "Technology",
+            "Description": "Google's John Mueller has reiterated that the concept of \"toxic links\" is a fabrication by SEO tool providers to encourage subscriptions. He emphasizes that Google's algorithms are designed to identify and disregard unnatural or manipulative links.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1795057613362880616",
+                "https://twitter.com/rustybrick/status/1795100395322118225"
+            ]
+        },
+        {
+            "Title": "Google Image Search Enhances Image Protection with \"See Exact Image\"",
+            "Category": "Technology",
+            "Description": "Google Image Search now includes a \"see exact image\" feature, making it easier for users to identify websites that might be using their images without permission. This tool aims to combat image theft and protect copyright holders.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1795052580181365137",
+                "https://twitter.com/rustybrick/status/1795092845889777677"
             ]
         }
     ],
