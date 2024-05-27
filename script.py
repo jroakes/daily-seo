@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from loguru import logger
 from tqdm.auto import tqdm
 
-from utils import save_json, load_json, generate_html, save_html, save_generation_error
+from utils import save_json, load_json, save_generation_error
 from settings import (
     REVIEW_PROMPT,
     CONSOLIDATE_PROMPT,
@@ -208,8 +208,13 @@ def main() -> None:
     cache = {"valid_articles": valid_articles, "reviewed_urls": reviewed_urls}
     save_json(cache, json_filename)
 
-    html_output = generate_html(consolidated_data, date)
-    save_html(html_output)
+    logger.info("Generating Data...")
+    html_data = {
+        "data": consolidated_data,
+        "date": date.strftime("%Y-%m-%d"),
+    }
+    save_json(html_data, "docs/data.json")
+    logger.info("Data generated successfully.")
 
     logger.info("Process completed successfully.")
 
