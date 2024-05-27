@@ -213,6 +213,7 @@ def main() -> None:
         "data": consolidated_data,
         "date": date.strftime("%Y-%m-%d"),
     }
+    
     save_json(html_data, "docs/data.json")
     logger.info("Data generated successfully.")
 
