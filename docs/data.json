@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google AI Overviews Spark Controversy and Impact Search Visibility",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's AI-powered search overviews are causing significant disruption in search engine results pages (SERPs), impacting ecommerce visibility and raising concerns about accuracy and potential for misinformation.  SEOs are observing volatile rankings and questioning the quality and trustworthiness of the AI-generated summaries.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI-powered search overviews are causing significant disruption in search engine results pages (SERPs), impacting ecommerce visibility and raising concerns about accuracy and potential for misinformation.  SEOs are observing volatile rankings and changes to link reporting in Google Search Console.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-ai-overviews-shake-up-ecommerce-search-visibility/517577/",
                 "https://twitter.com/aleyda/status/1795190509633220853",
@@ -11,19 +11,39 @@
             ]
         },
         {
-            "Title": "Google Search Console Updates and Algorithm Changes",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console is reportedly showing fewer links in its reports, raising questions among SEOs.  Additionally, Google is testing new features in search results, including a blue \"visit\" link and a thin shop deals bar.  John Mueller, a Google Search Analyst, suggests that recovering from recent core updates may require addressing multiple factors.",
+            "Title": "Google Search Console Updates and New Features",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console has introduced updates to its platform, including new features and reporting changes.  The platform now offers options to provide feedback on AI Overviews, a potential decrease in reported links, and a new \"see exact image\" functionality within Google Image Search.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1795160793203269703",
+                "https://twitter.com/rustybrick/status/1795164568102240756",
                 "https://twitter.com/rustybrick/status/1795157018287931607",
                 "https://www.seroundtable.com/google-search-console-links-report-37450.html"
             ]
         },
         {
-            "Title": "Leaked Google Search Data Reveals Ranking Factors and Algorithm Insights",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Leaked internal Google Search engineering documentation has surfaced, providing unprecedented insights into the search giant's ranking algorithm.  The leak reveals the existence of over 14,000 ranking features, a \"siteAuthority\" feature, and the use of Navboost.  This information has significant implications for the SEO community.",
+            "Title": "Google's Stance on Toxic Links and Core Update Recovery",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller has reiterated the company's stance on \"toxic links,\" suggesting the concept is primarily driven by SEO tools. Mueller also offered insights into recovering from Google core updates, suggesting that sometimes moving on to new projects is a viable option.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1795160793203269703",
+                "https://www.seroundtable.com/google-john-mueller-recovering-core-updates-37456.html",
+                "https://twitter.com/rustybrick/status/1795057613362880616"
+            ]
+        },
+        {
+            "Title": "TikTok's New Initiatives and the Future of Influencer Marketing",
+            "Category": "Social Media Marketing",
+            "Description": "TikTok is launching new initiatives, including an AI-powered advertising suite and a creator program focused on social impact. These developments aim to attract creators and brands while navigating uncertainty surrounding the platform's future.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1795167698223034553",
+                "https://digiday.com/media-buying/media-buying-briefing-can-tiktoks-social-impact-program-attract-creators-as-it-faces-uncertainty/",
+                "https://influencermarketinghub.com/seo-agency/seo-strategy/"
+            ]
+        },
+        {
+            "Title": "Leaked Google Search Documentation Reveals Ranking Factors and Algorithm Insights",
+            "Category": "Search Engine Optimization",
+            "Description": "Leaked internal Google Search engineering documentation has surfaced, revealing insights into the search giant's ranking algorithm. The leak suggests the existence of over 14,000 ranking features, a \"siteAuthority\" feature, and the use of data from various sources like Chrome and user behavior.",
             "Links": [
                 "https://twitter.com/aleyda/status/1795341283940020248",
                 "https://twitter.com/randfish/status/1795282226038624418",
@@ -31,19 +51,33 @@
             ]
         },
         {
-            "Title": "TikTok Launches Social Impact Program for Creators Amidst Uncertainty",
-            "Category": "Social Media Marketing",
-            "Description": "TikTok is attempting to attract and retain creators with a new program focused on social impact initiatives.  This move comes as the platform faces uncertainty and aims to strengthen its appeal to Gen Z users and brands.",
+            "Title": "Google Tests New Search Features and Design Elements",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is actively testing new features and design elements within its search results pages. These tests include a blue \"visit\" link for search results, a thin shop deals bar at the top of the page, and the setting of end dates for Google Ads experiments.",
             "Links": [
-                "https://digiday.com/media-buying/media-buying-briefing-can-tiktoks-social-impact-program-attract-creators-as-it-faces-uncertainty/"
+                "https://twitter.com/rustybrick/status/1795149468502835477",
+                "https://twitter.com/rustybrick/status/1795417484742594670",
+                "https://twitter.com/rustybrick/status/1795414968046608618"
             ]
         },
         {
-            "Title": "YouTube Implements Timestamps for Advertiser Policy Violations",
-            "Category": "Content Creation",
-            "Description": "YouTube is enhancing its communication regarding Advertiser Friendly Guidelines (AFG) violations by introducing timestamps.  Creators will now receive specific time codes for violations, improving transparency and facilitating content adjustments.",
+            "Title": "The Impact of AI on Education and the Rise of AI Tutors",
+            "Category": "Artificial Intelligence",
+            "Description": "The emergence of AI tutors, particularly from China, is transforming the education sector. These AI-powered apps are changing how students study and posing a potential threat to traditional tutoring services.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1794364838807798147"
+                "https://twitter.com/glenngabe/status/1794364838807798147",
+                "https://twitter.com/glenngabe/status/1794362723553178085",
+                "https://www.xda-developers.com/googles-ai-overview-tailspin-bing-search-shine/"
+            ]
+        },
+        {
+            "Title": "Amazon's Evolving Advertising Strategy and Marketplace Concerns",
+            "Category": "Ecommerce",
+            "Description": "Amazon is refining its advertising strategy, aiming to attract more advertisers with a more cohesive and appealing pitch. Meanwhile, the reliance of numerous merchants on Amazon's marketplace raises concerns about dependency and potential vulnerabilities.",
+            "Links": [
+                "https://www.practicalecommerce.com/amazon-marketplace-fears",
+                "https://digiday.com/marketing/marketing-briefing-how-amazon-has-elevated-their-game-with-a-more-cohesive-pitch-to-appeal-to-advertisers/",
+                "https://www.practicalecommerce.com/chrome-extensions-for-search-console"
             ]
         }
     ],
