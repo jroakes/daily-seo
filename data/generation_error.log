@@ -4036,3 +4036,143 @@ Error occurred at 2024-05-27 20:03:10.047958:
 RESPONSE: 
 {"stories": [{"Title": "Microsoft Services Restored After Major Outage", "Category": "Technology", "Description": "Microsoft experienced a major outage that disrupted services such as Bing Search, Copilot, ChatGPT, and even DuckDuckGo globally. The outage lasted over 24 hours, and while the cause remains undisclosed, Microsoft confirmed the restoration of services.", "Links": ["https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-fixed-worldwide-after-24-hour-outage/", "https://www.globalvillagespace.com/massive-outage-disrupts-microsoft-services-bing-and-ai-tools-globally/", "https://dataconomy.com/2024/05/24/microsoft-outage-bing-chatgpt-duckgogo/"]}, {"Title": "Google AI Overviews Draw Criticism for Inaccuracies and Potential Harm", "Category": "Technology", "Description": "Google's new AI Overviews feature, designed to provide summarized answers to search queries, is facing backlash for delivering inaccurate, misleading, and potentially harmful information. Critics highlight concerns, particularly with \"Your Money or Your Life\" (YMYL) queries, where inaccurate information can have serious consequences.", "Links": ["https://twitter.com/aleyda/status/1794051825907192179", "https://twitter.com/sengineland/status/1794029758453305689", "https://twitter.com/rustybrick/status/1793990307601912031"]}, {"Title": "Google Search Updates Spark Concerns Among Businesses", "Category": "Business", "Description": "Recent updates to Google's search algorithms have raised concerns among airlines, hotels, and retailers who fear a potential drop in direct sales. Businesses are adapting to the changes, which some speculate are related to the increasing prominence of AI-generated search results.", "Links": ["https://gulfnews.com/business/retail/google-search-update-airlines-hotels-and-retailers-fear-seo-algorithm-changes-1.1716576326350", "https://digiday.com/media/why-publishers-fear-traffic-ad-declines-from-googles-ai-generated-search-results/", "https://www.practicalecommerce.com/amazon-marketplace-fears"]}, {"Title": "Google Search Console Reports Fluctuations in Link Data", "Category": "Technology", "Description": "SEOs are reporting significant discrepancies in the number of links displayed within the Google Search Console's link report. While the reason for this discrepancy remains unclear, it has sparked discussions and investigations within the SEO community.", "Links": ["https://www.seroundtable.com/google-search-console-links-report-37450.html", "https://twitter.com/rustybrick/status/1795055096834785371", "https://twitter.com/rustybrick/status/1795096620352070090"]}, {"Title": "Google Search Expands Indexing Capabilities to Include .epub Files", "Category": "Technology", "Description": "Google Search can now index Electronic Publication (.epub) files, expanding the reach and discoverability of digital books and publications. This update provides content creators and publishers with new opportunities to reach their target audience through Google Search.", "Links": ["https://twitter.com/rustybrick/status/1793970449874903278", "https://www.seroundtable.com/google-search-index-electronic-publication-epub-37446.html", "https://twitter.com/rustybrick/status/1794013231872131099"]}]}
 
+Error occurred at 2024-05-31 00:10:57.775001:
+PROMPT: 
+Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
+
+Filter out:
+* Self-promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+IMPORTANT: Only use the FULL provided Source as the link for each item.  DO NOT use any other links
+
+Content for review:
+Who's Responsible for Web Accessibility?
+2024-05-28
+Hint: It's not the core platform, plugins, developers, or even content creators.
+Source: https://www.practicalecommerce.com/whos-responsible-for-web-accessibility
+--------------------
+@Majestic: RT by @aleyda: Aleyda Solis (@aleyda) recommends looking at OpenAI integrations within Google Sheets to effortlessly generate bulk content like titles, meta descriptions, headings, Q&As, and FAQs without the hassle of coding. maj.to/4c1kZeT
+2024-05-28
+
+Source: https://twitter.com/Majestic/status/1795372535611097304
+--------------------
+@aleyda: Btw, I believe a long due recognition to @randfish is due here … I remember (probably you too, if you’ve been doing SEO for more than a decade) when Rand used to get backlash, dismissive comments, and Twitter drama by the suggestion of some of these. I know you’re not in SEO…
+2024-05-28
+
+Source: https://twitter.com/aleyda/status/1795359867030433996
+--------------------
+@aleyda: 🚨 Google Search’s Internal Engineering Documentation Has Leaked and analyzed by @iPullRank 👀 Many of these had been denied to be used by Google👇 * There are 14K ranking features and more in the docs * Google has a feature they compute called “siteAuthority” * Navboost has…
+2024-05-28
+
+Source: https://twitter.com/aleyda/status/1795341283940020248
+--------------------
+What is Information Gain, And How Can I Get It?
+2024-05-28
+Information gain isn’t a new term, but in recent months, it’s a phrase that’s been gaining traction within the search engine optimization (SEO) community. Much of this traction can be attributed to the intersection of changes with Google Search. From Google doing away with the old Helpful Content Up
+Source: https://www.jumpfly.com/blog/what-is-information-gain-and-how-can-i-get-it/
+--------------------
+The Trade Desk's 'premium internet' shift stirs concerns among publishers over ad dollar allocation
+2024-05-28
+The Trade Desk reassures that minimal authentication can still attract ad dollars, but many publishers remain skeptical of relying on UID 2.0 and ceding control over their data.
+Source: https://digiday.com/media/the-trade-desks-premium-internet-shift-stirs-concerns-among-publishers-over-ad-dollar-allocation/
+--------------------
+In the gaming industry, immersive integrations are winning the battle for marketing dollars 
+2024-05-28
+Intrinsic in-game advertising has not yet become a default inclusion in many brands’ marketing budgets. To get inside premium titles, marketers have instead invested in bespoke immersive brand experiences.
+Source: https://digiday.com/marketing/in-the-gaming-industry-immersive-integrations-are-winning-the-battle-for-marketing-dollars-for-now/
+--------------------
+How the Martin family went from part-time vloggers to a family of social media mavens
+2024-05-28
+What started as a part-time, pandemic-induced pregnancy journey vlog has turned into a family business for social media creators Lazara Miranda, Benny Martin and their three boys.
+Source: https://digiday.com/podcasts/how-the-martin-family-went-from-part-time-vloggers-to-a-family-of-social-media-mavens/
+--------------------
+Marketing Briefing: How Amazon has 'elevated their game' with a more cohesive pitch to appeal to advertisers
+2024-05-28
+Amazon continues to make a concerted effort to “elevate” its pitch to advertisers.
+Source: https://digiday.com/marketing/marketing-briefing-how-amazon-has-elevated-their-game-with-a-more-cohesive-pitch-to-appeal-to-advertisers/
+--------------------
+Digiday+ Research: The 2024 brand guide to events
+2024-05-28
+Brands have used events as a way to generate consumer interest in their products for years. As new event strategies continue to emerge, Digiday+ Research looked at the current events landscape.
+Source: https://digiday.com/marketing/digiday-research-the-2024-brand-guide-to-events/
+--------------------
+B2B SEO and the Impact of AI on Organic Search
+2024-05-28
+AI is revolutionizing B2B SEO, but the fundamentals still apply. By strategically using AI and focusing on SEO content, B2B marketers can leverage AI tools to stay ahead of algorithm changes and AI-powered models.
+Source: https://www.emarketer.com/content/b2b-seo-impact-of-ai-on-organic-search
+--------------------
+@randfish: RT by @aleyda: Google search is one of the most secretive, closely-guarded black boxes in the world. Well, maybe not anymore. In the last quarter century, no leak of this magnitude or detail has ever been reported from Google’s search division. If you're in #SEO, you should probably see this.
+2024-05-28
+
+Source: https://twitter.com/randfish/status/1795282226038624418
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value. The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article. Escape any quotes in title value.
+- Description (string): Description of the article. Escape any quotes in description value.
+- Link (string): Link to the content. Only use provided links; do not guess or infer URLs.
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error. Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-05-31 00:10:57.775424:
+RESPONSE: 
+[
+  {
+    "Title": "Aleyda Solis Recommends OpenAI Integrations for Google Sheets",
+    "Description": "Aleyda Solis recommends using OpenAI integrations within Google Sheets to generate bulk content such as titles, meta descriptions, headings, Q\&As, and FAQs effortlessly without coding.",
+    "Link": "https://twitter.com/Majestic/status/1795372535611097304"
+  },
+  {
+    "Title": "Google Search’s Internal Engineering Documentation Has Leaked",
+    "Description": "Google Search's internal engineering documentation has been leaked and analyzed, revealing insights into ranking features, siteAuthority, Navboost, and more.",
+    "Link": "https://twitter.com/aleyda/status/1795341283940020248"
+  },
+  {
+    "Title": "What is Information Gain, And How Can I Get It?",
+    "Description": "The article explains the concept of \"information gain\" in the context of SEO, its growing importance due to recent Google Search changes, and how to achieve it.",
+    "Link": "https://www.jumpfly.com/blog/what-is-information-gain-and-how-can-i-get-it/"
+  },
+  {
+    "Title": "The Trade Desk's 'premium internet' shift stirs concerns among publishers over ad dollar allocation",
+    "Description": "The Trade Desk's move towards a \"premium internet\" model, prioritizing authenticated user data, raises concerns among publishers about ad revenue distribution and data control.",
+    "Link": "https://digiday.com/media/the-trade-desks-premium-internet-shift-stirs-concerns-among-publishers-over-ad-dollar-allocation/"
+  },
+  {
+    "Title": "In the gaming industry, immersive integrations are winning the battle for marketing dollars",
+    "Description": "The article discusses how immersive in-game advertising integrations are gaining traction in the gaming industry, with brands investing in bespoke experiences within premium titles.",
+    "Link": "https://digiday.com/marketing/in-the-gaming-industry-immersive-integrations-are-winning-the-battle-for-marketing-dollars-for-now/"
+  },
+  {
+    "Title": "Marketing Briefing: How Amazon has 'elevated their game' with a more cohesive pitch to appeal to advertisers",
+    "Description": "Amazon is refining its approach to attract advertisers with a more unified and compelling pitch, showcasing its advertising solutions and reach.",
+    "Link": "https://digiday.com/marketing/marketing-briefing-how-amazon-has-elevated-their-game-with-a-more-cohesive-pitch-to-appeal-to-advertisers/"
+  },
+  {
+    "Title": "Digiday+ Research: The 2024 brand guide to events",
+    "Description": "Digiday+ Research examines the evolving landscape of brand events, exploring new strategies and trends in event marketing for 2024.",
+    "Link": "https://digiday.com/marketing/digiday-research-the-2024-brand-guide-to-events/"
+  },
+  {
+    "Title": "B2B SEO and the Impact of AI on Organic Search",
+    "Description": "The article explores how AI is transforming B2B SEO, emphasizing the importance of combining AI tools with fundamental SEO principles for content creation and staying ahead of algorithm updates.",
+    "Link": "https://www.emarketer.com/content/b2b-seo-impact-of-ai-on-organic-search"
+  },
+  {
+    "Title": "Google Search Leak",
+    "Description": "A major leak of Google's search division documentation has occurred, potentially revealing significant insights into the search engine's algorithms and ranking factors.",
+    "Link": "https://twitter.com/randfish/status/1795282226038624418"
+  }
+]
+
