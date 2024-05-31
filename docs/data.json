@@ -2,47 +2,74 @@
     "data": [
         {
             "Title": "Google Search Algorithm Documents Leaked",
-            "Category": "Search Engine Optimization",
-            "Description": "Leaked documents reveal discrepancies in Google's search algorithm practices, showing biases favoring larger websites and contradicting public claims about neutrality and ranking factors. SEO experts express concerns about Google's transparency and the implications for website rankings.",
+            "Category": "Search Engines",
+            "Description": "Leaked documents reveal discrepancies in Google's search algorithm practices, showing biases favoring larger websites and contradicting public claims about neutrality and ranking factors. The documents, totaling over 14,000 ranking features, expose how Google secretly curates the internet and the extent of data collection from websites and users. Google has confirmed the leak but urges caution when interpreting the information, stating that the documentation lacks context and is outdated.",
             "Links": [
                 "https://www.techtimes.com/articles/305182/20240530/seo-experts-leaked-documents-expose-google-lying-search-algorithm.htm",
-                "https://searchengineland.com/how-seo-moves-forward-google-leak-442749",
-                "https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410"
+                "https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410",
+                "https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo"
             ]
         },
         {
             "Title": "Google Search Console Link Report Experiencing Issues",
-            "Category": "Search Engine Optimization",
-            "Description": "Numerous reports indicate problems with the Google Search Console link report, with many users experiencing significant declines in link counts, some even reporting zero links. The issue is causing concern within the SEO community, and Google is currently investigating.",
+            "Category": "Search Engines",
+            "Description": "Google Search Console's link report is experiencing widespread issues, with many users reporting significant declines in link counts, some even showing zero links. Google has acknowledged the issue and is currently investigating the cause and working on a fix.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796247956854567131",
-                "https://twitter.com/rustybrick/status/1796187559015702723",
-                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736"
+                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736",
+                "https://www.dmnews.com/unexplained-decrease-in-google-link-reports-concerns-seo-community/"
             ]
         },
         {
-            "Title": "Google AI Search Outperforms Competitors, SOCi Study Finds",
-            "Category": "Artificial Intelligence",
-            "Description": "According to search focus marking platform SOCi, Google's AI search software continues to outperform its competitors, with OpenAI's ChatGPT trailing behind. The study highlights Google's prioritization of local data and its advanced algorithms as key factors in its dominance.",
+            "Title": "Google AI Overviews Spark Debate",
+            "Category": "Search Engines",
+            "Description": "Google's AI Overviews feature, which provides AI-generated summaries in search results, has sparked debate within the SEO community. While Google claims the feature improves user experience and clickthrough rates, some experts argue that it prioritizes Google's own content and reduces traffic to other websites. The leak of internal documents has further fueled concerns about transparency and potential biases in Google's search algorithms.",
             "Links": [
-                "https://finance.yahoo.com/video/google-still-dominates-ai-search-213358825.html"
+                "https://finance.yahoo.com/video/google-still-dominates-ai-search-213358825.html",
+                "https://www.xda-developers.com/googles-ai-overview-tailspin-bing-search-shine/",
+                "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/"
             ]
         },
         {
-            "Title": "Google Maps Introduces Wheelchair-Accessible Icon",
-            "Category": "Accessibility",
-            "Description": "Google Maps is enhancing accessibility by adding a wheelchair-accessible icon to business listings. This feature aims to assist people with disabilities in easily identifying and locating businesses that cater to their needs.",
+            "Title": "Google Discover Experiencing Loading Issues",
+            "Category": "Search Engines",
+            "Description": "Google Discover is experiencing an outage, with some users reporting that the feed is not loading. Google has confirmed the issue and is working on a fix. The outage appears to be affecting some Pixel users in particular.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1796236632221172167",
-                "https://twitter.com/rustybrick/status/1796176234306847026"
+                "https://twitter.com/rustybrick/status/1795889343921263030",
+                "https://twitter.com/rustybrick/status/1795784905865281617",
+                "https://twitter.com/rustybrick/status/1796568330272112897"
             ]
         },
         {
             "Title": "Microsoft to Retire Bing Maps for Enterprise",
             "Category": "Mapping Services",
-            "Description": "Microsoft announces the retirement of its Bing Maps for Enterprise service, effective June 30, 2028. The company will merge its technology and data with Azure Maps, discontinuing new customer acquisitions after June 30, 2024.",
+            "Description": "Microsoft has announced that it will be retiring its Bing Maps for Enterprise service on June 30, 2028. The company will no longer accept new customers after June 30, 2024. Microsoft plans to merge the technology and data from Bing Maps for Enterprise into Azure Maps.",
             "Links": [
                 "https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps/"
+            ]
+        },
+        {
+            "Title": "EU Investigates Bing Over AI Concerns",
+            "Category": "Artificial Intelligence",
+            "Description": "The European Commission has ordered Microsoft to provide information on how its Bing search engine detects and prevents the spread of deepfakes and potential voter manipulation. The investigation highlights growing concerns about the potential misuse of AI technologies.",
+            "Links": [
+                "https://coingeek.com/eu-chases-microsoft-bing-over-ai-hallucinations-deepfakes/"
+            ]
+        },
+        {
+            "Title": "OpenAI Announces ChatGPT Edu for Universities",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI has unveiled ChatGPT Edu, an affordable version of its ChatGPT AI chatbot specifically designed for universities. The new offering includes access to GPT-4o, the ability to create custom GPTs, and higher message limits compared to the free tier.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1796509041889325514"
+            ]
+        },
+        {
+            "Title": "TikTok Explores US-Specific Algorithm",
+            "Category": "Social Media",
+            "Description": "TikTok is reportedly developing a separate version of its recommendation algorithm specifically for its US users. The move comes amid ongoing scrutiny from US lawmakers and could potentially lead to a version of the platform that operates independently of its Chinese parent company.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1796518441261621589"
             ]
         }
     ],
