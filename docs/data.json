@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Leak",
-            "Category": "Search Engines",
-            "Description": "Leaked documents have revealed discrepancies in Google's search algorithm practices, contradicting public claims about neutrality and ranking factors. The documents suggest biases favoring larger websites and expose a complex system of ranking features. Google has acknowledged the leak but urges caution in interpreting the information, stating that it lacks context and is outdated. SEO experts are analyzing the leaked data to understand its implications for website rankings and search engine optimization strategies.",
+            "Title": "Google Search Algorithm Documents Leaked",
+            "Category": "Search Engine Optimization",
+            "Description": "Leaked documents reveal discrepancies in Google's search algorithm practices, showing biases favoring larger websites and contradicting public claims about neutrality and ranking factors. The leak, which includes thousands of pages of internal documents, has sparked controversy and raised concerns about transparency in how Google ranks websites.",
             "Links": [
                 "https://www.techtimes.com/articles/305182/20240530/seo-experts-leaked-documents-expose-google-lying-search-algorithm.htm",
                 "https://searchengineland.com/how-seo-moves-forward-google-leak-442749",
@@ -11,46 +11,49 @@
             ]
         },
         {
-            "Title": "Google Search Console Reporting Issues",
-            "Category": "Search Engines",
-            "Description": "Google Search Console is experiencing reporting issues, with many users reporting significant declines in link counts, some even showing zero links. Google has acknowledged the issue and is working on a fix. The bug appears to coincide with the rollout of AI overviews in search results. SEOs and website owners are advised to monitor the situation and wait for an official resolution from Google.",
+            "Title": "Google Search Console Link Report Experiencing Issues",
+            "Category": "Search Engine Optimization",
+            "Description": "Numerous users are reporting issues with the Google Search Console link report, with many experiencing significant declines in link counts, some even showing zero links. The issue appears to be widespread and Google is currently investigating the cause.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796247956854567131",
-                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736",
-                "https://www.dmnews.com/unexplained-decrease-in-google-link-reports-concerns-seo-community/"
+                "https://twitter.com/rustybrick/status/1796187559015702723",
+                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736"
             ]
         },
         {
-            "Title": "Google Dominates AI Search Performance",
+            "Title": "Google Updates Spam Reporting Tool",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has added two new options to its spam reporting tool: \"Site reputation abuse\" and \"Expired domain abuse.\" These additions aim to provide users with more specific ways to report spam and potentially improve the overall search experience.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1796248711854539040",
+                "https://twitter.com/rustybrick/status/1796188565732503629",
+                "https://twitter.com/rustybrick/status/1796145987188076947"
+            ]
+        },
+        {
+            "Title": "Google Maps Introduces Wheelchair Accessibility Icon",
+            "Category": "Accessibility",
+            "Description": "Google Maps is enhancing accessibility by adding a wheelchair-accessible icon to business listings. This feature aims to make it easier for people with disabilities to identify and locate businesses that meet their accessibility needs.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1796236632221172167",
+                "https://twitter.com/rustybrick/status/1796176234306847026",
+                "https://twitter.com/rustybrick/status/1796137227183165496"
+            ]
+        },
+        {
+            "Title": "Google's AI Search Performance Still Excels",
             "Category": "Artificial Intelligence",
-            "Description": "A recent study by SOCi has found that Google's AI search software continues to outperform its competitors, with OpenAI's ChatGPT trailing behind. The study highlights Google's long-standing focus on local data and its advanced algorithms as key factors in its dominance. While generative AI tools like ChatGPT have access to vast amounts of information, Google's prioritization of local data and refined algorithms give it an edge in search performance.",
+            "Description": "A recent study by SOCi reveals that Google's AI-powered search software continues to outperform competitors, with OpenAI's ChatGPT lagging behind. The study highlights Google's dominance in local search and its advanced algorithms that prioritize relevant data.",
             "Links": [
                 "https://finance.yahoo.com/video/google-still-dominates-ai-search-213358825.html"
             ]
         },
         {
-            "Title": "Accessibility Features Added to Google Maps",
-            "Category": "Accessibility",
-            "Description": "Google Maps is introducing a wheelchair-accessible icon to business listings, enhancing accessibility for users with disabilities. This feature aims to make it easier for individuals to identify businesses that meet their accessibility needs. The icon will be displayed on Google Business Profiles, providing users with clear information about a location's accessibility features.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1796236632221172167",
-                "https://twitter.com/rustybrick/status/1796176234306847026"
-            ]
-        },
-        {
             "Title": "Microsoft to Retire Bing Maps for Enterprise",
-            "Category": "Mapping Services",
-            "Description": "Microsoft has announced the retirement of its Bing Maps for Enterprise service, effective June 30, 2028. The company will no longer accept new customers for the service after June 30, 2024. Microsoft plans to merge the technology and data from Bing Maps for Enterprise into Azure Maps, its cloud-based mapping platform.",
+            "Category": "Technology",
+            "Description": "Microsoft announces the retirement of its Bing Maps for Enterprise service, effective June 30, 2028. The company plans to merge its technology and data with Azure Maps, discontinuing new customer acquisitions after June 30, 2024.",
             "Links": [
                 "https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps/"
-            ]
-        },
-        {
-            "Title": "EU Investigates Bing Over AI Concerns",
-            "Category": "Artificial Intelligence",
-            "Description": "The European Commission has launched an investigation into Microsoft's Bing search engine, focusing on concerns related to AI hallucinations and deepfakes. The Commission has requested information from Microsoft on how its systems detect and prevent the spread of deepfakes and potential voter manipulation on Bing. The investigation highlights growing concerns about the responsible use of AI in search and content dissemination.",
-            "Links": [
-                "https://coingeek.com/eu-chases-microsoft-bing-over-ai-hallucinations-deepfakes/"
             ]
         }
     ],
