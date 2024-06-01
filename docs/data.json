@@ -1,77 +1,45 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Documents Leaked",
-            "Category": "Search Engines",
-            "Description": "Leaked documents reveal discrepancies in Google's search algorithm practices, showing biases favoring larger websites and contradicting public claims about neutrality and ranking factors. The documents, totaling over 14,000 ranking features, expose how Google secretly curates the internet and the extent of data collection from websites and users. Google has confirmed the leak but urges caution when interpreting the information, stating that the documentation lacks context and is outdated.",
+            "Title": "Google Search Algorithm Details Leaked",
+            "Category": "Search Engine Optimization",
+            "Description": "A massive leak of internal Google documents has revealed details about the search engine's ranking algorithms, sparking controversy and discussion within the SEO community. The leaked information includes insights into how Google collects data, ranks websites, and the factors influencing search results.  SEO experts have expressed concerns about discrepancies between Google's public statements and the practices revealed in the documents.",
             "Links": [
-                "https://www.techtimes.com/articles/305182/20240530/seo-experts-leaked-documents-expose-google-lying-search-algorithm.htm",
-                "https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410",
-                "https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo"
-            ]
-        },
-        {
-            "Title": "Google Search Console Link Report Experiencing Issues",
-            "Category": "Search Engines",
-            "Description": "Google Search Console's link report is experiencing widespread issues, with many users reporting significant declines in link counts, some even showing zero links. Google has acknowledged the issue and is currently investigating the cause and working on a fix.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1796247956854567131",
-                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736",
-                "https://www.dmnews.com/unexplained-decrease-in-google-link-reports-concerns-seo-community/"
+                "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
+                "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5",
+                "https://qz.com/emails/daily-brief/1851510817/google-seo-leak-mcdonald-inflation-donald-trump-guilty"
             ]
         },
         {
             "Title": "Google AI Overviews Spark Debate",
-            "Category": "Search Engines",
-            "Description": "Google's AI Overviews feature, which provides AI-generated summaries in search results, has sparked debate within the SEO community. While Google claims the feature improves user experience and clickthrough rates, some experts argue that it prioritizes Google's own content and reduces traffic to other websites. The leak of internal documents has further fueled concerns about transparency and potential biases in Google's search algorithms.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI-powered search overviews, designed to provide concise summaries of search topics, have generated mixed reactions. While some users appreciate the convenience, others have raised concerns about potential biases, accuracy, and the impact on website traffic. Google has responded to the criticism, emphasizing its commitment to responsible AI implementation and highlighting improvements made to the feature.",
             "Links": [
-                "https://finance.yahoo.com/video/google-still-dominates-ai-search-213358825.html",
-                "https://www.xda-developers.com/googles-ai-overview-tailspin-bing-search-shine/",
+                "https://twitter.com/rustybrick/status/1796614119488921814",
+                "https://twitter.com/aleyda/status/1796612712832618764",
                 "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/"
             ]
         },
         {
-            "Title": "Google Discover Experiencing Loading Issues",
+            "Title": "Google News Experiences Outages",
             "Category": "Search Engines",
-            "Description": "Google Discover is experiencing an outage, with some users reporting that the feed is not loading. Google has confirmed the issue and is working on a fix. The outage appears to be affecting some Pixel users in particular.",
+            "Description": "Google News services, including the search tab, home page, and Discover feed, experienced widespread outages, leaving users unable to access news content. The disruptions sparked speculation and highlighted the platform's significance for news publishers and consumers alike. Google acknowledged the issue and worked to restore functionality, eventually resolving the outages.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1795889343921263030",
-                "https://twitter.com/rustybrick/status/1795784905865281617",
-                "https://twitter.com/rustybrick/status/1796568330272112897"
+                "https://twitter.com/rustybrick/status/1796568330272112897",
+                "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back",
+                "https://twitter.com/rustybrick/status/1796529307709591887"
             ]
         },
         {
-            "Title": "Microsoft to Retire Bing Maps for Enterprise",
-            "Category": "Mapping Services",
-            "Description": "Microsoft has announced that it will be retiring its Bing Maps for Enterprise service on June 30, 2028. The company will no longer accept new customers after June 30, 2024. Microsoft plans to merge the technology and data from Bing Maps for Enterprise into Azure Maps.",
+            "Title": "Google Search Console Link Report Anomalies",
+            "Category": "Search Engine Optimization",
+            "Description": "Webmasters and SEO professionals reported significant discrepancies in the link data provided by Google Search Console. Many users observed a massive drop in the number of reported backlinks, with some even seeing a complete absence of link data. The issue coincided with the rollout of AI overviews, raising questions about a potential bug within the tool.",
             "Links": [
-                "https://www.neowin.net/news/microsoft-will-retire-bing-maps-for-enterprise-will-merge-its-tech-and-data-with-azure-maps/"
-            ]
-        },
-        {
-            "Title": "EU Investigates Bing Over AI Concerns",
-            "Category": "Artificial Intelligence",
-            "Description": "The European Commission has ordered Microsoft to provide information on how its Bing search engine detects and prevents the spread of deepfakes and potential voter manipulation. The investigation highlights growing concerns about the potential misuse of AI technologies.",
-            "Links": [
-                "https://coingeek.com/eu-chases-microsoft-bing-over-ai-hallucinations-deepfakes/"
-            ]
-        },
-        {
-            "Title": "OpenAI Announces ChatGPT Edu for Universities",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has unveiled ChatGPT Edu, an affordable version of its ChatGPT AI chatbot specifically designed for universities. The new offering includes access to GPT-4o, the ability to create custom GPTs, and higher message limits compared to the free tier.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796509041889325514"
-            ]
-        },
-        {
-            "Title": "TikTok Explores US-Specific Algorithm",
-            "Category": "Social Media",
-            "Description": "TikTok is reportedly developing a separate version of its recommendation algorithm specifically for its US users. The move comes amid ongoing scrutiny from US lawmakers and could potentially lead to a version of the platform that operates independently of its Chinese parent company.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796518441261621589"
+                "https://twitter.com/rustybrick/status/1796247956854567131",
+                "https://searchengineland.com/google-search-console-link-report-may-be-broken-today-442736",
+                "https://twitter.com/glenngabe/status/1796156018528813233"
             ]
         }
     ],
-    "date": "2024-05-31"
+    "date": "2024-06-01"
 }
