@@ -1,29 +1,29 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Leak",
-            "Category": "Search Engine Optimization",
-            "Description": "A significant number of internal Google documents have leaked, offering insight into how the search engine ranks websites. The leak has sparked fury and frustration among SEO experts, who claim the documents expose discrepancies between Google's public statements and actual practices. The leaked information details data collection practices and potential implications for SEO and user privacy.",
+            "Title": "Google Search Algorithm Documents Leaked",
+            "Category": "Search Engines",
+            "Description": "A significant number of internal Google documents have leaked, offering insight into how the search engine ranks websites. The leak has sparked controversy and discussion within the SEO community, with some experts claiming it exposes discrepancies between Google's public statements and actual practices.",
             "Links": [
-                "https://twitter.com/aleyda/status/1796826425124700548",
                 "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
-                "https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks"
+                "https://www.techtimes.com/articles/305182/20240530/seo-experts-leaked-documents-expose-google-lying-search-algorithm.htm",
+                "https://mashable.com/article/google-search-content-api-warehouse-seo-leak"
             ]
         },
         {
             "Title": "Google AI Overviews Spark Debate",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's AI Overviews, a new feature in search results, have generated controversy and discussion within the SEO community. While some experts believe AI Overviews can be beneficial, others have raised concerns about potential bias, accuracy, and the impact on website traffic. Google has responded to the criticism, stating that AI Overviews are here to stay but will be refined to address concerns about misinformation.",
+            "Category": "Search Engines",
+            "Description": "Google's AI Overviews, a new feature in search results, have generated mixed reactions. While some see them as helpful summaries, others criticize their potential for bias and misinformation. Google has responded to the criticism, stating that AI Overviews are here to stay but will be refined to address concerns.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796614119488921814",
-                "https://twitter.com/aleyda/status/1796612712832618764",
-                "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/"
+                "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/",
+                "https://searchengineland.com/google-explains-how-it-is-improving-its-ai-overviews-442800"
             ]
         },
         {
             "Title": "Google News Experiences Outage",
             "Category": "Search Engines",
-            "Description": "Google News and Discover experienced an outage, causing disruptions for users and publishers. Google acknowledged the issue and worked on a fix, eventually resolving the outage. The incident led some users to try alternative news platforms like Bing News.",
+            "Description": "Google News and Discover suffered an outage, disrupting services for users and publishers. Google acknowledged the issue, worked on a fix, and has since resolved the problem. The outage sparked speculation and led some users to explore alternative news platforms like Bing News.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796568330272112897",
                 "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back",
@@ -31,29 +31,47 @@
             ]
         },
         {
-            "Title": "LinkedIn Updates Link Previews",
-            "Category": "Social Media",
-            "Description": "LinkedIn is updating link previews in organic posts with smaller images. This change, announced a few months ago, will eventually be rolled out to all organic posts.",
+            "Title": "Google Search Console Link Reporting Issues",
+            "Category": "Search Engines",
+            "Description": "Numerous users have reported significant discrepancies in link data within Google Search Console. Some have experienced substantial declines in reported link counts, with some even seeing zero links displayed. Google is currently investigating the issue, which is believed to be a bug.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1796888158707073151"
+                "https://twitter.com/rustybrick/status/1796342296402944223",
+                "https://twitter.com/glenngabe/status/1796156018528813233",
+                "https://twitter.com/rustybrick/status/1796187559015702723"
+            ]
+        },
+        {
+            "Title": "Trust in Google Remains Low Among SEOs",
+            "Category": "Search Engines",
+            "Description": "A recent survey reveals that only 10% of SEO professionals trust Google's statements on search, a figure that has remained consistent over the past decade. This highlights the strained relationship between the search giant and the SEO community, particularly in light of recent controversies and algorithm updates.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1796602795220726060",
+                "https://twitter.com/rustybrick/status/1796542397217898940",
+                "https://twitter.com/rustybrick/status/1796502131824029868"
             ]
         },
         {
             "Title": "Meta Notifies EU Users About AI Data Usage",
             "Category": "Privacy",
-            "Description": "Meta is notifying Instagram and Facebook EU users that it is using their data to train its AI models. Users have the option to opt out, although it's unclear how effective the opt-out process will be.",
+            "Description": "Meta is notifying Instagram and Facebook users in the EU that their data is being used to train its AI models. Users have the option to opt out, although Meta notes that objections may not always be honored. This move comes amidst growing scrutiny of how tech companies utilize user data for AI development.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1796884405857730725"
             ]
         },
         {
-            "Title": "Google Search Console Link Reporting Issues",
-            "Category": "Search Engine Optimization",
-            "Description": "Numerous users have reported issues with the Google Search Console link report, with many experiencing significant declines in link counts, some even dropping to zero. This appears to be a bug that Google is expected to address.",
+            "Title": "OpenAI Launches ChatGPT Edu for Universities",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI has unveiled ChatGPT Edu, a specialized version of its AI chatbot designed for universities. This affordable offering provides access to GPT-4o, custom GPT creation, and higher message limits compared to the free tier. ChatGPT Edu aims to enhance education by enabling students and faculty to leverage advanced AI capabilities.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1796342296402944223",
-                "https://twitter.com/rustybrick/status/1796187559015702723",
-                "https://twitter.com/glenngabe/status/1796156018528813233"
+                "https://twitter.com/glenngabe/status/1796509041889325514"
+            ]
+        },
+        {
+            "Title": "Brave Search Launches Search Ads",
+            "Category": "Advertising",
+            "Description": "Brave, the privacy-focused web browser, has officially launched Search Ads after 18 months of testing. Major brands like Amazon Ads, Dell, and Shutterstock have already participated in the beta program. This move allows Brave to monetize its search engine while offering users a potentially less intrusive advertising experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1797252922666811661"
             ]
         }
     ],
