@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Documents Leaked",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A significant number of internal Google documents have leaked, offering insight into how the search engine ranks websites. SEO specialists are analyzing the documents to understand the implications for website rankings and SEO practices.  Some experts suggest the leaks expose discrepancies between Google's public statements and actual practices, potentially raising concerns about transparency and fairness in search results.",
+            "Title": "Google Search Algorithm Leak",
+            "Category": "Search Engine Optimization",
+            "Description": "A significant number of internal Google documents have leaked, offering insight into how the search engine ranks websites. The leak has sparked fury and frustration among SEO experts, who claim the documents expose discrepancies between Google's public statements and actual practices. The leaked information details data collection practices and potential implications for SEO and user privacy.",
             "Links": [
+                "https://twitter.com/aleyda/status/1796826425124700548",
                 "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
-                "https://www.techtimes.com/articles/305182/20240530/seo-experts-leaked-documents-expose-google-lying-search-algorithm.htm",
-                "https://mashable.com/article/google-search-content-api-warehouse-seo-leak"
+                "https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks"
             ]
         },
         {
             "Title": "Google AI Overviews Spark Debate",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's AI Overviews, a new feature in search results, are generating discussion and some criticism. While Google claims the feature is as accurate as featured snippets, some SEO professionals are concerned about potential biases and the impact on website traffic.  There are ongoing efforts to analyze the prevalence of AI Overviews across different industries and understand how to optimize content for inclusion.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI Overviews, a new feature in search results, have generated controversy and discussion within the SEO community. While some experts believe AI Overviews can be beneficial, others have raised concerns about potential bias, accuracy, and the impact on website traffic. Google has responded to the criticism, stating that AI Overviews are here to stay but will be refined to address concerns about misinformation.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796614119488921814",
                 "https://twitter.com/aleyda/status/1796612712832618764",
@@ -23,7 +23,7 @@
         {
             "Title": "Google News Experiences Outage",
             "Category": "Search Engines",
-            "Description": "Google News and Discover experienced an outage, causing disruptions for users and publishers. Google acknowledged the issue and worked to resolve it.  The outage led some users to try alternative news platforms like Bing News.",
+            "Description": "Google News and Discover experienced an outage, causing disruptions for users and publishers. Google acknowledged the issue and worked on a fix, eventually resolving the outage. The incident led some users to try alternative news platforms like Bing News.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796568330272112897",
                 "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back",
@@ -31,29 +31,29 @@
             ]
         },
         {
-            "Title": "Google Search Console Link Reporting Issues",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Numerous users are reporting issues with the link reporting feature in Google Search Console, with many seeing significant declines or even zero links reported. This appears to be a bug, and Google is likely working on a fix.",
+            "Title": "LinkedIn Updates Link Previews",
+            "Category": "Social Media",
+            "Description": "LinkedIn is updating link previews in organic posts with smaller images. This change, announced a few months ago, will eventually be rolled out to all organic posts.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1796342296402944223",
-                "https://twitter.com/glenngabe/status/1796156018528813233",
-                "https://twitter.com/rustybrick/status/1796187559015702723"
+                "https://twitter.com/glenngabe/status/1796888158707073151"
             ]
         },
         {
             "Title": "Meta Notifies EU Users About AI Data Usage",
             "Category": "Privacy",
-            "Description": "Meta is notifying Instagram and Facebook users in the EU that it is using their data to train its AI models. Users have the option to opt out, although it's unclear how effective the opt-out process will be.",
+            "Description": "Meta is notifying Instagram and Facebook EU users that it is using their data to train its AI models. Users have the option to opt out, although it's unclear how effective the opt-out process will be.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1796884405857730725"
             ]
         },
         {
-            "Title": "OpenAI Launches ChatGPT Edu for Universities",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has unveiled ChatGPT Edu, an affordable version of its AI chatbot designed specifically for universities. The platform offers GPT-4 access, custom GPT creation, and higher message limits compared to the free tier.",
+            "Title": "Google Search Console Link Reporting Issues",
+            "Category": "Search Engine Optimization",
+            "Description": "Numerous users have reported issues with the Google Search Console link report, with many experiencing significant declines in link counts, some even dropping to zero. This appears to be a bug that Google is expected to address.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1796509041889325514"
+                "https://twitter.com/rustybrick/status/1796342296402944223",
+                "https://twitter.com/rustybrick/status/1796187559015702723",
+                "https://twitter.com/glenngabe/status/1796156018528813233"
             ]
         }
     ],
