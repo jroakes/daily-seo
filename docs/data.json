@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Search Algorithm Volatility in June 2024",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Multiple sources reported extreme volatility in Google Search rankings throughout June 2024, with a peak occurring on June 1st.  Various SEO tracking tools reflected these extreme fluctuations, and the event sparked widespread discussion within the SEO community.",
+            "Category": "Search Engine Optimization",
+            "Description": "Multiple sources reported extreme volatility in Google Search rankings throughout June 2024, with a peak on June 1st. Various SEO tools reflected these fluctuations, and the SEO community engaged in extensive discussions about the unusual activity.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797248045068730744",
                 "https://twitter.com/rustybrick/status/1797242167552798900",
@@ -11,29 +11,37 @@
             ]
         },
         {
-            "Title": "Leaked Google Search Documents Reveal Insights into Ranking Algorithms",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A significant leak of internal Google documents provided insights into how the search engine ranks websites, sparking discussions and analysis within the SEO community. The documents revealed details about Google's ranking factors, algorithms, and strategies.",
+            "Title": "Brave Launches Search Ads Platform",
+            "Category": "Search Engines",
+            "Description": "Brave announced the launch of its Search Ads platform after 18 months of testing.  Initial participants in the beta include brands like Amazon Ads Sponsored Products, Dell, Fubo, Insurify, Shutterstock, and Thumbtack.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1797252922666811661"
+            ]
+        },
+        {
+            "Title": "Leaked Google Search Documents Reveal SEO Insights",
+            "Category": "Search Engine Optimization",
+            "Description": "A significant leak of internal Google documents provided insights into the search engine's ranking algorithms and SEO practices. The documents sparked controversy and discussion within the SEO community, raising questions about transparency and potential changes to ranking factors.",
             "Links": [
                 "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
-                "https://twitter.com/aleyda/status/1796826425124700548",
+                "https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks",
                 "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5"
             ]
         },
         {
             "Title": "Google AI Overviews Spark Debate and Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's AI-powered overviews in search results generated both praise and criticism, leading to discussions about their accuracy, impact on website traffic, and optimization strategies. Google responded to the feedback by explaining its approach, highlighting improvements, and emphasizing their integration with core ranking systems.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI-powered overviews in search results generated both praise and criticism, leading to discussions about their accuracy, impact on website traffic, and potential for manipulation. Google responded by addressing concerns, highlighting improvements, and emphasizing their permanence as a search feature.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796614119488921814",
                 "https://twitter.com/aleyda/status/1796612712832618764",
-                "https://searchengineland.com/google-explains-how-it-is-improving-its-ai-overviews-442800"
+                "https://twitter.com/glenngabe/status/1796510083339129076"
             ]
         },
         {
-            "Title": "Google News Experiences Outages and Issues",
+            "Title": "Google News Experiences Outages and Speculation",
             "Category": "Search Engines",
-            "Description": "Google News experienced outages and technical issues, impacting various features including the search tab, home page, and Discover feed. The outages led to speculation and discussion about the reasons behind the downtime and its potential impact on news publishers.",
+            "Description": "Google News faced temporary outages, impacting various features, including the search tab, home page, and Discover feed. The downtime sparked speculation about the cause, with some users reporting blank pages and others experiencing limited functionality.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1796529307709591887",
                 "https://twitter.com/rustybrick/status/1796525197622681640",
@@ -41,35 +49,19 @@
             ]
         },
         {
-            "Title": "Brave Launches Search Ads Platform",
-            "Category": "Advertising & Marketing",
-            "Description": "Brave, the privacy-focused web browser, launched its own search ads platform after 18 months of testing.  Early participants in the beta program include brands like Amazon Ads Sponsored Products, Dell, Fubo, Insurify, Shutterstock, and Thumbtack.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797252922666811661"
-            ]
-        },
-        {
-            "Title": "Meta Notifies EU Users About AI Data Usage",
-            "Category": "Privacy & Data",
-            "Description": "Meta began notifying Instagram and Facebook users in the EU about its use of user data for AI model training.  The company offered an opt-out option, although it did not guarantee that it would honor all objections.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796884405857730725"
-            ]
-        },
-        {
-            "Title": "LinkedIn Updates Link Previews with Smaller Images",
+            "Title": "LinkedIn Reduces Image Size in Organic Post Link Previews",
             "Category": "Social Media",
-            "Description": "LinkedIn announced an update to its platform that will feature smaller images in link previews for organic posts.  The change, which is expected to be rolled out to all users, has raised concerns about potential impacts on engagement.",
+            "Description": "LinkedIn is updating its platform to display smaller images in link previews for organic posts. This change, announced previously, is expected to affect all organic posts eventually and could impact engagement rates.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1796888158707073151"
             ]
         },
         {
-            "Title": "Spotify Raises Premium Price in the US",
-            "Category": "Streaming & Music",
-            "Description": "Spotify announced a price increase for its premium subscription service in the United States, raising the monthly fee to $11.99. The move is expected to generate an additional $1.4 billion in annual revenue for the company.",
+            "Title": "Meta Notifies EU Users About Data Usage for AI Training",
+            "Category": "Privacy",
+            "Description": "Meta is notifying Facebook and Instagram users in the EU about using their data to train AI models. The company is offering an opt-out option, but it's unclear how effectively objections will be honored.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797595621270192211"
+                "https://twitter.com/glenngabe/status/1796884405857730725"
             ]
         }
     ],
