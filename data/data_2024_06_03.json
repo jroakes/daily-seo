@@ -1,0 +1,463 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Brave launches Search Ads",
+            "Description": "Brave launches Search Ads after 18 months of testing, with brands like Amazon Ads Sponsored Products, Dell, Fubo, Insurify, Shutterstock, and Thumbtack participating in the beta.",
+            "Link": "https://twitter.com/glenngabe/status/1797252922666811661"
+        },
+        {
+            "Title": "The AI Video Startups Competing With OpenAI\u2019s Sora",
+            "Description": "Glenn Gabe highlights the emergence of AI video generation software, categorizing them into services that convert text prompts into videos and software with AI-supported video editing features.",
+            "Link": "https://twitter.com/glenngabe/status/1797250857513218308"
+        },
+        {
+            "Title": "Google Search ranking volatility on June 1st",
+            "Description": "Glenn Gabe observes significant Google Search ranking volatility in recent weeks, particularly on June 1st, with various tools indicating extreme fluctuations and heightened discussions within the SEO community.",
+            "Link": "https://twitter.com/glenngabe/status/1797248045068730744"
+        },
+        {
+            "Title": "June 1st Google Search ranking volatility",
+            "Description": "Barry Schwartz reports on the intense Google Search ranking volatility observed over the past few weeks, peaking on June 1st, with numerous tools reflecting extreme fluctuations and unusually high chatter among SEOs.",
+            "Link": "https://twitter.com/rustybrick/status/1797242167552798900"
+        },
+        {
+            "Title": "Google Search Ranking Algorithm Volatility On Saturday June 1st",
+            "Description": "The article reports extreme volatility in Google Search rankings over the past few weeks, peaking on June 1st, as observed by various tools and discussed within the SEO community.",
+            "Link": "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html"
+        },
+        {
+            "Title": "Case study on a site impacted by Google updates",
+            "Description": "Glenn Gabe shares a case study analyzing a website significantly affected by multiple Google updates, including the September 2023 Helpful Content Update, and the subsequent implementation of major changes leading into 2024.",
+            "Link": "https://twitter.com/glenngabe/status/1796891942061539591"
+        },
+        {
+            "Title": "LinkedIn Updates Link Previews in Organic Posts With Smaller Images",
+            "Description": "LinkedIn is updating link previews in organic posts to feature smaller images, a change announced a few months prior and expected to eventually apply to all organic posts, potentially impacting engagement.",
+            "Link": "https://twitter.com/glenngabe/status/1796888158707073151"
+        },
+        {
+            "Title": "Meta is notifying Instagram and Facebook EU users that it's using their data to train its AI models, and users can opt out",
+            "Description": "Meta is notifying Instagram and Facebook users in the EU about using their data for AI model training, offering an opt-out option, although honoring the objection is not guaranteed.",
+            "Link": "https://twitter.com/glenngabe/status/1796884405857730725"
+        },
+        {
+            "Title": "The Google Search API Leak: A Comprehensive Database of...",
+            "Description": "Glenn Gabe shares a resource allowing users to search and filter data from the Google Search API leak based on various criteria, potentially aiding further investigation and analysis.",
+            "Link": "https://twitter.com/glenngabe/status/1796882460434719067"
+        },
+        {
+            "Title": "Analyzing Google Docs leaks",
+            "Description": "Aleyda Solis recommends the website 2596.org, created by Jamie Hodson, for analyzing the leaked Google Docs. The site offers searchability and provides AI-generated overviews of each document.",
+            "Link": "https://twitter.com/aleyda/status/1796826425124700548"
+        },
+        {
+            "Title": "Impact of AI Overviews on Traffic",
+            "Description": "Aleyda Solis observes a generally positive impact on website traffic from the inclusion of AI Overviews, based on tracking data from clients' sites using tools like Ziptie and Semrush.",
+            "Link": "https://twitter.com/aleyda/status/1796824450395971977"
+        },
+        {
+            "Title": "Analysis of Google Search Doc Leak information about backlinks",
+            "Description": "Aleyda Solis highlights an analysis by Olivia Day and James Brockbank on the Google Search Doc Leak's implications for link building and digital PR. The analysis suggests Google might devalue links within content lacking E-E-A-T or from unfamiliar sites.",
+            "Link": "https://twitter.com/aleyda/status/1796808633545613712"
+        },
+        {
+            "Title": "SEO Video Recap: Google Search data leak, ranking volatility, Search Console link declines, core SEO advice, Google tests and so much more",
+            "Description": "Barry Schwartz shares a video recap covering recent SEO news, including the Google Search data leak, ranking volatility, Search Console link declines, core SEO advice, and Google's ongoing tests.",
+            "Link": "https://twitter.com/rustybrick/status/1796617894559674540"
+        },
+        {
+            "Title": "Google AI Overviews are here to stay",
+            "Description": "Barry Schwartz reports on Google's response to criticism surrounding AI Overviews, indicating that the feature will remain and highlighting Google's perspective on its implementation.",
+            "Link": "https://twitter.com/rustybrick/status/1796614119488921814"
+        },
+        {
+            "Title": "Google SGE: How to Make the Best of AI Overviews",
+            "Description": "Aleyda Solis shares an article by Kai Blum on the Mailchimp blog discussing Google's Search Generative Experience (SGE) and providing tips on leveraging AI Overviews effectively.",
+            "Link": "https://twitter.com/aleyda/status/1796612712832618764"
+        },
+        {
+            "Title": "Google Search Shopping ideas carousel",
+            "Description": "Barry Schwartz reports on Google's testing of a \"Shopping ideas\" carousel within Search results, potentially impacting user shopping behavior and product discovery.",
+            "Link": "https://twitter.com/rustybrick/status/1796610344682684426"
+        },
+        {
+            "Title": "Google Knowledge Panels \"see also\"",
+            "Description": "Barry Schwartz notes changes to Google Knowledge Panels, specifically the addition of a \"see also\" section, potentially influencing user exploration of related entities and topics.",
+            "Link": "https://twitter.com/rustybrick/status/1796606569783919086"
+        },
+        {
+            "Title": "What's in the leak of Google's internal search documents?",
+            "Description": "A significant number of internal Google documents leaked this week, offering insight into how the search engine ranks websites.",
+            "Link": "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html"
+        },
+        {
+            "Title": "Google tests opening the first people also ask snippet by default",
+            "Description": "ICYMI: Google tests opening the first people also ask snippet by default",
+            "Link": "https://twitter.com/rustybrick/status/1796599019986211125"
+        },
+        {
+            "Title": "Google is seeking to patent a system for \u201cusing user input to adapt search results\u201d provided in an automated assistant context.",
+            "Description": "Like having a conversation with Jarvis :) -> Google is seeking to patent a system for \u201cusing user input to adapt search results\u201d provided in an automated assistant context. Google\u2019s system modifies search results based on user feedback in a turn-based conversation \"When a user\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1796588054456525040"
+        },
+        {
+            "Title": "Chrome\u2019s new Minimized Custom Tabs are genius",
+            "Description": "Great addition -> Chrome\u2019s new Minimized Custom Tabs are genius \"We now have the ability to use a PIP (picture-in-picture) feature in Chrome Custom Tabs to minimize a tab and leave it floating on-screen for viewing later.\" \"A the top of the Custom Tab, you can simply click the\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1796585212350005463"
+        },
+        {
+            "Title": "I didn't notice, but the first link in Google's AI Overviews update post is to something I wrote in 2019 blog.google/products/searc\u2026",
+            "Description": "I didn't notice, but the first link in Google's AI Overviews update post is to something I wrote in 2019 blog.google/products/searc\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796574212049539121"
+        },
+        {
+            "Title": "SEO Companies in NY and Their Role in Community Engagement -",
+            "Description": "New York has one of the most vibrant communities where people don\u2019t shy away from sharing their opinions, feedback, and everything they love. As more and more people are turning to the internet to post and engage, SEO companies have started curating strategies to channel this community engagement for boosting organic growth for their clients.\u00a0 [\u2026]",
+            "Link": "https://bigeasymagazine.com/2024/05/31/seo-companies-in-ny-and-their-role-in-community-engagement/"
+        },
+        {
+            "Title": "The Google News / Discover issue is fully resolved - story updated at seroundtable.com/google-news-ta\u2026",
+            "Description": "The Google News / Discover issue is fully resolved - story updated at seroundtable.com/google-news-ta\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796568330272112897"
+        },
+        {
+            "Title": "SEO Video Recap: Google Search data leak, ranking volatility, Search Console link declines, core SEO advice, Google tests and so much more youtube.com/watch?v=rOAbK-\u2026",
+            "Description": "SEO Video Recap: Google Search data leak, ranking volatility, Search Console link declines, core SEO advice, Google tests and so much more youtube.com/watch?v=rOAbK-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796557497022697965"
+        },
+        {
+            "Title": "Google News went down and I tried Bing News \u2013 I might never go back",
+            "Description": "The news platform you're not using",
+            "Link": "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back"
+        },
+        {
+            "Title": "Google AI Overviews are here to stay - here is how Google responded to the criticism - Ray Google AI Overviews Update",
+            "Description": "Google AI Overviews are here to stay - here is how Google responded to the criticism - Ray Google AI Overviews Update seroundtable.com/google-ai-over\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796553721695908176"
+        },
+        {
+            "Title": "The biggest findings in the Google Search leak",
+            "Description": "The documents detail data collected by Google.",
+            "Link": "https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks"
+        },
+        {
+            "Title": "Features included some results on Google News, Discover and other products, for those who have asked about specific ones.",
+            "Description": "Features included some results on Google News, Discover and other products, for those who have asked about specific ones.",
+            "Link": "https://twitter.com/searchliaison/status/1796552935067001206"
+        },
+        {
+            "Title": "Google Search Shopping ideas carousel",
+            "Description": "Google Search Shopping ideas carousel seroundtable.com/google-search-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796549947015516209"
+        },
+        {
+            "Title": "Google Knowledge Panels \"see also\"",
+            "Description": "Google Knowledge Panels \"see also\" seroundtable.com/google-knowled\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796546171961307281"
+        },
+        {
+            "Title": "Only 10% of SEOs trust Google",
+            "Description": "Only 10% of SEOs trust Google seroundtable.com/10-of-seos-tru\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796542397217898940"
+        },
+        {
+            "Title": "Google has now confirmed the issue - story updated",
+            "Description": "Google has now confirmed the issue - story updated seroundtable.com/google-news-ta\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1796540734985863634"
+        },
+        {
+            "Title": "There's an ongoing issue with serving some features in Google Search. We've identified the issue and we're working on a fix.",
+            "Description": "There's an ongoing issue with serving some features in Google Search. We've identified the issue and we're working on a fix. status.search.google.com/incidents/6xK7\u2026",
+            "Link": "https://twitter.com/searchliaison/status/1796540379187351794"
+        },
+        {
+            "Title": "Google tests opening the first people also ask snippet by default",
+            "Description": "Google is testing opening the first \"people also ask\" snippet by default in the search results.",
+            "Link": "https://twitter.com/rustybrick/status/1796538622121766950"
+        },
+        {
+            "Title": "Google News search tab and Google News home page seems to be coming back for me - I see news results again",
+            "Description": "Google News search tab and Google News home page appears to be back online after experiencing outages.",
+            "Link": "https://twitter.com/rustybrick/status/1796536613817975066"
+        },
+        {
+            "Title": "Google News services going offline a conspiracy???",
+            "Description": "Speculation arises around the reason for Google News services going offline.",
+            "Link": "https://twitter.com/rustybrick/status/1796532778286391438"
+        },
+        {
+            "Title": "tip @Techmeme Google News is down",
+            "Description": "Reports surface of Google News experiencing downtime.",
+            "Link": "https://twitter.com/rustybrick/status/1796529307709591887"
+        },
+        {
+            "Title": "Google To Limit AI Overviews For \"Nonsensical\" Queries",
+            "Description": "Google announces plans to refine its AI-powered overviews in search results, addressing concerns about their accuracy and relevance for certain queries.",
+            "Link": "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/"
+        },
+        {
+            "Title": "Some important info regarding OpenAI publisher deals, how models are trained & the blocking of GPTBot, the importance of smaller publisher partnerships, and the timeline of displaying publisher data in ChatGPT",
+            "Description": "Discussion on OpenAI's publisher deals, model training practices, the blocking of GPTBot, and the significance of partnerships with smaller publishers.",
+            "Link": "https://twitter.com/glenngabe/status/1796525836985585760"
+        },
+        {
+            "Title": "This is also impacting the Google Discover feed, where sometimes no news is loaded on the Google home page. Plus some Google News sections and Google Trends, and more are not showing",
+            "Description": "The outage affecting Google News is reported to also impact Google Discover, Google Trends, and other Google services.",
+            "Link": "https://twitter.com/rustybrick/status/1796525197622681640"
+        },
+        {
+            "Title": "Yep, it's blank. Wow. A big heads-up for news publishers.",
+            "Description": "Confirmation of Google News outage, highlighting its potential impact on news publishers.",
+            "Link": "https://twitter.com/glenngabe/status/1796523601593851905"
+        },
+        {
+            "Title": "Still learning GA4? -> How To Create A Custom Report in GA4 For Analyzing Campaigns Using UTM Parameters",
+            "Description": "A guide on creating custom reports in Google Analytics 4 (GA4) for analyzing campaigns using UTM parameters.",
+            "Link": "https://twitter.com/glenngabe/status/1796521141873623361"
+        },
+        {
+            "Title": "Google News tab is bugging out for some, so if you see less traffic from Google Search's news tab today, this might be why",
+            "Description": "Google News tab experiencing issues, potentially leading to reduced traffic for websites relying on Google News visibility.",
+            "Link": "https://twitter.com/rustybrick/status/1796520410802262018"
+        },
+        {
+            "Title": "Local SEO According To The Leaked Google API Documents",
+            "Description": "Analysis of leaked Google API documents, revealing insights and implications for local SEO strategies.",
+            "Link": "https://twitter.com/glenngabe/status/1796519787536830592"
+        },
+        {
+            "Title": "TikTok\u2019s Exploring a US Only Version of its Feed Algorithm",
+            "Description": "TikTok is reportedly developing a US-specific version of its feed algorithm, potentially addressing concerns from American lawmakers.",
+            "Link": "https://twitter.com/glenngabe/status/1796518441261621589"
+        },
+        {
+            "Title": "I still don't get AI overviews in my main Google account and I am based in New York - no, I am not clearing my cookies",
+            "Description": "Observation that Google's AI-powered overviews are not yet consistently rolled out to all users, even in major cities like New York.",
+            "Link": "https://twitter.com/rustybrick/status/1796515423028125953"
+        },
+        {
+            "Title": "The Ray Update. I dig it. :) And things will continue to improve on the AI Overviews front. The link cards I'm seeing are stronger than what I saw a week ago (and especially for health/medical queries). It's not perfect, but better.",
+            "Description": "Positive feedback on Google's \"Ray Update,\" particularly its improvements to AI overviews, especially for health-related searches.",
+            "Link": "https://twitter.com/glenngabe/status/1796514597803085827"
+        },
+        {
+            "Title": "SEO Video Recap covering Google Search data leak, ranking volatility, Search Console link declines, core SEO advice, Google tests and so much more",
+            "Description": "A video recap covering recent events in the SEO world, including a Google Search data leak, ranking fluctuations, Search Console link declines, and core SEO advice.",
+            "Link": "https://twitter.com/rustybrick/status/1796512291506036849"
+        },
+        {
+            "Title": "More from Liz Reid's post about improving AI overviews",
+            "Description": "Further insights from Liz Reid, a Google Search Liaison, on the ongoing efforts to enhance AI overviews in search results.",
+            "Link": "https://twitter.com/glenngabe/status/1796510083339129076"
+        },
+        {
+            "Title": "Google AI Overviews are here to stay, with some improvements - in fact, Google said they are as accurate as featured snippets. Let's call this the Ray Google AI Overviews Update",
+            "Description": "Confirmation that Google's AI overviews are a permanent feature in search results, accompanied by improvements and claims of accuracy comparable to featured snippets.",
+            "Link": "https://twitter.com/rustybrick/status/1796509681415803128"
+        },
+        {
+            "Title": "OpenAI unveils ChatGPT Edu, an \u201caffordable\u201d version for universities, including GPT-4o access, custom GPT creation, and higher message limits than the free tier",
+            "Description": "OpenAI launches ChatGPT Edu, a tailored version of its AI chatbot for universities, offering enhanced features and affordability.",
+            "Link": "https://twitter.com/glenngabe/status/1796509041889325514"
+        },
+        {
+            "Title": "Google \"shopping ideas\" carousel within Search",
+            "Description": "Appearance of a \"shopping ideas\" carousel within Google Search results, potentially influencing user shopping behavior.",
+            "Link": "https://twitter.com/rustybrick/status/1796507164762099980"
+        },
+        {
+            "Title": "Google Knowledge Panels \"see also\" feature (is it new?)",
+            "Description": "Discussion around a \"see also\" feature within Google Knowledge Panels, potentially enhancing the discoverability of related entities.",
+            "Link": "https://twitter.com/rustybrick/status/1796504648498483560"
+        },
+        {
+            "Title": "Only 10% of SEOs trust Google statements on search (it is the same percentage from 10 years ago)",
+            "Description": "A survey reveals that only 10% of SEO professionals trust Google's statements about search, highlighting a persistent skepticism within the industry.",
+            "Link": "https://twitter.com/rustybrick/status/1796502131824029868"
+        },
+        {
+            "Title": "Google testing opening the first people also ask snippet by default",
+            "Description": "Google is testing opening the first \"people also ask\" snippet by default in the search results.",
+            "Link": "https://twitter.com/rustybrick/status/1796499615187177844"
+        },
+        {
+            "Title": "A must read from @richsangerSEO going through the Generative summaries for search results patent and how AI Overviews work",
+            "Description": "A look at Google's patent for \"Generative summaries for search results\" and how AI Overviews work.",
+            "Link": "https://twitter.com/aleyda/status/1796492854816379007"
+        },
+        {
+            "Title": "A massive leak of Google Search documents sparks fury across the SEO industry: 'This is another level of war'",
+            "Description": "Leaked Google Search documents reveal insights into the company's SEO tactics, causing a stir in the industry.",
+            "Link": "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5"
+        },
+        {
+            "Title": "\ud83d\udcec Daily Brief: Leaky docs",
+            "Description": "Google's search division faces criticism from internet experts following leaks about its SEO strategies.",
+            "Link": "https://qz.com/emails/daily-brief/1851510817/google-seo-leak-mcdonald-inflation-donald-trump-guilty"
+        },
+        {
+            "Title": "RT by @aleyda: If you're not changing anything about how you do SEO following the Google Leak... You're not paying attention.",
+            "Description": "The Google leak is a significant event that necessitates changes in SEO tactics and strategies.",
+            "Link": "https://twitter.com/randfish/status/1796457746193322108"
+        },
+        {
+            "Title": "Google answering to the backlash from the AI Overviews, explaining how they work and improvements they\u2019ve made",
+            "Description": "Google addresses the backlash against AI Overviews, providing explanations and highlighting improvements.",
+            "Link": "https://twitter.com/aleyda/status/1796409934663295368"
+        },
+        {
+            "Title": "How Klarna is using AI for cost savings, changing 'extremely frustrating' creative processes",
+            "Description": "Klarna leverages AI for ideation, image creation, and translation to enhance personalized campaigns across its 45 markets.",
+            "Link": "https://digiday.com/marketing/how-klarna-is-using-ai-for-cost-savings-changing-extremely-frustrating-creative-processes/"
+        },
+        {
+            "Title": "Digiday+ Research: Publishers continue to rely on programmatic revenue, despite recent issues",
+            "Description": "Despite challenges, publishers remain reliant on programmatic advertising revenue, according to Digiday+ research.",
+            "Link": "https://digiday.com/media/digiday-research-publishers-continue-to-rely-on-programmatic-revenue-despite-recent-issues/"
+        },
+        {
+            "Title": "FullThrottle.AI creates audience planner tool using an AI assistant",
+            "Description": "FullThrottle.AI develops an AI-powered audience targeting tool for agencies.",
+            "Link": "https://digiday.com/media-buying/fullthrottle-ai-creates-audience-planner-tool-using-an-ai-assistant/"
+        },
+        {
+            "Title": "Shrinking budgets leave programmatic marketers with a raw deal",
+            "Description": "Programmatic marketers face challenges as shrinking budgets limit their access to tech tools, staff, and commissions.",
+            "Link": "https://digiday.com/marketing/shrinking-budgets-leaves-programmatic-marketers-with-a-raw-deal/"
+        },
+        {
+            "Title": "\"In the case of health, Google said it launched additional triggering refinements to enhance our quality protections.\"",
+            "Description": "Google implements additional refinements to improve quality protections in health-related searches.",
+            "Link": "https://twitter.com/glenngabe/status/1796346815690006999"
+        },
+        {
+            "Title": "Google is looking into the massive drop in links reported by Google Search Console - story updated",
+            "Description": "Google investigates a reported massive drop in links detected by Google Search Console.",
+            "Link": "https://twitter.com/rustybrick/status/1796342296402944223"
+        },
+        {
+            "Title": "Google explains how it is improving its AI Overviews",
+            "Description": "Google provides insights into its efforts to enhance AI Overviews, stating that policy violations are rare.",
+            "Link": "https://twitter.com/rustybrick/status/1796340986278244673"
+        },
+        {
+            "Title": "Google explains how it is improving its AI Overviews",
+            "Description": "Google clarifies its approach to improving AI Overviews, emphasizing their integration with core ranking systems.",
+            "Link": "https://searchengineland.com/google-explains-how-it-is-improving-its-ai-overviews-442800"
+        }
+    ],
+    "reviewed_urls": [
+        "https://medium.com/@rashisharma17apr/seo-from-hubspot-part-2-dcb5054f5101",
+        "https://twitter.com/aleyda/status/1797255131206971415",
+        "https://twitter.com/glenngabe/status/1797252922666811661",
+        "https://twitter.com/glenngabe/status/1797250857513218308",
+        "https://twitter.com/glenngabe/status/1797248045068730744",
+        "https://twitter.com/mauprieto/status/1797246756087910652",
+        "https://twitter.com/rustybrick/status/1797242167552798900",
+        "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
+        "https://www.practicalecommerce.com/qa-joe-pulizzi-content-entrepreneur",
+        "https://medium.com/@rashisharma17apr/seo-from-hubspot-f8d35c1bda23",
+        "https://www.tapinto.net/towns/hillsborough/sections/arts-and-entertainment/articles/bada-bing-bada-boom-sopranos-star-charms-sellout-crowd-at-patriots-ballpark",
+        "https://twitter.com/Abebab/status/1796933270539588004",
+        "https://medium.com/@uwstreetplanner/the-time-traveling-congress-17c013d4fd7e",
+        "https://twitter.com/glenngabe/status/1796891942061539591",
+        "https://twitter.com/glenngabe/status/1796888158707073151",
+        "https://twitter.com/glenngabe/status/1796884405857730725",
+        "https://twitter.com/glenngabe/status/1796882460434719067",
+        "https://twitter.com/aleyda/status/1796866687960019434",
+        "https://twitter.com/aleyda/status/1796826425124700548",
+        "https://twitter.com/aleyda/status/1796824450395971977",
+        "https://twitter.com/aleyda/status/1796808633545613712",
+        "https://www.01net.com/en/seo/tools/surfer-seo/",
+        "https://medium.com/@sleepyemo220/rask-ais-seo-optimization-a-comprehensive-guide-for-marketing-agencies-0b601785d1a9",
+        "https://www.krqe.com/new-mexico-living/bing-tea-is-a-business-born-out-of-a-love-of-boba/",
+        "https://twitter.com/aleyda/status/1796642014361948210",
+        "https://twitter.com/rustybrick/status/1796617894559674540",
+        "https://twitter.com/rustybrick/status/1796614119488921814",
+        "https://twitter.com/aleyda/status/1796612712832618764",
+        "https://twitter.com/rustybrick/status/1796610344682684426",
+        "https://twitter.com/rustybrick/status/1796606569783919086",
+        "https://twitter.com/aleyda/status/1796603708878324056",
+        "https://twitter.com/aleyda/status/1796603063156830428",
+        "https://twitter.com/rustybrick/status/1796602795220726060",
+        "https://twitter.com/DigitalOlympus/status/1796602544451629280",
+        "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
+        "https://twitter.com/rustybrick/status/1796599019986211125",
+        "https://twitter.com/rustybrick/status/1796595245238583712",
+        "https://www.asiaone.com/business/seotoolboxio-introduces-new-seo-tool-powered-ai-shows-website-owners-how-rank-higher",
+        "https://www.einnews.com/pr_news/716239540/digitech-web-design-austin-pioneering-advanced-seo-technologies-for-the-future",
+        "https://twitter.com/glenngabe/status/1796588054456525040",
+        "https://twitter.com/aleyda/status/1796586101127496016",
+        "https://twitter.com/glenngabe/status/1796585212350005463",
+        "https://twitter.com/aleyda/status/1796583990058746076",
+        "https://twitter.com/rustybrick/status/1796574212049539121",
+        "https://bigeasymagazine.com/2024/05/31/seo-companies-in-ny-and-their-role-in-community-engagement/",
+        "https://twitter.com/searchliaison/status/1796570551936512034",
+        "https://twitter.com/searchliaison/status/1796570551936512034",
+        "https://twitter.com/rustybrick/status/1796568330272112897",
+        "https://twitter.com/rustybrick/status/1796557497022697965",
+        "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back",
+        "https://twitter.com/rustybrick/status/1796553721695908176",
+        "https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks",
+        "https://twitter.com/searchliaison/status/1796552935067001206",
+        "https://twitter.com/searchliaison/status/1796552935067001206",
+        "https://twitter.com/rustybrick/status/1796549947015516209",
+        "https://twitter.com/rustybrick/status/1796546171961307281",
+        "https://twitter.com/rustybrick/status/1796542397217898940",
+        "https://twitter.com/rustybrick/status/1796540734985863634",
+        "https://twitter.com/searchliaison/status/1796540379187351794",
+        "https://twitter.com/searchliaison/status/1796540379187351794",
+        "https://twitter.com/rustybrick/status/1796538622121766950",
+        "https://twitter.com/rustybrick/status/1796536613817975066",
+        "https://twitter.com/rustybrick/status/1796534847394942989",
+        "https://www.practicalecommerce.com/retailer-2bigfeet-shifts-to-dtc",
+        "https://twitter.com/rustybrick/status/1796532778286391438",
+        "https://twitter.com/rustybrick/status/1796529307709591887",
+        "https://www.searchenginejournal.com/google-to-limit-ai-overviews-for-nonsensical-queries/518063/",
+        "https://twitter.com/glenngabe/status/1796525836985585760",
+        "https://twitter.com/rustybrick/status/1796525197622681640",
+        "https://twitter.com/aleyda/status/1796524259461787676",
+        "https://twitter.com/glenngabe/status/1796523601593851905",
+        "https://twitter.com/aleyda/status/1796521306680377544",
+        "https://twitter.com/glenngabe/status/1796521141873623361",
+        "https://twitter.com/rustybrick/status/1796520410802262018",
+        "https://twitter.com/glenngabe/status/1796519787536830592",
+        "https://www.analyticsinsight.net/artificial-intelligence/bing-ai-image-generator-a-detailed-review",
+        "https://twitter.com/glenngabe/status/1796518441261621589",
+        "https://twitter.com/rustybrick/status/1796515423028125953",
+        "https://twitter.com/glenngabe/status/1796514597803085827",
+        "https://twitter.com/JudithLewis/status/1796513356746281235",
+        "https://twitter.com/rustybrick/status/1796512291506036849",
+        "https://www.idsnews.com/article/2024/03/sponsor-how-to-do-local-seo-for-law-firms-in-2024",
+        "https://twitter.com/glenngabe/status/1796511730052247878",
+        "https://twitter.com/glenngabe/status/1796510083339129076",
+        "https://www.openpr.com/news/3517447/from-bigcommerce-multi-storefront-setup-to-seo-services",
+        "https://twitter.com/rustybrick/status/1796509681415803128",
+        "https://twitter.com/glenngabe/status/1796509041889325514",
+        "https://twitter.com/rustybrick/status/1796507164762099980",
+        "https://twitter.com/rustybrick/status/1796504648498483560",
+        "https://twitter.com/rustybrick/status/1796502131824029868",
+        "https://twitter.com/rustybrick/status/1796499615187177844",
+        "https://twitter.com/rustybrick/status/1796496848590426197",
+        "https://twitter.com/aleyda/status/1796492854816379007",
+        "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5",
+        "https://qz.com/emails/daily-brief/1851510817/google-seo-leak-mcdonald-inflation-donald-trump-guilty",
+        "https://twitter.com/randfish/status/1796457746193322108",
+        "https://techeconomy.ng/startup-survival-guide-essential-seo-strategies-for-new-businesses/",
+        "https://www.whatech.com/og/markets-research/industrial/834139-future-proofing-growth-of-corporate-search-engine-optimization-tools-market-size-analytical-overview-growth-factors-demand-and-trends-forecast-to-2031-moz-semrush-ahrefs-google-search-console-screaming-frog",
+        "https://slator.com/event/dual-power-how-to-leverage-google-ads-and-seo-for-total-maximum-impact/",
+        "https://twitter.com/aleyda/status/1796420340773499079",
+        "https://twitter.com/aleyda/status/1796409934663295368",
+        "https://digiday.com/marketing/how-klarna-is-using-ai-for-cost-savings-changing-extremely-frustrating-creative-processes/",
+        "https://digiday.com/media/digiday-research-publishers-continue-to-rely-on-programmatic-revenue-despite-recent-issues/",
+        "https://digiday.com/media/wtf-is-app-sprawl-and-how-does-hr-get-organized/",
+        "https://digiday.com/media-buying/fullthrottle-ai-creates-audience-planner-tool-using-an-ai-assistant/",
+        "https://digiday.com/marketing/shrinking-budgets-leaves-programmatic-marketers-with-a-raw-deal/",
+        "https://pucksandpitchforks.com/posts/jack-hughes-still-gets-love-for-lady-bing-trophy-but-two-other-devils-do-better",
+        "https://www.therolladailynews.com/analyzing-the-impact-of-mobile-optimization-on-shopify-seo-after-google-updates/",
+        "https://twitter.com/glenngabe/status/1796346815690006999",
+        "https://twitter.com/rustybrick/status/1796342296402944223",
+        "https://twitter.com/rustybrick/status/1796340986278244673",
+        "https://searchengineland.com/google-explains-how-it-is-improving-its-ai-overviews-442800"
+    ]
+}
