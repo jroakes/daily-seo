@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Search to Only Use Mobile Crawling After July 5th",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has announced that after July 5, 2024, it will only use its mobile Googlebot Smartphone crawler to crawl and index websites. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This move completes Google's long-running mobile-first indexing initiative, which began 7.5 years ago.",
+            "Title": "Google Completes Mobile-First Indexing Transition",
+            "Category": "Search",
+            "Description": "Google has announced that it will only crawl and index websites with the Googlebot Smartphone crawler after July 5, 2024. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This move completes Google's transition to mobile-first indexing, which began in 2016.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797658783247700415",
                 "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
@@ -11,57 +11,132 @@
             ]
         },
         {
-            "Title": "Google Search Experienced Major Ranking Volatility on June 1st",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search experienced significant ranking volatility on June 1st, 2024, continuing a trend of instability over the previous few weeks.  Many SEO tracking tools reported extreme volatility, and discussions within the SEO community were unusually active for a weekend.",
+            "Title": "Google Search Experiencing High Volatility",
+            "Category": "Search",
+            "Description": "Google Search has been experiencing high ranking volatility over the past few weeks, with many tools showing extreme fluctuations and unusually high chatter within the SEO community.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1797640885188088236",
                 "https://twitter.com/rustybrick/status/1797242167552798900",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
-                "https://twitter.com/glenngabe/status/1797248045068730744"
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html"
             ]
         },
         {
-            "Title": "Leaked Google Search Documents Reveal Insights and Spark Controversy",
-            "Category": "Search Engine Optimization",
-            "Description": "Leaked internal Google Search documents have been circulating, providing insights into the search engine's algorithms and ranking factors. The leaks have generated significant interest and discussion within the SEO community, with some members expressing concerns about a lack of transparency from Google and contradictions with past statements.  Various analyses, resources, and tools related to the leaks have emerged, including a searchable database and a comprehensive analysis of the implications for link building and digital PR.",
+            "Title": "Google Search Console Link Report Issues",
+            "Category": "Search",
+            "Description": "Google is still working on fixing issues with the Google Search Console link report. Users have reported discrepancies in the data, and Google is working to resolve these problems.",
             "Links": [
-                "https://twitter.com/aleyda/status/1797574340508082537",
-                "https://twitter.com/glenngabe/status/1796882460434719067",
-                "https://twitter.com/aleyda/status/1796826425124700548"
+                "https://twitter.com/rustybrick/status/1797567173117841630"
             ]
         },
         {
-            "Title": "SEO Experts Discuss Strategies for Google's AI Overviews",
-            "Category": "Search Engine Optimization",
-            "Description": "SEO professionals are actively exploring ways to optimize websites for Google's AI Overviews, aiming to both secure inclusion and potentially benefit from increased traffic.  Early observations suggest that appearing in AI Overviews can have a positive impact on website traffic.  However, some case studies highlight the potential risks involved, as changes made to optimize for AI Overviews can lead to the loss of other valuable search features, such as featured snippets.",
+            "Title": "Optimizing for Google's AI Overviews",
+            "Category": "Search",
+            "Description": "SEOs are experimenting with ways to get their pages to appear in Google's AI Overviews. Some have seen positive traffic impacts from being included, while others have experienced mixed results, including losing featured snippets.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1797693733628166445",
                 "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html",
-                "https://twitter.com/glenngabe/status/1797600216524202282",
-                "https://twitter.com/aleyda/status/1796824450395971977"
+                "https://twitter.com/rustybrick/status/1797591811881370093"
             ]
         },
         {
-            "Title": "Instagram Tests Unskippable Ads with Countdown Timers",
-            "Category": "Social Media Marketing",
-            "Description": "Instagram is experimenting with a new ad format that includes an unskippable countdown timer, temporarily preventing users from scrolling through their feeds. This move has sparked criticism and concerns among users who view it as intrusive and disruptive to their browsing experience.",
+            "Title": "Google's Use of Spam Reports",
+            "Category": "Search",
+            "Description": "Google has reiterated that it does not take direct action on violations submitted through the spam reporting tool. Instead, the company uses these reports to improve its spam detection algorithms.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/179768618371740883",
+                "https://twitter.com/glenngabe/status/1797598497207693621",
+                "https://twitter.com/rustybrick/status/1797586778464891276"
+            ]
+        },
+        {
+            "Title": "Google Discover May Be Renamed to Google Home",
+            "Category": "Search",
+            "Description": "There is speculation that Google may rename its Discover feed to Google Home.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1797689958615896532",
+                "https://twitter.com/rustybrick/status/1797629560894198246",
+                "https://twitter.com/rustybrick/status/1797589295160860735"
+            ]
+        },
+        {
+            "Title": "Leaked Google Search Documents Spark Discussion",
+            "Category": "Search",
+            "Description": "Leaked internal Google Search documents have sparked discussion within the SEO community, with some members expressing concerns about a lack of transparency and contradicting information previously shared by Google.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1797574340508082537"
+            ]
+        },
+        {
+            "Title": "Instagram Tests Unskippable Ads",
+            "Category": "Social Media",
+            "Description": "Instagram is testing an unskippable ad format that includes a countdown timer and temporarily prevents users from scrolling their feeds.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797711100710170854"
             ]
         },
         {
-            "Title": "Spotify Raises Premium Price in the US to $11.99 per Month",
-            "Category": "Streaming and Music",
-            "Description": "Spotify is increasing the price of its premium subscription service in the United States to $11.99 per month. This price hike is estimated to generate an additional $1.4 billion in annual revenue for the company.",
+            "Title": "LinkedIn Updates Link Previews",
+            "Category": "Social Media",
+            "Description": "LinkedIn has updated link previews in organic posts to feature smaller images. This change is part of a larger update that will eventually affect all organic posts.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1797704271284036083",
+                "https://twitter.com/glenngabe/status/1796888158707073151"
+            ]
+        },
+        {
+            "Title": "Meta Notifies EU Users About Data Use for AI Training",
+            "Category": "Social Media",
+            "Description": "Meta is notifying Instagram and Facebook users in the EU that it is using their data to train its AI models. Users have the option to opt out, but it is unclear if their objections will be honored.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1796884405857730725"
+            ]
+        },
+        {
+            "Title": "Spotify Raises Premium Price in the US",
+            "Category": "Business",
+            "Description": "Spotify is increasing the price of its premium subscription service in the US to $11.99 per month. This move is expected to generate an additional $1.4 billion in revenue per year for the company.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797595621270192211"
             ]
         },
         {
-            "Title": "Microsoft Celebrates Bing's 15th Anniversary",
-            "Category": "Search Engines",
-            "Description": "Microsoft is marking the 15th anniversary of its Bing search engine, which was launched on June 3, 2009. Jordi Ribas, Microsoft's corporate vice president for search and AI, reflected on the search engine's journey and evolution over the years.",
+            "Title": "Ad Industry Expects Surge in Mergers and Acquisitions",
+            "Category": "Business",
+            "Description": "Experts believe that the advertising industry is poised for a surge in mergers and acquisitions. This prediction is based on several factors, including the rapid growth of digital media and the increasing importance of data.",
             "Links": [
-                "https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today/"
+                "https://digiday.com/marketing/ad-market-braces-for-ma-surge/"
+            ]
+        },
+        {
+            "Title": "Media Agencies Invest in PR and AI",
+            "Category": "Business",
+            "Description": "Media agencies are acquiring public relations firms and investing in artificial intelligence to capitalize on the growth of digital media and expand their capabilities.",
+            "Links": [
+                "https://digiday.com/media-buying/media-buying-briefing-agencies-bet-on-pr-with-acquisitions-and-ai-investments/"
+            ]
+        },
+        {
+            "Title": "Financial Services Companies Enter the Ad Business",
+            "Category": "Business",
+            "Description": "Financial institutions, including banks and fintech companies, are exploring opportunities in the advertising industry. By leveraging their vast data sets, these companies aim to gain a competitive advantage.",
+            "Links": [
+                "https://digiday.com/marketing/even-financial-services-businesses-want-a-piece-of-the-ad-pie-now/"
+            ]
+        },
+        {
+            "Title": "DE&I Leaders Leave Corporate Jobs for Consultancies",
+            "Category": "Business",
+            "Description": "Many diversity, equity, and inclusion (DE&I) leaders are leaving their corporate positions due to frustration over waning commitments to diversity efforts. They are launching their own consultancies, raising concerns about the future of DE&I initiatives within companies.",
+            "Links": [
+                "https://digiday.com/marketing/dei-exodus-burnt-out-leaders-launch-consultancies-as-advertising-industry-commitments-falter/"
+            ]
+        },
+        {
+            "Title": "Publishers Grapple with AI Licensing Deals",
+            "Category": "Media",
+            "Description": "Publishers are increasingly signing deals with AI companies like OpenAI to license their content. While these agreements offer financial benefits, concerns remain about the potential consequences for the publishing industry.",
+            "Links": [
+                "https://digiday.com/media/the-pros-and-cons-of-publishers-ai-licensing-deals/"
             ]
         }
     ],
