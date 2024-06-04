@@ -1,77 +1,99 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Volatility in June 2024",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Multiple sources reported extreme volatility in Google Search rankings throughout June 2024, peaking on June 1st. Various SEO tools reflected these fluctuations, and the issue sparked widespread discussion within the SEO community.",
+            "Title": "Google Search Console to Only Use Mobile Crawling After July 5th",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced that it will soon crawl all websites for Search using the Googlebot Smartphone crawler. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This change will take effect after July 5, 2024.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797248045068730744",
-                "https://twitter.com/rustybrick/status/1797242167552798900",
+                "https://twitter.com/glenngabe/status/1797658783247700415",
+                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
+                "https://twitter.com/aleyda/status/1797721029957038325"
+            ]
+        },
+        {
+            "Title": "Google Search Experienced Volatility in June",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search has been experiencing a high level of volatility in recent weeks, with many websites seeing significant fluctuations in their rankings. This volatility was particularly noticeable on June 1st, with many SEO professionals reporting unusual ranking changes.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1797640885188088236",
+                "https://twitter.com/rustybrick/status/1797607414717460550",
                 "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html"
             ]
         },
         {
-            "Title": "Leaked Google Search Documents Reveal SEO Insights",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A significant leak of internal Google documents provided insights into the search engine's ranking algorithms and SEO practices. The leak sparked controversy and discussion within the SEO industry, with some experts suggesting significant changes to SEO strategies may be necessary.",
+            "Title": "How to Optimize for Google's AI Overviews",
+            "Category": "Search Engine Optimization",
+            "Description": "SEO professionals are experimenting with ways to get their pages to appear in Google's AI Overviews. Cyrus Shepard shared a case study on how he successfully got his site included in these overviews.",
             "Links": [
-                "https://boingboing.net/2024/05/31/whats-in-the-leak-of-googles-internal-search-documents.html",
-                "https://twitter.com/aleyda/status/1796826425124700548",
-                "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5"
+                "https://twitter.com/rustybrick/status/1797693733628166445",
+                "https://twitter.com/rustybrick/status/1797633335419621507",
+                "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html"
             ]
         },
         {
-            "Title": "Google AI Overviews Spark Debate and Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's AI-powered overviews in search results generated both praise and criticism. Google responded by addressing concerns, explaining the technology, and implementing improvements. The company maintains that AI overviews are here to stay and are as accurate as featured snippets.",
+            "Title": "Google Search Console Link Report Still Experiencing Issues",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is still working on fixing issues with the Google Search Console link report. John Mueller provided an update on the situation via Reddit, acknowledging the ongoing problems.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1796614119488921814",
-                "https://twitter.com/aleyda/status/1796612712832618764",
-                "https://twitter.com/rustybrick/status/1796509681415803128"
+                "https://twitter.com/rustybrick/status/1797567173117841630"
             ]
         },
         {
-            "Title": "Google News Experiences Outages and Issues",
-            "Category": "Search Engines",
-            "Description": "Google News experienced outages and technical difficulties, impacting various features including the News search tab, Discover feed, and Google Trends. The issues led some users to explore alternative news platforms like Bing News.",
+            "Title": "Google Confirms Clicks and Engagement Impact SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Recent revelations from Google have confirmed that clicks and user engagement on organic search results do influence search engine rankings, contradicting previous statements from the company.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1796568330272112897",
-                "https://www.techradar.com/computing/search-engines/google-news-went-down-and-i-tried-bing-news-i-might-never-go-back",
-                "https://twitter.com/rustybrick/status/1796536613817975066"
+                "https://www.practicalecommerce.com/yes-clicks-and-engagement-impact-seo"
             ]
         },
         {
-            "Title": "Brave Launches Search Ads Platform",
-            "Category": "Advertising & Marketing",
-            "Description": "Brave browser launched its own Search Ads platform after 18 months of testing. The platform features participation from brands like Amazon Ads Sponsored Products, Dell, Fubo, Insurify, Shutterstock, and Thumbtack.",
+            "Title": "Google Search API Doc Leaks Spark Discussion",
+            "Category": "Search Engine Optimization",
+            "Description": "Leaked internal documents from Google Search API have caused a stir in the SEO community. Some members have expressed concerns about the lack of transparency and contradictions between the leaked information and Google's past statements.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797252922666811661"
+                "https://twitter.com/aleyda/status/1797574340508082537"
             ]
         },
         {
-            "Title": "Meta Notifies EU Users About AI Data Usage",
-            "Category": "Privacy & Data",
-            "Description": "Meta began notifying Instagram and Facebook users in the EU about using their data for AI model training. The company offered an opt-out option, although it's unclear how effectively objections will be honored.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796884405857730725"
-            ]
-        },
-        {
-            "Title": "LinkedIn Updates Link Previews with Smaller Images",
+            "Title": "Instagram Tests Unskippable Ads with Countdown Timers",
             "Category": "Social Media",
-            "Description": "LinkedIn is updating link previews in organic posts to feature smaller images. This change, announced a few months prior, is expected to apply to all organic posts and could potentially impact engagement.",
+            "Description": "Instagram is testing a new ad format that is unskippable and features a countdown timer, temporarily preventing users from scrolling their feeds.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1797711100710170854"
+            ]
+        },
+        {
+            "Title": "LinkedIn Reduces Image Size in Organic Post Link Previews",
+            "Category": "Social Media",
+            "Description": "LinkedIn has updated its link previews for organic posts, opting for smaller images. This change, announced a few months prior, will eventually apply to all organic posts, potentially impacting engagement.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1796888158707073151"
             ]
         },
         {
+            "Title": "Meta Notifies EU Users About Data Usage for AI Training",
+            "Category": "Privacy",
+            "Description": "Meta is notifying Instagram and Facebook users in the EU that their data is being used to train its AI models. Users have the option to opt out, but it's unclear if their objections will be honored.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1796884405857730725"
+            ]
+        },
+        {
+            "Title": "Windows AI Feature \"Recall\" Raises Security Concerns",
+            "Category": "Privacy",
+            "Description": "Windows' new AI feature, \"Recall,\" is designed to screenshot everything users see or do on their computers using local AI models. This feature has been labeled a security \"disaster\" due to its potential privacy implications.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1797671187142840516"
+            ]
+        },
+        {
             "Title": "Spotify Raises Premium Price in the US",
-            "Category": "Streaming & Music",
-            "Description": "Spotify announced an increase in its premium subscription price in the US to $11.99 per month. This move is estimated to generate an additional $1.4 billion in revenue annually.",
+            "Category": "Business",
+            "Description": "Spotify is increasing its premium subscription price in the US to $11.99 per month. This move is estimated to generate an additional $1.4 billion in annual revenue for the company.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797595621270192211"
             ]
         }
     ],
-    "date": "2024-06-03"
+    "date": "2024-06-04"
 }
