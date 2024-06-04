@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Search Console to Only Use Mobile Crawling After July 5th",
+            "Title": "Google Search to Only Use Mobile Crawling After July 5th",
             "Category": "Search Engine Optimization",
-            "Description": "Google has announced that it will soon crawl all websites for Search using the Googlebot Smartphone crawler. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This change will take effect after July 5, 2024.",
+            "Description": "Google has announced that after July 5, 2024, it will only use its mobile Googlebot Smartphone crawler to crawl and index websites. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This move completes Google's long-running mobile-first indexing initiative, which began 7.5 years ago.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797658783247700415",
                 "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
@@ -11,87 +11,57 @@
             ]
         },
         {
-            "Title": "Google Search Experienced Volatility in June",
+            "Title": "Google Search Experienced Major Ranking Volatility on June 1st",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search has been experiencing a high level of volatility in recent weeks, with many websites seeing significant fluctuations in their rankings. This volatility was particularly noticeable on June 1st, with many SEO professionals reporting unusual ranking changes.",
+            "Description": "Google Search experienced significant ranking volatility on June 1st, 2024, continuing a trend of instability over the previous few weeks.  Many SEO tracking tools reported extreme volatility, and discussions within the SEO community were unusually active for a weekend.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797640885188088236",
-                "https://twitter.com/rustybrick/status/1797607414717460550",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html"
+                "https://twitter.com/rustybrick/status/1797242167552798900",
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
+                "https://twitter.com/glenngabe/status/1797248045068730744"
             ]
         },
         {
-            "Title": "How to Optimize for Google's AI Overviews",
+            "Title": "Leaked Google Search Documents Reveal Insights and Spark Controversy",
             "Category": "Search Engine Optimization",
-            "Description": "SEO professionals are experimenting with ways to get their pages to appear in Google's AI Overviews. Cyrus Shepard shared a case study on how he successfully got his site included in these overviews.",
+            "Description": "Leaked internal Google Search documents have been circulating, providing insights into the search engine's algorithms and ranking factors. The leaks have generated significant interest and discussion within the SEO community, with some members expressing concerns about a lack of transparency from Google and contradictions with past statements.  Various analyses, resources, and tools related to the leaks have emerged, including a searchable database and a comprehensive analysis of the implications for link building and digital PR.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797693733628166445",
-                "https://twitter.com/rustybrick/status/1797633335419621507",
-                "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html"
+                "https://twitter.com/aleyda/status/1797574340508082537",
+                "https://twitter.com/glenngabe/status/1796882460434719067",
+                "https://twitter.com/aleyda/status/1796826425124700548"
             ]
         },
         {
-            "Title": "Google Search Console Link Report Still Experiencing Issues",
+            "Title": "SEO Experts Discuss Strategies for Google's AI Overviews",
             "Category": "Search Engine Optimization",
-            "Description": "Google is still working on fixing issues with the Google Search Console link report. John Mueller provided an update on the situation via Reddit, acknowledging the ongoing problems.",
+            "Description": "SEO professionals are actively exploring ways to optimize websites for Google's AI Overviews, aiming to both secure inclusion and potentially benefit from increased traffic.  Early observations suggest that appearing in AI Overviews can have a positive impact on website traffic.  However, some case studies highlight the potential risks involved, as changes made to optimize for AI Overviews can lead to the loss of other valuable search features, such as featured snippets.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797567173117841630"
-            ]
-        },
-        {
-            "Title": "Google Confirms Clicks and Engagement Impact SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Recent revelations from Google have confirmed that clicks and user engagement on organic search results do influence search engine rankings, contradicting previous statements from the company.",
-            "Links": [
-                "https://www.practicalecommerce.com/yes-clicks-and-engagement-impact-seo"
-            ]
-        },
-        {
-            "Title": "Google Search API Doc Leaks Spark Discussion",
-            "Category": "Search Engine Optimization",
-            "Description": "Leaked internal documents from Google Search API have caused a stir in the SEO community. Some members have expressed concerns about the lack of transparency and contradictions between the leaked information and Google's past statements.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1797574340508082537"
+                "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html",
+                "https://twitter.com/glenngabe/status/1797600216524202282",
+                "https://twitter.com/aleyda/status/1796824450395971977"
             ]
         },
         {
             "Title": "Instagram Tests Unskippable Ads with Countdown Timers",
-            "Category": "Social Media",
-            "Description": "Instagram is testing a new ad format that is unskippable and features a countdown timer, temporarily preventing users from scrolling their feeds.",
+            "Category": "Social Media Marketing",
+            "Description": "Instagram is experimenting with a new ad format that includes an unskippable countdown timer, temporarily preventing users from scrolling through their feeds. This move has sparked criticism and concerns among users who view it as intrusive and disruptive to their browsing experience.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797711100710170854"
             ]
         },
         {
-            "Title": "LinkedIn Reduces Image Size in Organic Post Link Previews",
-            "Category": "Social Media",
-            "Description": "LinkedIn has updated its link previews for organic posts, opting for smaller images. This change, announced a few months prior, will eventually apply to all organic posts, potentially impacting engagement.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796888158707073151"
-            ]
-        },
-        {
-            "Title": "Meta Notifies EU Users About Data Usage for AI Training",
-            "Category": "Privacy",
-            "Description": "Meta is notifying Instagram and Facebook users in the EU that their data is being used to train its AI models. Users have the option to opt out, but it's unclear if their objections will be honored.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796884405857730725"
-            ]
-        },
-        {
-            "Title": "Windows AI Feature \"Recall\" Raises Security Concerns",
-            "Category": "Privacy",
-            "Description": "Windows' new AI feature, \"Recall,\" is designed to screenshot everything users see or do on their computers using local AI models. This feature has been labeled a security \"disaster\" due to its potential privacy implications.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797671187142840516"
-            ]
-        },
-        {
-            "Title": "Spotify Raises Premium Price in the US",
-            "Category": "Business",
-            "Description": "Spotify is increasing its premium subscription price in the US to $11.99 per month. This move is estimated to generate an additional $1.4 billion in annual revenue for the company.",
+            "Title": "Spotify Raises Premium Price in the US to $11.99 per Month",
+            "Category": "Streaming and Music",
+            "Description": "Spotify is increasing the price of its premium subscription service in the United States to $11.99 per month. This price hike is estimated to generate an additional $1.4 billion in annual revenue for the company.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797595621270192211"
+            ]
+        },
+        {
+            "Title": "Microsoft Celebrates Bing's 15th Anniversary",
+            "Category": "Search Engines",
+            "Description": "Microsoft is marking the 15th anniversary of its Bing search engine, which was launched on June 3, 2009. Jordi Ribas, Microsoft's corporate vice president for search and AI, reflected on the search engine's journey and evolution over the years.",
+            "Links": [
+                "https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today/"
             ]
         }
     ],
