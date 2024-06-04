@@ -1,142 +1,66 @@
 {
     "data": [
         {
-            "Title": "Google Completes Mobile-First Indexing Transition",
-            "Category": "Search",
-            "Description": "Google has announced that it will only crawl and index websites with the Googlebot Smartphone crawler after July 5, 2024. This means that if a website's content is not accessible on mobile devices, it will no longer be indexed by Google. This move completes Google's transition to mobile-first indexing, which began in 2016.",
+            "Title": "Google Search Console Link Report Fixed",
+            "Category": "SEO",
+            "Description": "The Google Search Console link report now seems to be fixed. As reported last week, a decline in links being reported by the tool was observed, followed by a huge decline a few days later. The tool now seems to be showing the previous link count before the bug.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797658783247700415",
-                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
-                "https://twitter.com/aleyda/status/1797721029957038325"
-            ]
-        },
-        {
-            "Title": "Google Search Experiencing High Volatility",
-            "Category": "Search",
-            "Description": "Google Search has been experiencing high ranking volatility over the past few weeks, with many tools showing extreme fluctuations and unusually high chatter within the SEO community.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1797640885188088236",
-                "https://twitter.com/rustybrick/status/1797242167552798900",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html"
-            ]
-        },
-        {
-            "Title": "Google Search Console Link Report Issues",
-            "Category": "Search",
-            "Description": "Google is still working on fixing issues with the Google Search Console link report. Users have reported discrepancies in the data, and Google is working to resolve these problems.",
-            "Links": [
+                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html",
                 "https://twitter.com/rustybrick/status/1797567173117841630"
             ]
         },
         {
-            "Title": "Optimizing for Google's AI Overviews",
-            "Category": "Search",
-            "Description": "SEOs are experimenting with ways to get their pages to appear in Google's AI Overviews. Some have seen positive traffic impacts from being included, while others have experienced mixed results, including losing featured snippets.",
+            "Title": "Google to Stop Indexing Sites That Don't Work on Mobile Devices",
+            "Category": "SEO",
+            "Description": "Google has announced that it will soon crawl all sites for Search with the Googlebot Smartphone crawler. This means that if a site's content is not accessible on mobile devices, it will no longer be indexed by Google. The change will take effect after July 5, 2024.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797693733628166445",
+                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
+                "https://twitter.com/glenngabe/status/1797658783247700415",
+                "https://twitter.com/aleyda/status/1797721029957038325"
+            ]
+        },
+        {
+            "Title": "How to Get Your Pages into Google AI Overviews",
+            "Category": "SEO",
+            "Description": "A bunch of SEOs are now experimenting with how they can show up in the Google AI Overviews, not just remove themselves from AI Overviews. Cyrus Shepard posted a \"mini case study\" on X, showing how he was able to work his site into the AI Overviews.",
+            "Links": [
                 "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html",
-                "https://twitter.com/rustybrick/status/1797591811881370093"
+                "https://twitter.com/rustybrick/status/1797693733628166445",
+                "https://twitter.com/rustybrick/status/1797633335419621507"
             ]
         },
         {
-            "Title": "Google's Use of Spam Reports",
-            "Category": "Search",
-            "Description": "Google has reiterated that it does not take direct action on violations submitted through the spam reporting tool. Instead, the company uses these reports to improve its spam detection algorithms.",
+            "Title": "Google Search Experienced Volatility on June 1st",
+            "Category": "SEO",
+            "Description": "Google Search has been experiencing volatility over the past several weeks, with significant movement observed on June 1st. The volatility has been noted by various SEO tracking tools and has been a topic of discussion within the SEO community.",
             "Links": [
-                "https://twitter.com/rustybrick/status/179768618371740883",
-                "https://twitter.com/glenngabe/status/1797598497207693621",
-                "https://twitter.com/rustybrick/status/1797586778464891276"
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
+                "https://twitter.com/rustybrick/status/1797242167552798900",
+                "https://twitter.com/glenngabe/status/1797248045068730744"
             ]
         },
         {
-            "Title": "Google Discover May Be Renamed to Google Home",
-            "Category": "Search",
-            "Description": "There is speculation that Google may rename its Discover feed to Google Home.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1797689958615896532",
-                "https://twitter.com/rustybrick/status/1797629560894198246",
-                "https://twitter.com/rustybrick/status/1797589295160860735"
-            ]
-        },
-        {
-            "Title": "Leaked Google Search Documents Spark Discussion",
-            "Category": "Search",
-            "Description": "Leaked internal Google Search documents have sparked discussion within the SEO community, with some members expressing concerns about a lack of transparency and contradicting information previously shared by Google.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1797574340508082537"
-            ]
-        },
-        {
-            "Title": "Instagram Tests Unskippable Ads",
+            "Title": "Instagram Testing Unskippable Ads",
             "Category": "Social Media",
-            "Description": "Instagram is testing an unskippable ad format that includes a countdown timer and temporarily prevents users from scrolling their feeds.",
+            "Description": "Instagram is testing a new ad format that is unskippable and features a countdown timer. This new format temporarily prevents users from scrolling through their feeds.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797711100710170854"
             ]
         },
         {
-            "Title": "LinkedIn Updates Link Previews",
-            "Category": "Social Media",
-            "Description": "LinkedIn has updated link previews in organic posts to feature smaller images. This change is part of a larger update that will eventually affect all organic posts.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1797704271284036083",
-                "https://twitter.com/glenngabe/status/1796888158707073151"
-            ]
-        },
-        {
-            "Title": "Meta Notifies EU Users About Data Use for AI Training",
-            "Category": "Social Media",
-            "Description": "Meta is notifying Instagram and Facebook users in the EU that it is using their data to train its AI models. Users have the option to opt out, but it is unclear if their objections will be honored.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1796884405857730725"
-            ]
-        },
-        {
-            "Title": "Spotify Raises Premium Price in the US",
+            "Title": "Spotify to Increase Premium Pricing in the US",
             "Category": "Business",
-            "Description": "Spotify is increasing the price of its premium subscription service in the US to $11.99 per month. This move is expected to generate an additional $1.4 billion in revenue per year for the company.",
+            "Description": "Spotify is raising the price of its premium subscription service in the US to $11.99 per month. This price increase is expected to generate an additional $1.4 billion in revenue per year for the company.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1797595621270192211"
             ]
         },
         {
-            "Title": "Ad Industry Expects Surge in Mergers and Acquisitions",
-            "Category": "Business",
-            "Description": "Experts believe that the advertising industry is poised for a surge in mergers and acquisitions. This prediction is based on several factors, including the rapid growth of digital media and the increasing importance of data.",
+            "Title": "Businesses Increasingly Seeking SEO Services",
+            "Category": "Marketing",
+            "Description": "There has been an 84% increase in businesses searching for SEO services. This indicates a growing awareness of the importance of SEO for online visibility and business growth.",
             "Links": [
-                "https://digiday.com/marketing/ad-market-braces-for-ma-surge/"
-            ]
-        },
-        {
-            "Title": "Media Agencies Invest in PR and AI",
-            "Category": "Business",
-            "Description": "Media agencies are acquiring public relations firms and investing in artificial intelligence to capitalize on the growth of digital media and expand their capabilities.",
-            "Links": [
-                "https://digiday.com/media-buying/media-buying-briefing-agencies-bet-on-pr-with-acquisitions-and-ai-investments/"
-            ]
-        },
-        {
-            "Title": "Financial Services Companies Enter the Ad Business",
-            "Category": "Business",
-            "Description": "Financial institutions, including banks and fintech companies, are exploring opportunities in the advertising industry. By leveraging their vast data sets, these companies aim to gain a competitive advantage.",
-            "Links": [
-                "https://digiday.com/marketing/even-financial-services-businesses-want-a-piece-of-the-ad-pie-now/"
-            ]
-        },
-        {
-            "Title": "DE&I Leaders Leave Corporate Jobs for Consultancies",
-            "Category": "Business",
-            "Description": "Many diversity, equity, and inclusion (DE&I) leaders are leaving their corporate positions due to frustration over waning commitments to diversity efforts. They are launching their own consultancies, raising concerns about the future of DE&I initiatives within companies.",
-            "Links": [
-                "https://digiday.com/marketing/dei-exodus-burnt-out-leaders-launch-consultancies-as-advertising-industry-commitments-falter/"
-            ]
-        },
-        {
-            "Title": "Publishers Grapple with AI Licensing Deals",
-            "Category": "Media",
-            "Description": "Publishers are increasingly signing deals with AI companies like OpenAI to license their content. While these agreements offer financial benefits, concerns remain about the potential consequences for the publishing industry.",
-            "Links": [
-                "https://digiday.com/media/the-pros-and-cons-of-publishers-ai-licensing-deals/"
+                "https://www.canberratimes.com.au/story/8649971/businesses-searching-for-seo-services-rises-84/"
             ]
         }
     ],
