@@ -1,134 +1,89 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Links Report Fixed",
-            "Category": "SEO & Search",
-            "Description": "Google has resolved issues with the Search Console links report, potentially restoring accuracy to backlink data. Link counts have been restored in Google Search Console after a bug caused them to drop for some sites.",
+            "Title": "Google Search Algorithm Updates & Volatility",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has rolled out several search ranking algorithm updates, resulting in significant volatility in search results. The updates have impacted various aspects of search, including Core Web Vitals and site names in the SERPs.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798048571578843392",
-                "https://twitter.com/rustybrick/status/1797988173496152066",
-                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"
+                "https://twitter.com/glenngabe/status/1797977010381156489",
+                "https://twitter.com/rustybrick/status/1797607414717460550",
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html"
             ]
         },
         {
-            "Title": "Google to De-Index Mobile-Inaccessible Sites After July 5th",
-            "Category": "SEO & Search",
-            "Description": "Google announces that websites inaccessible on mobile devices will be de-indexed after July 5th, marking a significant step in mobile-first indexing. Google reiterates its commitment to mobile-first indexing, stating that websites inaccessible on mobile devices will be removed from the index after July 5th.",
+            "Title": "Google's Mobile-First Indexing Complete",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has completed its transition to mobile-first indexing. Starting July 5th, websites that are not accessible on mobile devices will no longer be indexed by Google.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1798063670842265653",
-                "https://twitter.com/rustybrick/status/1798003273062080979",
-                "https://twitter.com/rustybrick/status/1797959232949805099"
+                "https://twitter.com/rustybrick/status/1797959232949805099",
+                "https://twitter.com/glenngabe/status/1797658783247700415",
+                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851"
             ]
         },
         {
-            "Title": "Google Expands Keyword Options for Popular Products",
-            "Category": "SEO & Search",
-            "Description": "Google expands its keyword options for popular products, potentially impacting product listing visibility. Google is expanding keyword options for popular products, potentially affecting product visibility in search results.",
+            "Title": "Google Search Console Updates & Issues",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has fixed several issues with Google Search Console, including restoring accurate link counts in the links report and resolving problems with site names appearing incorrectly for internal pages.  The company also clarified that it does not take direct action on violations submitted through the spam reporting tool.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798059896501579843",
-                "https://twitter.com/rustybrick/status/1797999498524004640",
-                "https://twitter.com/rustybrick/status/1797956716413542522"
+                "https://twitter.com/rustybrick/status/1798079369174458435",
+                "https://twitter.com/rustybrick/status/1798048571578843392",
+                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html",
+                "https://twitter.com/glenngabe/status/1797961284727816413",
+                "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893"
             ]
         },
         {
-            "Title": "Google Updates Privacy Policies for Ads and Analytics Users",
-            "Category": "Privacy & Security",
-            "Description": "Google informs advertisers and analytics users about upcoming changes due to new privacy laws in certain US states. Google sends an email to advertisers and analytics users outlining changes in response to new privacy laws being implemented in some US states.",
+            "Title": "Google AI Overviews Visibility Declines",
+            "Category": "Artificial Intelligence",
+            "Description": "Data from BrightEdge indicates that Google's AI Overviews are appearing less frequently in search results, dropping to just 15% of queries. This suggests a potential shift in Google's approach to AI-generated search summaries.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798056121086672999",
-                "https://twitter.com/rustybrick/status/1797995723298099412",
-                "https://twitter.com/rustybrick/status/1797954199797592220"
+                "https://twitter.com/glenngabe/status/1798033887970640331",
+                "https://twitter.com/rustybrick/status/1798365660784767115"
             ]
         },
         {
-            "Title": "Google Business Profiles Testing New Chat Features",
-            "Category": "Business & Marketing",
-            "Description": "Google Business Profiles may soon allow businesses to add SMS or WhatsApp numbers to their chat section. Speculation that Google Business Profiles will soon allow businesses to include SMS or WhatsApp numbers in their chat section.",
+            "Title": "Google Business Profile Updates",
+            "Category": "Local Search",
+            "Description": "Google is testing new features for Google Business Profiles, including the ability to add SMS or WhatsApp numbers to the chat section. This update aims to enhance communication options for businesses and customers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1798052346850902154",
-                "https://twitter.com/rustybrick/status/1797991948986495443",
-                "https://twitter.com/rustybrick/status/1797951683160617140"
+                "https://twitter.com/rustybrick/status/1798293241886060690"
             ]
         },
         {
-            "Title": "Perplexity Pages Gaining Visibility in Google Search",
-            "Category": "SEO & Search",
-            "Description": "Perplexity Pages are appearing in Google's AI Overviews and featured snippets, potentially signaling a shift in search results. Data from BrightEdge indicates that Google's AI Overviews are becoming less visible, appearing for only 15% of search queries.",
+            "Title": "Privacy Law Changes Impact Google Ads & Analytics",
+            "Category": "Digital Marketing",
+            "Description": "Google has notified advertisers and analytics users about upcoming changes to its platforms in response to new privacy laws being implemented in some US states. The changes are expected to impact data collection and targeting practices.",
             "Links": [
-                "https://twitter.com/sengineland/status/1798090146937487694",
-                "https://twitter.com/glenngabe/status/1798033887970640331"
-            ]
-        },
-        {
-            "Title": "Google Search Ranking Algorithm Updated",
-            "Category": "SEO & Search",
-            "Description": "Google has updated its search ranking algorithm, with a focus on Core Web Vitals. Sites that were negatively impacted by the October 2023 update saw further drops in rankings.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797977010381156489"
-            ]
-        },
-        {
-            "Title": "Search Central Launches LinkedIn Page",
-            "Category": "SEO & Search",
-            "Description": "Google's Search Central is now on LinkedIn, providing announcements, news, and more.",
-            "Links": [
-                "https://twitter.com/googlesearchc/status/1797969446310650358"
-            ]
-        },
-        {
-            "Title": "Bing Celebrates 15th Anniversary",
-            "Category": "Technology & Innovation",
-            "Description": "Bing celebrated its 15th anniversary, with reflections on its impact on search and its role in keeping LLMs fresh and grounded.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797969420666499213"
-            ]
-        },
-        {
-            "Title": "Walmart Launches 3D Ecommerce Platform Realm",
-            "Category": "Ecommerce & Retail",
-            "Description": "Walmart has launched Realm, a 3D ecommerce platform that offers a video game-like shopping experience, targeting Gen Z.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797967496458244596"
-            ]
-        },
-        {
-            "Title": "Amazon Developing AI Agent \"MultiOn\"",
-            "Category": "Artificial Intelligence",
-            "Description": "Amazon is reportedly developing an AI agent called MultiOn, which could compete with other AI agents in the market.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797960158439420290"
-            ]
-        },
-        {
-            "Title": "Google Gemini May Integrate with Spotify",
-            "Category": "Artificial Intelligence",
-            "Description": "Google's Gemini AI chatbot may soon have a Spotify extension, allowing users to control Spotify with voice commands.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797958435209650376"
+                "https://twitter.com/rustybrick/status/1798056121086672999"
             ]
         },
         {
             "Title": "Microsoft Advertising Transitions to Performance Max",
-            "Category": "Business & Marketing",
-            "Description": "Microsoft Advertising is transitioning Smart Shopping campaigns to Performance Max, its automated campaign type.",
+            "Category": "Digital Marketing",
+            "Description": "Microsoft Advertising is phasing out Smart Shopping campaigns and migrating them to Performance Max, its automated campaign type. This move consolidates Microsoft's advertising offerings and streamlines campaign management for advertisers.",
             "Links": [
-                "https://twitter.com/sengineland/status/1797947015030006170"
+                "https://twitter.com/sengineland/status/1797947015030006170",
+                "https://twitter.com/rustybrick/status/1798361886213521555"
             ]
         },
         {
-            "Title": "Brave Launches Search Ads Platform",
-            "Category": "Business & Marketing",
-            "Description": "Brave launches its own search advertising platform after 18 months of testing.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1797252922666811661"
-            ]
-        },
-        {
-            "Title": "Competition Heats Up in AI Video Generation Market",
+            "Title": "AI's Impact on SEO and the Future of Search",
             "Category": "Artificial Intelligence",
-            "Description": "Increased competition in the AI video generation market poses a challenge to OpenAI's Sora.",
+            "Description": "Industry experts discuss the growing influence of AI on SEO, predicting significant changes in search analytics and the role of SEO professionals. The integration of AI in search engines and marketing tools is transforming how businesses approach online visibility and customer engagement.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797250857513218308"
+                "https://www.techradar.com/pro/website-building/we-spoke-to-semrush-known-for-their-content-marketing-and-seo-tools-about-ai-the-future-of-search-analytics-and-their-new-semrush-enterprise-platform",
+                "https://www.smartbrief.com/original/the-rise-of-ai-powered-seo-friend-or-foe"
+            ]
+        },
+        {
+            "Title": "AI-Powered SEO Tools & Strategies",
+            "Category": "Search Engine Optimization",
+            "Description": "Moz has announced new AI-powered SEO tools and affordable API plans at MozCon 2024. These tools aim to assist businesses in optimizing their websites, improving search rankings, and navigating the evolving landscape of search engine optimization.",
+            "Links": [
+                "https://www.searchenginejournal.com/mozcon-2024-announcements-ai-seo-tools-affordable-api-plans/518150/"
             ]
         }
     ],
