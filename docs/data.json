@@ -1,87 +1,120 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Link Report Fixed After Glitch",
-            "Category": "SEO",
-            "Description": "The Google Search Console link report is now showing the correct link count after a bug caused a significant decline in reported links for many sites.",
+            "Title": "Google Search to Only Index Mobile-Friendly Sites After July 5th",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced that websites inaccessible on mobile devices will be de-indexed after July 5th, marking a significant step in mobile-first indexing.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797567173117841630",
-                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html",
-                "https://twitter.com/glenngabe/status/1797961284727816413"
+                "https://twitter.com/rustybrick/status/1798063670842265653",
+                "https://twitter.com/rustybrick/status/1798003273062080979",
+                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851"
             ]
         },
         {
-            "Title": "Google to Stop Indexing Sites Inaccessible on Mobile Devices After July 5th",
-            "Category": "SEO",
-            "Description": "Google has announced that starting July 5th, 2024, it will no longer index websites that are not accessible on mobile devices, marking the completion of its mobile-first indexing initiative.",
+            "Title": "Google Search Console Links Report Fixed",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has resolved issues with the Search Console links report, potentially restoring accuracy to backlink data.",
             "Links": [
-                "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851",
-                "https://twitter.com/glenngabe/status/1797658783247700415",
-                "https://twitter.com/rustybrick/status/1798003273062080979"
+                "https://twitter.com/rustybrick/status/1798048571578843392",
+                "https://twitter.com/rustybrick/status/1797988173496152066",
+                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"
             ]
         },
         {
-            "Title": "Google Search Algorithm Volatility Observed on June 1st",
-            "Category": "SEO",
-            "Description": "Google Search experienced significant ranking volatility on June 1st, 2024, with many websites seeing major fluctuations in their rankings.",
+            "Title": "Google Expands Keyword Options for Popular Products",
+            "Category": "Search Engine Optimization",
+            "Description": "Google expands its keyword options for popular products, potentially impacting product listing visibility.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1797607414717460550",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-june-1-37488.html",
-                "https://twitter.com/glenngabe/status/1797242167552798900"
+                "https://twitter.com/rustybrick/status/1798059896501579843",
+                "https://twitter.com/rustybrick/status/1797999498524004640",
+                "https://twitter.com/rustybrick/status/1797956716413542522"
             ]
         },
         {
-            "Title": "Google AI Overviews Visibility Declines, Now Appearing for 15% of Queries",
-            "Category": "SEO",
-            "Description": "New research from BrightEdge reveals that Google's AI Overviews feature is appearing less frequently in search results, now triggering for only 15% of queries.",
+            "Title": "Google Updates Privacy Policies for Ads and Analytics Users in Response to New State Laws",
+            "Category": "Privacy & Security",
+            "Description": "Google informs advertisers and analytics users about upcoming changes due to new privacy laws in certain US states.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798056121086672999",
+                "https://twitter.com/rustybrick/status/1797995723298099412",
+                "https://twitter.com/rustybrick/status/1797954199797592220"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles May Allow SMS and WhatsApp Integration in Chat",
+            "Category": "Business & Marketing",
+            "Description": "Google Business Profiles may soon allow businesses to add SMS or WhatsApp numbers to their chat section.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798052346850902154",
+                "https://twitter.com/rustybrick/status/1797991948986495443",
+                "https://twitter.com/rustybrick/status/1797951683160617140"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Feature Sees Reduced Visibility",
+            "Category": "Artificial Intelligence",
+            "Description": "Data from BrightEdge indicates that Google's AI Overviews are becoming less visible, appearing for only 15% of search queries.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1798033887970640331",
-                "https://www.searchenginejournal.com/research-google-ai-overviews/518246/"
+                "https://twitter.com/sengineland/status/1798090146937487694"
             ]
         },
         {
-            "Title": "SEOs Explore Optimizing for Google's AI Overviews Feature",
-            "Category": "SEO",
-            "Description": "SEO professionals are experimenting with ways to optimize websites for inclusion in Google's AI Overviews, aiming to leverage the feature for increased visibility and traffic.",
+            "Title": "Optimizing for Search Intent: A Key SEO Strategy for 2024",
+            "Category": "Search Engine Optimization",
+            "Description": "Prioritizing search intent over keyword relevance in keyword research leads to a more effective strategy focused on conversion.",
             "Links": [
-                "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html",
-                "https://twitter.com/rustybrick/status/1797591811881370093",
-                "https://twitter.com/glenngabe/status/1797600216524202282"
+                "https://searchengineland.com/rethinking-keyword-strategy-optimize-search-intent-442864"
             ]
         },
         {
-            "Title": "Instagram Tests Unskippable Ads with Countdown Timers",
-            "Category": "Social Media",
-            "Description": "Instagram is experimenting with a new ad format that features unskippable ads with countdown timers, potentially impacting user experience and raising concerns among advertisers.",
+            "Title": "How to Optimize Your Squarespace Website for Search Engines",
+            "Category": "Search Engine Optimization",
+            "Description": "An article explaining how to optimize Squarespace websites for search engines, covering various SEO strategies.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797711100710170854"
+                "https://www.forbes.com/advisor/business/software/squarespace-seo/"
             ]
         },
         {
-            "Title": "LinkedIn Reduces Image Size in Organic Post Link Previews",
-            "Category": "Social Media",
-            "Description": "LinkedIn has updated its link preview format for organic posts, reducing the size of displayed images, which could impact engagement and click-through rates.",
+            "Title": "6 SEO Tips to Improve Your Rankings in the Age of Quality Content",
+            "Category": "Search Engine Optimization",
+            "Description": "An article discussing six SEO tips for ranking higher in search results, emphasizing the importance of quality content in the wake of Google's March 2024 core update.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1796888158707073151"
+                "https://www.entrepreneur.com/growing-a-business/6-seo-tips-to-help-you-rank-in-the-new-era-of-quality/474512"
             ]
         },
         {
-            "Title": "Spotify Raises Premium Subscription Price in the US to $11.99",
-            "Category": "Business",
-            "Description": "Spotify is increasing the price of its premium subscription plan in the United States by $1, bringing the monthly cost to $11.99.",
+            "Title": "Experts Discuss the Impact of AI on SEO and the Future of Search Analytics",
+            "Category": "Artificial Intelligence",
+            "Description": "An interview with Semrush explores the impact of AI on SEO, the future of search analytics, and the company's perspective on these developments.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1797595621270192211"
+                "https://www.techradar.com/pro/website-building/we-spoke-to-semrush-known-for-their-content-marketing-and-seo-tools-about-ai-the-future-of-search-analytics-and-their-new-semrush-enterprise-platform"
             ]
         },
         {
-            "Title": "Microsoft Celebrates Bing's 15th Anniversary",
-            "Category": "Business",
-            "Description": "Microsoft marked the 15th anniversary of its Bing search engine, with Jordi Ribas, Corporate Vice President for Search and AI, reflecting on the platform's evolution and impact.",
+            "Title": "Companies Increase SEO Budgets, Focusing on Lead Generation and AI Integration",
+            "Category": "Search Engine Optimization",
+            "Description": "A survey reveals that companies are increasing their SEO budgets, focusing on lead generation, brand awareness, and AI integration.",
             "Links": [
-                "https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today/",
-                "https://twitter.com/glenngabe/status/1797969420666499213"
+                "https://www.digitalinformationworld.com/2024/06/top-seo-investment-trends-for-2024.html"
+            ]
+        },
+        {
+            "Title": "Shutterstock CEO Highlights Revenue Growth from AI Licensing Deals",
+            "Category": "Artificial Intelligence",
+            "Description": "Shutterstock's CEO reveals that licensing deals with AI companies generated significant revenue in 2023, highlighting the growing intersection of AI and stock media.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1798029686582518000"
+            ]
+        },
+        {
+            "Title": "OpenAI Faces Internal Criticism Over \"Reckless\" Pursuit of AGI",
+            "Category": "Artificial Intelligence",
+            "Description": "Insiders at OpenAI express concerns about the company's aggressive pursuit of artificial general intelligence (AGI).",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1798032020951712239"
             ]
         }
     ],
-    "date": "2024-06-04"
+    "date": "2024-06-05"
 }
