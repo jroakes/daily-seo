@@ -6970,3 +6970,674 @@ Error occurred at 2024-06-06 00:12:21.157182:
 RESPONSE: 
 [{"Title": "Bing Integrates AI, Sparks Real Estate Controversy", "Category": "AI & Search", "Description": "Microsoft's Bing search engine is integrating ChatGPT plugins for real estate sites like Zillow, raising concerns about data sharing practices and potential legal ramifications.", "Links": ["https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/", "https://seekingalpha.com/news/4113242-bing-gains-desktop-share-but-google-reigns-supreme-as-ai-search-grows-bofa"]}, {"Title": "Google Search Experiences Volatility, Algorithm Update Suspected", "Category": "Search & SEO", "Description": "Intense fluctuations in Google Search rankings have been observed, suggesting a possible unconfirmed algorithm update. The SEO community is buzzing with speculation.", "Links": ["https://twitter.com/rustybrick/status/1798429833959034889", "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html", "https://twitter.com/rustybrick/status/1798324137590653076"]}, {"Title": "Google AI Overviews Decline in Search Results", "Category": "AI & Search", "Description": "Google's AI Overviews feature, which provides summarized information at the top of search results, is appearing less frequently, particularly in categories like Jeans and Sports Retail.", "Links": ["https://twitter.com/aleyda/status/1798433232246943981", "https://twitter.com/rustybrick/status/1798426058842345875", "https://twitter.com/rustybrick/status/1798321620643197163", "https://www.searchenginejournal.com/research-google-ai-overviews/518246/"]}, {"Title": "Google Faces Legal Challenges Over Ad Tech and Piracy", "Category": "Legal & Business", "Description": "Google is facing a \$17 billion lawsuit in the UK over its ad tech practices and a separate lawsuit from textbook sellers alleging promotion of pirated textbook websites.", "Links": ["https://twitter.com/sengineland/status/1798405519981322444", "https://twitter.com/rustybrick/status/1798404257621872692"]}, {"Title": "Microsoft Advertising Shifts to Performance Max", "Category": "Advertising & Marketing", "Description": "Microsoft Advertising is upgrading its smart shopping campaigns to Performance Max, aligning with Google's advertising platform and potentially impacting advertisers.", "Links": ["https://twitter.com/rustybrick/status/1798422284052701647", "https://twitter.com/rustybrick/status/1798319104111083807"]}, {"Title": "Google Resolves Site Name Display Issue in Search Results", "Category": "Search & SEO", "Description": "Google has addressed a problem where incorrect site names were appearing in search results, particularly affecting subdomains and internal pages, improving website visibility.", "Links": ["https://twitter.com/rustybrick/status/1798418509090914672", "https://searchengineland.com/google-search-fixes-issues-with-site-names-not-appearing-for-internal-pages-442933", "https://twitter.com/glenngabe/status/1798325438609338473"]}, {"Title": "Google News Adds Disclaimer on Story Ranking", "Category": "Search & SEO", "Description": "Google News now includes a disclaimer explaining how news stories are ranked within the platform, providing transparency for users.", "Links": ["https://twitter.com/rustybrick/status/1798414734288420920", "https://twitter.com/rustybrick/status/1798354336667303944", "https://twitter.com/rustybrick/status/1798314071034634586"]}, {"Title": "Google Discussion Forums Embrace Social Media Markup", "Category": "Social Media & SEO", "Description": "Google Discussion Forums now support SocialMediaPosting schema markup, potentially boosting their visibility and integration with social media platforms.", "Links": ["https://twitter.com/rustybrick/status/1798410959297421608", "https://twitter.com/rustybrick/status/1798350561525547306", "https://twitter.com/rustybrick/status/1798311554355523587"]}, {"Title": "Google Search Console Link Report Restored", "Category": "Search & SEO", "Description": "After experiencing a bug that caused inaccurate link counts, Google has fixed the Search Console link report, providing website owners with reliable data.", "Links": ["https://twitter.com/rustybrick/status/1798048571578843392", "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893", "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html", "https://twitter.com/glenngabe/status/1797961284727816413"]}, {"Title": "Google Mobile-First Indexing Nears Completion", "Category": "Search & SEO", "Description": "Google announces that websites inaccessible on mobile devices will no longer be indexed after July 5th, marking a significant milestone in mobile-first indexing.", "Links": ["https://twitter.com/rustybrick/status/1798063670842265653", "https://twitter.com/aleyda/status/1797721029957038325", "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851"]}, {"Title": "User Search Behavior Evolves, Frustration Persists", "Category": "Search & User Experience", "Description": "A survey reveals that 54% of people are browsing through more search result pages compared to 5 years ago, highlighting changes in user behavior and ongoing frustrations with search experiences.", "Links": ["https://twitter.com/sengineland/status/1798354697952080197", "https://searchengineland.com/search-engine-experience-results-ads-survey-442943"]}]
 
+Error occurred at 2024-06-06 16:04:07.380677:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Research Briefing: Publishers invest in programmatic ads despite budget and data challenges",
+    "Description": "In this edition of the Digiday+ Research Briefing, we examine how publishers are continuing to invest in programmatic ads despite budget and data challenges, how the \"Fortnite\" ecosystem is having its YouTube moment, and how a new TikTok social impact program could help keep creators on the app even in light of its uncertain future, as seen in recent data from Digiday+ Research.",
+    "Link": "https://digiday.com/media/research-briefing-publishers-invest-in-programmatic-ads-despite-budget-and-data-challenges/"
+  },
+  {
+    "Title": "Digital OOH's growth has media agencies make more use of its data and measurement options",
+    "Description": "With experimentation in digital and immersive displays to live feeds, agencies and clients are able to integrate live consumer data.",
+    "Link": "https://digiday.com/media-buying/as-digital-ooh-grows-media-agencies-make-more-use-of-its-data-and-measurement-abilities/"
+  },
+  {
+    "Title": "You\u2019re not going to want to miss where I interview Elizabeth Tucker, Director at Google who was responsible for the launch of the March 2024 Core update - register for free at @smx searchengineland.com/smx/advanced/a\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798510884580663355"
+  },
+  {
+    "Title": "Bing's New AI-Zillow Integration Has Some Calling for an Investigation",
+    "Description": "Microsoft's Bing search engine, released in 2009, has struggled to compete with Google but is gaining ground thanks to AI investments. With about ten percent of global search traffic, Bing aims to further close the gap by integrating ChatGPT plugins for sites like Expedia, Instacart, Zillow, and Redfin. However, this integration has sparked controversy in the real estate community over data sharing practices, raising concerns about legality and control over property listings. An investigation may be on the horizon as the industry reacts to Bing's expanding capabilities.",
+    "Link": "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
+  },
+  {
+    "Title": "How To Get Rid of Bing Redirect Virus on Mac: Removal Guide",
+    "Description": "Are your searches being redirected to Bing? You might have been infected with a malware. Here's how to remove the Bing Redirect Virus on Mac.",
+    "Link": "https://www.macobserver.com/macos/bing-redirect-virus-mac/"
+  },
+  {
+    "Title": ". @mrketingsignals is hiring a Remote Based Data Driven, Numbers Obsessed, Head of Paid Media \ud83e\udd29 This can either be a freelance position or join as a FTE with flexible hours, working ~6 hours per day over a 4 day rota. Salary 5K-7K USD / Mo Check it out \ud83d\udc47\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1798452899820785738"
+  },
+  {
+    "Title": "Frictionless Multisearch might be coming soon (via voice) \"Updating the Google app to beta version 15.22.29.29.arm64 reveals you can tap the shutter button in Lens to search, and then tap and hold it down to add context using a voice command.\" androidpolice.com/google-lens-vi\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/glenngabe/status/1798435801249861701"
+  },
+  {
+    "Title": "\ud83d\udea8 The decrease of AI Overviews inclusions per category - May 28 vs June 4 \ud83d\udc40\ud83d\udc47 From the top terms across sectors I'm tracking: * The highest decreases are in Jeans (from 20% to 0%) and Sports Retail (from 12% to 0%) * The lowest decreases are in Fitness (from 7% to 6%) and\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1798433232246943981"
+  },
+  {
+    "Title": "ICYMI: Google Search ranking volatility on June 4th and 5th seroundtable.com/google-search-\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798429833959034889"
+  },
+  {
+    "Title": "ICYMI: Google AI Overviews showing up way less often today than months ago seroundtable.com/google-ai-over\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798426058842345875"
+  },
+  {
+    "Title": "ICYMI: Microsoft Advertising smart shopping campaigns to \"upgrade\" to Performance Max seroundtable.com/microsoft-adve\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798422284052701647"
+  },
+  {
+    "Title": "ICYMI: Google fixed the site names issue where some pages had the wrong site name (subdomains and internal pages) seroundtable.com/google-fixes-i\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798418509090914672"
+  },
+  {
+    "Title": "ICYMI: Google News disclaimer - \"how these stories are ranked\" seroundtable.com/google-news-he\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798414734288420920"
+  },
+  {
+    "Title": "ICYMI: Google Discussion Forum now supports for SocialMediaPosting markup seroundtable.com/google-discuss\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798410959297421608"
+  },
+  {
+    "Title": "ICYMI: Google Hong Kong 20th year anniversary decorations seroundtable.com/photos/google-\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798407184625369562"
+  },
+  {
+    "Title": "RT by @rustybrick: Google must face $17 billion UK ad tech lawsuit via @TheMarketingAnu searchengineland.com/google-must-fa\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/sengineland/status/1798405519981322444"
+  },
+  {
+    "Title": "Google Sued by Textbook Sellers for Promoting Pirate Site Ads news.bloomberglaw.com/ip-law/google-\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798404257621872692"
+  },
+  {
+    "Title": "Although, some ccTLD site names are still messed up - this says XYZ when the site name should be DECIPHer",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798389170731434445"
+  },
+  {
+    "Title": "Bing gains desktop share, but Google reigns supreme as AI search grows: BofA",
+    "Description": "Microsoft's Bing gained an incremental bit of search share on desktops last month, but Google continues to reign supreme on all devices. Read more here.",
+    "Link": "https://seekingalpha.com/news/4113242-bing-gains-desktop-share-but-google-reigns-supreme-as-ai-search-grows-bofa"
+  },
+  {
+    "Title": "Google Search ranking volatility on June 4th and 5th seroundtable.com/google-search-\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1798369436103000131"
+  },
+  {
+    "Title": "Google AI Overviews showing up way less often today than months ago",
+    "Description": "Observations indicate Google AI Overviews are appearing less frequently in search results compared to previous months.",
+    "Link": "https://twitter.com/rustybrick/status/1798365660784767115"
+  },
+  {
+    "Title": "Microsoft Advertising smart shopping campaigns to \"upgrade\" to Performance Max",
+    "Description": "Microsoft Advertising is planning to transition smart shopping campaigns to Performance Max within the next few months.",
+    "Link": "https://twitter.com/rustybrick/status/1798361886213521555"
+  },
+  {
+    "Title": "Google fixed the site names issue where some pages had the wrong site name (subdomains and internal pages)",
+    "Description": "Google has addressed the issue of incorrect site names appearing in search results for subdomains and internal pages.",
+    "Link": "https://twitter.com/rustybrick/status/1798358111075361130"
+  },
+  {
+    "Title": "Interested in the latest Google algorithm updates (both confirmed and unconfirmed)?",
+    "Description": "Discussion on upcoming presentation covering recent Google algorithm updates, including the March broad core update and subsequent volatility.",
+    "Link": "https://twitter.com/glenngabe/status/1798357244880257281"
+  },
+  {
+    "Title": "Survey: 54% of people look through more search results vs. 5 years ago",
+    "Description": "A survey reveals that 54% of users are reviewing more search results compared to five years ago, highlighting changes in search behavior.",
+    "Link": "https://searchengineland.com/search-engine-experience-results-ads-survey-442943"
+  },
+  {
+    "Title": "Google Discussion Forum now supports for SocialMediaPosting markup",
+    "Description": "Google Discussion Forum now supports the SocialMediaPosting schema markup, potentially impacting visibility in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1798350561525547306"
+  },
+  {
+    "Title": "Court rules Google must face \u00a313.6bn advertising lawsuit",
+    "Description": "Google is facing a \u00a313.6 billion lawsuit related to its advertising practices, with a court ruling the case can proceed.",
+    "Link": "https://twitter.com/rustybrick/status/1798337249958056208"
+  },
+  {
+    "Title": "Charts: Business Adoption of AI Q2 2024",
+    "Description": "Statistics on the adoption of AI applications by businesses globally, indicating a significant increase in usage.",
+    "Link": "https://www.practicalecommerce.com/charts-business-adoption-of-ai"
+  },
+  {
+    "Title": "Crazy Google Local 'Near Me' Test",
+    "Description": "Observation of a Google local search test where the entire search engine results page (SERP) displayed local results.",
+    "Link": "https://twitter.com/glenngabe/status/1798330869075341507"
+  },
+  {
+    "Title": "Is Google Images important for your business?",
+    "Description": "Discussion on the importance of Google Images for businesses and observations on new features like pinch-to-zoom functionality.",
+    "Link": "https://twitter.com/glenngabe/status/1798328772447666496"
+  },
+  {
+    "Title": "If you were still having issues with site names in the SERPs, Google posted that the internal page site name issue has been resolved.",
+    "Description": "Confirmation that Google has resolved the issue of incorrect site names appearing for internal pages in search results.",
+    "Link": "https://twitter.com/glenngabe/status/1798325438609338473"
+  },
+  {
+    "Title": "Google Search Ranking Algorithm Volatility On June 5th",
+    "Description": "Reports of significant volatility in Google search rankings, indicating a potential algorithm update impacting website rankings.",
+    "Link": "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html"
+  },
+  {
+    "Title": "Intense Google Search ranking volatility over the past 24 hours (yes, again) \ud83d\udea8",
+    "Description": "Observation of high volatility in Google search rankings, suggesting potential algorithm updates or fluctuations.",
+    "Link": "https://twitter.com/rustybrick/status/1798324137590653076"
+  },
+  {
+    "Title": "Google AI Overviews show up for less than 15% of queries, down from 84% says @brightedge",
+    "Description": "Data from Brightedge indicates a significant decrease in the appearance of Google AI Overviews in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1798321620643197163"
+  },
+  {
+    "Title": "Microsoft Advertising to start moving smart shopping campaigns to Performance Max within the next couple of months",
+    "Description": "Announcement that Microsoft Advertising will be transitioning smart shopping campaigns to Performance Max in the coming months.",
+    "Link": "https://twitter.com/rustybrick/status/1798319104111083807"
+  },
+  {
+    "Title": "Google fixed the site names issue where some pages had the wrong site name - it has been an issue for several months",
+    "Description": "Confirmation that Google has resolved a long-standing issue causing incorrect site names to appear in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1798316587633545610"
+  },
+  {
+    "Title": "Google News source added disclaimer for \"how these stories are ranked\"",
+    "Description": "Google News has added a disclaimer providing information on how news stories are ranked within its platform.",
+    "Link": "https://twitter.com/rustybrick/status/1798314071034634586"
+  },
+  {
+    "Title": "Google Discussion Forum structured data gains support for SocialMediaPosting markup",
+    "Description": "Google Discussion Forum now supports the SocialMediaPosting schema markup, potentially impacting search visibility.",
+    "Link": "https://twitter.com/rustybrick/status/1798311554355523587"
+  },
+  {
+    "Title": "Google Hong Kong 20th year birthday decorations",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798308786958209465"
+  },
+  {
+    "Title": "Google Business Profiles SMS/WhatsApp messaging will likely roll out to all of us",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798293241886060690"
+  },
+  {
+    "Title": "WTF is the authenticated web?",
+    "Description": "Here's a breakdown of what the authenticated web means.",
+    "Link": "https://digiday.com/media/wtf-is-the-authenticated-web/"
+  },
+  {
+    "Title": "LinkedIn\u2019s publisher revenue share program is entering its next phase",
+    "Description": "Business publishers are putting LinkedIn's rev-share program to the test.",
+    "Link": "https://digiday.com/media/linkedins-publisher-revenue-share-program-is-entering-its-next-phase/"
+  },
+  {
+    "Title": "Why the esports industry is embracing Saudi Arabian investment",
+    "Description": "In 2024, one of the few institutions still funding esports is Saudi Arabia\u2019s Public Investment Fund, which is currently throwing money into the industry from all directions.",
+    "Link": "https://digiday.com/marketing/why-the-esports-industry-is-embracing-saudi-arabian-investment/"
+  },
+  {
+    "Title": "Future of TV Briefing: 5 trends to track in this year\u2019s upfront market",
+    "Description": "This week\u2019s Future of TV Briefing looks at the changes that may \u2014 or may not \u2014 transpire during this year\u2019s upfront cycle.",
+    "Link": "https://digiday.com/future-of-tv/future-of-tv-briefing-5-trends-to-track-in-this-years-upfront-market/"
+  },
+  {
+    "Title": "Matalan\u2019s AI search ads are performing better than ones written by humans",
+    "Description": "The U.K. clothing retailer is using ChatGPT to write product descriptions in Google Shopping ads.",
+    "Link": "https://digiday.com/marketing/matalans-ai-search-ads-are-performing-better-than-ones-written-by-humans/"
+  },
+  {
+    "Title": "Google\u2019s algorithm leak and what it means for travel SEO",
+    "Description": "The Google API documentation leak offers valuable insights for travel industry executives, highlighting the importance of strategic, comprehensive SEO practices.",
+    "Link": "https://www.phocuswire.com/google-algorithm-leak-what-it-means-for-travel-SEO"
+  },
+  {
+    "Title": "Perplexity Pages showing in Google AI Overviews, featured snippets",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/sengineland/status/1798090146937487694"
+  },
+  {
+    "Title": "Google Search fixes issues with Site names not appearing for internal pages",
+    "Description": "This has been an issue since last December but Google said it still needs to reprocess your page for the issue to be resolved.",
+    "Link": "https://twitter.com/rustybrick/status/1798079369174458435"
+  },
+  {
+    "Title": "Google Search fixes issues with Site names not appearing for internal pages",
+    "Description": "This has been an issue since last December but Google said it still needs to reprocess your page for the issue to be resolved.",
+    "Link": "https://searchengineland.com/google-search-fixes-issues-with-site-names-not-appearing-for-internal-pages-442933"
+  },
+  {
+    "Title": "The Rise Of Reddit: How You Can Leverage The Platform That\u2019s Revolutionizing Search",
+    "Description": "Don\u2019t miss our live webinar with our own Brent Csutoras, as we explore Reddit\u2019s newfound significance in the digital marketing landscape.",
+    "Link": "https://www.searchenginejournal.com/the-rise-of-reddit-how-you-can-leverage-the-platform-thats-revolutionizing-search/518320/"
+  },
+  {
+    "Title": "Google says sites that are inaccessible on mobile devices will not be indexed after July 5th, is mobile-first indexing now truly done (well, not fully)",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798063670842265653"
+  },
+  {
+    "Title": "Google popular products keyword expansion",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798059896501579843"
+  },
+  {
+    "Title": "Email from Google to ads and analytics users over new privacy laws coming to some US states and what will change",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798056121086672999"
+  },
+  {
+    "Title": "Google Business Profiles chat section to add your SMS or WhatsApp number (I don't see it yet)",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798052346850902154"
+  },
+  {
+    "Title": "Google fixed the Search Console links report",
+    "Description": "None provided.",
+    "Link": "https://twitter.com/rustybrick/status/1798048571578843392"
+  },
+  {
+    "Title": "Google's documentation leak: 12 big takeaways for link builders and digital PRs",
+    "Description": "Links still matter \u2013 and relevancy matters a lot. Here are even more learnings that could change how you approach link building or digital PR.",
+    "Link": "https://searchengineland.com/links-digital-pr-key-takeaways-google-documentation-leak-442905"
+  },
+  {
+    "Title": "JRS Mar/Com to host free SEO webinar \u2022 Northwest Indiana Business Magazine",
+    "Description": "JRS Mar/Com, a digital marketing agency, will offer a free webinar on June 25 for business owners interested in using SEO to build online communities.",
+    "Link": "https://nwindianabusiness.com/industries/professional-services/it-communictions/jrs-mar-com-to-host-free-seo-webinar/65096/"
+  },
+  {
+    "Title": "Squarespace SEO: How To Optimize Your Squarespace Site",
+    "Description": "Squarespace is a popular website builder with advanced search engine optimization (SEO) capabilities. However, if you don\u2019t understand how to maximize your Squarespace site for SEO, you may be missing out on opportunities to rank your website for high-value keywords. In this article, we discuss Squa",
+    "Link": "https://www.forbes.com/advisor/business/software/squarespace-seo/"
+  },
+  {
+    "Title": "6 SEO Tips to Help You Rank in the New Era of Quality Content",
+    "Description": "What is the best SEO strategy after Google's March 2024 core update? Here's what you need to know.",
+    "Link": "https://www.entrepreneur.com/growing-a-business/6-seo-tips-to-help-you-rank-in-the-new-era-of-quality/474512"
+  },
+  {
+    "Title": "Top SEO Investment Trends for 2024: Where Companies Are Focusing Their Budgets",
+    "Description": "Survey: Companies increase SEO spending by 10-20%, targeting lead generation, brand awareness, and AI integration.",
+    "Link": "https://www.digitalinformationworld.com/2024/06/top-seo-investment-trends-for-2024.html"
+  },
+  {
+    "Title": "'AI will alter the role of the SEO practitioner': How SEO giant sees AI, the future of search analytics and beyond",
+    "Description": "An interview with Semrush about AI generated search results and pushing visibility beyond traditional SERPs",
+    "Link": "https://www.techradar.com/pro/website-building/we-spoke-to-semrush-known-for-their-content-marketing-and-seo-tools-about-ai-the-future-of-search-analytics-and-their-new-semrush-enterprise-platform"
+  },
+  {
+    "Title": "Google says sites that are inaccessible on mobile devices will not be indexed after July 5th, is mobile-first indexing now truly done (well, not fully)",
+    "Description": "None",
+    "Link": "https://twitter.com/rustybrick/status/1798003273062080979"
+  },
+  {
+    "Title": "Google popular products keyword expansion",
+    "Description": "None",
+    "Link": "https://twitter.com/rustybrick/status/1797999498524004640"
+  },
+  {
+    "Title": "Email from Google to ads and analytics users over new privacy laws coming to some US states and what will change",
+    "Description": "None",
+    "Link": "https://twitter.com/rustybrick/status/1797995723298099412"
+  },
+  {
+    "Title": "It's New - Google mobile indexing done (kinda), related shopping products, Google Ads and Analytics state law changes and more",
+    "Description": "None",
+    "Link": "https://twitter.com/rustybrick/status/1797992869422318020"
+  },
+  {
+    "Title": "The advertiser\u2019s guide to campaign optimization | Tactics and insights for improving digital performance through data",
+    "Description": "This Tactics + Insights guide, sponsored by Wiland, examines how brands and agencies use data to optimize campaigns. By combining a holistic understanding of past campaigns, careful audience selection and in-flight campaign adjustments, marketers improve campaign performance and drive revenue growth.",
+    "Link": "https://digiday.com/sponsored/the-advertisers-guide-to-campaign-optimization/"
+  },
+  {
+    "Title": "Search Central is now on LinkedIn too! Follow us on LinkedIn for announcements, news and more. linkedin.com/showcase/googl\u2026 Also! This is not a migration; we are still here on X \ud83d\ude0e",
+    "Description": "None",
+    "Link": "https://twitter.com/googlesearchc/status/1797969446310650358"
+  },
+  {
+    "Title": "Bing turned 15 yesterday. @JordiRib1 reflects on what Bing has done for Search -> Bing turns 15: What's its legacy? Keeping LLMs fresh and grounded: \"It's the combination of real-time information from Bing search grounding (RAG) with LLMs that delivers the freshest, most\u2026",
+    "Description": "None",
+    "Link": "https://twitter.com/glenngabe/status/1797969420666499213"
+  },
+  {
+    "Title": "Shopping in \"outlandish, make-believe worlds\". Hmm... :) -> Walmart\u2019s 3D ecommerce platform Realm is the retailer\u2019s latest metaverse bet \"The platform also puts a video game twist on online shopping, another hint that Gen Z was top of mind when the retailer designed Walmart\u2026",
+    "Description": "None",
+    "Link": "https://twitter.com/glenngabe/status/1797967496458244596"
+  },
+  {
+    "Title": "New Ecommerce Tools: June 4, 2024",
+    "Description": "This week's rundown includes updates on drone deliveries, POS systems, conversational AI, fulfillment, brand-influencer partnerships, and multichannel management.",
+    "Link": "https://www.practicalecommerce.com/new-ecommerce-tools-june-4-2024"
+  },
+  {
+    "Title": "What's a few million links here and there? :) Yep, link counts are back in GSC. Something broke down there over the past week, that's for sure. Saw some sites drop by millions of links during that timeframe... Now back to normal.",
+    "Description": "None",
+    "Link": "https://twitter.com/glenngabe/status/1797961284727816413"
+  },
+  {
+    "Title": "Yep, agents will be big. Amazon doesn't want to be left behind -> Could MultiOn Be Amazon\u2019s Horse in the Agent Race? \"MultiOn has told outsiders that it tweaked open-source LLMs to make them \u201cagentic,\u201d or agent-like, so they can, for example, use a web browser to search airline\u2026",
+    "Description": "None",
+    "Link": "https://twitter.com/glenngabe/status/1797960158439420290"
+  },
+  {
+    "Title": "That could be pretty cool and helpful -> Google Gemini could soon get a Spotify extension \"References to the extension were spotted in the latest Google app for Android.\" \"Gemini should also be able to handle complex Spotify-related commands like it currently does with YT\u2026",
+    "Description": "None",
+    "Link": "https://twitter.com/glenngabe/status/1797958435209650376"
+  },
+  {
+    "Title": "Google's link reporting tool is now fixed",
+    "Description": "Last week there was a bug with the Google Search Console report.",
+    "Link": "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893"
+  },
+  {
+    "Title": "Google Search Console Links Report Fixed",
+    "Description": "The Google Search Console link report now seems to be fixed.  As we reported last week, we saw a decline in links being reported by the tool, followed by a huge decline a few days later. The tool now seems to be showing the previous link count before the tool had that bug.",
+    "Link": "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"
+  },
+  {
+    "Title": "Does Guest Posting Still Work in 2024 as an SEO Method? Insights and Analysis",
+    "Description": "Guest posting remains a relevant strategy for SEO in 2024, but its effectiveness hinges on several key factors. It offers significant benefits when implemented correctly, improving link-building opportunities, increasing website traffic, and enhancing brand authority. High-quality guest posts on reputable sites continue to provide substantial SEO v...",
+    "Link": "https://www.msn.com/en-us/money/smallbusiness/does-guest-posting-still-work-in-2024-as-an-seo-method-insights-and-analysis/ar-BB1nANVg"
+  },
+  {
+    "Title": "Gen Z, millennials are \u2018weak link\u2019 as AI fuels new cyberattack workplace threats",
+    "Description": "Experts emphasize the need for engaging and tailored training programs and a culture of cyber awareness to combat evolving threats.",
+    "Link": "https://digiday.com/media/gen-z-millennials-are-weak-link-as-ai-fuels-new-cyberattack-workplace-threats/"
+  },
+  {
+    "Title": "The cases for and against The Trade Desk's Top 100 List",
+    "Description": "Is this just another example of strategic brilliance from the ad tech vendor or is it another example of its industry overreach?",
+    "Link": "https://digiday.com/marketing/the-cases-for-and-against-trade-desks-top-100-list/"
+  },
+  {
+    "Title": "The pros and cons of publishers\u2019 AI licensing deals",
+    "Description": "One after another, publishers are signing deals with AI tech company OpenAI to get paid for their content. But at what cost?",
+    "Link": "https://digiday.com/media/the-pros-and-cons-of-publishers-ai-licensing-deals/"
+  },
+  {
+    "Title": "WTF is a financial media network?",
+    "Description": "Financial media networks, or FMNs, are financial institutions that have built out their own ad networks using their rich data sets (or their first-party data).",
+    "Link": "https://digiday.com/marketing/wtf-is-a-financial-media-network/"
+  },
+  {
+    "Title": "How Hunter Harris and Caroline Chambers have extended their Substack subscribers into monetizable communities",
+    "Description": "The third episode of the Digiday Podcast's Creator series takes a look at Substack and how content creators are monetizing their tens of thousands of subscribers.",
+    "Link": "https://digiday.com/podcasts/how-hunter-harris-and-caroline-chambers-have-extended-their-substack-subscribers-into-monetizable-communities/"
+  },
+  {
+    "Title": "Marketing Briefing: How a quieter Pride could serve as a 'reset' for marketers to be less 'performative'",
+    "Description": "Fewer marketers brought up Pride to agency execs who say that anecdotally it\u2019s been noticeably quieter this year than in previous years, even last year.",
+    "Link": "https://digiday.com/marketing/marketing-briefing-how-a-quieter-pride-could-serve-as-a-reset-for-marketers-to-be-less-performative/"
+  },
+  {
+    "Title": "SEO for Newbies: Strategies for Success in 2024 and Beyond",
+    "Description": "Were you aware that the notion of search engine optimisation (SEO) can trace its roots as far back as 1997?",
+    "Link": "https://bmmagazine.co.uk/business/seo-for-newbies-strategies-for-success-in-2024-and-beyond/"
+  },
+  {
+    "Title": "Adapting Your SEO Strategy to Google\u2019s 2024 Core Updates",
+    "Description": "Adapting your SEO strategy to Google\u2019s core updates is crucial. Learn how to optimize content & improve user experience with expert guidance.",
+    "Link": "https://www.pacific54.com/blog/google-core-updates-seo-strategy/"
+  },
+  {
+    "Title": "How Backlinks from Different Industries Affect Your SEO",
+    "Description": "The digital landscape is vast and interconnected, weaving through various industries and niches. In the realm of Search Engine Optimization (SEO),",
+    "Link": "https://www.aussietheatre.com.au/news/how-backlinks-from-different-industries-affect-your-seo"
+  },
+  {
+    "Title": "AI Web Search Fields Low Consumer Interest, but Online Shoppers Are More Likely To Embrace It",
+    "Description": "As far as AI usage and technology go, we may only be at the tip of the iceberg. There\u2019s the explosion of AI models like ChatGPT, and we\u2019ve seen AI being used to help in healthcare or even as a source of companionship. Search engines have also begun using AI in their own way such [...]Read More... from AI Web Search Fields Low Consumer Interest, but Online Shoppers Are More Likely To Embrace It",
+    "Link": "https://civicscience.com/ai-web-search-fields-low-consumer-interest-but-online-shoppers-are-more-likely-to-embrace-it/"
+  },
+  {
+    "Title": "Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling",
+    "Description": "I'm sure users will LOVE this... -> Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling techcrunch.com/2024/06/03/ins\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1797711100710170854"
+  },
+  {
+    "Title": "The latest in digital marketing with #MarketingFOMO \ud83d\udc40\ud83d\udc47 (beyond the Google leak and AI Overviews): * LinkedIn Updates Link Previews in Organic Posts With Smaller Images* Update to Google Ads Advertiser Verification Program * PayPal launching ad network fueled by user\u2026",
+    "Description": "The latest in digital marketing with #MarketingFOMO \ud83d\udc40\ud83d\udc47 (beyond the Google leak and AI Overviews): * LinkedIn Updates Link Previews in Organic Posts With Smaller Images* Update to Google Ads Advertiser Verification Program * PayPal launching ad network fueled by user\u2026",
+    "Link": "https://twitter.com/aleyda/status/1797704271284036083"
+  },
+  {
+    "Title": "The rise of AI-powered SEO: Friend or foe?",
+    "Description": "While AI can optimize your website, there also are possible issues to consider. Learn how AI-powered SEO can set you up for success.",
+    "Link": "https://www.smartbrief.com/original/the-rise-of-ai-powered-seo-friend-or-foe"
+  },
+  {
+    "Title": "MozCon 2024 Announcements: AI SEO Tools & Affordable API Plans",
+    "Description": "Moz unveils AI-powered tools, affordable API plans, and product updates at MozCon.",
+    "Link": "https://www.searchenginejournal.com/mozcon-2024-announcements-ai-seo-tools-affordable-api-plans/518150/"
+  },
+  {
+    "Title": "Google won't index sites that do not work on mobile devices after July 5",
+    "Description": "if your website is not accessible using a mobile device, then Google will no longer index it and rank it.",
+    "Link": "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851"
+  },
+  {
+    "Title": "Experts Share The 5 Things You Need to Understand About SEO in 2024",
+    "Description": "Search engine optimization can feel like a game with rules that are always changing.",
+    "Link": "https://www.entrepreneur.com/growing-a-business/experts-share-the-5-things-you-need-to-understand-about-seo/472625"
+  },
+  {
+    "Title": "Microsoft's head of AI and Search celebrates Bing's 15th anniversary today",
+    "Description": "Jordi Ribas, the corporate vice president for search and AI at Microsoft, posted some thoughts on the company's Bing search engine as it celebrates the 15th anniversary of its launch on June 3, 2009.",
+    "Link": "https://www.neowin.net/news/microsofts-head-of-ai-and-search-celebrates-bings-15th-anniversary-today/"
+  },
+  {
+    "Title": "How To Get Into Google's AI Overviews",
+    "Description": "A bunch of SEOs are now experimenting with how they can show up in the Google AI Overviews, not just remove themselves from AI Overviews. Cyrus Shepard posted a \"mini case study\" on X, showing how he was able to work his site into the AI Overviews.",
+    "Link": "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html"
+  },
+  {
+    "Title": "Yes, Clicks and Engagement Impact SEO",
+    "Description": "For years Google denied using clicks on organic listings in its ranking algorithm. Recent revelations show otherwise.",
+    "Link": "https://www.practicalecommerce.com/yes-clicks-and-engagement-impact-seo"
+  },
+  {
+    "Title": "Best free SEO tools in 2024",
+    "Description": "Grow your website with these best free SEO tools",
+    "Link": "https://www.techradar.com/pro/software-services/best-free-seo-tools-in-year"
+  },
+  {
+    "Title": "Google Search Console Complete Guide For SEO",
+    "Description": "Discover the power of Google Search Console for SEO. Learn how to use GSC to measure site performance, improve rankings, and troubleshoot issues.",
+    "Link": "https://www.searchenginejournal.com/google-search-console-guide-for-seos/511585/"
+  },
+  {
+    "Title": "Business publishers are finding value in social video ad revenue",
+    "Description": "Business publishers are turning their attention more to social video as advertiser interest -- and ad inventory -- opens up.",
+    "Link": "https://digiday.com/media/media-briefing-why-business-publishers-are-finding-value-in-social-video-ad-revenue/"
+  },
+  {
+    "Title": "Advertisers appear to be largely unbothered by esports industry's growing Saudi Arabian ties",
+    "Description": "Far from turning off brands, esports orgs\u2019 participation in the Esports World Cup has actually sparked an influx of new sponsors into the space. Marketers are jumping at the opportunity to put their brands in front of the audience of an event that is billing itself as the Olympics or FIFA World Cup of esports.",
+    "Link": "https://digiday.com/marketing/advertisers-appear-to-be-largely-unbothered-by-esports-industrys-growing-saudi-arabian-ties/"
+  },
+  {
+    "Title": "The Washington Post\u2019s EIC succession plan shakes up newsroom, but does little to curb marketers\u2019 news avoidance",
+    "Description": "The sudden shakeup at the top of The Washington Post\u2019s newsroom is unlikely to improve buyers\u2019 evaluation of news orgs as a place to spend their media budgets.",
+    "Link": "https://digiday.com/media/the-washington-posts-eic-succession-plan-shakes-up-newsroom-but-does-little-to-curb-marketers-news-avoidance/"
+  },
+  {
+    "Title": "RT by @aleyda: Let me put something into perspective here guys. Google update following the repo leak is by far the biggest spike we've ever recorded in Google since we started Algoroo. Nothing else comes even close: algoroo.com",
+    "Description": "Tweet suggesting a recent Google update, potentially related to a repository leak, has caused significant ranking fluctuations, as observed by SEO tracking tool Algoroo.",
+    "Link": "https://twitter.com/dejanseo/status/1798522052410069201"
+  },
+  {
+    "Title": "SEO In Crisis? Moz Search Scientist Warns Of Challenges Ahead",
+    "Description": "Google's AI disrupts organic SEO; search scientist suggests pivoting strategies to commercial queries, local SEO, and better content.",
+    "Link": "https://www.searchenginejournal.com/seo-in-crisis-moz-search-scientist-warns-of-challenges-ahead/518374/"
+  },
+  {
+    "Title": "Google Fixes Issue With Site Names Not Appearing For Internal Pages",
+    "Description": "Google has fixed an issue with site names not appearing for some internal pages, this has been an issue since December 2023.  I checked some examples, and they are indeed fixed - although Google said some fixes are still rolling out and those pages need to be reprocessed to be fixed.",
+    "Link": "https://www.seroundtable.com/google-fixes-internal-page-site-names-issues-37505.html"
+  },
+  {
+    "Title": "Rethinking your keyword strategy: Why optimizing for search intent matters",
+    "Description": "Reframing keyword research to prioritize search intent over keyword relevance leads to a more balanced strategy focusing on conversion.",
+    "Link": "https://searchengineland.com/rethinking-keyword-strategy-optimize-search-intent-442864"
+  },
+  {
+    "Title": "Google Business Profile question and answers hidden bug",
+    "Description": "There is a bug in Google Business Profile that is causing question and answers to be hidden.",
+    "Link": "https://twitter.com/rustybrick/status/1798728048730423573"
+  },
+  {
+    "Title": "Google will still index sites that are not mobile-friendly after July 5th",
+    "Description": "Google will continue to index sites that are not mobile-friendly after July 5th, as long as they do not block Googlebot Smartphone.",
+    "Link": "https://twitter.com/rustybrick/status/1798724274079035473"
+  },
+  {
+    "Title": "Google adds clarity to using white labeled coupon content on your site",
+    "Description": "Google has clarified that using white-labeled coupon content on your site is against their site reputation abuse policy.",
+    "Link": "https://twitter.com/rustybrick/status/1798720499058622639"
+  },
+  {
+    "Title": "Google Ad Updates from Marketing Live 2024",
+    "Description": "Google announced over 30 new advertising features at Marketing Live 2024. This article highlights the most impactful updates for merchants.",
+    "Link": "https://www.practicalecommerce.com/google-ad-updates-from-marketing-live-2024"
+  },
+  {
+    "Title": "Google Merchant Center analytics update",
+    "Description": "Google Merchant Center is testing a new analytics user experience.",
+    "Link": "https://twitter.com/rustybrick/status/1798716724365131834"
+  },
+  {
+    "Title": "It's New - June 6 - Coupon site Google spam, mobile-friendly changes (not what you think) and Microsoft Ads imports Google Ads conversions, Google Ads API and more",
+    "Description": "A YouTube video discussing recent news in digital marketing, including Google's crackdown on coupon site spam, mobile-friendly changes, and Microsoft Ads importing Google Ads conversions.",
+    "Link": "https://twitter.com/rustybrick/status/1798716669390651732"
+  },
+  {
+    "Title": "A new Free Chrome Extension to Analyze AI Overviews for any keywords in bulk, Citations, domain inclusion and more",
+    "Description": "A new free Chrome extension allows users to analyze AI overviews for keywords in bulk, citations, domain inclusion, and more.",
+    "Link": "https://twitter.com/aleyda/status/1798714554970734726"
+  },
+  {
+    "Title": "Microsoft Advertising may automatically import your Google Ads conversion data",
+    "Description": "Microsoft Advertising may start automatically importing Google Ads conversion data for advertisers who have previously used the Google Ads to Microsoft Ads import feature.",
+    "Link": "https://twitter.com/rustybrick/status/1798712949118292133"
+  },
+  {
+    "Title": "Google released Google Ads API version 17",
+    "Description": "Google has released version 17 of the Google Ads API.",
+    "Link": "https://twitter.com/rustybrick/status/1798711439743668324"
+  },
+  {
+    "Title": "SEO interview: The value of local Hawaii SEO",
+    "Description": "An interview with SEO and digital marketing consultant Rik Snuiverink and local search specialist Nick Ponte about the importance of local SEO for businesses.",
+    "Link": "https://cyprus-mail.com/2024/06/06/seo-interview-the-value-of-local-hawaii-seo/"
+  },
+  {
+    "Title": "NewsBreak: Most downloaded US news app 'writes fiction' using AI",
+    "Description": "NewsBreak, the most downloaded news app in the US, has been accused of using AI to generate fictional news stories.",
+    "Link": "https://twitter.com/glenngabe/status/1798698788988563866"
+  },
+  {
+    "Title": "The Atlantic CEO Nicholas Thompson shares details on the OpenAI deal: publishers can benefit from tech platforms as long as they avoid becoming wholly dependent",
+    "Description": "The Atlantic CEO Nicholas Thompson discusses the publication's deal with OpenAI and how publishers can benefit from tech platforms without becoming overly reliant on them.",
+    "Link": "https://twitter.com/glenngabe/status/1798696203296886896"
+  },
+  {
+    "Title": "The Rise and Fall of BNN Breaking, an AI-Generated News Outlet",
+    "Description": "An analysis of the rise and fall of BNN Breaking, an AI-generated news outlet that experienced a significant drop in traffic, possibly due to a manual action for \"scaled content abuse.\"",
+    "Link": "https://twitter.com/glenngabe/status/1798689072304505046"
+  },
+  {
+    "Title": "Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries",
+    "Description": "Google has expanded the availability of its Gemini-powered note-taking assistant, NotebookLM, to over 200 new countries. The update also includes the ability to source content from Google Slides and web URLs.",
+    "Link": "https://twitter.com/glenngabe/status/1798684896187298072"
+  },
+  {
+    "Title": "Google Business Profile question and answers bug causes them to go hidden",
+    "Description": "A bug in Google Business Profile is causing questions and answers to become hidden.",
+    "Link": "https://twitter.com/rustybrick/status/1798684008471023828"
+  },
+  {
+    "Title": "PSA: Google will still index sites that are not mobile-friendly after July 5th",
+    "Description": "Google will continue to index sites that are not mobile-friendly after July 5th.",
+    "Link": "https://twitter.com/rustybrick/status/1798681492190851233"
+  },
+  {
+    "Title": "Google now explicitly says white-labeled coupon sites white-labeled can be against Google's site reputation abuse policy",
+    "Description": "Google has explicitly stated that white-labeled coupon sites can violate their site reputation abuse policy.",
+    "Link": "https://twitter.com/rustybrick/status/1798678975582986546"
+  },
+  {
+    "Title": "Google Merchant Center testing new analytics UX",
+    "Description": "Google Merchant Center is testing a new user experience for its analytics platform.",
+    "Link": "https://twitter.com/rustybrick/status/1798676458941931561"
+  },
+  {
+    "Title": "Microsoft Advertising to automatically import your Google Ads conversion data if you have previously done Google Ads to Microsoft Ads imports",
+    "Description": "Microsoft Advertising will automatically import Google Ads conversion data for advertisers who have previously imported their conversions from Google Ads.",
+    "Link": "https://twitter.com/rustybrick/status/1798673942368108890"
+  },
+  {
+    "Title": "Google Ads API version 17 is now out",
+    "Description": "Google Ads API version 17 has been released.",
+    "Link": "https://twitter.com/rustybrick/status/1798672432707887512"
+  },
+  {
+    "Title": "Google Search Console link report fixed",
+    "Description": "Google has confirmed that the Search Console link report, which was experiencing issues, has been fixed. The issue caused a discrepancy in the number of links being reported.",
+    "Link": "https://twitter.com/rustybrick/status/1798650742351233399"
+  },
+  {
+    "Title": "Increase in links reported in Google Search Console",
+    "Description": "A 22% increase in links being reported for a site in Google Search Console has been observed.",
+    "Link": "https://twitter.com/rustybrick/status/1798651541139722605"
+  },
+  {
+    "Title": "Google Case Study Shows Importance Of Structured Data",
+    "Description": "A Google case study highlights the significance of structured data and URL optimization for crawling in boosting clicks from search engine results pages (SERPs).",
+    "Link": "https://www.searchenginejournal.com/google-case-study-shows-importance-of-structured-data/518561/"
+  },
+  {
+    "Title": "How Google\u2019s Search Generative Experience Impacts Zero-Click Searches and Solutions for Law Firms",
+    "Description": "The article discusses the impact of Google's Search Generative Experience on zero-click searches, particularly for law firms. It explores how this feature is changing the search landscape and offers solutions for businesses to adapt.",
+    "Link": "https://www.jdsupra.com/legalnews/how-google-s-search-generative-2166260/"
+  },
+  {
+    "Title": "Google AI Overviews: New Research Offers Insights",
+    "Description": "Research by BrightEdge provides insights into the types of search queries that trigger Google AI Overviews across various industries.",
+    "Link": "https://www.searchenginejournal.com/research-google-ai-overviews/518246/"
+  },
+  {
+    "Title": "How To Increase Website Traffic After The Google Update: 5 Blogger-Tested Tips",
+    "Description": "The article presents five tips from travel bloggers on how to increase website traffic following a recent Google update. The advice aims to help websites improve their online visibility and attract more visitors.",
+    "Link": "https://www.searchenginejournal.com/google-update-increase-traffic-stay22-spa/516972/"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-06-06 16:04:07.381099:
+RESPONSE: 
+{"stories": [{"Title": "Publishers Navigate Programmatic Advertising Challenges", "Category": "Advertising & Marketing", "Description": "Publishers continue to invest in programmatic ads despite budget and data obstacles, seeking ways to optimize campaigns and drive revenue growth.", "Links": ["https://digiday.com/media/research-briefing-publishers-invest-in-programmatic-ads-despite-budget-and-data-challenges/", "https://digiday.com/sponsored/the-advertisers-guide-to-campaign-optimization/"]}, {"Title": "Digital Out-of-Home Advertising Embraces Data and Measurement", "Category": "Advertising & Marketing", "Description": "The growth of digital out-of-home (DOOH) advertising is leading media agencies to leverage its data and measurement capabilities for more effective campaigns.", "Links": ["https://digiday.com/media-buying/as-digital-ooh-grows-media-agencies-make-more-use-of-its-data-and-measurement-abilities/"]}, {"Title": "Bing's AI Integration with Zillow Sparks Controversy", "Category": "Technology & AI", "Description": "Microsoft's Bing search engine integrates ChatGPT plugins for real estate sites like Zillow, raising concerns about data sharing practices and potential investigations.", "Links": ["https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"]}, {"Title": "How to Remove Bing Redirect Virus on Mac", "Category": "Technology & Security", "Description": "A guide on identifying and removing the Bing Redirect Virus on Mac computers, protecting users from malicious redirects.", "Links": ["https://www.macobserver.com/macos/bing-redirect-virus-mac/"]}, {"Title": "Google Search Updates and Algorithm Volatility", "Category": "Search Engine Optimization (SEO)", "Description": "Google Search experiences significant ranking volatility, potentially due to algorithm updates, impacting website visibility and SEO strategies.", "Links": ["https://twitter.com/rustybrick/status/1798369436103000131", "https://twitter.com/rustybrick/status/1798365660784767115", "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html"]}, {"Title": "Google AI Overviews Decline in Search Results", "Category": "Search Engine Optimization (SEO)", "Description": "Observations and data indicate a significant decrease in the appearance of Google AI Overviews in search results, impacting website visibility and SEO strategies.", "Links": ["https://twitter.com/rustybrick/status/1798365660784767115", "https://twitter.com/rustybrick/status/1798321620643197163", "https://www.seroundtable.com/google-ai-overviews-optimization-37487.html"]}, {"Title": "Microsoft Advertising to Transition Smart Shopping to Performance Max", "Category": "Advertising & Marketing", "Description": "Microsoft Advertising announces plans to transition smart shopping campaigns to Performance Max, impacting advertiser strategies and campaign management.", "Links": ["https://twitter.com/rustybrick/status/1798361886213521555", "https://twitter.com/rustybrick/status/1798319104111083807"]}, {"Title": "Google Addresses Site Name Issues in Search Results", "Category": "Search Engine Optimization (SEO)", "Description": "Google resolves issues causing incorrect site names to appear in search results for subdomains and internal pages, improving website visibility and user experience.", "Links": ["https://twitter.com/rustybrick/status/1798358111075361130", "https://searchengineland.com/google-search-fixes-issues-with-site-names-not-appearing-for-internal-pages-442933", "https://twitter.com/glenngabe/status/1798325438609338473"]}, {"Title": "Google Faces Lawsuits and Legal Challenges", "Category": "Technology & Law", "Description": "Google faces a \u00a313.6 billion lawsuit in the UK related to its advertising practices and a separate lawsuit from textbook sellers for promoting pirate site ads.", "Links": ["https://twitter.com/rustybrick/status/1798337249958056208", "https://twitter.com/rustybrick/status/1798404257621872692"]}, {"Title": "Business Adoption of AI Continues to Grow", "Category": "Technology & AI", "Description": "Statistics reveal a significant increase in the adoption of AI applications by businesses globally, highlighting the growing influence of AI in various sectors.", "Links": ["https://www.practicalecommerce.com/charts-business-adoption-of-ai"]}, {"Title": "The Impact of Google's Mobile-First Indexing", "Category": "Search Engine Optimization (SEO)", "Description": "Google emphasizes the importance of mobile-friendliness, stating that sites inaccessible on mobile devices may not be indexed, impacting website visibility.", "Links": ["https://twitter.com/rustybrick/status/1798003273062080979", "https://searchengineland.com/google-wont-index-sites-that-do-not-work-on-mobile-devices-after-july-5th-442851"]}, {"Title": "Esports Industry and Saudi Arabian Investment", "Category": "Gaming & Esports", "Description": "The esports industry sees increasing investment from Saudi Arabia, raising questions about the implications and potential influence on the industry.", "Links": ["https://digiday.com/marketing/why-the-esports-industry-is-embracing-saudi-arabian-investment/", "https://digiday.com/marketing/advertisers-appear-to-be-largely-unbothered-by-esports-industrys-growing-saudi-arabian-ties/"]}, {"Title": "Google Search Console Link Report Experiences Issues and Fixes", "Category": "Search Engine Optimization (SEO)", "Description": "The Google Search Console link report experiences issues, causing discrepancies in reported link counts, but Google confirms the issue has been resolved.", "Links": ["https://twitter.com/glenngabe/status/1797961284727816413", "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893", "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"]}, {"Title": "The Role of AI in SEO: Opportunities and Challenges", "Category": "Search Engine Optimization (SEO)", "Description": "Experts discuss the rise of AI-powered SEO, highlighting its potential benefits and challenges for businesses and SEO professionals.", "Links": ["https://www.smartbrief.com/original/the-rise-of-ai-powered-seo-friend-or-foe", "https://www.searchenginejournal.com/mozcon-2024-announcements-ai-seo-tools-affordable-api-plans/518150/"]}, {"Title": "Google Business Profile Updates and Issues", "Category": "Search Engine Optimization (SEO)", "Description": "Google Business Profile introduces new features and experiences issues, including a bug affecting question and answer visibility and updates to messaging options.", "Links": ["https://twitter.com/rustybrick/status/1798052346850902154", "https://twitter.com/rustybrick/status/1798728048730423573"]}, {"Title": "NewsBreak Investigated for AI-Generated Content", "Category": "Technology & Media", "Description": "NewsBreak, a popular US news app, faces scrutiny and investigation for allegedly using AI to generate fictional news stories, raising concerns about misinformation.", "Links": ["https://twitter.com/glenngabe/status/1798698788988563866"]}, {"Title": "Google's Gemini AI Powers New Features and Products", "Category": "Technology & AI", "Description": "Google expands the availability of its Gemini-powered note-taking assistant, NotebookLM, and integrates Gemini into various products and services.", "Links": ["https://twitter.com/glenngabe/status/1798684896187298072"]}]}
