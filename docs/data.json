@@ -1,50 +1,126 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Volatility and Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google search rankings experienced significant volatility on June 4th and 5th, potentially indicating algorithm updates. Observations suggest a decrease in the appearance of Google AI Overviews in search results compared to previous months. Google also confirmed fixing issues with incorrect site names appearing in search results for subdomains and internal pages.",
+            "Title": "Google Search Console Link Report Fixed",
+            "Category": "SEO",
+            "Description": "Google has confirmed that a bug in Search Console's link reporting tool, which was causing discrepancies in the number of links reported for websites, has been fixed. The issue was first reported in early June, and Google acknowledged the problem, stating that it was a result of an internal issue.  The fix was implemented, and webmasters should now see accurate link counts in their Search Console reports.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798369436103000131",
-                "https://twitter.com/rustybrick/status/1798365660784767115",
-                "https://twitter.com/rustybrick/status/1798358111075361130"
+                "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893",
+                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html",
+                "https://twitter.com/rustybrick/status/1798650742351233399"
             ]
         },
         {
-            "Title": "Bing's AI Integration with Zillow Sparks Controversy",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Microsoft's Bing search engine is integrating ChatGPT plugins for sites like Zillow, raising concerns about data sharing practices in the real estate industry. The integration has sparked controversy and calls for investigation over potential legal issues and control over property listings.",
+            "Title": "Google Search Ranking Algorithm Volatility",
+            "Category": "SEO",
+            "Description": "Google's search ranking algorithm experienced a period of intense volatility on June 4th and 5th, 2024.  Many SEO tracking tools showed significant fluctuations in rankings, and the SEO community saw a surge in discussions about the update.  The volatility suggests that Google may have been rolling out a significant update to its ranking algorithm.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html",
+                "https://twitter.com/rustybrick/status/1798324137590653076"
+            ]
+        },
+        {
+            "Title": "Google Updates Guidance on White-Labeled Coupon Sites",
+            "Category": "SEO",
+            "Description": "Google clarified its stance on white-labeled coupon sites, stating that using such content can violate its site reputation abuse policy. The company emphasized that websites should provide unique value to users by directly sourcing coupons from merchants, rather than relying on white-label services that redistribute coupons. This update aims to ensure that users find high-quality, trustworthy coupon information on Google Search.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798678975582986546",
+                "https://twitter.com/glenngabe/status/1798690004731900354"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Question and Answers Bug",
+            "Category": "SEO",
+            "Description": "A bug in Google Business Profile (GBP) caused question and answer sections to become hidden from public view. The issue was reported by users and SEO professionals, who noticed that the Q&A sections were no longer visible on their GBP listings. Google acknowledged the bug and worked on a fix to restore the visibility of the question and answer content.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798684008471023828",
+                "https://twitter.com/rustybrick/status/1798728048730423573"
+            ]
+        },
+        {
+            "Title": "Google to Continue Indexing Non-Mobile-Friendly Sites",
+            "Category": "SEO",
+            "Description": "Contrary to some expectations, Google will continue to index websites that are not mobile-friendly after July 5th, 2024. However, this is contingent upon the website not blocking Googlebot Smartphone, the search engine's crawler for mobile devices.  Websites that block Googlebot Smartphone will not be indexed or ranked in mobile search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798681492190851233",
+                "https://twitter.com/rustybrick/status/1798724274079035473"
+            ]
+        },
+        {
+            "Title": "Google Search Generative Experience Impact on Zero-Click Searches",
+            "Category": "SEO",
+            "Description": "The rise of zero-click searches, where Google provides answers directly on the search results page, is significantly impacted by Google's Search Generative Experience. This feature uses AI to generate summaries and answers, potentially reducing the need for users to click through to websites.  For businesses, this highlights the importance of optimizing content to appear in these AI-generated snippets and featured answers.",
+            "Links": [
+                "https://www.jdsupra.com/legalnews/how-google-s-search-generative-2166260/"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising to Import Google Ads Conversion Data",
+            "Category": "Advertising",
+            "Description": "Microsoft Advertising announced that it will automatically import conversion data from Google Ads for advertisers who have previously used import features between the two platforms. This move aims to simplify campaign tracking and measurement for advertisers running campaigns on both Microsoft Advertising and Google Ads.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798673942368108890",
+                "https://twitter.com/rustybrick/status/1798712949118292133"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising to Transition Smart Shopping Campaigns to Performance Max",
+            "Category": "Advertising",
+            "Description": "Microsoft Advertising is planning to transition Smart Shopping campaigns to its Performance Max campaign type within the next few months. This change aligns with Google Ads' shift towards Performance Max and will provide advertisers with more automation and optimization capabilities.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798319104111083807"
+            ]
+        },
+        {
+            "Title": "Google Ads API Version 17 Released",
+            "Category": "Advertising",
+            "Description": "Google released version 17 of its Google Ads API, introducing new features and updates for developers and advertisers. The new version likely includes enhancements to campaign management, reporting, and other aspects of the Google Ads platform.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798672432707887512",
+                "https://twitter.com/rustybrick/status/1798711439743668324"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Testing New Analytics UX",
+            "Category": "Advertising",
+            "Description": "Google Merchant Center is experimenting with a new user experience (UX) for its analytics section. The updated interface aims to provide merchants with a more intuitive and user-friendly way to access and analyze their product performance data.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798676458941931561",
+                "https://twitter.com/rustybrick/status/1798716724365131834"
+            ]
+        },
+        {
+            "Title": "NewsBreak Investigated for AI-Generated Content",
+            "Category": "Artificial Intelligence",
+            "Description": "NewsBreak, a popular news app, faced scrutiny after reports emerged that it was using AI to generate fictional news stories. The app, known for its local news aggregation, allegedly published fabricated content, raising concerns about the spread of misinformation. The incident sparked discussions about the ethical implications of using AI in news generation and the importance of verifying information from AI-powered sources.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1798698788988563866"
+            ]
+        },
+        {
+            "Title": "The Atlantic CEO Discusses OpenAI Deal",
+            "Category": "Artificial Intelligence",
+            "Description": "Nicholas Thompson, CEO of The Atlantic, shared insights into the publication's deal with OpenAI, emphasizing the potential benefits and challenges for publishers partnering with tech platforms. Thompson highlighted the importance of publishers maintaining their independence and avoiding over-reliance on technology companies while exploring new revenue streams and content creation opportunities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1798696203296886896"
+            ]
+        },
+        {
+            "Title": "Bing Integrates with Zillow, Raising Data Privacy Concerns",
+            "Category": "Search",
+            "Description": "Microsoft's Bing search engine integrated ChatGPT plugins for websites like Zillow, raising concerns within the real estate industry about data sharing practices and potential legal ramifications. Critics argue that the integration could compromise user privacy and give Bing an unfair advantage in the real estate search market.",
             "Links": [
                 "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
             ]
         },
         {
-            "Title": "Google Search Console Link Report Issues Resolved",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has confirmed that the issue with the link report within Google Search Console, which caused a decline in reported links, has been resolved. Users are now observing a significant increase in the number of links being reported, indicating a return to normal functionality.",
+            "Title": "Bing's Desktop Search Share Grows, but Google Remains Dominant",
+            "Category": "Search",
+            "Description": "Despite a slight increase in Bing's desktop search market share, Google continues to dominate the search landscape, even as AI-powered search gains momentum. The growth of Bing can be attributed to factors such as its integration with Microsoft products and its AI-powered features. However, Google's vast search index, user base, and continuous innovation allow it to maintain its leading position.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798650742351233399",
-                "https://twitter.com/rustybrick/status/1798651541139722605",
-                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"
-            ]
-        },
-        {
-            "Title": "Microsoft Advertising Transitions to Performance Max",
-            "Category": "Advertising and Marketing",
-            "Description": "Microsoft Advertising is planning to transition smart shopping campaigns to Performance Max within the next few months. This move aligns with Google's advertising platform and aims to simplify campaign management for advertisers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798361886213521555",
-                "https://twitter.com/rustybrick/status/1798319104111083807"
-            ]
-        },
-        {
-            "Title": "Publishers and AI Licensing Deals",
-            "Category": "Media and Publishing",
-            "Description": "Publishers are increasingly signing deals with AI tech company OpenAI to monetize their content. However, these agreements raise concerns about the potential consequences and long-term implications for the publishing industry.",
-            "Links": [
-                "https://digiday.com/media/the-pros-and-cons-of-publishers-ai-licensing-deals/"
+                "https://seekingalpha.com/news/4113242-bing-gains-desktop-share-but-google-reigns-supreme-as-ai-search-grows-bofa"
             ]
         }
     ],
-    "date": "2024-06-06"
+    "date": "2024-06-07"
 }
