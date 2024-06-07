@@ -489,6 +489,21 @@
             "Title": "RT by @aleyda: Google\u2019s AI Overview Search Results Copied My Original Work by @reece___rogers. \"\u201cWe see that links included in AI Overviews get more clicks than if the page had appeared as a traditional web listing for that query,\" said the Google spokesperson. No data to support this claim\u2026",
             "Description": "A retweet by @carlhendy of a post by @aleyda about Google's AI Overview Search Results allegedly copying original work. The original post links to an article by @reece___rogers. The Google spokesperson claims that links in AI Overviews get more clicks, but there's no data to support this.",
             "Link": "https://twitter.com/carlhendy/status/1798925203147518426"
+        },
+        {
+            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
+            "Description": "Google has placed a notice at the top of the Google Search Console removal tool that says, \"Cache updates are no longer available.\" It added that you \"can still request snippet updates.\"",
+            "Link": "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
+        },
+        {
+            "Title": "Google Search Console Drops How-To Enhancement Report",
+            "Description": "Google has removed the How-to enhancement report from Google Search Console. When Google stopped showing how-to rich results in the search results, it said it would keep the reports \"for the time being,\" I guess that time has been completed.",
+            "Link": "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
+        },
+        {
+            "Title": "Google AI Overviews visibility drops, only shows for 15% of queries",
+            "Description": "Google's AI Overviews (when it was known as Search Generative Experience in Labs) once showed 84% of the time.",
+            "Link": "https://searchengineland.com/google-ai-overviews-visibility-drops-15-percent-queries-442850"
         }
     ],
     "reviewed_urls": [
@@ -693,6 +708,10 @@
         "https://digiday.com/media-buying/how-ais-energy-needs-conflict-with-media-agencies-carbon-reduction-efforts/",
         "https://digiday.com/marketing/how-u-s-bank-dramatically-cut-the-development-time-of-its-latest-campaign-with-ai-avatars/",
         "https://twitter.com/carlhendy/status/1798925203147518426",
-        "https://www.searchenginepeople.com/city/seo-burlington"
+        "https://www.searchenginepeople.com/city/seo-burlington",
+        "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
+        "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html",
+        "https://www.msn.com/en-gb/money/technology/how-to-choose-the-right-seo-agency/ar-BB1nNAQC?ocid=finance-verthp-feeds",
+        "https://searchengineland.com/google-ai-overviews-visibility-drops-15-percent-queries-442850"
     ]
 }
