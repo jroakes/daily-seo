@@ -1,81 +1,167 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console has removed the How-to enhancement report following the removal of how-to rich results from search results. Additionally, the removal tool in Search Console no longer supports cache updates, although users can still request snippet updates.",
+            "Title": "Google Search Console Removes How-To Enhancement Report",
+            "Category": "SEO",
+            "Description": "Google has removed the How-to enhancement report from Google Search Console. This decision follows the earlier removal of how-to rich results from search results. While Google initially retained the reports, they have now been completely removed.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799090436692463903",
                 "https://twitter.com/rustybrick/status/1799086661906886696",
+                "https://twitter.com/glenngabe/status/1799050117909291455",
                 "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
             ]
         },
         {
-            "Title": "Google Search Updates and Experiments",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is experimenting with a new shopping filter top bar interface and testing pinch-to-zoom functionality for mobile image search results.  In other news, Google will continue to index sites that are not mobile-friendly after July 5th, as long as they don't block Googlebot Smartphone.",
+            "Title": "Google Search Console Removal Tool Drops Cache Updates",
+            "Category": "SEO",
+            "Description": "Google Search Console's removal tool no longer supports cache updates. Users can still request snippet updates, but the option to update the cache has been removed.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799090436692463903",
+                "https://twitter.com/rustybrick/status/1799046396554678770",
+                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
+            ]
+        },
+        {
+            "Title": "Google Search Tests Shopping Filter Top Bar",
+            "Category": "SEO",
+            "Description": "Google is testing a new top bar interface for shopping filters in search results.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799082887029108819",
+                "https://twitter.com/rustybrick/status/1799041363205357579"
+            ]
+        },
+        {
+            "Title": "Google Mobile Image Search Tests Pinch to Zoom",
+            "Category": "SEO",
+            "Description": "Google is experimenting with a pinch-to-zoom feature for image search results on mobile devices.",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1799079112218190180",
-                "https://twitter.com/rustybrick/status/1798784671909876030"
+                "https://twitter.com/rustybrick/status/1799038846715519088",
+                "https://twitter.com/glenngabe/status/1799048082920964349"
             ]
         },
         {
-            "Title": "Google Ads Updates",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads is transitioning to a new design that has been in testing since 2023, with the old design being fully replaced on August 30, 2024.  Additionally, Google released version 17 of the Google Ads API.",
+            "Title": "Google Ads to Replace Old Design with New Design in August 2024",
+            "Category": "Advertising",
+            "Description": "Google Ads will retire its old design and fully transition to the new design that has been in testing since 2023. The change will take effect on August 30, 2024.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799075337097072860",
-                "https://twitter.com/rustybrick/status/1798771837163458934"
+                "https://twitter.com/rustybrick/status/1799075337097072860"
             ]
         },
         {
-            "Title": "Microsoft Advertising to Import Google Ads Conversion Data",
-            "Category": "Paid Advertising",
-            "Description": "Microsoft Advertising will automatically import conversion data from Google Ads for accounts that have previously used the Google Ads to Microsoft Ads import feature.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798773347205222630",
-                "https://twitter.com/rustybrick/status/1798712949118292133"
-            ]
-        },
-        {
-            "Title": "Google's AI Experiment Raises Concerns Among SEO Experts",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "SEO experts are closely watching Google's experiment with AI-powered search results, which aims to provide concise information quickly.  The experiment, called Google Search Generative Experience (SGE), is being tested in over 120 countries and has the potential to significantly impact organic and paid search traffic for businesses.",
-            "Links": [
-                "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
-            ]
-        },
-        {
-            "Title": "Bing's AI Integration with Zillow Sparks Controversy",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Microsoft's Bing search engine is facing scrutiny for its integration of AI-powered features with real estate platform Zillow.  The integration, which allows Bing to access and display Zillow's property listings, has raised concerns about data sharing practices and potential legal ramifications.",
-            "Links": [
-                "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
-            ]
-        },
-        {
-            "Title": "Microsoft to Address Security Concerns with Windows Recall Feature",
-            "Category": "Privacy & Security",
-            "Description": "Microsoft is planning changes to its Recall feature to enhance security and privacy.  The feature, which allows users to retrieve sent emails, will become opt-in and require Windows Hello authentication for activation.",
+            "Title": "Microsoft to Make \"Recall\" Feature Opt-In, Enhancing Security",
+            "Category": "Technology",
+            "Description": "Microsoft plans to address security concerns related to its \"Recall\" feature by making it opt-in and requiring Windows Hello authentication for activation. This means the feature will be deactivated by default, enhancing user privacy and security.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1799117706102272392"
             ]
         },
         {
-            "Title": "YouTube Processes One Billion Content ID Copyright Claims in Six Months",
-            "Category": "Copyright & Content Moderation",
-            "Description": "For the first time, YouTube has processed a billion Content ID copyright claims within a six-month period.  The majority of flagged videos were not removed but instead monetized, highlighting YouTube's approach to copyright enforcement.",
+            "Title": "YouTube Processes a Billion Content ID Copyright Claims in Six Months",
+            "Category": "Copyright",
+            "Description": "For the first time, YouTube has processed a billion Content ID copyright claims within a six-month period. Interestingly, the majority of flagged videos were not removed but instead monetized, generating revenue for YouTube.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1799053876869386249"
             ]
         },
         {
-            "Title": "Apple to Integrate AI Across Apps with \"Apple Intelligence\"",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Apple is reportedly planning to introduce a new opt-in service called \"Apple Intelligence\" at WWDC 2024.  The service will integrate AI capabilities into various Apple apps, including a revamped Siri based on large language models.",
+            "Title": "YouTube Rolls Out Posts Feature to Almost All Channels",
+            "Category": "Social Media",
+            "Description": "YouTube is expanding its Posts feature, making it available to nearly all channels. This feature allows creators to engage with their audience through various formats, including polls, quizzes, GIFs, text, images, and video posts.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799051962887160251"
+            ]
+        },
+        {
+            "Title": "Apple to Integrate AI into Apps with New Opt-In Service \"Apple Intelligence\"",
+            "Category": "Technology",
+            "Description": "Apple is planning to introduce \"Apple Intelligence,\" an opt-in service that integrates AI capabilities into its apps. This initiative will also involve a revamp of Siri based on large language models, enhancing its functionality and user experience.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1799046486396911691"
+            ]
+        },
+        {
+            "Title": "Google Clarifies Policy on White-Labeled Coupon Content",
+            "Category": "SEO",
+            "Description": "Google has clarified its stance on using white-labeled coupon content, stating that it can violate the company's site reputation abuse policy. This clarification aims to provide website owners with clearer guidelines on using such content.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798780896889459137",
+                "https://twitter.com/rustybrick/status/1798720499058622639",
+                "https://twitter.com/rustybrick/status/1798678975582986546"
+            ]
+        },
+        {
+            "Title": "Google Will Still Index Non-Mobile-Friendly Sites After July 5th",
+            "Category": "SEO",
+            "Description": "Contrary to some expectations, Google will continue to index websites that are not mobile-friendly after July 5th. However, this applies only if the sites do not block Googlebot Smartphone.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798784671909876030",
+                "https://twitter.com/rustybrick/status/1798724274079035473",
+                "https://twitter.com/rustybrick/status/1798681492190851233",
+                "https://twitter.com/aleyda/status/1798927347602907213"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Analytics Receives Update",
+            "Category": "SEO",
+            "Description": "Google has updated the analytics section of its Merchant Center platform, introducing a new user experience (UX) for improved data analysis and reporting.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798777122280051118",
+                "https://twitter.com/rustybrick/status/1798716724365131834",
+                "https://twitter.com/rustybrick/status/1798676458941931561"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising May Automatically Import Google Ads Conversion Data",
+            "Category": "Advertising",
+            "Description": "Microsoft Advertising is introducing a feature that automatically imports conversion data from Google Ads for advertisers who have previously used the import functionality.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798773347205222630",
+                "https://twitter.com/rustybrick/status/1798712949118292133",
+                "https://twitter.com/rustybrick/status/1798673942368108890"
+            ]
+        },
+        {
+            "Title": "Google Releases Google Ads API Version 17",
+            "Category": "Advertising",
+            "Description": "Google has announced the release of version 17 of its Google Ads API, introducing new features and updates for developers and advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798771837163458934",
+                "https://twitter.com/rustybrick/status/1798711439743668324",
+                "https://twitter.com/rustybrick/status/1798672432707887512"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Question and Answers Feature Experiences Bug",
+            "Category": "SEO",
+            "Description": "A bug in Google Business Profile is causing issues with the question and answers feature, making some questions and answers hidden from public view.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798788446779265329",
+                "https://twitter.com/rustybrick/status/1798684008471023828"
+            ]
+        },
+        {
+            "Title": "Google Search Console Link Report Fixed",
+            "Category": "SEO",
+            "Description": "Google has confirmed that the issue with the Search Console link report, which was causing discrepancies in reported link data, has been resolved.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798651541139722605",
+                "https://twitter.com/rustybrick/status/1798650742351233399"
+            ]
+        },
+        {
+            "Title": "SEO Firm Yext Explores Sale Amid Takeover Interest",
+            "Category": "Business",
+            "Description": "SEO technology company Yext is reportedly considering a potential sale and has engaged investment bankers following expressions of interest from potential buyers.",
+            "Links": [
+                "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
+            ]
+        },
+        {
+            "Title": "Bing's AI-Powered Zillow Integration Raises Concerns, Prompting Calls for Investigation",
+            "Category": "Technology",
+            "Description": "Microsoft's integration of AI-powered features, including ChatGPT plugins for sites like Zillow, into its Bing search engine has sparked controversy. The real estate community has expressed concerns about data sharing practices, potentially leading to an investigation.",
+            "Links": [
+                "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
             ]
         }
     ],
