@@ -1,124 +1,83 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Link Report Fixed",
-            "Category": "SEO",
-            "Description": "Google has confirmed that the Search Console link report is fixed, resolving the issue of discrepancies in reported link counts.",
+            "Title": "Google Search Console Updates",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search Console has removed the How-to enhancement report following the removal of how-to rich results from search results. Additionally, the removal tool in Search Console no longer supports cache updates, although users can still request snippet updates.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798650742351233399",
-                "https://searchengineland.com/googles-link-reporting-tool-is-now-fixed-442893",
-                "https://www.seroundtable.com/google-search-console-links-report-fixed-37499.html"
-            ]
-        },
-        {
-            "Title": "Google Search Ranking Algorithm Volatility",
-            "Category": "SEO",
-            "Description": "Intense Google search ranking volatility has been observed, with many tools and SEO community chatter indicating significant fluctuations.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798324137590653076",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html"
-            ]
-        },
-        {
-            "Title": "Google's AI Overviews Visibility Drops",
-            "Category": "SEO",
-            "Description": "Google's AI Overviews, previously known as Search Generative Experience in Labs, have decreased in visibility, now appearing for only 15% of queries compared to 84% previously.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798321620643197163",
-                "https://searchengineland.com/google-ai-overviews-visibility-drops-15-percent-queries-442850"
-            ]
-        },
-        {
-            "Title": "Google to Still Index Non-Mobile-Friendly Sites After July 5th",
-            "Category": "SEO",
-            "Description": "Google has clarified that it will continue to index websites that are not mobile-friendly after July 5th, as long as they are accessible to the Googlebot smartphone user agent.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798724274079035473",
-                "https://twitter.com/rustybrick/status/1798681492190851233",
-                "https://twitter.com/aleyda/status/1798927347602907213"
-            ]
-        },
-        {
-            "Title": "Google Clarifies Policy on White-Labeled Coupon Sites",
-            "Category": "SEO",
-            "Description": "Google has explicitly stated that using white-labeled coupon content on a website can violate their site reputation abuse policy.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798720499058622639",
-                "https://twitter.com/rustybrick/status/1798678975582986546",
-                "https://twitter.com/glenngabe/status/1798690004731900354"
-            ]
-        },
-        {
-            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
-            "Category": "SEO",
-            "Description": "Google Search Console's removal tool has been updated to no longer support cache updates, although snippet update requests are still available.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1799046396554678770",
-                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
-            ]
-        },
-        {
-            "Title": "Google Search Console Drops How-To Enhancement Report",
-            "Category": "SEO",
-            "Description": "Google has removed the How-to enhancement report from Google Search Console, following the discontinuation of how-to rich results in search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1799043879897096514",
+                "https://twitter.com/rustybrick/status/1799090436692463903",
+                "https://twitter.com/rustybrick/status/1799086661906886696",
                 "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
             ]
         },
         {
-            "Title": "Google Business Profile Question and Answers Hidden Bug",
-            "Category": "Local SEO",
-            "Description": "A bug in Google Business Profile is causing questions and answers to become hidden.",
+            "Title": "Google Search Updates and Experiments",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google is experimenting with a new shopping filter top bar interface and testing pinch-to-zoom functionality for mobile image search results.  In other news, Google will continue to index sites that are not mobile-friendly after July 5th, as long as they don't block Googlebot Smartphone.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798728048730423573",
-                "https://twitter.com/rustybrick/status/1798684008471023828"
+                "https://twitter.com/rustybrick/status/1799082887029108819",
+                "https://twitter.com/rustybrick/status/1799079112218190180",
+                "https://twitter.com/rustybrick/status/1798784671909876030"
             ]
         },
         {
-            "Title": "Microsoft Advertising to Automatically Import Google Ads Conversion Data",
-            "Category": "Advertising",
-            "Description": "Microsoft Advertising is planning to automatically import conversion data from Google Ads for advertisers who have previously used Google Ads to Microsoft Ads imports.",
+            "Title": "Google Ads Updates",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads is transitioning to a new design that has been in testing since 2023, with the old design being fully replaced on August 30, 2024.  Additionally, Google released version 17 of the Google Ads API.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798712949118292133",
-                "https://twitter.com/rustybrick/status/1798673942368108890"
+                "https://twitter.com/rustybrick/status/1799075337097072860",
+                "https://twitter.com/rustybrick/status/1798771837163458934"
             ]
         },
         {
-            "Title": "Google Ads API Version 17 Released",
-            "Category": "Advertising",
-            "Description": "Google has released version 17 of the Google Ads API.",
+            "Title": "Microsoft Advertising to Import Google Ads Conversion Data",
+            "Category": "Paid Advertising",
+            "Description": "Microsoft Advertising will automatically import conversion data from Google Ads for accounts that have previously used the Google Ads to Microsoft Ads import feature.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798711439743668324",
-                "https://twitter.com/rustybrick/status/1798672432707887512"
+                "https://twitter.com/rustybrick/status/1798773347205222630",
+                "https://twitter.com/rustybrick/status/1798712949118292133"
             ]
         },
         {
-            "Title": "Google Ads to Drop Old Design",
-            "Category": "Advertising",
-            "Description": "Google Ads will be replacing its old design with the new design that has been in testing since 2023, starting on August 30, 2024.",
+            "Title": "Google's AI Experiment Raises Concerns Among SEO Experts",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "SEO experts are closely watching Google's experiment with AI-powered search results, which aims to provide concise information quickly.  The experiment, called Google Search Generative Experience (SGE), is being tested in over 120 countries and has the potential to significantly impact organic and paid search traffic for businesses.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799075337097072860"
+                "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
             ]
         },
         {
-            "Title": "Microsoft Advertising to Move Smart Shopping Campaigns to Performance Max",
-            "Category": "Advertising",
-            "Description": "Microsoft Advertising will be transitioning smart shopping campaigns to Performance Max within the next few months.",
+            "Title": "Bing's AI Integration with Zillow Sparks Controversy",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Microsoft's Bing search engine is facing scrutiny for its integration of AI-powered features with real estate platform Zillow.  The integration, which allows Bing to access and display Zillow's property listings, has raised concerns about data sharing practices and potential legal ramifications.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798319104111083807"
+                "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
             ]
         },
         {
-            "Title": "Google Fixes Issue With Site Names Not Appearing for Internal Pages",
-            "Category": "SEO",
-            "Description": "Google has addressed the issue of site names not appearing for some internal pages, a problem that has persisted since December 2023.",
+            "Title": "Microsoft to Address Security Concerns with Windows Recall Feature",
+            "Category": "Privacy & Security",
+            "Description": "Microsoft is planning changes to its Recall feature to enhance security and privacy.  The feature, which allows users to retrieve sent emails, will become opt-in and require Windows Hello authentication for activation.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1798325438609338473",
-                "https://www.seroundtable.com/google-fixes-internal-page-site-names-issues-37505.html",
-                "https://searchengineland.com/google-search-fixes-issues-with-site-names-not-appearing-for-internal-pages-442933"
+                "https://twitter.com/glenngabe/status/1799117706102272392"
+            ]
+        },
+        {
+            "Title": "YouTube Processes One Billion Content ID Copyright Claims in Six Months",
+            "Category": "Copyright & Content Moderation",
+            "Description": "For the first time, YouTube has processed a billion Content ID copyright claims within a six-month period.  The majority of flagged videos were not removed but instead monetized, highlighting YouTube's approach to copyright enforcement.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799053876869386249"
+            ]
+        },
+        {
+            "Title": "Apple to Integrate AI Across Apps with \"Apple Intelligence\"",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Apple is reportedly planning to introduce a new opt-in service called \"Apple Intelligence\" at WWDC 2024.  The service will integrate AI capabilities into various Apple apps, including a revamped Siri based on large language models.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799046486396911691"
             ]
         }
     ],
-    "date": "2024-06-07"
+    "date": "2024-06-08"
 }
