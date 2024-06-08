@@ -1,77 +1,163 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Removes Features",
+            "Title": "Google Search Console Removes How-To Enhancement Report",
             "Category": "SEO",
             "Description": "Google has removed the How-to enhancement report from Google Search Console. When Google stopped showing how-to rich results in the search results, it said it would keep the reports \"for the time being,\" I guess that time has been completed.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799090436692463903",
                 "https://twitter.com/rustybrick/status/1799086661906886696",
+                "https://twitter.com/glenngabe/status/1799050117909291455",
                 "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
             ]
         },
         {
-            "Title": "Google Search Updates",
+            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
             "Category": "SEO",
-            "Description": "I am seeing signs of yet another intense Google search ranking update and intense ranking volatility yesterday and into today, June 4th and 5th. Many of the tools are showing very heated volatility and there has been a spike in chatter within the SEO community.",
+            "Description": "Google has placed a notice at the top of the Google Search Console removal tool that says, \"Cache updates are no longer available.\" It added that you \"can still request snippet updates.\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799082887029108819",
-                "https://twitter.com/rustybrick/status/1799079112218190180",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-volatility-37512.html"
+                "https://twitter.com/rustybrick/status/1799090436692463903",
+                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
+                "https://twitter.com/rustybrick/status/1799046396554678770"
             ]
         },
         {
-            "Title": "Google Ads Updates",
+            "Title": "Google Search Testing Shopping Filter Top Bar Interface",
+            "Category": "SEO",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799082887029108819",
+                "https://twitter.com/rustybrick/status/1799041363205357579"
+            ]
+        },
+        {
+            "Title": "Google Mobile Image Search Tests Pinch to Zoom",
+            "Category": "SEO",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799079112218190180",
+                "https://twitter.com/rustybrick/status/1799038846715519088",
+                "https://twitter.com/glenngabe/status/1799048082920964349"
+            ]
+        },
+        {
+            "Title": "Google Will Still Index Sites That Are Not Mobile-Friendly",
+            "Category": "SEO",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798784671909876030",
+                "https://twitter.com/rustybrick/status/1798724274079035473",
+                "https://twitter.com/aleyda/status/1798927347602907213"
+            ]
+        },
+        {
+            "Title": "Google Adds Clarity to Using White-Labeled Coupon Content on Your Site",
+            "Category": "SEO",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798780896889459137",
+                "https://twitter.com/rustybrick/status/1798720499058622639",
+                "https://twitter.com/rustybrick/status/1798678975582986546"
+            ]
+        },
+        {
+            "Title": "Google Search Console Link Report Fixed",
+            "Category": "SEO",
+            "Description": "Google has now confirmed the Search Console link report is fixed, which we saw a couple of days ago",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798651541139722605",
+                "https://twitter.com/rustybrick/status/1798650742351233399"
+            ]
+        },
+        {
+            "Title": "Google Ads to Drop Old Design and Replace It With New Design",
             "Category": "Advertising",
             "Description": "ICYMI: Google Ads to drop the old design and replace it with the new design it has been testing since 2023 starting on August 30, 2024 seroundtable.com/new-google-ads\u2026",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799075337097072860",
-                "https://www.practicalecommerce.com/google-ad-updates-from-marketing-live-2024",
-                "https://twitter.com/rustybrick/status/1798711439743668324"
+                "https://twitter.com/rustybrick/status/1799075337097072860"
             ]
         },
         {
-            "Title": "Microsoft to Change Recall Feature",
-            "Category": "Privacy",
-            "Description": "Changes are planned already -> Microsoft plans changes to Recall to address security concerns, including making the feature opt-in and requiring Windows Hello authentication to enable Recall \u201cIf you don\u2019t proactively choose to turn it on, it will be off by default,\u201d\u2026",
+            "Title": "Google Merchant Center Analytics Update",
+            "Category": "Advertising",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798777122280051118",
+                "https://twitter.com/rustybrick/status/1798716724365131834",
+                "https://twitter.com/rustybrick/status/1798676458941931561"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising May Automatically Import Your Google Ads Conversion Data",
+            "Category": "Advertising",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798773347205222630",
+                "https://twitter.com/rustybrick/status/1798712949118292133",
+                "https://twitter.com/rustybrick/status/1798673942368108890"
+            ]
+        },
+        {
+            "Title": "Google Released Google Ads API Version 17",
+            "Category": "Advertising",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798771837163458934",
+                "https://twitter.com/rustybrick/status/1798711439743668324",
+                "https://twitter.com/rustybrick/status/1798672432707887512"
+            ]
+        },
+        {
+            "Title": "Microsoft Plans Changes to Recall to Address Security Concerns",
+            "Category": "Security",
+            "Description": "Changes are planned already -> Microsoft plans changes to Recall to address security concerns, including making the feature opt-in and requiring Windows Hello authentication to enable Recall \"If you don\u2019t proactively choose to turn it on, it will be off by default,\"\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1799117706102272392"
             ]
         },
         {
-            "Title": "YouTube Reaches New Milestone in Copyright Claims",
+            "Title": "YouTube Processed a Billion Content ID Copyright Claims in Six Months",
             "Category": "Copyright",
-            "Description": "That's it? :) -> For The First Time, YouTube Processed a Billion Content ID Copyright Claims in Six Months It's actually a brilliant way for YouTube to generate more ad revenue -> \"The vast majority of the flagged videos weren\u2019t removed, but monetized instead.\"",
+            "Description": "That's it? :) -> For The First Time, YouTube Processed a Billion Content ID Copyright Claims in Six Months It's actually a brilliant way for YouTube to generate more ad revenue -> \"The vast majority of the flagged videos weren\u2019t removed, but monetized instead.\"\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1799053876869386249"
             ]
         },
         {
-            "Title": "YouTube Rolls Out Posts to Almost All Channels",
+            "Title": "Perplexity's \"Pages\" Feature Raises Copyright Concerns",
+            "Category": "Copyright",
+            "Description": "AI search engine Perplexity's new \"Pages\" feature is under scrutiny for republishing content from publishers like Forbes with inadequate attribution, raising concerns about copyright infringement and plagiarism in the age of AI content generation.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799416016478367776"
+            ]
+        },
+        {
+            "Title": "YouTube Tests New Desktop Redesign",
             "Category": "Social Media",
-            "Description": "Focus on YouTube? Posts are rolling out to (almost) all channels on YouTube \"Play around with different format options - we have polls, quizzes, GIFs, text, images, and video posts!\"",
+            "Description": "YouTube Premium subscribers can now test and provide feedback on a new desktop redesign, which includes changes to the video description placement, potentially impacting user experience and engagement.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1799051962887160251"
+                "https://twitter.com/glenngabe/status/1799051962887160251",
+                "https://twitter.com/glenngabe/status/1799419260332048701"
             ]
         },
         {
-            "Title": "Apple to Integrate AI into Apps with \"Apple Intelligence\"",
-            "Category": "AI",
-            "Description": "\"Siri will be a part of the new AI push as well, with Apple planning a revamp based on large language models\" -> WWDC 2024: Apple plans to integrate AI into its apps with a new opt-in service called Apple Intelligence \"The company\u2019s new AI system will be called Apple\u2026",
+            "Title": "Google Business Profile Question and Answers Hidden Bug",
+            "Category": "Business",
+            "Description": "None",
             "Links": [
-                "https://twitter.com/glenngabe/status/1799046486396911691"
+                "https://twitter.com/rustybrick/status/1798788446779265329",
+                "https://twitter.com/rustybrick/status/1798684008471023828"
             ]
         },
         {
-            "Title": "Bing's AI Integration with Zillow Sparks Controversy",
-            "Category": "AI",
-            "Description": "Microsoft's Bing search engine, released in 2009, has struggled to compete with Google but is gaining ground thanks to AI investments. With about ten percent of global search traffic, Bing aims to further close the gap by integrating ChatGPT plugins for sites like Expedia, Instacart, Zillow, and Redfin. However, this integration has sparked controversy in the real estate community over data sharing practices, raising concerns about legality and control over property listings. An investigation may be on the horizon as the industry reacts to Bing's expanding capabilities.",
+            "Title": "SEO Agency Prosperity Media Expands Digital PR Team",
+            "Category": "Business",
+            "Description": "SEO agency Prosperity Media has today announced its appointment of Ellie Sumner as its first digital PR manager, to join its team of three other members.\n \nSumner will be responsible for streamlining processes, bringing fresh ideas to campaign ideation, mentoring junior team members and providin",
             "Links": [
-                "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
+                "https://campaignbrief.com/seo-agency-prosperity-media-expands-digital-pr-team-as-offering-grows/"
             ]
         },
         {
-            "Title": "SEO Firm Yext Explores Sale Amid Takeover Interest",
+            "Title": "Report: SEO Firm Yext Considering Sale After Attracting Takeover Interest",
             "Category": "Business",
             "Description": "SEO firm Yext is reportedly considering a sale and has hired investment bankers after attracting takeover interest.",
             "Links": [
@@ -79,51 +165,27 @@
             ]
         },
         {
-            "Title": "Moz Unveils New AI-Powered SEO Features at MozCon 2024",
-            "Category": "SEO",
-            "Description": "Moz, a pioneer in SEO and marketing software, announces the launch of\u00a0several powerful features\u00a0today at\u00a0MozCon 2024. Among these is the introduction of Moz AI, enabling more efficient workflows and",
-            "Links": [
-                "https://www.martechcube.com/moz-unveils-seo-innovations-at-mozcon-2024/"
-            ]
-        },
-        {
-            "Title": "Google Case Study Highlights the Importance of Structured Data for SEO",
-            "Category": "SEO",
-            "Description": "Google published a case study showing how structured data and optimizing URLs for crawling resulted in nearly doubling clicks from the SERPs",
-            "Links": [
-                "https://www.searchenginejournal.com/google-case-study-shows-importance-of-structured-data/518561/"
-            ]
-        },
-        {
-            "Title": "Experiment Suggests Google Business Profile Clicks Impact Ranking",
-            "Category": "SEO",
-            "Description": "A tweet discussing the results of a live experiment where hundreds of people searched for \"vietnamese restaurant seattle\" and clicked on a specific Google Business Profile, demonstrating a potential ranking impact.",
-            "Links": [
-                "https://twitter.com/JoyanneHawkins/status/1799165501303660588"
-            ]
-        },
-        {
-            "Title": "Wirecutter Reviews See Decline in Search Visibility",
-            "Category": "SEO",
-            "Description": "Discussion on the perceived decline in search visibility of Wirecutter reviews since Fall 2023, potentially impacting their organic traffic.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1799426652964811234"
-            ]
-        },
-        {
-            "Title": "YouTube Tests New Desktop Redesign with Changes to Video Description Placement",
-            "Category": "Social Media",
-            "Description": "YouTube Premium subscribers can now test and provide feedback on a new desktop redesign, which includes changes to the video description placement, potentially impacting user experience and engagement.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1799419260332048701"
-            ]
-        },
-        {
-            "Title": "Perplexity's \"Pages\" Feature Raises Copyright Concerns Over Content Republishing",
+            "Title": "WWDC 2024: Apple Plans to Integrate AI into Its Apps",
             "Category": "AI",
-            "Description": "AI search engine Perplexity's new \"Pages\" feature is under scrutiny for republishing content from publishers like Forbes with inadequate attribution, raising concerns about copyright infringement and plagiarism in the age of AI content generation.",
+            "Description": "\"Siri will be a part of the new AI push as well, with Apple planning a revamp based on large language models\" -> WWDC 2024: Apple plans to integrate AI into its apps with a new opt-in service called Apple Intelligence \"The company\u2019s new AI system will be called Apple\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1799416016478367776"
+                "https://twitter.com/glenngabe/status/1799046486396911691"
+            ]
+        },
+        {
+            "Title": "Google's AI Overview Search Results Copied My Original Work",
+            "Category": "AI",
+            "Description": "None",
+            "Links": [
+                "https://twitter.com/carlhendy/status/1798925203147518426"
+            ]
+        },
+        {
+            "Title": "Bing's New AI-Zillow Integration Has Some Calling for an Investigation",
+            "Category": "AI",
+            "Description": "Microsoft's Bing search engine, released in 2009, has struggled to compete with Google but is gaining ground thanks to AI investments. With about ten percent of global search traffic, Bing aims to further close the gap by integrating ChatGPT plugins for sites like Expedia, Instacart, Zillow, and Redfin. However, this integration has sparked controversy in the real estate community over data sharing practices, raising concerns about legality and control over property listings. An investigation may be on the horizon as the industry reacts to Bing's expanding capabilities.",
+            "Links": [
+                "https://propmodo.com/bings-new-ai-zillow-integration-has-some-calling-for-an-investigation/"
             ]
         }
     ],
