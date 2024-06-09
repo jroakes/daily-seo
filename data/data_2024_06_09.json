@@ -1,0 +1,556 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Bing will create AI-generated Workspaces in Microsoft Edge for Windows 11",
+            "Description": "Microsoft Edge will soon use AI to create a new Workspace with multiple tabs related to the users search query.",
+            "Link": "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
+        },
+        {
+            "Title": "Wirecutter Reviews Content Visibility Drop",
+            "Description": "Glenn Gabe observes that Wirecutter's search visibility has significantly declined since the fall of 2023, despite its reputation for high-quality reviews content.",
+            "Link": "https://twitter.com/glenngabe/status/1799426652964811234"
+        },
+        {
+            "Title": "YouTube Premium New Desktop Redesign Feedback",
+            "Description": "Glenn Gabe shares an article about YouTube Premium subscribers' ability to test and provide feedback on the new desktop redesign, which has sparked mixed reactions.",
+            "Link": "https://twitter.com/glenngabe/status/1799419260332048701"
+        },
+        {
+            "Title": "California's AI Safety Bill and \"Kill Switches\"",
+            "Description": "Glenn Gabe links an article discussing the California AI safety bill, which mandates \"kill switches\" for AI models, and the potential consequences for AI startups and open-source models.",
+            "Link": "https://twitter.com/glenngabe/status/1799418128650387652"
+        },
+        {
+            "Title": "Perplexity's Pages Feature Raises Concerns Over Content Attribution",
+            "Description": "Glenn Gabe highlights concerns about Perplexity's Pages feature, which republishes content from sources like Forbes with inadequate attribution, raising plagiarism concerns.",
+            "Link": "https://twitter.com/glenngabe/status/1799416016478367776"
+        },
+        {
+            "Title": "Report: SEO Firm Yext Considering Sale After Attracting Takeover Interest",
+            "Description": "SEO firm Yext is reportedly considering a sale and has hired investment bankers after attracting takeover interest.",
+            "Link": "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
+        },
+        {
+            "Title": "Google Business Profile Ranking Experiment",
+            "Description": "Joyanne Hawkins retweets Aleyda Solis's post about a live experiment where hundreds of people searched for a specific keyword and clicked on a Google Business Profile, demonstrating the impact on rankings.",
+            "Link": "https://twitter.com/JoyanneHawkins/status/1799165501303660588"
+        },
+        {
+            "Title": "SEO Video Recap: Ranking Volatility, Coupon Site Abuse, Mobile Indexing & More",
+            "Description": "Barry Schwartz shares his weekly SEO video recap, covering topics like Google Search ranking volatility, coupon sites engaging in site reputation abuse, mobile indexing changes, and AI Overview declines.",
+            "Link": "https://twitter.com/rustybrick/status/1799154609602306399"
+        },
+        {
+            "Title": "Google Search Console Removal Tool Drops Cache Updates",
+            "Description": "Barry Schwartz reports that Google Search Console's removal tool no longer provides cache updates, making it harder to confirm content removal.",
+            "Link": "https://twitter.com/rustybrick/status/1799150834527379806"
+        },
+        {
+            "Title": "Google Search Console Drops How-to Enhancements Report",
+            "Description": "Barry Schwartz announces that Google Search Console has removed the How-to enhancements report, which provided insights into how Google understood and displayed How-to content.",
+            "Link": "https://twitter.com/rustybrick/status/1799147059678720468"
+        },
+        {
+            "Title": "Google Search Shopping Filter Top Bar",
+            "Description": "Barry Schwartz shares a screenshot of Google testing a new top bar filter for shopping results, potentially changing how users refine product searches.",
+            "Link": "https://twitter.com/rustybrick/status/1799143284876415379"
+        },
+        {
+            "Title": "Google Mobile Image Search Tests Pinch to Zoom",
+            "Description": "Barry Schwartz reports on Google testing a pinch-to-zoom feature for mobile image search, potentially improving user experience for image viewing.",
+            "Link": "https://twitter.com/rustybrick/status/1799139510074454136"
+        },
+        {
+            "Title": "Google Ads to Replace Old Design with New Design on August 30, 2024",
+            "Description": "Barry Schwartz announces that Google Ads will retire its old design and transition to the new design, which has been in testing since 2023, starting August 30, 2024.",
+            "Link": "https://twitter.com/rustybrick/status/1799135735037173934"
+        },
+        {
+            "Title": "Microsoft Plans Changes to Recall Feature to Address Security Concerns",
+            "Description": "Glenn Gabe reports on Microsoft's planned changes to its Recall feature, making it opt-in and requiring Windows Hello authentication to enhance security and user privacy.",
+            "Link": "https://twitter.com/glenngabe/status/1799117706102272392"
+        },
+        {
+            "Title": "SEO Video Recap: Ranking Volatility, Coupon Site Abuse, Mobile Indexing & More",
+            "Description": "Barry Schwartz shares his weekly SEO video recap, covering topics like Google Search ranking volatility, coupon sites engaging in site reputation abuse, mobile indexing changes, and AI Overview declines.",
+            "Link": "https://twitter.com/rustybrick/status/1799094211930976415"
+        },
+        {
+            "Title": "What Is SEM? Search Engine Marketing Guide",
+            "Description": "An article explaining Search Engine Marketing (SEM) and its importance for businesses to be strategically visible in search results.",
+            "Link": "https://www.forbes.com/advisor/business/software/what-is-sem/"
+        },
+        {
+            "Title": "Google Search Console Removal Tool Drops Cache Updates",
+            "Description": "Barry Schwartz reports that Google Search Console's removal tool no longer provides cache updates, making it harder to confirm content removal.",
+            "Link": "https://twitter.com/rustybrick/status/1799090436692463903"
+        },
+        {
+            "Title": "Google Search Console Drops the How-to Enhancements Report",
+            "Description": "Barry Schwartz announces that Google Search Console has removed the How-to enhancements report, which provided insights into how Google understood and displayed How-to content.",
+            "Link": "https://twitter.com/rustybrick/status/1799086661906886696"
+        },
+        {
+            "Title": "Google Search Shopping Filter Top Bar",
+            "Description": "Barry Schwartz shares a screenshot of Google testing a new top bar filter for shopping results, potentially changing how users refine product searches.",
+            "Link": "https://twitter.com/rustybrick/status/1799082887029108819"
+        },
+        {
+            "Title": "Google Mobile Image Search Tests Pinch to Zoom",
+            "Description": "Barry Schwartz reports on Google testing a pinch-to-zoom feature for mobile image search, potentially improving user experience for image viewing.",
+            "Link": "https://twitter.com/rustybrick/status/1799079112218190180"
+        },
+        {
+            "Title": "Google Ads to drop the old design and replace it with the new design it has been testing since 2023 starting on August 30, 2024",
+            "Description": "Google Ads will retire the old design and transition to the new design that has been in testing since 2023, starting August 30, 2024.",
+            "Link": "https://twitter.com/rustybrick/status/1799075337097072860"
+        },
+        {
+            "Title": "Finance Sites Experience Volatility and Drops After Google Search Update",
+            "Description": "Multiple websites in the finance niche have experienced significant ranking drops following a Google Search update on May 10, 2024. The update has been linked to volatility observed since early May.",
+            "Link": "https://twitter.com/glenngabe/status/1799060278824341619"
+        },
+        {
+            "Title": "YouTube Processed a Billion Content ID Copyright Claims in Six Months",
+            "Description": "For the first time, YouTube processed a billion Content ID copyright claims within a six-month period. The majority of flagged videos were not removed but instead monetized.",
+            "Link": "https://twitter.com/glenngabe/status/1799053876869386249"
+        },
+        {
+            "Title": "YouTube Rolls Out Posts to Almost All Channels",
+            "Description": "YouTube is rolling out a \"Posts\" feature to nearly all channels, allowing creators to engage audiences with various formats like polls, quizzes, GIFs, text, images, and video posts.",
+            "Link": "https://twitter.com/glenngabe/status/1799051962887160251"
+        },
+        {
+            "Title": "Google Search Console Removes How-to Enhancements Report",
+            "Description": "Google has removed the How-to enhancement report from Google Search Console, following the discontinuation of how-to rich results in search results several months earlier.",
+            "Link": "https://twitter.com/glenngabe/status/1799050117909291455"
+        },
+        {
+            "Title": "SEO Video Recap: Ranking Volatility, Coupon Site Reputation, Mobile Indexing, and More",
+            "Description": "A video recap covering recent SEO news, including Google Search ranking volatility, coupon sites abusing site reputation, mobile indexing changes, declining AI Overview performance, and search ad updates.",
+            "Link": "https://twitter.com/rustybrick/status/1799048879989747812"
+        },
+        {
+            "Title": "Best KWFinder Alternative: 6 competitors to consider (Free & Paid)",
+            "Description": "An overview of six alternative SEO tools to KWFinder, including both free and paid options.",
+            "Link": "https://www.01net.com/en/seo/tools/kwfinder/alternatives/"
+        },
+        {
+            "Title": "Why You Should Use SEO Beyond Google",
+            "Description": "An article explaining the benefits of implementing SEO strategies beyond Google, focusing on social media and website optimization to drive customer traffic, sales, and brand awareness.",
+            "Link": "https://builtin.com/articles/social-media-SEO"
+        },
+        {
+            "Title": "Apple to Integrate AI into Apps with New Opt-in Service Called Apple Intelligence",
+            "Description": "Apple is planning to integrate AI capabilities into its apps through a new opt-in service called Apple Intelligence. The AI system will leverage large language models and include a revamped Siri experience.",
+            "Link": "https://twitter.com/glenngabe/status/1799046486396911691"
+        },
+        {
+            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
+            "Description": "Google's Search Console removal tool has removed the option for cache updates. Users can still request snippet updates.",
+            "Link": "https://twitter.com/rustybrick/status/1799046396554678770"
+        },
+        {
+            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
+            "Description": "Google has updated its Search Console removal tool, removing the option to request cache updates. The tool still allows users to request snippet updates.",
+            "Link": "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
+        },
+        {
+            "Title": "Google Search Console Drops How-To Enhancement Report",
+            "Description": "Google has removed the How-to enhancement report from Google Search Console, after previously discontinuing how-to rich results in search listings.",
+            "Link": "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
+        },
+        {
+            "Title": "Google Search Testing Shopping Filter Top Bar Interface",
+            "Description": "Google is experimenting with a new interface for shopping filters, featuring a top bar design.",
+            "Link": "https://twitter.com/rustybrick/status/1799041363205357579"
+        },
+        {
+            "Title": "Google Tests Pinch-to-Zoom in Mobile Image Search Results",
+            "Description": "Google is testing a pinch-to-zoom feature for image search results on mobile devices.",
+            "Link": "https://twitter.com/rustybrick/status/1799038846715519088"
+        },
+        {
+            "Title": "Sentiment Analysis Demo and Resources",
+            "Description": "A collection of resources for sentiment analysis, including a demo tool, a pre-trained model, and training data.",
+            "Link": "https://twitter.com/dejanseo/status/1799030886828310879"
+        },
+        {
+            "Title": "How to Choose the Right SEO Agency?",
+            "Description": "A guide on selecting the right SEO agency for your business needs, emphasizing the importance of a strong online presence in today's digital landscape.",
+            "Link": "https://www.msn.com/en-gb/money/technology/how-to-choose-the-right-seo-agency/ar-BB1nNAQC?ocid=finance-verthp-feeds"
+        },
+        {
+            "Title": "Digiday+ Research Deep Dive: Brands Outpace Agencies in Retail Media Investment, Amazon Dominates",
+            "Description": "Research reveals that brand marketers are investing more heavily in retail media advertising compared to agency marketers, with Amazon remaining the dominant platform in the retail media landscape.",
+            "Link": "https://digiday.com/marketing/digiday-research-deep-dive-brands-are-more-invested-in-retail-media-than-agencies-as-amazon-still-dominates/"
+        },
+        {
+            "Title": "Publishers Leverage ESL/FACEIT Group's Expanding Esports Ecosystem",
+            "Description": "Esports organization ESL/FACEIT Group (EFG) is deepening its collaborations with game publishers, creating opportunities for publishers to tap into the growing esports audience.",
+            "Link": "https://digiday.com/marketing/how-publishers-are-tapping-into-esl-faceit-groups-growing-esports-ecosystem/"
+        },
+        {
+            "Title": "U.S. Bank Employs AI Avatars to Streamline Campaign Development",
+            "Description": "U.S. Bank utilized AI-powered avatars for research and focus group testing in its latest creative campaign, significantly reducing development time.",
+            "Link": "https://digiday.com/marketing/how-u-s-bank-dramatically-cut-the-development-time-of-its-latest-campaign-with-ai-avatars/"
+        },
+        {
+            "Title": "Sonos' Marketing Strategy for New Ace Headphones in a Competitive Market",
+            "Description": "Audio company Sonos outlines its marketing approach for its new Ace high-end headphones, aiming to stand out in a crowded market and reach new customer segments.",
+            "Link": "https://digiday.com/marketing/how-sonos-plans-to-market-its-new-ace-high-end-headphones-in-a-noisy-category/"
+        },
+        {
+            "Title": "AI's Energy Consumption Poses Challenges for Media Agencies' Carbon Reduction Goals",
+            "Description": "The high energy demands of AI technology present a conflict for media agencies striving to reduce their carbon footprint and achieve sustainability targets.",
+            "Link": "https://digiday.com/media-buying/how-ais-energy-needs-conflict-with-media-agencies-carbon-reduction-efforts/"
+        },
+        {
+            "Title": "Google Will Still Index Non-Mobile-Friendly Sites",
+            "Description": "Despite changes to mobile indexing, Google will continue to index websites that are not mobile-friendly, as long as they are accessible to Googlebot's smartphone user agent.",
+            "Link": "https://twitter.com/aleyda/status/1798927347602907213"
+        },
+        {
+            "Title": "Google\u2019s AI Overview Search Results Copied My Original Work by @reece___rogers.",
+            "Description": "\"\u201cWe see that links included in AI Overviews get more clicks than if the page had appeared as a traditional web listing for that query,\" said the Google spokesperson. No data to support this claim\u2026",
+            "Link": "https://twitter.com/carlhendy/status/1798925203147518426"
+        },
+        {
+            "Title": "SEO Experts Say Google\u2019s New Experiment Could Impact Online Traffic for Businesses",
+            "Description": "Sydney, June 06, 2024 (GLOBE NEWSWIRE) - Sydney, New South Wales - Sydney, Australia - Google recently launched an experiment that could impact the amount of traffic that businesses get from organic and paid searches, for better or worse. The search engine is testing the power of artificial intelligence (AI) to help people find reliable and condensed information faster in Google search, within a fraction of a second. Google Search Generative Experience (SGE) is being trialled in more than 120 c",
+            "Link": "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
+        },
+        {
+            "Title": "Study: 96% of sites in Google's top 10 positions have 1,000+ links from unique domains",
+            "Description": "Only 0.3% of websites ranking in the top 10 had less than 100 backlinks and none had 50 links or less, according to the new study",
+            "Link": "https://searchengineland.com/link-importance-google-top-10-study-443024"
+        },
+        {
+            "Title": "Google Business Profile question and answers hidden bug",
+            "Description": "Google Business Profile question and answers hidden bug seroundtable.com/google-busines\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1798728048730423573"
+        },
+        {
+            "Title": "Google will still index sites that are not mobile-friendly after July 5th - assuming you don't block Googlebot Smartphone",
+            "Description": "Google will still index sites that are not mobile-friendly after July 5th - assuming you don't block Googlebot Smartphone seroundtable.com/google-will-in\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1798724274079035473"
+        },
+        {
+            "Title": "Google adds clarity to using white labeled coupon content on your site - it is against Google's site reputation abuse policy",
+            "Description": "Google adds clarity to using white labeled coupon content on your site - it is against Google's site reputation abuse policy seroundtable.com/google-white-l\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1798720499058622639"
+        },
+        {
+            "Title": "Google Ads Updates from Marketing Live 2024",
+            "Description": "Google announced over 30 new advertising features at this year's event. Here are the most impactful for merchants.",
+            "Link": "https://www.practicalecommerce.com/google-ad-updates-from-marketing-live-2024"
+        },
+        {
+            "Title": "Microsoft Advertising may automatically import your Google Ads conversion data",
+            "Description": "ICYMI: Microsoft Advertising may automatically import your Google Ads conversion data seroundtable.com/microsoft-adve\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1798773347205222630"
+        },
+        {
+            "Title": "Google released Google Ads API version 17",
+            "Description": "ICYMI: Google released Google Ads API version 17 seroundtable.com/google-ads-api\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1798771837163458934"
+        },
+        {
+            "Title": "How Chrome achieved the highest score ever on Speedometer 3",
+            "Description": "Interested in performance? -> How Chrome achieved the highest score ever on Speedometer 3 \"Since the inception of Speedometer 3 in May 2022, we've driven a 72% increase in Chrome\u2019s Speedometer score - translating into performance gains for our users.\" blog.chromium.org/2024/06/how-ch\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798757816578248786"
+        },
+        {
+            "Title": "5 local SEO insights from Google's API documentation leak",
+            "Description": "Local search takeaways from leaked Google API docs, covering video content, click behavior, local authority and more.",
+            "Link": "https://searchengineland.com/local-seo-insights-google-api-documentation-leak-443006"
+        },
+        {
+            "Title": "Is Plagiarism a Stain on Open-Source AI?",
+            "Description": "This is AI Inception. AI models are trained on copyrighted work, but then those AI models are copied/stolen -> Is Plagiarism a Stain on Open-Source AI? \"As Stephanie has shown in great detail, many startups are copying the work of industry leaders such as OpenAI. Meanwhile,\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798756643016204774"
+        },
+        {
+            "Title": "Moz Unveils Revolutionary SEO Tools and AI Integration at Annual MozCon Event",
+            "Description": "Moz, a leader in SEO and marketing innovation, introduced an array of advanced functionalities at MozCon 2024 today, signaling a significant enhancement in the tools available to SEO professionals. Key among these updates is the debut of Moz AI, designed to revolutionize workflow efficiencies and uplift the quality of enterprise data utilized by Moz Pro users.",
+            "Link": "https://n24.com.tr/en/moz-unveils-revolutionary-seo-tools-and-ai-integration-at-annual-mozcon-event"
+        },
+        {
+            "Title": "Google Merchant Center analytics update",
+            "Description": "Google Merchant Center analytics update",
+            "Link": "https://twitter.com/rustybrick/status/1798716724365131834"
+        },
+        {
+            "Title": "It's New - June 6 - Coupon site Google spam, mobile-friendly changes (not what you think) and Microsoft Ads imports Google Ads conversions, Google Ads API and more",
+            "Description": "It's New - June 6 - Coupon site Google spam, mobile-friendly changes (not what you think) and Microsoft Ads imports Google Ads conversions, Google Ads API and more with @gregfinn @MordyOberstein",
+            "Link": "https://twitter.com/rustybrick/status/1798716669390651732"
+        },
+        {
+            "Title": "How the Google leak confirms the significance of author and publisher entities in SEO",
+            "Description": "This three-tiered approach helps you optimize author and publisher entities, crucial to building trust and boost visibility in search results.",
+            "Link": "https://searchengineland.com/google-leak-author-publisher-entities-seo-442963"
+        },
+        {
+            "Title": "A new Free Chrome Extension to Analyze AI Overviews for any keywords in bulk, Citations, domain inclusion and more \ud83d\udc4c\ud83d\udd25 by @aminfseo Check it out",
+            "Description": "A new Free Chrome Extension to Analyze AI Overviews for any keywords in bulk, Citations, domain inclusion and more \ud83d\udc4c\ud83d\udd25 by @aminfseo Check it out:",
+            "Link": "https://twitter.com/aleyda/status/1798714554970734726"
+        },
+        {
+            "Title": "Microsoft Advertising may automatically import your Google Ads conversion data",
+            "Description": "Microsoft Advertising may automatically import your Google Ads conversion data",
+            "Link": "https://twitter.com/rustybrick/status/1798712949118292133"
+        },
+        {
+            "Title": "Hmm. A couple years ago, Google reduced its video index to make room for more short videos to go in the index @methode said",
+            "Description": "Hmm. A couple years ago, Google reduced its video index to make room for more short videos to go in the index @methode said",
+            "Link": "https://twitter.com/rustybrick/status/1798712547652317395"
+        },
+        {
+            "Title": "Google released Google Ads API version 17",
+            "Description": "Google released Google Ads API version 17",
+            "Link": "https://twitter.com/rustybrick/status/1798711439743668324"
+        },
+        {
+            "Title": "SEO interview: The value of local Hawaii SEO",
+            "Description": "Local SEO is an area of digital marketing that every business needs to think about. The following is an illuminating interview between SEO and digital marketing consultant Rik Snuiverink from FDMA Ltd and Nick Ponte, a local search specialist who runs a digital marketing agency in Hawaii. \u00a0 Today I\u2026",
+            "Link": "https://cyprus-mail.com/2024/06/06/seo-interview-the-value-of-local-hawaii-seo/"
+        },
+        {
+            "Title": "Heh - @methode explains that sometimes they will publish an indexing issue only after a noisy blogger covers it first - maybe like this one",
+            "Description": "Heh - @methode explains that sometimes they will publish an indexing issue only after a noisy blogger covers it first - maybe like this one",
+            "Link": "https://twitter.com/rustybrick/status/1798709081777246441"
+        },
+        {
+            "Title": "An interesting morning for News and AI... The homepage now has a new disclaimer btw -> NewsBreak: Most downloaded US news app 'writes fiction' using AI \"The problem was, no such thing took place. The Bridgeton, New Jersey police department posted a statement on Facebook on\u2026",
+            "Description": "An interesting morning for News and AI... The homepage now has a new disclaimer btw -> NewsBreak: Most downloaded US news app 'writes fiction' using AI \"The problem was, no such thing took place. The Bridgeton, New Jersey police department posted a statement on Facebook on\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798698788988563866"
+        },
+        {
+            "Title": "We'll see... Will be interesting to follow :) -> The Atlantic CEO Nicholas Thompson shares details on the OpenAI deal: publishers can benefit from tech platforms as long as they avoid becoming wholly dependent \"Thompson says the OpenAI partnership will \u201csurface\u201d Atlantic\u2026",
+            "Description": "We'll see... Will be interesting to follow :) -> The Atlantic CEO Nicholas Thompson shares details on the OpenAI deal: publishers can benefit from tech platforms as long as they avoid becoming wholly dependent \"Thompson says the OpenAI partnership will \u201csurface\u201d Atlantic\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798696203296886896"
+        },
+        {
+            "Title": "From Google: \"Active or close involvement is when the hosting site is providing unique value to its readers by directly sourcing coupons from merchants and other businesses that serve consumers, *not from white-label services* that focus on redistributing coupons with the primary\u2026",
+            "Description": "From Google: \"Active or close involvement is when the hosting site is providing unique value to its readers by directly sourcing coupons from merchants and other businesses that serve consumers, *not from white-label services* that focus on redistributing coupons with the primary\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798690004731900354"
+        },
+        {
+            "Title": "If you're interested in news publishing, and AI, then this is an interesting case. Sure looks like the site dropped heavily in early March, quite possibly due to a manual action for \"scaled content abuse\" -> The Rise and Fall of BNN Breaking, an AI-Generated News Outlet \"BNN\u2026",
+            "Description": "If you're interested in news publishing, and AI, then this is an interesting case. Sure looks like the site dropped heavily in early March, quite possibly due to a manual action for \"scaled content abuse\" -> The Rise and Fall of BNN Breaking, an AI-Generated News Outlet \"BNN\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798689072304505046"
+        },
+        {
+            "Title": "NotebookLM is very cool, and powerful -> Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries, including Brazil and the UK, and adds Slides and web URLs as sources \"Google is also giving NotebookLM the ability to source content from Google\u2026",
+            "Description": "NotebookLM is very cool, and powerful -> Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries, including Brazil and the UK, and adds Slides and web URLs as sources \"Google is also giving NotebookLM the ability to source content from Google\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1798684896187298072"
+        },
+        {
+            "Title": "Google Business Profile question and answers bug causes them to go hidden via @garrisonagency and @NickAnson93",
+            "Description": "Google Business Profile question and answers bug causes them to go hidden via @garrisonagency and @NickAnson93",
+            "Link": "https://twitter.com/rustybrick/status/1798684008471023828"
+        },
+        {
+            "Title": "PSA: Google will still index sites that are not mobile-friendly after July 5th via @JohnMu @methode",
+            "Description": "PSA: Google will still index sites that are not mobile-friendly after July 5th via @JohnMu @methode",
+            "Link": "https://twitter.com/rustybrick/status/1798681492190851233"
+        },
+        {
+            "Title": "Google now explicitly says white-labeled coupon sites white-labeled can be against Google's site reputation abuse policy nice find @orhankurulan",
+            "Description": "Google now explicitly says white-labeled coupon sites white-labeled can be against Google's site reputation abuse policy nice find @orhankurulan",
+            "Link": "https://twitter.com/rustybrick/status/1798678975582986546"
+        },
+        {
+            "Title": "Google Merchant Center testing new analytics UX via Casie Gill on LinkedIn hat tip @gaganghotra_",
+            "Description": "Google Merchant Center testing new analytics UX via Casie Gill on LinkedIn hat tip @gaganghotra_",
+            "Link": "https://twitter.com/rustybrick/status/1798676458941931561"
+        },
+        {
+            "Title": "Microsoft Advertising to automatically import your Google Ads conversion data if you have previously done Google Ads to Microsoft Ads imports via @PPCKirk",
+            "Description": "Microsoft Advertising to automatically import your Google Ads conversion data if you have previously done Google Ads to Microsoft Ads imports via @PPCKirk",
+            "Link": "https://twitter.com/rustybrick/status/1798673942368108890"
+        },
+        {
+            "Title": "Google Ads API version 17 is now out",
+            "Description": "Google Ads API version 17 is now out",
+            "Link": "https://twitter.com/rustybrick/status/1798672432707887512"
+        },
+        {
+            "Title": "Google Search Console Link Report Fixed After Reporting Increase in Links",
+            "Description": "Google has confirmed a fix for the Search Console link report, which was reporting an increase in links for some sites. The issue was first reported by SEO professionals on Twitter.",
+            "Link": "https://twitter.com/rustybrick/status/1798650742351233399"
+        },
+        {
+            "Title": "Google Case Study Shows Importance Of Structured Data",
+            "Description": "A new Google case study highlights the impact of structured data and URL optimization for crawling, showing a near doubling of clicks from search results.",
+            "Link": "https://www.searchenginejournal.com/google-case-study-shows-importance-of-structured-data/518561/"
+        },
+        {
+            "Title": "Media Briefing: Why business publishers are finding value in social video ad revenue",
+            "Description": "Business publishers are increasingly focusing on social video advertising due to growing advertiser interest and available ad inventory.",
+            "Link": "https://digiday.com/media/media-briefing-why-business-publishers-are-finding-value-in-social-video-ad-revenue/"
+        },
+        {
+            "Title": "The Washington Post\u2019s EIC succession plan shakes up newsroom, but does little to curb marketers\u2019 news avoidance",
+            "Description": "Despite leadership changes at The Washington Post, advertisers remain hesitant to invest in news organizations, indicating ongoing challenges for the industry.",
+            "Link": "https://digiday.com/media/the-washington-posts-eic-succession-plan-shakes-up-newsroom-but-does-little-to-curb-marketers-news-avoidance/"
+        },
+        {
+            "Title": "Digital OOH's growth has media agencies make more use of its data and measurement options",
+            "Description": "The growth of digital out-of-home (DOOH) advertising is leading media agencies to leverage its data and measurement capabilities for more effective campaigns.",
+            "Link": "https://digiday.com/media-buying/as-digital-ooh-grows-media-agencies-make-more-use-of-its-data-and-measurement-abilities/"
+        },
+        {
+            "Title": "Research Briefing: Publishers invest in programmatic ads despite budget and data challenges",
+            "Description": "Despite budget constraints and data challenges, publishers continue to invest in programmatic advertising, highlighting its importance in the evolving media landscape.",
+            "Link": "https://digiday.com/media/research-briefing-publishers-invest-in-programmatic-ads-despite-budget-and-data-challenges/"
+        },
+        {
+            "Title": "Advertisers appear to be largely unbothered by esports industry's growing Saudi Arabian ties",
+            "Description": "Despite concerns about Saudi Arabia's human rights record, advertisers are increasingly sponsoring esports events in the country, attracted by the large and engaged audience.",
+            "Link": "https://digiday.com/marketing/advertisers-appear-to-be-largely-unbothered-by-esports-industrys-growing-saudi-arabian-ties/"
+        },
+        {
+            "Title": "Google Algorithm Update Following Repo Leak Deemed Biggest Spike Ever Recorded",
+            "Description": "SEO experts report that a recent Google algorithm update, potentially linked to a leaked repository, has caused the most significant ranking fluctuations ever observed.",
+            "Link": "https://twitter.com/dejanseo/status/1798522052410069201"
+        }
+    ],
+    "reviewed_urls": [
+        "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/",
+        "https://www.mychesco.com/a/news/regional/semalt-launches-innovative-seo-services-to-boost-business-growth/",
+        "https://london-post.co.uk/seo-for-startups-3-steps-to-outstanding-online-presence-and-growth/",
+        "https://twitter.com/aleyda/status/1799462372375195913",
+        "https://twitter.com/glenngabe/status/1799426652964811234",
+        "https://www.einnews.com/pr_news/717939010/the-spr-agency-named-top-5-seo-social-media-marketing-agency-in-ranking-arizona-the-best-of-arizona-business-2024",
+        "https://twitter.com/glenngabe/status/1799419260332048701",
+        "https://twitter.com/glenngabe/status/1799418128650387652",
+        "https://twitter.com/glenngabe/status/1799416016478367776",
+        "https://twitter.com/aleyda/status/1799294213542051996",
+        "https://twitter.com/aleyda/status/1799291262547198255",
+        "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/",
+        "https://www.martechcube.com/moz-unveils-seo-innovations-at-mozcon-2024/",
+        "https://twitter.com/JoyanneHawkins/status/1799165501303660588",
+        "https://twitter.com/rustybrick/status/1799154609602306399",
+        "https://twitter.com/rustybrick/status/1799150834527379806",
+        "https://twitter.com/rustybrick/status/1799147059678720468",
+        "https://twitter.com/rustybrick/status/1799143284876415379",
+        "https://twitter.com/rustybrick/status/1799139510074454136",
+        "https://twitter.com/rustybrick/status/1799135735037173934",
+        "https://twitter.com/rustybrick/status/1799131960268513554",
+        "https://twitter.com/glenngabe/status/1799117706102272392",
+        "https://elblog.pl/2024/06/07/the-transformative-influence-of-ai-on-seo-practices/",
+        "https://twitter.com/rustybrick/status/1799094211930976415",
+        "https://www.forbes.com/advisor/business/software/what-is-sem/",
+        "https://www.cmswire.com/the-wire/semalt-unveils-enhanced-seo-solutions-to-support-global-business-growth/",
+        "https://twitter.com/rustybrick/status/1799090436692463903",
+        "https://twitter.com/rustybrick/status/1799086661906886696",
+        "https://twitter.com/rustybrick/status/1799082887029108819",
+        "https://twitter.com/rustybrick/status/1799079112218190180",
+        "https://www.practicalecommerce.com/columbia-sales-team-fuels-b2b-supplier",
+        "https://twitter.com/rustybrick/status/1799075337097072860",
+        "https://twitter.com/rustybrick/status/1799071562374554092",
+        "https://twitter.com/aleyda/status/1799067713501045095",
+        "https://twitter.com/aleyda/status/1799066875558842731",
+        "https://twitter.com/glenngabe/status/1799060278824341619",
+        "https://twitter.com/aleyda/status/1799054677612597289",
+        "https://twitter.com/glenngabe/status/1799053876869386249",
+        "https://twitter.com/glenngabe/status/1799051962887160251",
+        "https://twitter.com/glenngabe/status/1799050117909291455",
+        "https://twitter.com/rustybrick/status/1799048879989747812",
+        "https://www.01net.com/en/seo/tools/kwfinder/alternatives/",
+        "https://builtin.com/articles/social-media-SEO",
+        "https://twitter.com/glenngabe/status/1799048082920964349",
+        "https://twitter.com/glenngabe/status/1799046486396911691",
+        "https://twitter.com/rustybrick/status/1799046396554678770",
+        "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
+        "https://twitter.com/rustybrick/status/1799043879897096514",
+        "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html",
+        "https://twitter.com/rustybrick/status/1799041363205357579",
+        "https://twitter.com/rustybrick/status/1799038846715519088",
+        "https://www.cmswire.com/the-wire/yourseoboard-introduces-a-white-label-saas-seo-dashboard-for-digital-marketing-agencies/",
+        "https://twitter.com/dejanseo/status/1799030886828310879",
+        "https://www.msn.com/en-gb/money/technology/how-to-choose-the-right-seo-agency/ar-BB1nNAQC?ocid=finance-verthp-feeds",
+        "https://digiday.com/marketing/digiday-research-deep-dive-brands-are-more-invested-in-retail-media-than-agencies-as-amazon-still-dominates/",
+        "https://digiday.com/marketing/how-publishers-are-tapping-into-esl-faceit-groups-growing-esports-ecosystem/",
+        "https://digiday.com/marketing/how-u-s-bank-dramatically-cut-the-development-time-of-its-latest-campaign-with-ai-avatars/",
+        "https://digiday.com/marketing/how-sonos-plans-to-market-its-new-ace-high-end-headphones-in-a-noisy-category/",
+        "https://digiday.com/media-buying/how-ais-energy-needs-conflict-with-media-agencies-carbon-reduction-efforts/",
+        "https://twitter.com/aleyda/status/1798927347602907213",
+        "https://twitter.com/carlhendy/status/1798925203147518426",
+        "https://twitter.com/aleyda/status/1798921187160138062",
+        "https://campaignbrief.com/seo-agency-prosperity-media-expands-digital-pr-team-as-offering-grows/",
+        "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html",
+        "https://www.01net.com/en/seo/find-competitor-keywords/",
+        "https://twitter.com/g33konaut/status/1798848934355558881",
+        "https://twitter.com/rustybrick/status/1798816045005766756",
+        "https://searchengineland.com/link-importance-google-top-10-study-443024",
+        "https://twitter.com/aleyda/status/1798808627857264923",
+        "https://www.searchenginepeople.com/city/seo-burlington",
+        "https://twitter.com/rustybrick/status/1798788446779265329",
+        "https://twitter.com/rustybrick/status/1798784671909876030",
+        "https://twitter.com/rustybrick/status/1798780896889459137",
+        "https://twitter.com/rustybrick/status/1798777122280051118",
+        "https://twitter.com/rustybrick/status/1798773347205222630",
+        "https://twitter.com/rustybrick/status/1798771837163458934",
+        "https://twitter.com/rustybrick/status/1798769572520267918",
+        "https://twitter.com/glenngabe/status/1798760889497292996",
+        "https://twitter.com/glenngabe/status/1798757816578248786",
+        "https://searchengineland.com/local-seo-insights-google-api-documentation-leak-443006",
+        "https://twitter.com/glenngabe/status/1798756643016204774",
+        "https://twitter.com/YoungbloodJoe/status/1798746125111083084",
+        "https://twitter.com/iPullRank/status/1798732236881326545",
+        "https://n24.com.tr/en/moz-unveils-revolutionary-seo-tools-and-ai-integration-at-annual-mozcon-event",
+        "https://twitter.com/rustybrick/status/1798728048730423573",
+        "https://twitter.com/rustybrick/status/1798724274079035473",
+        "https://www.martechcube.com/seo-awardee-searchbloom-launches-cro-services/",
+        "https://www.cmswire.com/the-wire/semalt-announces-new-seo-services-to-help-businesses-improve-website-ranking/",
+        "https://twitter.com/rustybrick/status/1798720499058622639",
+        "https://www.practicalecommerce.com/google-ad-updates-from-marketing-live-2024",
+        "https://www.techradar.com/pro/software-services/sistrix-seo-tool-review",
+        "https://twitter.com/rustybrick/status/1798716724365131834",
+        "https://twitter.com/rustybrick/status/1798716669390651732",
+        "https://searchengineland.com/google-leak-author-publisher-entities-seo-442963",
+        "https://twitter.com/aleyda/status/1798714554970734726",
+        "https://twitter.com/rustybrick/status/1798712949118292133",
+        "https://twitter.com/rustybrick/status/1798712547652317395",
+        "https://twitter.com/rustybrick/status/1798711439743668324",
+        "https://cyprus-mail.com/2024/06/06/seo-interview-the-value-of-local-hawaii-seo/",
+        "https://twitter.com/rustybrick/status/1798709174517268855",
+        "https://twitter.com/rustybrick/status/1798709081777246441",
+        "https://twitter.com/glenngabe/status/1798698788988563866",
+        "https://twitter.com/glenngabe/status/1798696203296886896",
+        "https://twitter.com/aleyda/status/1798693986720502088",
+        "https://twitter.com/glenngabe/status/1798690004731900354",
+        "https://twitter.com/glenngabe/status/1798689072304505046",
+        "https://www.licenseglobal.com/apparel/matalan-launches-children-s-bing-t-shirt",
+        "https://twitter.com/glenngabe/status/1798685501920292894",
+        "https://twitter.com/glenngabe/status/1798684896187298072",
+        "https://twitter.com/rustybrick/status/1798684008471023828",
+        "https://twitter.com/rustybrick/status/1798681492190851233",
+        "https://twitter.com/rustybrick/status/1798678975582986546",
+        "https://twitter.com/rustybrick/status/1798676458941931561",
+        "https://twitter.com/aleyda/status/1798676253010186393",
+        "https://twitter.com/rustybrick/status/1798673942368108890",
+        "https://twitter.com/rustybrick/status/1798672432707887512",
+        "https://twitter.com/sicodeandres/status/1798671840761795053",
+        "https://twitter.com/rustybrick/status/1798671176841199892",
+        "https://www.classicfm.com/discover-music/d-day-poignant-wartime-songs/",
+        "https://twitter.com/antoineripret/status/1798659326367977886",
+        "https://medium.com/@johncooleydigital/boost-your-wordpress-sites-rankings-comprehensive-seo-guide-for-2024-f272ef3cbcf8",
+        "https://twitter.com/rustybrick/status/1798651541139722605",
+        "https://twitter.com/rustybrick/status/1798650742351233399",
+        "https://www.searchenginejournal.com/google-case-study-shows-importance-of-structured-data/518561/",
+        "https://twitter.com/serpconf/status/1798627457018593334",
+        "https://www.cmswire.com/the-wire/yourseoboard-releases-white-label-saas-dashboard-for-seo-and-digital-marketing-agencies/",
+        "https://digiday.com/media/media-briefing-why-business-publishers-are-finding-value-in-social-video-ad-revenue/",
+        "https://digiday.com/media/the-washington-posts-eic-succession-plan-shakes-up-newsroom-but-does-little-to-curb-marketers-news-avoidance/",
+        "https://digiday.com/media-buying/as-digital-ooh-grows-media-agencies-make-more-use-of-its-data-and-measurement-abilities/",
+        "https://digiday.com/marketing/as-brands-look-for-ai-edge-bq-retail-owner-kingfisher-is-expanding-in-house-development/",
+        "https://digiday.com/media/research-briefing-publishers-invest-in-programmatic-ads-despite-budget-and-data-challenges/",
+        "https://digiday.com/marketing/advertisers-appear-to-be-largely-unbothered-by-esports-industrys-growing-saudi-arabian-ties/",
+        "https://twitter.com/dejanseo/status/1798522052410069201",
+        "https://twitter.com/rustybrick/status/1798510884580663355",
+        "https://www.nydailynews.com/2024/06/05/adams-admin-asks-federal-judge-to-suspend-solitary-confinement-ban-in-nyc-jails/"
+    ]
+}
