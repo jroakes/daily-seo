@@ -6,7 +6,6 @@
             "Description": "Google has removed the How-to enhancement report from Google Search Console, following the discontinuation of how-to rich results in search results several months earlier.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799147059678720468",
-                "https://twitter.com/rustybrick/status/1799086661906886696",
                 "https://twitter.com/glenngabe/status/1799050117909291455",
                 "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
             ]
@@ -14,22 +13,46 @@
         {
             "Title": "Google Search Console Removal Tool Drops Cache Updates",
             "Category": "SEO",
-            "Description": "Google Search Console's removal tool no longer provides cache updates, making it harder to confirm content removal. Users can still request snippet updates.",
+            "Description": "Barry Schwartz reports that Google Search Console's removal tool no longer provides cache updates, making it harder to confirm content removal.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799150834527379806",
                 "https://twitter.com/rustybrick/status/1799090436692463903",
-                "https://twitter.com/rustybrick/status/1799046396554678770",
                 "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
             ]
         },
         {
-            "Title": "Google Search Testing Shopping Filter Top Bar Interface",
+            "Title": "Microsoft Advertising May Automatically Import Google Ads Conversion Data",
+            "Category": "SEM",
+            "Description": "Microsoft Advertising may automatically import your Google Ads conversion data if you have previously done Google Ads to Microsoft Ads imports.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1798773347205222630",
+                "https://twitter.com/rustybrick/status/1798712949118292133"
+            ]
+        },
+        {
+            "Title": "Google Ads to Replace Old Design Starting August 30, 2024",
+            "Category": "SEM",
+            "Description": "Google Ads will retire its old design and transition to the new design, which has been in testing since 2023, starting August 30, 2024.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799135735037173934",
+                "https://twitter.com/rustybrick/status/1799075337097072860"
+            ]
+        },
+        {
+            "Title": "Bing to Create AI-Generated Workspaces in Microsoft Edge",
+            "Category": "AI",
+            "Description": "Microsoft Edge will soon use AI to create a new Workspace with multiple tabs related to the users search query.",
+            "Links": [
+                "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
+            ]
+        },
+        {
+            "Title": "Google Search Shopping Filter Top Bar",
             "Category": "SEO",
             "Description": "Barry Schwartz shares a screenshot of Google testing a new top bar filter for shopping results, potentially changing how users refine product searches.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799143284876415379",
-                "https://twitter.com/rustybrick/status/1799082887029108819",
-                "https://twitter.com/rustybrick/status/1799041363205357579"
+                "https://twitter.com/rustybrick/status/1799082887029108819"
             ]
         },
         {
@@ -38,117 +61,42 @@
             "Description": "Barry Schwartz reports on Google testing a pinch-to-zoom feature for mobile image search, potentially improving user experience for image viewing.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799139510074454136",
-                "https://twitter.com/rustybrick/status/1799079112218190180",
-                "https://twitter.com/rustybrick/status/1799038846715519088"
+                "https://twitter.com/rustybrick/status/1799079112218190180"
             ]
         },
         {
-            "Title": "Google Ads to Replace Old Design with New Design on August 30, 2024",
-            "Category": "SEO",
-            "Description": "Barry Schwartz announces that Google Ads will retire its old design and transition to the new design, which has been in testing since 2023, starting August 30, 2024.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1799135735037173934",
-                "https://twitter.com/rustybrick/status/1799075337097072860"
-            ]
-        },
-        {
-            "Title": "Microsoft Advertising may automatically import your Google Ads conversion data",
-            "Category": "SEO",
-            "Description": "Microsoft Advertising may automatically import your Google Ads conversion data if you have previously done Google Ads to Microsoft Ads imports.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798773347205222630",
-                "https://twitter.com/rustybrick/status/1798712949118292133",
-                "https://twitter.com/rustybrick/status/1798673942368108890"
-            ]
-        },
-        {
-            "Title": "Google released Google Ads API version 17",
-            "Category": "SEO",
-            "Description": "Google released Google Ads API version 17.",
+            "Title": "Google Released Google Ads API Version 17",
+            "Category": "SEM",
+            "Description": "Google released Google Ads API version 17",
             "Links": [
                 "https://twitter.com/rustybrick/status/1798771837163458934",
-                "https://twitter.com/rustybrick/status/1798711439743668324",
-                "https://twitter.com/rustybrick/status/1798672432707887512"
+                "https://twitter.com/rustybrick/status/1798711439743668324"
             ]
         },
         {
-            "Title": "Google Search Console Link Report Fixed After Reporting Increase in Links",
+            "Title": "Google Will Still Index Non-Mobile-Friendly Sites",
             "Category": "SEO",
-            "Description": "Google has confirmed a fix for the Search Console link report, which was reporting an increase in links for some sites. The issue was first reported by SEO professionals on Twitter.",
+            "Description": "Despite changes to mobile indexing, Google will continue to index websites that are not mobile-friendly, as long as they are accessible to Googlebot's smartphone user agent.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798650742351233399"
+                "https://twitter.com/aleyda/status/1798927347602907213",
+                "https://twitter.com/rustybrick/status/1798724274079035473"
             ]
         },
         {
-            "Title": "SEO Video Recap: Ranking Volatility, Coupon Site Abuse, Mobile Indexing & More",
+            "Title": "Google Adds Clarity to Using White Labeled Coupon Content",
             "Category": "SEO",
-            "Description": "Barry Schwartz shares his weekly SEO video recap, covering topics like Google Search ranking volatility, coupon sites engaging in site reputation abuse, mobile indexing changes, and AI Overview declines.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1799154609602306399",
-                "https://twitter.com/rustybrick/status/1799094211930976415",
-                "https://twitter.com/rustybrick/status/1799048879989747812"
-            ]
-        },
-        {
-            "Title": "Google will still index sites that are not mobile-friendly after July 5th",
-            "Category": "SEO",
-            "Description": "Google will still index sites that are not mobile-friendly after July 5th - assuming you don't block Googlebot Smartphone.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798724274079035473",
-                "https://twitter.com/rustybrick/status/1798681492190851233",
-                "https://twitter.com/aleyda/status/1798927347602907213"
-            ]
-        },
-        {
-            "Title": "Google adds clarity to using white labeled coupon content on your site",
-            "Category": "SEO",
-            "Description": "Google now explicitly says white-labeled coupon sites white-labeled can be against Google's site reputation abuse policy.",
+            "Description": "Google adds clarity to using white labeled coupon content on your site - it is against Google's site reputation abuse policy",
             "Links": [
                 "https://twitter.com/rustybrick/status/1798720499058622639",
-                "https://twitter.com/rustybrick/status/1798678975582986546",
                 "https://twitter.com/glenngabe/status/1798690004731900354"
             ]
         },
         {
-            "Title": "Bing will create AI-generated Workspaces in Microsoft Edge for Windows 11",
-            "Category": "AI",
-            "Description": "Microsoft Edge will soon use AI to create a new Workspace with multiple tabs related to the users search query.",
-            "Links": [
-                "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
-            ]
-        },
-        {
-            "Title": "Google Business Profile question and answers hidden bug",
+            "Title": "Google Search Console Link Report Fixed",
             "Category": "SEO",
-            "Description": "Google Business Profile question and answers bug causes them to go hidden.",
+            "Description": "Google has confirmed a fix for the Search Console link report, which was reporting an increase in links for some sites. The issue was first reported by SEO professionals on Twitter.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1798728048730423573",
-                "https://twitter.com/rustybrick/status/1798684008471023828"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center analytics update",
-            "Category": "SEO",
-            "Description": "Google Merchant Center testing new analytics UX.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1798716724365131834",
-                "https://twitter.com/rustybrick/status/1798676458941931561"
-            ]
-        },
-        {
-            "Title": "Apple to Integrate AI into Apps with New Opt-in Service Called Apple Intelligence",
-            "Category": "AI",
-            "Description": "Apple is planning to integrate AI capabilities into its apps through a new opt-in service called Apple Intelligence. The AI system will leverage large language models and include a revamped Siri experience.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1799046486396911691"
-            ]
-        },
-        {
-            "Title": "Google Algorithm Update Following Repo Leak Deemed Biggest Spike Ever Recorded",
-            "Category": "SEO",
-            "Description": "SEO experts report that a recent Google algorithm update, potentially linked to a leaked repository, has caused the most significant ranking fluctuations ever observed.",
-            "Links": [
-                "https://twitter.com/dejanseo/status/1798522052410069201"
+                "https://twitter.com/rustybrick/status/1798650742351233399"
             ]
         }
     ],
