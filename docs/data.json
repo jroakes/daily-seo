@@ -1,73 +1,127 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Experiences Volatility",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search rankings saw significant fluctuations over the weekend of June 8th, with SEO experts and tracking tools reporting high volatility.",
+            "Title": "Google Search Ranking Algorithm Volatility On June 8th",
+            "Category": "Search",
+            "Description": "Google Search rankings were highly volatile on Saturday, June 8th, with significant ranking fluctuations observed by SEO tracking tools.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799780743939592446",
                 "https://www.seroundtable.com/google-search-ranking-volatility-june-8-37540.html",
-                "https://twitter.com/rustybrick/status/1799094211930976415"
+                "https://twitter.com/rustybrick/status/1800144129915052100"
             ]
         },
         {
-            "Title": "Google Search Console Updates and Changes",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has removed the How-to enhancement report and the cache update feature from the removal tool. ",
+            "Title": "Google Quietly Fixed Site Names In Search Results",
+            "Category": "Search",
+            "Description": "Google has resolved an issue that prevented site names from displaying correctly in search results for inner pages, a problem that persisted for nearly a year.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-fixed-site-names-in-serps/518842/"
+            ]
+        },
+        {
+            "Title": "Google Search Console Updates",
+            "Category": "Search",
+            "Description": "Google Search Console has removed the How-to enhancement report and the cache update feature from the removal tool. The platform now includes merchant listings performance data in the Google Search Image tab within the Performance report.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799150834527379806",
                 "https://twitter.com/rustybrick/status/1799147059678720468",
-                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
+                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
+                "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html",
+                "https://twitter.com/googlesearchc/status/1800153046535799129",
+                "https://twitter.com/rustybrick/status/1799090436692463903",
+                "https://twitter.com/rustybrick/status/1799086661906886696",
+                "https://twitter.com/glenngabe/status/1799050117909291455",
+                "https://twitter.com/rustybrick/status/1800159112120148265",
+                "https://twitter.com/glenngabe/status/1800153797320417288"
             ]
         },
         {
             "Title": "Google Tests New Search Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with several new search features, including a shopping filter top bar, pinch-to-zoom for mobile image search, and a five-pack for local results.",
+            "Category": "Search",
+            "Description": "Google is experimenting with several new features for its search engine, including a five-pack for local results, a pinch-to-zoom functionality for mobile image search, and a new double featured snippet format with a \"from sources across the web\" label.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799143284876415379",
                 "https://twitter.com/rustybrick/status/1799139510074454136",
+                "https://twitter.com/brodieseo/status/1799707180004004036",
+                "https://twitter.com/rustybrick/status/1799082887029108819",
+                "https://twitter.com/rustybrick/status/1799079112218190180",
                 "https://twitter.com/rustybrick/status/1800123493683757174"
             ]
         },
         {
-            "Title": "Google Ad Manager Adds Programmatic Email Ads",
-            "Category": "Advertising Technology",
-            "Description": "Google Ad Manager has quietly launched a beta for programmatic email ads, potentially influenced by concerns over third-party cookies.",
+            "Title": "Google Ad Manager Launches Programmatic Email Ads",
+            "Category": "Advertising",
+            "Description": "Google's ad management platform has introduced a beta version of programmatic email ads, potentially influenced by concerns over third-party cookies.",
             "Links": [
                 "https://www.practicalecommerce.com/google-ad-manager-launches-programmatic-email-ads"
             ]
         },
         {
-            "Title": "Google Ads to Transition to New Design",
-            "Category": "Advertising Technology",
-            "Description": "Google Ads will replace its old design with the new design that has been in testing since 2023, starting on August 30, 2024.",
+            "Title": "Google Ads to Retire Old Design",
+            "Category": "Advertising",
+            "Description": "Google Ads will replace its old design with the new version that has been in testing since 2023, starting on August 30, 2024.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1799135735037173934"
+                "https://twitter.com/rustybrick/status/1799135735037173934",
+                "https://twitter.com/rustybrick/status/1799075337097072860"
             ]
         },
         {
-            "Title": "SEO Firm Yext Explores Potential Sale",
-            "Category": "Business",
-            "Description": "SEO firm Yext is reportedly considering a sale after attracting takeover interest and has hired investment bankers to explore options.",
-            "Links": [
-                "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
-            ]
-        },
-        {
-            "Title": "Bing to Introduce AI-Powered Workspaces in Microsoft Edge",
-            "Category": "Artificial Intelligence",
+            "Title": "Bing to Implement AI-Generated Workspaces in Microsoft Edge",
+            "Category": "Search",
             "Description": "Microsoft Edge will soon leverage AI to generate Workspaces containing multiple tabs related to a user's search query.",
             "Links": [
                 "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
             ]
         },
         {
-            "Title": "Google's AI Experiment Raises Concerns Among SEO Experts",
-            "Category": "Artificial Intelligence",
-            "Description": "SEO experts believe that Google's experiment with AI-powered search results could significantly impact organic and paid traffic for businesses.",
+            "Title": "Perion Network Impacted by Bing Changes",
+            "Category": "Business",
+            "Description": "Perion Network, a digital advertising company, has experienced a significant drop in its stock price following Microsoft's decision to exclude a number of publishers from Bing's search distribution marketplace. This change is expected to reduce Perion's revenue from Microsoft to 5% of its total income in the second half of 2024, down from 50% previously.",
             "Links": [
-                "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
+                "https://www.gurufocus.com/news/2455310/perion-network-plummets-after-downside-revenue-guidance-amid-bing-changes",
+                "https://www.calcalistech.com/ctechnews/article/ft698w6r2",
+                "https://en.globes.co.il/en/article-perion-plummets-on-more-bing-changes-1001481253",
+                "https://www.benzinga.com/markets/equities/24/06/39249280/perion-network-slashes-q2-fy24-outlook-amid-microsoft-bing-ad-pricing-changes-stock-tumbles"
+            ]
+        },
+        {
+            "Title": "SEO Firm Yext Explores Sale Amid Takeover Interest",
+            "Category": "Business",
+            "Description": "SEO firm Yext is reportedly considering a sale and has engaged investment bankers after receiving takeover interest.",
+            "Links": [
+                "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
+            ]
+        },
+        {
+            "Title": "Microsoft to Enhance Security for Recall Feature",
+            "Category": "Security",
+            "Description": "Microsoft plans to address security concerns related to its Recall feature by making it opt-in and requiring Windows Hello authentication for activation.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799117706102272392"
+            ]
+        },
+        {
+            "Title": "YouTube Processes One Billion Content ID Copyright Claims in Six Months",
+            "Category": "Copyright",
+            "Description": "For the first time, YouTube has processed a billion Content ID copyright claims within a six-month period. The majority of flagged videos were not removed but instead monetized.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799053876869386249"
+            ]
+        },
+        {
+            "Title": "YouTube Expands Posts Feature to Almost All Channels",
+            "Category": "Social Media",
+            "Description": "YouTube is rolling out its Posts feature, which allows creators to share various content formats like polls, quizzes, and GIFs, to nearly all channels on the platform.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1799051962887160251"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Resumes Locksmith Reinstatement Requests",
+            "Category": "Business",
+            "Description": "Google Business Profiles has resumed processing reinstatement requests from locksmith businesses in the US after a temporary pause.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1800128527012098094"
             ]
         }
     ],
