@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Search Algorithm Experiences Volatility",
-            "Category": "Search",
-            "Description": "Google Search rankings were highly volatile on June 8th, with many SEOs and tracking tools reporting significant fluctuations. This follows a pattern of weekend updates from Google that have been observed in recent months.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search rankings saw significant fluctuations over the weekend of June 8th, with SEO experts and tracking tools reporting high volatility.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799780743939592446",
                 "https://www.seroundtable.com/google-search-ranking-volatility-june-8-37540.html",
@@ -11,72 +11,63 @@
             ]
         },
         {
-            "Title": "Google Search Console Updates: Removal Tool, How-to Report, and More",
-            "Category": "Search",
-            "Description": "Google Search Console has undergone several updates, including the removal of cache updates from the removal tool, the dropping of the How-to enhancements report, and the testing of a new shopping filter top bar. Additionally, Google is experimenting with a pinch-to-zoom feature for mobile image search.",
+            "Title": "Google Search Console Updates and Changes",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console has removed the How-to enhancement report and the cache update feature from the removal tool. ",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799150834527379806",
                 "https://twitter.com/rustybrick/status/1799147059678720468",
-                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
-                "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"
+                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html"
+            ]
+        },
+        {
+            "Title": "Google Tests New Search Features",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is experimenting with several new search features, including a shopping filter top bar, pinch-to-zoom for mobile image search, and a five-pack for local results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799143284876415379",
+                "https://twitter.com/rustybrick/status/1799139510074454136",
+                "https://twitter.com/rustybrick/status/1800123493683757174"
             ]
         },
         {
             "Title": "Google Ad Manager Adds Programmatic Email Ads",
-            "Category": "Advertising",
-            "Description": "Google's ad management platform has quietly introduced a beta version of programmatic email ads, potentially influenced by concerns over third-party cookies.",
+            "Category": "Advertising Technology",
+            "Description": "Google Ad Manager has quietly launched a beta for programmatic email ads, potentially influenced by concerns over third-party cookies.",
             "Links": [
                 "https://www.practicalecommerce.com/google-ad-manager-launches-programmatic-email-ads"
             ]
         },
         {
-            "Title": "Google Ads to Transition to New Design on August 30, 2024",
-            "Category": "Advertising",
-            "Description": "Google Ads will be replacing its old design with the new design that has been in testing since 2023, starting on August 30, 2024.",
+            "Title": "Google Ads to Transition to New Design",
+            "Category": "Advertising Technology",
+            "Description": "Google Ads will replace its old design with the new design that has been in testing since 2023, starting on August 30, 2024.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1799135735037173934"
             ]
         },
         {
-            "Title": "Bing to Introduce AI-Powered Workspaces in Microsoft Edge",
-            "Category": "Search",
-            "Description": "Microsoft Edge will soon leverage AI to generate Workspaces, creating multiple tabs related to a user's search query.",
-            "Links": [
-                "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
-            ]
-        },
-        {
-            "Title": "SEO Firm Yext Explores Sale Amid Takeover Interest",
+            "Title": "SEO Firm Yext Explores Potential Sale",
             "Category": "Business",
-            "Description": "SEO technology company Yext is reportedly considering a sale and has engaged investment bankers following expressions of interest from potential buyers.",
+            "Description": "SEO firm Yext is reportedly considering a sale after attracting takeover interest and has hired investment bankers to explore options.",
             "Links": [
                 "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
             ]
         },
         {
-            "Title": "Google Addresses Site Name Display Issue in Search Results",
-            "Category": "Search",
-            "Description": "Google has resolved a longstanding problem that prevented site names from appearing correctly in search results for inner pages, a fix that was almost a year in the making.",
+            "Title": "Bing to Introduce AI-Powered Workspaces in Microsoft Edge",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft Edge will soon leverage AI to generate Workspaces containing multiple tabs related to a user's search query.",
             "Links": [
-                "https://www.searchenginejournal.com/google-fixed-site-names-in-serps/518842/"
+                "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
             ]
         },
         {
-            "Title": "Google Experiments with AI-Powered Search Features",
-            "Category": "Search",
-            "Description": "Google is testing new AI-driven features in search, including a double featured snippet format with a \"from sources across the web\" label. This experimentation comes as the rollout of the AI Overview feature has slowed down.",
+            "Title": "Google's AI Experiment Raises Concerns Among SEO Experts",
+            "Category": "Artificial Intelligence",
+            "Description": "SEO experts believe that Google's experiment with AI-powered search results could significantly impact organic and paid traffic for businesses.",
             "Links": [
-                "https://twitter.com/brodieseo/status/1799707180004004036",
-                "https://www.mediapost.com/publications/article/396297/ai-sparks-unexpected-flurry-of-search-tools.html",
                 "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
-            ]
-        },
-        {
-            "Title": "Google to Resolve Product Variant Structured Data Bug",
-            "Category": "Search",
-            "Description": "Google has acknowledged a bug that prevents product variant structured data from displaying rating stars in search results and is working on a fix.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1800020313767600374"
             ]
         }
     ],
