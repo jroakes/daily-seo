@@ -1,78 +1,82 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Experiences Volatility",
+            "Title": "Google Search Ranking Algorithm Volatility On June 8th",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search rankings saw significant fluctuations on June 8th, 2024, marking another weekend of volatility.  SEO chatter and third-party tracking tools highlighted these fluctuations.",
+            "Description": "Google Search rankings experienced significant volatility on June 8th, with SEO chatter and tracking tools indicating major ranking fluctuations.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1799780743939592446",
                 "https://www.seroundtable.com/google-search-ranking-volatility-june-8-37540.html",
-                "https://twitter.com/rustybrick/status/1799780743939592446"
+                "https://twitter.com/rustybrick/status/1799094211930976415"
             ]
         },
         {
-            "Title": "Google Search Console Updates",
+            "Title": "Google Quietly Fixed Site Names In Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has removed both the How-to enhancement report and cache updates from the removal tool. The removal of the How-to report aligns with the discontinuation of how-to rich results in search listings.",
-            "Links": [
-                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
-                "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html",
-                "https://twitter.com/rustybrick/status/1799090436692463903"
-            ]
-        },
-        {
-            "Title": "Yext Explores Potential Sale Amidst Takeover Interest",
-            "Category": "Business",
-            "Description": "SEO firm Yext is reportedly considering a sale following takeover interest. The company has engaged investment bankers to explore this possibility.",
-            "Links": [
-                "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
-            ]
-        },
-        {
-            "Title": "Google Ad Manager Introduces Programmatic Email Ads",
-            "Category": "Advertising",
-            "Description": "Google's ad management platform has quietly introduced a beta version of programmatic email ads for newsletters. This move may be influenced by concerns surrounding third-party cookies.",
-            "Links": [
-                "https://www.practicalecommerce.com/google-ad-manager-launches-programmatic-email-ads"
-            ]
-        },
-        {
-            "Title": "Google Search Site Names Display Issue Resolved",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has addressed a persistent issue affecting the display of site names in search results for inner pages. This fix comes after nearly a year of the problem being present.",
+            "Description": "Google has resolved an issue that prevented site names from displaying correctly in search results for inner pages, a problem that persisted for almost a year.",
             "Links": [
                 "https://www.searchenginejournal.com/google-fixed-site-names-in-serps/518842/"
             ]
         },
         {
-            "Title": "Bing to Implement AI-Powered Workspaces in Microsoft Edge",
+            "Title": "Google Search Console Removal Tool No Longer Supports Cache Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "The Google Search Console removal tool has been updated and no longer provides cache updates, although users can still request snippet updates.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799150834527379806",
+                "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html",
+                "https://twitter.com/rustybrick/status/1799090436692463903"
+            ]
+        },
+        {
+            "Title": "Google Search Console Drops How-To Enhancement Report",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has removed the How-to enhancement report from Google Search Console, following the discontinuation of how-to rich results in search listings.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799147059678720468",
+                "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html",
+                "https://twitter.com/rustybrick/status/1799086661906886696"
+            ]
+        },
+        {
+            "Title": "Google Ad Manager Launches Programmatic Email Ads",
+            "Category": "Advertising Technology",
+            "Description": "Google's ad management platform has introduced a beta version of programmatic email ads, potentially influenced by concerns surrounding third-party cookies.",
+            "Links": [
+                "https://www.practicalecommerce.com/google-ad-manager-launches-programmatic-email-ads"
+            ]
+        },
+        {
+            "Title": "Google Ads to drop the old design and replace it with the new design it has been testing since 2023 starting on August 30, 2024",
+            "Category": "Advertising Technology",
+            "Description": "Google Ads is set to retire its old design, transitioning to the new design that has been in testing since 2023, with the change taking effect on August 30, 2024.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1799135735037173934",
+                "https://twitter.com/rustybrick/status/1799075337097072860"
+            ]
+        },
+        {
+            "Title": "Bing will create AI-generated Workspaces in Microsoft Edge for Windows 11",
             "Category": "Artificial Intelligence",
-            "Description": "Microsoft Edge will soon leverage AI to generate Workspaces containing multiple tabs related to a user's search query. This feature aims to enhance browsing efficiency and organization.",
+            "Description": "Microsoft Edge will soon leverage AI to generate Workspaces, comprising multiple tabs relevant to a user's search query.",
             "Links": [
                 "https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"
             ]
         },
         {
-            "Title": "Google's AI Integration in Search Raises Concerns Among SEO Experts",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's experiment with AI-powered search results, known as Search Generative Experience (SGE), is being closely watched by SEO experts. The technology aims to provide concise and reliable information quickly, potentially impacting organic and paid search traffic for businesses.",
+            "Title": "SEO Experts Say Google\u2019s New Experiment Could Impact Online Traffic for Businesses",
+            "Category": "Artificial Intelligence",
+            "Description": "Google's experiment with AI-powered search, known as Search Generative Experience (SGE), is raising concerns among SEO professionals about potential impacts on organic and paid search traffic for businesses.",
             "Links": [
                 "https://finance.yahoo.com/news/seo-experts-google-experiment-could-020100721.html"
             ]
         },
         {
-            "Title": "The Rise of AI-Powered Search Tools",
-            "Category": "Artificial Intelligence",
-            "Description": "The emergence of AI is driving the development of new search tools, creating both excitement and confusion in the industry.  The influx of these tools presents new opportunities and challenges for users and developers alike.",
+            "Title": "Report: SEO\u00a0Firm Yext Considering Sale After Attracting Takeover Interest",
+            "Category": "Business & Finance",
+            "Description": "SEO technology company Yext is reportedly exploring a potential sale after receiving interest from potential buyers and has engaged investment bankers to assist with the process.",
             "Links": [
-                "https://www.mediapost.com/publications/article/396297/ai-sparks-unexpected-flurry-of-search-tools.html"
-            ]
-        },
-        {
-            "Title": "Google Updates Search Incident Disclosure Practices",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has provided insights into its process for disclosing search incidents that impact search, crawling, and indexing. The company aims to enhance transparency and communication regarding such events.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-on-search-incident-disclosures/518812/"
+                "https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"
             ]
         }
     ],
