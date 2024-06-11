@@ -8113,3 +8113,97 @@ Error occurred at 2024-06-09 16:03:34.276473:
 RESPONSE: 
 {"stories": [{"Title": "Bing to Create AI-Powered Workspaces in Microsoft Edge for Windows 11", "Category": "AI & Search", "Description": "Microsoft Edge will soon leverage AI to generate Workspaces containing multiple tabs related to a user's search query.", "Links": ["https://www.windowslatest.com/2024/06/09/bing-will-create-ai-generated-workspaces-in-microsoft-edge-for-windows-11/"]}, {"Title": "SEO Firm Yext Explores Sale Amid Takeover Interest", "Category": "Business & Finance", "Description": "SEO technology company Yext is reportedly considering a sale after attracting interest from potential buyers.", "Links": ["https://www.pymnts.com/business/2024/report-seo-firm-yext-considering-sale-after-attracting-takeover-interest/"]}, {"Title": "Google Search Console Updates: Removal Tool, How-to Report, and More", "Category": "Search Engine Optimization", "Description": "Google Search Console has undergone several updates, including the removal of cache updates from the Removal Tool and the discontinuation of the How-to enhancements report.", "Links": ["https://twitter.com/rustybrick/status/1799150834527379806", "https://twitter.com/rustybrick/status/1799147059678720468", "https://twitter.com/glenngabe/status/1799050117909291455", "https://www.seroundtable.com/google-search-console-removal-tool-cache-updates-37526.html", "https://www.seroundtable.com/google-search-console-drops-how-to-enhancement-report-37527.html"]}, {"Title": "Google Search Experiments: Shopping Filters, Mobile Image Zoom, and Algorithm Volatility", "Category": "Search Engine Optimization", "Description": "Google is experimenting with new features and updates, including a top bar filter for shopping results, a pinch-to-zoom function for mobile image search, and significant ranking volatility potentially linked to a recent algorithm update.", "Links": ["https://twitter.com/rustybrick/status/1799143284876415379", "https://twitter.com/rustybrick/status/1799139510074454136", "https://twitter.com/rustybrick/status/1799082887029108819", "https://twitter.com/rustybrick/status/1799079112218190180", "https://twitter.com/dejanseo/status/1798522052410069201"]}, {"Title": "Google Ads to Transition to New Design on August 30, 2024", "Category": "Advertising & Marketing", "Description": "Google Ads will retire its old design and fully transition to the new design that has been in testing since 2023, starting August 30, 2024.", "Links": ["https://twitter.com/rustybrick/status/1799135735037173934", "https://twitter.com/rustybrick/status/1799075337097072860"]}, {"Title": "Google's AI Overview Raises Concerns Over Content Attribution and Plagiarism", "Category": "AI & Search", "Description": "SEO experts are raising concerns about Google's AI Overview feature, alleging that it republishes content without proper attribution, potentially leading to plagiarism issues.", "Links": ["https://twitter.com/glenngabe/status/1799416016478367776", "https://twitter.com/carlhendy/status/1798925203147518426"]}, {"Title": "Wirecutter's Search Visibility Declines Despite High-Quality Content", "Category": "Search Engine Optimization", "Description": "Wirecutter, known for its in-depth product reviews, has experienced a significant drop in search visibility since the fall of 2023, according to SEO observations.", "Links": ["https://twitter.com/glenngabe/status/1799426652964811234"]}, {"Title": "YouTube Expands Content ID Copyright Claims and Rolls Out Posts Feature", "Category": "Content & Social Media", "Description": "YouTube has processed a record-breaking one billion Content ID copyright claims in just six months and is rolling out a new \"Posts\" feature to almost all channels, allowing creators to engage with their audience through various formats.", "Links": ["https://twitter.com/glenngabe/status/1799053876869386249", "https://twitter.com/glenngabe/status/1799051962887160251"]}, {"Title": "Apple to Introduce \"Apple Intelligence\" AI Service", "Category": "AI & Technology", "Description": "Apple is reportedly developing a new opt-in service called \"Apple Intelligence\" that will integrate AI capabilities into its apps, leveraging large language models and a revamped Siri experience.", "Links": ["https://twitter.com/glenngabe/status/1799046486396911691"]}, {"Title": "Google Search Console Link Report Restored After Reporting Errors", "Category": "Search Engine Optimization", "Description": "Google has addressed an issue with the Search Console link report that was incorrectly showing an increase in links for some websites.", "Links": ["https://twitter.com/rustybrick/status/1798650742351233399"]}, {"Title": "Google Algorithm Update Causes Significant Ranking Fluctuations", "Category": "Search Engine Optimization", "Description": "A recent Google algorithm update, potentially related to a leaked repository, has led to substantial ranking volatility, with SEO experts deeming it the biggest spike ever recorded.", "Links": ["https://twitter.com/dejanseo/status/1798522052410069201", "https://twitter.com/rustybrick/status/1799780743939592446", "https://www.seroundtable.com/google-search-ranking-volatility-june-8-37540.html"]}, {"Title": "Google Confirms White-Labeled Coupon Sites Can Violate Site Reputation Policies", "Category": "Search Engine Optimization", "Description": "Google has clarified that websites using white-labeled coupon content can be penalized under its site reputation abuse policy, emphasizing the importance of original and valuable content.", "Links": ["https://twitter.com/rustybrick/status/1798720499058622639", "https://twitter.com/glenngabe/status/1798690004731900354"]}, {"Title": "Microsoft Advertising to Automatically Import Google Ads Conversion Data", "Category": "Advertising & Marketing", "Description": "Microsoft Advertising will automatically import conversion data from Google Ads for advertisers who have previously enabled data imports between the two platforms.", "Links": ["https://twitter.com/rustybrick/status/1798773347205222630", "https://twitter.com/rustybrick/status/1798712949118292133"]}, {"Title": "Google Releases Google Ads API Version 17", "Category": "Advertising & Marketing", "Description": "Google has announced the release of Google Ads API version 17, providing developers with new tools and updates for managing advertising campaigns.", "Links": ["https://twitter.com/rustybrick/status/1798771837163458934", "https://twitter.com/rustybrick/status/1798711439743668324"]}, {"Title": "Google Quietly Fixes Site Names Display Issue in Search Results", "Category": "Search Engine Optimization", "Description": "Google has resolved a long-standing issue that prevented site names from displaying correctly in search results for inner pages, improving the accuracy and clarity of search listings.", "Links": ["https://www.searchenginejournal.com/google-fixed-site-names-in-serps/518842/"]}]}
 
+Error occurred at 2024-06-11 12:03:41.176377:
+PROMPT: 
+Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
+
+Filter out:
+* Self-promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+IMPORTANT: Only use the FULL provided Source as the link for each item.  DO NOT use any other links
+
+Content for review:
+@rustybrick: Google Search Console Performance report gains super granular data on merchant listings within the image search tab (but Google won't give us AI Overviews or Featured Snippet data...) seroundtable.com/google-search-…
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800493431346577451
+--------------------
+@rustybrick: Google either trusts or does not trust your lastmod date in your Sitemap file says @methode seroundtable.com/google-sitemap… hat tip @thetafferboy
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800490914634162382
+--------------------
+@rustybrick: Today is the day for this interview...
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800490732719165923
+--------------------
+@rustybrick: Google is testing organized search results page seroundtable.com/google-organiz… via @mikefutia
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800488398110835019
+--------------------
+19 Free Web Design Tools, Spring 2024
+2024-06-11
+This installment of our quarterly rundown includes tools for AI images, audio and video editors, color palettes, multisite management, visual testing, website builders, free fonts, and more.
+Source: https://www.practicalecommerce.com/19-free-web-design-tools-spring-2024
+--------------------
+@rustybrick: Siri gets useful with Apple Intelligence and OpenAI's ChatGPT seroundtable.com/apple-siri-app…
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800485881502998815
+--------------------
+@rustybrick: Google Atlanta frog 🐸 seroundtable.com/photos/weird-p…
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800483116794175965
+--------------------
+Mural of Fan Bing Bing in Jonker Street receives praise
+2024-06-11
+PETALING JAYA: A vibrantly touched-up mural of Fan Bing Bing has been completed and has received praise from locals and tourists for its striking likeness, reported Sinchew Daily.
+Source: https://www.thestar.com.my/news/nation/2024/06/11/mural-of-fan-bing-bing-in-jonker-street-receives-praise
+--------------------
+@gfiorelli1: RT @gfiorelli1: Considering the “special attention” Google gives to forums, if it was editorially justifiable and sustainable, would you co…
+2024-06-11
+
+Source: https://twitter.com/gfiorelli1/status/1800468971071893729
+--------------------
+@rustybrick: Apple spent more time on the iPad's new calculator...
+2024-06-11
+
+Source: https://twitter.com/rustybrick/status/1800463574730776860
+--------------------
+Something Weird Is Going On In Google's SERPs
+2024-06-11
+Why is Google ranking a hyphenated domain name site for keywords about SEO even though it's 100% irrelevant for SEO?
+Source: https://www.searchenginejournal.com/why-are-googles-seo-serps-irrelevant/519138/
+--------------------
+@rustybrick: Siri to be integrated with ChatGPT
+2024-06-10
+
+Source: https://twitter.com/rustybrick/status/1800236127976120422
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value. The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article. Escape any quotes in title value.
+- Description (string): Description of the article. Escape any quotes in description value.
+- Link (string): Link to the content. Only use provided links; do not guess or infer URLs.
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error. Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-06-11 12:03:41.176745:
+RESPONSE: 
+[{"Title": "Google Search Console Performance report gains super granular data on merchant listings within the image search tab (but Google won\'t give us AI Overviews or Featured Snippet data...)", "Description": "Google Search Console Performance report gains super granular data on merchant listings within the image search tab, but Google won't give us AI Overviews or Featured Snippet data...", "Link": "https://twitter.com/rustybrick/status/1800493431346577451"}, {"Title": "Google either trusts or does not trust your lastmod date in your Sitemap file", "Description": "Google either trusts or does not trust your lastmod date in your Sitemap file", "Link": "https://twitter.com/rustybrick/status/1800490914634162382"}, {"Title": "Google is testing organized search results page", "Description": "Google is testing organized search results page", "Link": "https://twitter.com/rustybrick/status/1800488398110835019"}, {"Title": "19 Free Web Design Tools, Spring 2024", "Description": "This installment of our quarterly rundown includes tools for AI images, audio and video editors, color palettes, multisite management, visual testing, website builders, free fonts, and more.", "Link": "https://www.practicalecommerce.com/19-free-web-design-tools-spring-2024"}, {"Title": "Siri gets useful with Apple Intelligence and OpenAI\'s ChatGPT", "Description": "Siri gets useful with Apple Intelligence and OpenAI's ChatGPT", "Link": "https://twitter.com/rustybrick/status/1800485881502998815"}, {"Title": "Considering the “special attention” Google gives to forums, if it was editorially justifiable and sustainable, would you co...", "Description": "Considering the “special attention” Google gives to forums, if it was editorially justifiable and sustainable, would you co...", "Link": "https://twitter.com/gfiorelli1/status/1800468971071893729"}, {"Title": "Something Weird Is Going On In Google\'s SERPs", "Description": "Why is Google ranking a hyphenated domain name site for keywords about SEO even though it's 100% irrelevant for SEO?", "Link": "https://www.searchenginejournal.com/why-are-googles-seo-serps-irrelevant/519138/"}, {"Title": "Siri to be integrated with ChatGPT", "Description": "Siri to be integrated with ChatGPT", "Link": "https://twitter.com/rustybrick/status/1800236127976120422"}]
+
