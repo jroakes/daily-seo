@@ -1,84 +1,45 @@
 {
     "data": [
         {
-            "Title": "Google Emphasizes Importance of Desktop SEO",
+            "Title": "Google March 2024 Core Update: Insights & Takeaways",
             "Category": "SEO",
-            "Description": "Google's John Mueller reminds website owners and developers that desktop SEO remains crucial for optimal online visibility and search engine ranking, even as mobile browsing continues to grow.",
+            "Description": "Google's March 2024 core update was a significant event, addressing spam, improving search quality, and impacting rankings. The rollout took 45 days and aimed to reduce unhelpful content by 45%.",
             "Links": [
-                "https://cdn-4.dmnews.com/googles-john-mueller-emphasizes-desktop-seo-importance/",
-                "https://www.dmnews.com/googles-mueller-dont-overlook-desktop-seo/",
-                "https://www.searchenginejournal.com/google-responds-is-desktop-seo-still-necessary/518925/"
+                "https://twitter.com/rustybrick/status/1800962773947646432",
+                "https://twitter.com/glenngabe/status/1800864284664074537",
+                "https://searchengineland.com/seo-takeaways-google-elizabeth-tucker-smx-advanced-443070"
             ]
         },
         {
-            "Title": "TikTok and YouTube Integrate Image Search Features",
-            "Category": "Search Engine Features",
-            "Description": "TikTok and YouTube are both rolling out new image search capabilities. TikTok Shop users can now upload images to find similar products, while YouTube is integrating Google Lens search on Android devices.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1800607696066150488",
-                "https://twitter.com/glenngabe/status/1800608687037243749"
-            ]
-        },
-        {
-            "Title": "Google Confirms Binary Nature of Lastmod Signal",
+            "Title": "Google Search Leak Sparks Debate & Discussion",
             "Category": "SEO",
-            "Description": "Google's Gary Illyes has confirmed that the search engine treats the lastmod date in Sitemap files as a binary signal. Google either completely trusts the provided date or disregards it entirely.",
+            "Description": "A leaked Google document has ignited discussions about the search engine's ranking factors and SEO practices. The document's contents have raised questions about Google's transparency and the effectiveness of certain SEO strategies.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1800592836246548862",
-                "https://www.searchenginejournal.com/googles-gary-illyes-lastmod-signal-is-binary/519239/",
-                "https://twitter.com/glenngabe/status/1800498101117129054"
+                "https://www.cheddar.com/media/the-biggest-takeaways-from-the-google-algorithm-leaks/",
+                "https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet",
+                "https://twitter.com/glenngabe/status/1800927958804431082"
             ]
         },
         {
-            "Title": "Google Search Console Enhances Merchant Listings Reporting",
+            "Title": "Google Search Updates: UI Changes, New Features & Tests",
             "Category": "SEO",
-            "Description": "Google Search Console's Performance report now includes detailed data on merchant listings within the image search tab, providing valuable insights for businesses looking to optimize their online product visibility.",
+            "Description": "Google is constantly testing and refining its search results pages. Recent updates include experiments with shaded gray colors behind site names in mobile snippets, QR codes on Google Maps Business Profiles, and the removal of home activity cards.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1800596611183366244",
-                "https://twitter.com/rustybrick/status/1800536213159309779",
-                "https://twitter.com/googlesearchc/status/1800153046535799129"
+                "https://twitter.com/rustybrick/status/1800958999132524695",
+                "https://twitter.com/rustybrick/status/1800955224200495508",
+                "https://twitter.com/rustybrick/status/1800951449385365908"
             ]
         },
         {
-            "Title": "Websites Can Recover from Google's September Helpful Content Update",
-            "Category": "SEO",
-            "Description": "Google has stated that websites negatively impacted by the September 2023 helpful content update can potentially recover their rankings with the next core update, provided they make sufficient improvements to their content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1800600385998004361",
-                "https://twitter.com/rustybrick/status/1800539988289085499",
-                "https://twitter.com/glenngabe/status/1800501515800490049"
-            ]
-        },
-        {
-            "Title": "Google Testing Organized Search Results Pages",
-            "Category": "Search Engine Features",
-            "Description": "Google is experimenting with organized search results pages, a feature initially announced at Google I/O. This new layout aims to present search results in a more structured and user-friendly manner.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1800589061515833578",
-                "https://twitter.com/rustybrick/status/1800528663806718366",
-                "https://twitter.com/rustybrick/status/1800488398110835019"
-            ]
-        },
-        {
-            "Title": "Google Search Now Supports Organization-Level Return Policy Markup",
-            "Category": "Ecommerce",
-            "Description": "Google Search has introduced support for return policy markup at the organization level, simplifying return policy management for businesses and providing a more streamlined shopping experience for users.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1800515790262706593",
-                "https://twitter.com/rustybrick/status/1800502482797518896",
-                "https://twitter.com/rustybrick/status/1800855819279560948"
-            ]
-        },
-        {
-            "Title": "Perion Network Stock Plummets Following Changes to Microsoft Bing",
-            "Category": "Business",
-            "Description": "Perion Network's stock price has experienced a significant decline after Microsoft made changes to its Bing search engine, including the removal of Perion from its search distribution marketplace.",
+            "Title": "Microsoft Bing Undergoes Changes, Impacting Perion Network",
+            "Category": "Search",
+            "Description": "Microsoft is making changes to its Bing search engine, including ad pricing adjustments and the removal of certain publishers from its distribution marketplace. These changes have significantly impacted Perion Network, a digital advertising company heavily reliant on Bing.",
             "Links": [
                 "https://uk.investing.com/news/company-news/perion-network-shares-downgraded-amid-microsoft-bing-changes-93CH-3540748",
                 "https://www.gurufocus.com/news/2455310/perion-network-plummets-after-downside-revenue-guidance-amid-bing-changes",
-                "https://www.calcalistech.com/ctechnews/article/ft698w6r2"
+                "https://en.globes.co.il/en/article-perion-plummets-on-more-bing-changes-1001481253"
             ]
         }
     ],
-    "date": "2024-06-12"
+    "date": "2024-06-13"
 }
