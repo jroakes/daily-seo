@@ -1,29 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google March 2024 Core Update: Insights & Takeaways",
-            "Category": "SEO",
-            "Description": "Google's March 2024 core update was a significant event, addressing spam, improving search quality, and impacting rankings. The rollout took 45 days and aimed to reduce unhelpful content by 45%.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1800962773947646432",
-                "https://twitter.com/glenngabe/status/1800864284664074537",
-                "https://searchengineland.com/seo-takeaways-google-elizabeth-tucker-smx-advanced-443070"
-            ]
-        },
-        {
-            "Title": "Google Search Leak Sparks Debate & Discussion",
-            "Category": "SEO",
-            "Description": "A leaked Google document has ignited discussions about the search engine's ranking factors and SEO practices. The document's contents have raised questions about Google's transparency and the effectiveness of certain SEO strategies.",
+            "Title": "Google Algorithm Leaks Spark Discussion and Analysis",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Leaked documents have provided insights into Google's search algorithms, prompting discussions about their implications for SEO strategies and website rankings. The leaks have raised questions about the role of user interaction data, the impact of algorithm updates, and the effectiveness of certain SEO practices.",
             "Links": [
                 "https://www.cheddar.com/media/the-biggest-takeaways-from-the-google-algorithm-leaks/",
                 "https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet",
-                "https://twitter.com/glenngabe/status/1800927958804431082"
+                "https://www.cmswire.com/digital-marketing/10-actionable-insights-from-the-google-algorithm-leak/"
             ]
         },
         {
-            "Title": "Google Search Updates: UI Changes, New Features & Tests",
-            "Category": "SEO",
-            "Description": "Google is constantly testing and refining its search results pages. Recent updates include experiments with shaded gray colors behind site names in mobile snippets, QR codes on Google Maps Business Profiles, and the removal of home activity cards.",
+            "Title": "Google Updates Search Features and Policies",
+            "Category": "Search Engine Updates",
+            "Description": "Google has introduced several updates to its search features and policies, including support for organization-level return policy markup, testing of QR codes on Business Profile listings, and the addition of new optional verification for Google Ads. The company has also made changes to the Search Console Performance report, adding merchant listings reporting within the image search tab.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1800958999132524695",
                 "https://twitter.com/rustybrick/status/1800955224200495508",
@@ -31,13 +21,33 @@
             ]
         },
         {
-            "Title": "Microsoft Bing Undergoes Changes, Impacting Perion Network",
-            "Category": "Search",
-            "Description": "Microsoft is making changes to its Bing search engine, including ad pricing adjustments and the removal of certain publishers from its distribution marketplace. These changes have significantly impacted Perion Network, a digital advertising company heavily reliant on Bing.",
+            "Title": "Google's March 2024 Core Update: Insights and Analysis",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's March 2024 core update, a significant algorithm update, has been the subject of much discussion and analysis.  The update, which reportedly focused on addressing spam and improving the quality of search results, has led to notable ranking fluctuations for many websites.  SEO experts and website owners are examining the update's impact and adjusting their strategies accordingly.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1800902375907185019",
+                "https://twitter.com/glenngabe/status/1800864284664074537",
+                "https://searchengineland.com/seo-takeaways-google-elizabeth-tucker-smx-advanced-443070"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Experiences Changes and Challenges",
+            "Category": "Search Engine News",
+            "Description": "Microsoft Bing has undergone several changes, including the removal of listing data from Bing Real Estate and the exclusion of certain publishers from its search distribution marketplace. These changes have impacted companies like Perion Network, which has seen a decline in revenue due to Bing's ad pricing adjustments.",
             "Links": [
                 "https://uk.investing.com/news/company-news/perion-network-shares-downgraded-amid-microsoft-bing-changes-93CH-3540748",
                 "https://www.gurufocus.com/news/2455310/perion-network-plummets-after-downside-revenue-guidance-amid-bing-changes",
                 "https://en.globes.co.il/en/article-perion-plummets-on-more-bing-changes-1001481253"
+            ]
+        },
+        {
+            "Title": "The Evolving Role of AI in Search and Digital Marketing",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Artificial intelligence (AI) is playing an increasingly prominent role in search and digital marketing.  The emergence of AI-powered tools and features, such as AI Overviews in Google Search results and the use of generative AI in advertising, is transforming how businesses approach SEO, content creation, and campaign optimization.",
+            "Links": [
+                "https://www.dmnews.com/ai-reshaping-seo-trends-and-content-marketing/",
+                "https://twitter.com/aleyda/status/1800425855493046545",
+                "https://www.practicalecommerce.com/ai-overviews-initial-tests-and-studies"
             ]
         }
     ],
