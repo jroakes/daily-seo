@@ -2,77 +2,75 @@
     "data": [
         {
             "Title": "Google Search Algorithm Leaks and Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Leaked Google algorithm documents provide insights into ranking factors, contradicting some of Google's public statements. The leaks have sparked discussions about SEO strategies and Google's transparency.  Meanwhile Google continues to refine search with updates to algorithms, ranking factors, and features like AI Overviews.",
+            "Category": "Search Engine Optimization",
+            "Description": "Leaked Google algorithm documents provide insights into ranking factors, contradicting some of Google's public statements. The leaks have sparked discussions about SEO strategies and the role of brand authority in search rankings.",
             "Links": [
                 "https://www.cheddar.com/media/the-biggest-takeaways-from-the-google-algorithm-leaks/",
-                "https://www.cmswire.com/digital-marketing/10-actionable-insights-from-the-google-algorithm-leak/",
+                "https://news.abplive.com/technology/google-search-algorithm-2024-code-changes-api-documents-leak-seo-metrics-how-to-push-website-ranking-domain-authority-1695316",
                 "https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet"
             ]
         },
         {
-            "Title": "Google's Search Generative Experience (SGE) and AI Overviews",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's Search Generative Experience (SGE) introduces AI Overviews, impacting SEO for businesses, including law firms.  SEO professionals are analyzing the implications of these AI-driven features on search rankings and user behavior.",
+            "Title": "Google's Search Updates and Experiments",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has been actively testing and rolling out search updates, including changes to featured snippets, local business profiles, and ad formats. The company acknowledges occasional issues with updates but emphasizes its commitment to a \"move fast and break things\" approach.",
             "Links": [
-                "https://www.jdsupra.com/legalnews/the-impact-of-ai-overviews-on-seo-for-8687064/",
-                "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/"
+                "https://www.searchenginejournal.com/google-on-traffic-diversity-as-a-ranking-factor/519689/",
+                "https://twitter.com/rustybrick/status/1801627151789342728",
+                "https://twitter.com/rustybrick/status/1801623376852828547"
+            ]
+        },
+        {
+            "Title": "Google's Guidance on SEO Best Practices",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller provides guidance on various SEO topics, including the use of hreflang tags, the impact of affiliate links on rankings, and the importance of blocking action URLs from web crawlers.",
+            "Links": [
+                "https://www.searchenginejournal.com/impact-of-lots-of-affiliate-links/519545/",
+                "https://www.searchenginejournal.com/googles-stance-on-ai-translations-content-drafting-tools/519515/",
+                "https://www.searchenginejournal.com/google-should-h1-title-tags-match/519589/"
+            ]
+        },
+        {
+            "Title": "The Role of Schema Markup in AI-Driven Search",
+            "Category": "Search Engine Optimization",
+            "Description": "Schema markup is becoming increasingly important for website visibility and click-through rates in the age of AI-driven search. Adopting schema markup can help search engines better understand and interpret website content.",
+            "Links": [
+                "https://www.searchenginejournal.com/why-nows-the-time-to-adopt-schema-markup/516962/"
+            ]
+        },
+        {
+            "Title": "AI in Search and Content Creation",
+            "Category": "Artificial Intelligence",
+            "Description": "AI is playing a growing role in search and content creation. Microsoft and Google are incorporating AI into their search experiences, while tools like Microsoft Designer's Image Creator and AI-powered shopping assistants are emerging.",
+            "Links": [
+                "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/",
+                "https://www.zdnet.com/article/how-to-use-bing-image-creator-microsoft-designer/"
+            ]
+        },
+        {
+            "Title": "Ecommerce Trends and Challenges",
+            "Category": "Ecommerce",
+            "Description": "Ecommerce continues to grow, but businesses face challenges such as fake influencers, evolving attribution models, and the need to adapt to changing consumer behavior.",
+            "Links": [
+                "https://www.practicalecommerce.com/ecommerce-in-brazil-growth-despite-hurdles",
+                "https://twitter.com/rustybrick/status/1801264763751518337"
+            ]
+        },
+        {
+            "Title": "Media Industry Developments",
+            "Category": "Media and Publishing",
+            "Description": "Media companies are exploring new revenue streams, such as games and puzzles, to engage audiences and retain subscribers. TikTok is emerging as a potential platform for publishers seeking monetization opportunities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1800871201096503583",
+                "https://digiday.com/marketing/while-meta-x-step-back-from-publishers-tiktok-sees-them-as-an-opportunity/"
             ]
         },
         {
             "Title": "The Trade Desk and Yahoo in Trading Dispute",
-            "Category": "Digital Advertising",
-            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could lead to The Trade Desk cutting off access to Yahoo's video inventory. The dispute highlights the complexities of programmatic advertising and inventory access.",
+            "Category": "Advertising Technology",
+            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could result in The Trade Desk cutting off access to Yahoo's video inventory. The dispute highlights the complexities of programmatic advertising and inventory access.",
             "Links": [
                 "https://digiday.com/media/the-trade-desk-and-yahoo-are-locked-in-a-trading-dispute-with-a-looming-deadline/"
-            ]
-        },
-        {
-            "Title": "Goodway Group Conducts Layoffs",
-            "Category": "Digital Advertising",
-            "Description": "Digital media agency Goodway Group has been laying off employees across multiple teams as part of an ongoing workforce reduction. The layoffs reflect broader trends in the advertising industry.",
-            "Links": [
-                "https://digiday.com/media-buying/goodway-group-quietly-lays-off-employees-in-rounds-in-ongoing-workforce-reduction/"
-            ]
-        },
-        {
-            "Title": "Pinterest Expands Inclusion Fund",
-            "Category": "Diversity, Equity, and Inclusion (DE&I)",
-            "Description": "Pinterest is expanding its Inclusion Fund to support creators from underrepresented communities. The move comes as DE&I efforts face challenges nationwide.",
-            "Links": [
-                "https://digiday.com/marketing/as-dei-efforts-stall-pinterest-expands-inclusion-fund-for-underrepresented-creators/"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing Updates and Issues",
-            "Category": "Search Engines",
-            "Description": "Microsoft removes listing data from Bing Real Estate after allegations of using data from competitors.  Meanwhile, Bing Search is testing black review stars, potentially changing the visual presentation of ratings in search results.",
-            "Links": [
-                "https://eliteagent.com/microsoft-removes-listing-data-from-bing-real-estate/"
-            ]
-        },
-        {
-            "Title": "Ecommerce Growth and Challenges in Brazil",
-            "Category": "Ecommerce",
-            "Description": "Ecommerce is growing in Brazil, but infrastructure and regulatory barriers pose challenges for cross-border sellers. The Brazilian market presents both opportunities and obstacles for online retailers.",
-            "Links": [
-                "https://www.practicalecommerce.com/ecommerce-in-brazil-growth-despite-hurdles/"
-            ]
-        },
-        {
-            "Title": "Indian SEO Services Scrutinized for Spam",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Indian SEO services are under scrutiny for using email spam tactics. The increase in unsolicited emails offering SEO services has raised concerns among digital marketers and website owners.",
-            "Links": [
-                "https://www.techbusinessnews.com.au/news/indian-seo-services-under-scrutiny-for-email-spam-tactics/"
-            ]
-        },
-        {
-            "Title": "Plano, Texas Police Warn of SEO Scam",
-            "Category": "Cybersecurity",
-            "Description": "Plano Police are warning Texans about a sophisticated SEO scam where scammers use SEO to direct users to fake websites mimicking trusted brands for fraudulent activities.  The warning highlights the importance of online safety and vigilance.",
-            "Links": [
-                "https://hoodline.com/2024/06/san-francisco-warned-of-sophisticated-seo-scam-by-plano-texas-police-how-to-protect-yourself-online/"
             ]
         }
     ],
