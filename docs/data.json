@@ -2,75 +2,71 @@
     "data": [
         {
             "Title": "Google Search Algorithm Leaks and Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Leaked Google algorithm documents provide insights into ranking factors, contradicting some of Google's public statements. The leaks have sparked discussions about SEO strategies and the role of brand authority in search rankings.",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Leaked Google algorithm documents provide insights into ranking factors, contradicting some of Google's public statements. The leaks have sparked discussions about SEO strategies and the impact of algorithm updates on website rankings.",
             "Links": [
                 "https://www.cheddar.com/media/the-biggest-takeaways-from-the-google-algorithm-leaks/",
                 "https://news.abplive.com/technology/google-search-algorithm-2024-code-changes-api-documents-leak-seo-metrics-how-to-push-website-ranking-domain-authority-1695316",
-                "https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet"
+                "https://www.cmswire.com/digital-marketing/10-actionable-insights-from-the-google-algorithm-leak/"
             ]
         },
         {
-            "Title": "Google's Search Updates and Experiments",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has been actively testing and rolling out search updates, including changes to featured snippets, local business profiles, and ad formats. The company acknowledges occasional issues with updates but emphasizes its commitment to a \"move fast and break things\" approach.",
+            "Title": "Google's Search Generative Experience (SGE) and AI Overviews",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's SGE introduces AI-powered overviews in search results, impacting website visibility and click-through rates. SEO professionals are adapting strategies to optimize for AI-driven search and address the challenges posed by AI overviews.",
             "Links": [
-                "https://www.searchenginejournal.com/google-on-traffic-diversity-as-a-ranking-factor/519689/",
-                "https://twitter.com/rustybrick/status/1801627151789342728",
-                "https://twitter.com/rustybrick/status/1801623376852828547"
+                "https://www.jdsupra.com/legalnews/the-impact-of-ai-overviews-on-seo-for-8687064/",
+                "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/"
             ]
         },
         {
-            "Title": "Google's Guidance on SEO Best Practices",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller provides guidance on various SEO topics, including the use of hreflang tags, the impact of affiliate links on rankings, and the importance of blocking action URLs from web crawlers.",
+            "Title": "Google's March 2024 Core Update",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's March 2024 core update, which had a lengthy 45-day rollout, caused significant ranking fluctuations.  The update focused on low-quality content, prompting discussions about Google's definition of quality and its impact on search results.",
             "Links": [
-                "https://www.searchenginejournal.com/impact-of-lots-of-affiliate-links/519545/",
-                "https://www.searchenginejournal.com/googles-stance-on-ai-translations-content-drafting-tools/519515/",
-                "https://www.searchenginejournal.com/google-should-h1-title-tags-match/519589/"
-            ]
-        },
-        {
-            "Title": "The Role of Schema Markup in AI-Driven Search",
-            "Category": "Search Engine Optimization",
-            "Description": "Schema markup is becoming increasingly important for website visibility and click-through rates in the age of AI-driven search. Adopting schema markup can help search engines better understand and interpret website content.",
-            "Links": [
-                "https://www.searchenginejournal.com/why-nows-the-time-to-adopt-schema-markup/516962/"
-            ]
-        },
-        {
-            "Title": "AI in Search and Content Creation",
-            "Category": "Artificial Intelligence",
-            "Description": "AI is playing a growing role in search and content creation. Microsoft and Google are incorporating AI into their search experiences, while tools like Microsoft Designer's Image Creator and AI-powered shopping assistants are emerging.",
-            "Links": [
-                "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/",
-                "https://www.zdnet.com/article/how-to-use-bing-image-creator-microsoft-designer/"
-            ]
-        },
-        {
-            "Title": "Ecommerce Trends and Challenges",
-            "Category": "Ecommerce",
-            "Description": "Ecommerce continues to grow, but businesses face challenges such as fake influencers, evolving attribution models, and the need to adapt to changing consumer behavior.",
-            "Links": [
-                "https://www.practicalecommerce.com/ecommerce-in-brazil-growth-despite-hurdles",
-                "https://twitter.com/rustybrick/status/1801264763751518337"
-            ]
-        },
-        {
-            "Title": "Media Industry Developments",
-            "Category": "Media and Publishing",
-            "Description": "Media companies are exploring new revenue streams, such as games and puzzles, to engage audiences and retain subscribers. TikTok is emerging as a potential platform for publishers seeking monetization opportunities.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1800871201096503583",
-                "https://digiday.com/marketing/while-meta-x-step-back-from-publishers-tiktok-sees-them-as-an-opportunity/"
+                "https://twitter.com/aleyda/status/1800814289365659795",
+                "https://twitter.com/glenngabe/status/1800864284664074537",
+                "https://www.searchenginejournal.com/algorithm-updates-have-become-the-biggest-risk-in-seo/519295/"
             ]
         },
         {
             "Title": "The Trade Desk and Yahoo in Trading Dispute",
-            "Category": "Advertising Technology",
-            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could result in The Trade Desk cutting off access to Yahoo's video inventory. The dispute highlights the complexities of programmatic advertising and inventory access.",
+            "Category": "Digital Advertising",
+            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could lead to The Trade Desk cutting off access to Yahoo's video inventory. The dispute highlights the complexities of programmatic advertising and the relationships between demand-side platforms (DSPs) and inventory providers.",
             "Links": [
                 "https://digiday.com/media/the-trade-desk-and-yahoo-are-locked-in-a-trading-dispute-with-a-looming-deadline/"
+            ]
+        },
+        {
+            "Title": "Yahoo Debuts Revamped News App with Artifact's AI",
+            "Category": "Media and Technology",
+            "Description": "Yahoo has launched a redesigned Yahoo News app powered by AI technology from Artifact, a news app acquired by Yahoo in April 2024. The move aims to enhance user experience and engagement by leveraging AI for news personalization and content recommendations.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801290484377133291"
+            ]
+        },
+        {
+            "Title": "Meta Pauses AI Models Launch in Europe",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Meta has postponed the launch of its AI models in Europe following a request from the Irish Data Protection Commission (DPC). The DPC raised concerns about Meta's plan to use personal data from Facebook and Instagram to train its large language models (LLMs), prompting a delay in the rollout.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801654358339178920"
+            ]
+        },
+        {
+            "Title": "Microsoft Delays Recall Feature for Copilot+ PCs",
+            "Category": "Technology and Software",
+            "Description": "Microsoft has delayed the release of its Recall feature for Copilot+ PCs, opting to test it further with the Windows Insider Program. The decision comes after Microsoft faced criticism for its initial plan to make the feature opt-in, raising privacy concerns among users.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801581467480314349"
+            ]
+        },
+        {
+            "Title": "Plano Texas Police Warn of SEO Scam",
+            "Category": "Cybersecurity",
+            "Description": "The Plano Police Department has issued a warning about a sophisticated SEO scam targeting Texans. Scammers are using SEO techniques to manipulate search results and direct users to fake websites impersonating legitimate brands, aiming to steal personal information and financial data.",
+            "Links": [
+                "https://hoodline.com/2024/06/san-francisco-warned-of-sophisticated-seo-scam-by-plano-texas-police-how-to-protect-yourself-online/"
             ]
         }
     ],
