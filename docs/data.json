@@ -1,55 +1,106 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Updates and Insights",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Recent events have provided insights into Google's search algorithm, including leaked documents, discussions about ranking factors, and updates on algorithm behavior. Google emphasizes the importance of brand strength, high-quality content, and user experience for SEO success. The company also clarified its stance on affiliate links, duplicate content for local SEO, and the use of robots.txt to block action URLs.",
+            "Title": "Google Search Algorithm Potentially Leaked",
+            "Category": "Search Engines",
+            "Description": "A potential leak of Google's search algorithm code and API documentation has sparked speculation about how the algorithm ranks websites, with insights into SEO metrics and ranking factors.",
             "Links": [
-                "https://www.searchenginejournal.com/google-on-traffic-diversity-as-a-ranking-factor/519689/",
-                "https://www.searchenginejournal.com/impact-of-lots-of-affiliate-links/519545/",
-                "https://www.searchenginejournal.com/when-is-duplicate-content-acceptable-for-local-seo-google-explains/519562/"
+                "https://news.abplive.com/technology/google-search-algorithm-2024-code-changes-api-documents-leak-seo-metrics-how-to-push-website-ranking-domain-authority-1695316"
             ]
         },
         {
-            "Title": "Google Search Generative Experience (SGE) and AI Overviews",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google continues to develop its Search Generative Experience (SGE), incorporating AI-powered overviews into search results. While this feature aims to enhance user experience, it raises concerns about potential impacts on website traffic and the visibility of traditional search results. SEO professionals are adapting strategies to address the evolving search landscape.",
+            "Title": "Plano Police Warn of SEO Scams",
+            "Category": "Cybersecurity",
+            "Description": "The Plano Police Department has issued a warning about scammers using search engine optimization (SEO) techniques to manipulate search results and direct users to fraudulent websites impersonating legitimate brands.",
             "Links": [
-                "https://www.jdsupra.com/legalnews/the-impact-of-ai-overviews-on-seo-for-8687064/",
-                "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/",
-                "https://www.searchenginejournal.com/is-google-broken-or-are-googlers-right-that-its-working-fine/519450/"
+                "https://hoodline.com/2024/06/san-francisco-warned-of-sophisticated-seo-scam-by-plano-texas-police-how-to-protect-yourself-online/"
             ]
         },
         {
-            "Title": "Industry News and Developments",
-            "Category": "Digital Marketing and Advertising",
-            "Description": "The digital marketing and advertising industry is experiencing significant shifts. Yahoo and The Trade Desk are engaged in a trading dispute, while Goodway Group conducts layoffs. Pinterest expands its Inclusion Fund for creators, and TikTok prioritizes partnerships with publishers.  Meanwhile, concerns about fake influencers and followers persist.",
+            "Title": "Google Tests New Ad Formats and Features",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with various new ad formats and features, including larger font sizes for main title links, descriptions and labels on photos in local business profiles, and a new format for call and location extensions.",
             "Links": [
-                "https://digiday.com/media/the-trade-desk-and-yahoo-are-locked-in-a-trading-dispute-with-a-looming-deadline/",
-                "https://digiday.com/media-buying/goodway-group-quietly-lays-off-employees-in-rounds-in-ongoing-workforce-reduction/",
-                "https://digiday.com/marketing/while-meta-x-step-back-from-publishers-tiktok-sees-them-as-an-opportunity/"
+                "https://twitter.com/rustybrick/status/1801260989024760275",
+                "https://twitter.com/rustybrick/status/1801210657301274742",
+                "https://twitter.com/rustybrick/status/1801575561699201144"
             ]
         },
         {
-            "Title": "AI and Technology Updates",
-            "Category": "Technology",
-            "Description": "Artificial intelligence (AI) continues to advance rapidly, with notable developments from companies like Google, Meta, and OpenAI. Google introduces its Personal Health Large Language Model (PH-LLM), while Meta faces regulatory hurdles in Europe for its AI models. OpenAI's revenue soars, driven by subscriptions to its chatbots and API fees. Microsoft makes changes to its AI offerings, retiring GPT Builder for consumers and delaying the release of its Recall feature.",
+            "Title": "Google Analytics 4 to Update Attribution Model",
+            "Category": "Analytics",
+            "Description": "Google Analytics 4 (GA4) will be updated to improve its attribution model, allowing for more accurate tracking of conversions attributed to paid search campaigns.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801656719807832172",
-                "https://twitter.com/glenngabe/status/1801654358339178920",
-                "https://twitter.com/glenngabe/status/1801220010896937207"
-            ]
-        },
-        {
-            "Title": "Google Analytics 4 (GA4) Updates",
-            "Category": "Web Analytics",
-            "Description": "Google Analytics 4 (GA4) receives updates to improve its attribution model, aiming to better associate conversions with paid search campaigns. The platform also experienced a temporary outage, highlighting the importance of reliable analytics tracking for businesses.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1801445985563906151",
-                "https://twitter.com/rustybrick/status/1801325161649488237",
+                "https://twitter.com/rustybrick/status/1801220723568234686",
                 "https://twitter.com/rustybrick/status/1801264763751518337"
+            ]
+        },
+        {
+            "Title": "Google Advises Against Crawling Action URLs",
+            "Category": "SEO",
+            "Description": "Google recommends website owners to prevent Googlebot from crawling action URLs, such as \"buy,\" \"add to cart,\" and \"subscribe,\" to optimize website crawling and indexing.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801257214021095485",
+                "https://twitter.com/rustybrick/status/1801215690491228357"
+            ]
+        },
+        {
+            "Title": "Bing Tests Black Review Stars",
+            "Category": "Search Engines",
+            "Description": "Bing Search is experimenting with using black-colored stars for reviews in its search results, potentially impacting user experience and perception of ratings.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801253439634289139",
+                "https://twitter.com/rustybrick/status/1801213173850087454"
+            ]
+        },
+        {
+            "Title": "OpenAI Explores For-Profit Model",
+            "Category": "Artificial Intelligence",
+            "Description": "Sam Altman, CEO of OpenAI, has informed investors about the company's consideration of transitioning to a for-profit benefit corporation, potentially paving the way for an IPO.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801957624486752583"
+            ]
+        },
+        {
+            "Title": "Meta Pauses AI Model Launch in Europe",
+            "Category": "Artificial Intelligence",
+            "Description": "Meta has postponed the launch of its AI models in Europe following a request from the Irish Data Protection Commission (DPC), which raised concerns about the use of personal data for training.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801654358339178920"
+            ]
+        },
+        {
+            "Title": "Yahoo News App Gets AI-Powered Revamp",
+            "Category": "News and Media",
+            "Description": "Yahoo has released a redesigned Yahoo News app, integrating AI technology from Artifact, a news app acquired from Instagram's co-founders, aiming to enhance user experience and content recommendations.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801290484377133291"
+            ]
+        },
+        {
+            "Title": "The Trade Desk and Yahoo in Trading Dispute",
+            "Category": "Advertising Technology",
+            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could lead to The Trade Desk, a major independent demand-side platform (DSP), cutting off access to Yahoo's video inventory.",
+            "Links": [
+                "https://digiday.com/media/the-trade-desk-and-yahoo-are-locked-in-a-trading-dispute-with-a-looming-deadline/"
+            ]
+        },
+        {
+            "Title": "Goodway Group Conducts Layoffs",
+            "Category": "Advertising Industry",
+            "Description": "Digital media agency Goodway Group has been gradually laying off employees across various teams as part of an ongoing workforce reduction.",
+            "Links": [
+                "https://digiday.com/media-buying/goodway-group-quietly-lays-off-employees-in-rounds-in-ongoing-workforce-reduction/"
+            ]
+        },
+        {
+            "Title": "Michael Kors Adopts Mastercard's AI Shopping Assistant",
+            "Category": "Retail Technology",
+            "Description": "Michael Kors has become the first retailer to implement Mastercard's AI-powered shopping assistant, \"The Shopping Muse,\" which provides personalized recommendations to enhance the online shopping experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801593384265547783"
             ]
         }
     ],
-    "date": "2024-06-15"
+    "date": "2024-06-16"
 }
