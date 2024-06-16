@@ -17,46 +17,9 @@
             ]
         },
         {
-            "Title": "Google Tests New Ad Formats and Features",
-            "Category": "Search Engines",
-            "Description": "Google is experimenting with various new ad formats and features, including larger font sizes for main title links, descriptions and labels on photos in local business profiles, and a new format for call and location extensions.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1801260989024760275",
-                "https://twitter.com/rustybrick/status/1801210657301274742",
-                "https://twitter.com/rustybrick/status/1801575561699201144"
-            ]
-        },
-        {
-            "Title": "Google Analytics 4 to Update Attribution Model",
-            "Category": "Analytics",
-            "Description": "Google Analytics 4 (GA4) will be updated to improve its attribution model, allowing for more accurate tracking of conversions attributed to paid search campaigns.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1801220723568234686",
-                "https://twitter.com/rustybrick/status/1801264763751518337"
-            ]
-        },
-        {
-            "Title": "Google Advises Against Crawling Action URLs",
-            "Category": "SEO",
-            "Description": "Google recommends website owners to prevent Googlebot from crawling action URLs, such as \"buy,\" \"add to cart,\" and \"subscribe,\" to optimize website crawling and indexing.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1801257214021095485",
-                "https://twitter.com/rustybrick/status/1801215690491228357"
-            ]
-        },
-        {
-            "Title": "Bing Tests Black Review Stars",
-            "Category": "Search Engines",
-            "Description": "Bing Search is experimenting with using black-colored stars for reviews in its search results, potentially impacting user experience and perception of ratings.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1801253439634289139",
-                "https://twitter.com/rustybrick/status/1801213173850087454"
-            ]
-        },
-        {
             "Title": "OpenAI Explores For-Profit Model",
             "Category": "Artificial Intelligence",
-            "Description": "Sam Altman, CEO of OpenAI, has informed investors about the company's consideration of transitioning to a for-profit benefit corporation, potentially paving the way for an IPO.",
+            "Description": "\"Such a change could open the door to an eventual initial public offering of OpenAI, which currently sports a private valuation of $86 billion\" -> Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1801957624486752583"
             ]
@@ -64,41 +27,121 @@
         {
             "Title": "Meta Pauses AI Model Launch in Europe",
             "Category": "Artificial Intelligence",
-            "Description": "Meta has postponed the launch of its AI models in Europe following a request from the Irish Data Protection Commission (DPC), which raised concerns about the use of personal data for training.",
+            "Description": "Meta pauses AI models launch in Europe due to Irish request -> Meta will not launch Meta AI in Europe after the Irish DPC asked it to delay training its LLMs using the public Facebook and Instagram content of adult EU users \"At issue is Meta's plan to use personal data to train\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1801654358339178920"
             ]
         },
         {
-            "Title": "Yahoo News App Gets AI-Powered Revamp",
-            "Category": "News and Media",
+            "Title": "Google Chrome to Integrate AI-Powered Search Feature",
+            "Category": "Search Engines",
+            "Description": "Privacy concerns arise as Google acknowledges access to user data potentially for AI training.\" \"It corroborates our initial speculation, saying History search will allow looking up\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801960110744350825"
+            ]
+        },
+        {
+            "Title": "Yahoo Revamps News App with AI",
+            "Category": "Technology",
             "Description": "Yahoo has released a redesigned Yahoo News app, integrating AI technology from Artifact, a news app acquired from Instagram's co-founders, aiming to enhance user experience and content recommendations.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1801290484377133291"
             ]
         },
         {
-            "Title": "The Trade Desk and Yahoo in Trading Dispute",
-            "Category": "Advertising Technology",
-            "Description": "The Trade Desk and Yahoo are engaged in a trading dispute that could lead to The Trade Desk, a major independent demand-side platform (DSP), cutting off access to Yahoo's video inventory.",
+            "Title": "Google Tests Multiple Featured Snippets",
+            "Category": "Search Engines",
+            "Description": "Google is testing showing \"from sources across the web\" above multiple featured snippets in search results. It is unclear if this is a bug or a test.",
             "Links": [
-                "https://digiday.com/media/the-trade-desk-and-yahoo-are-locked-in-a-trading-dispute-with-a-looming-deadline/"
+                "https://twitter.com/rustybrick/status/1801627151789342728",
+                "https://twitter.com/rustybrick/status/1801687549578019026",
+                "https://twitter.com/rustybrick/status/1801583111492268417"
             ]
         },
         {
-            "Title": "Goodway Group Conducts Layoffs",
-            "Category": "Advertising Industry",
-            "Description": "Digital media agency Goodway Group has been gradually laying off employees across various teams as part of an ongoing workforce reduction.",
+            "Title": "Google Analytics 4 to Update Attribution Model",
+            "Category": "Analytics",
+            "Description": "Google Analytics 4 (GA4) will be updated to improve its attribution model, allowing for more accurate tracking of conversions attributed to paid search campaigns.",
             "Links": [
-                "https://digiday.com/media-buying/goodway-group-quietly-lays-off-employees-in-rounds-in-ongoing-workforce-reduction/"
+                "https://twitter.com/rustybrick/status/1801325161649488237",
+                "https://twitter.com/rustybrick/status/1801264763751518337",
+                "https://twitter.com/rustybrick/status/1801220723568234686"
             ]
         },
         {
-            "Title": "Michael Kors Adopts Mastercard's AI Shopping Assistant",
-            "Category": "Retail Technology",
-            "Description": "Michael Kors has become the first retailer to implement Mastercard's AI-powered shopping assistant, \"The Shopping Muse,\" which provides personalized recommendations to enhance the online shopping experience.",
+            "Title": "Google Tests New Ad Format for Call and Location Extensions",
+            "Category": "Advertising",
+            "Description": "Google is experimenting with a new ad format for call and location extensions in search results. The new format aims to improve visibility and engagement with these extensions.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801593384265547783"
+                "https://twitter.com/rustybrick/status/1801676225251054056",
+                "https://twitter.com/rustybrick/status/1801615827361534375",
+                "https://twitter.com/rustybrick/status/1801575561699201144"
+            ]
+        },
+        {
+            "Title": "Google Advises Against Crawling Action URLs",
+            "Category": "Search Engine Optimization",
+            "Description": "Google advises website owners to prevent Googlebot from crawling action URLs, such as \"buy,\" \"add to cart,\" and \"subscribe,\" to optimize crawling efficiency and avoid potential indexing issues.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801317612124782974",
+                "https://twitter.com/rustybrick/status/1801257214021095485",
+                "https://twitter.com/rustybrick/status/1801215690491228357"
+            ]
+        },
+        {
+            "Title": "Google Tests Descriptions and Labels for Local Business Photos",
+            "Category": "Local Search",
+            "Description": "Google is testing the inclusion of descriptions and labels on photos within local business profiles and the local pack, potentially enhancing the visual appeal and informativeness of search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801310062209892409",
+                "https://twitter.com/rustybrick/status/1801249664299090235",
+                "https://twitter.com/rustybrick/status/1801210657301274742"
+            ]
+        },
+        {
+            "Title": "Google Tests Larger Font Sizes for Title Links in SERPs",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with larger font sizes for the main title link in search engine result pages (SERPs) while using smaller fonts for sitelinks, potentially impacting click-through rates.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801321387002380467",
+                "https://twitter.com/rustybrick/status/1801260989024760275",
+                "https://twitter.com/rustybrick/status/1801218207120015855"
+            ]
+        },
+        {
+            "Title": "Bing Tests Black Review Stars",
+            "Category": "Search Engines",
+            "Description": "Bing Search is experimenting with using black stars for reviews, potentially as a visual refresh or to differentiate from other search engines.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801313837276401864",
+                "https://twitter.com/rustybrick/status/1801253439634289139",
+                "https://twitter.com/rustybrick/status/1801213173850087454"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Website URLs Return 404 Errors",
+            "Category": "Local Search",
+            "Description": "Google Business Profile websites have stopped redirecting to the corresponding Google Maps listing and are now returning 404 errors.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801619602121920706",
+                "https://twitter.com/rustybrick/status/1801679999923073248",
+                "https://twitter.com/rustybrick/status/1801578078650699854"
+            ]
+        },
+        {
+            "Title": "Google Downplays Impact of AI Mistakes",
+            "Category": "Artificial Intelligence",
+            "Description": "Prabhakar Raghavan, head of Google Search, acknowledges that AI will make mistakes but emphasizes that these mistakes won't hinder progress. He highlights the importance of continuous learning and improvement in AI development.",
+            "Links": [
+                "https://twitter.com/sengineland/status/1801616251682259335"
+            ]
+        },
+        {
+            "Title": "Google and Bing Targeted by Trademark Infringement Scheme",
+            "Category": "Law and Business",
+            "Description": "It comes after Dr Martens recently filed a lawsuit against Temu, alleging the use of Google ads to promote knock-off products.",
+            "Links": [
+                "https://www.cityam.com/temu-targets-trademarked-brands-such-as-dyson-and-zara-on-google-and-bing/"
             ]
         }
     ],
