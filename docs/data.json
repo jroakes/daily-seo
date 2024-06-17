@@ -2,21 +2,27 @@
     "data": [
         {
             "Title": "Google Search Updates and Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has been busy with several updates and tests related to search, including cleaning up the Search Console data anomalies page, experimenting with multiple featured snippets, and addressing conflicting experiments that can impact rankings.  There are also reports of a new Google mobile search interface.",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has been busy with various search updates and features, including a new mobile search interface, ranking volatility over Father's Day weekend, and a cleanup of the data anomalies page in Google Search Console. The company is also testing multiple featured snippets and perspectives, a new ad format combining call and location extensions, and has updated its hreflang documentation. Additionally, Google is transitioning some advertisers away from credit card payments for their campaigns.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1802422111283384652",
+                "https://twitter.com/rustybrick/status/1802319049390526970",
                 "https://twitter.com/rustybrick/status/1802308326539018287",
                 "https://twitter.com/rustybrick/status/1801687549578019026",
                 "https://twitter.com/rustybrick/status/1801683775010783487",
+                "https://twitter.com/rustybrick/status/1801676225251054056",
+                "https://twitter.com/rustybrick/status/1801595583422922954",
                 "https://twitter.com/rustybrick/status/1801583111492268417",
-                "https://twitter.com/rustybrick/status/1801580594930872678"
+                "https://twitter.com/rustybrick/status/1801580594930872678",
+                "https://twitter.com/rustybrick/status/1801575561699201144",
+                "https://twitter.com/rustybrick/status/1802667758523494791",
+                "https://twitter.com/rustybrick/status/1802660208814256207"
             ]
         },
         {
             "Title": "Google AI Overviews Tracking Challenges",
-            "Category": "Search Engine Optimization",
-            "Description": "SEO professionals are facing difficulties tracking the impact of Google's AI Overviews on website traffic and click-through rates within Google Search Console. The process is described as \"confusing and messy.\"",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "SEO professionals are facing difficulties tracking the impact of Google's AI Overviews in Google Search Console. The lack of clear data and the complexities of isolating AI Overview performance from other search results make it challenging to analyze their effect on click-through rates and traffic.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1802670274896167087",
                 "https://twitter.com/rustybrick/status/1802714315356819769",
@@ -24,82 +30,133 @@
             ]
         },
         {
-            "Title": "Google Ads Policy Changes",
-            "Category": "Paid Search Advertising",
-            "Description": "Google Ads has made policy changes, now allowing ads to discuss opioid painkillers without promoting or selling them. Additionally, the platform is transitioning some advertisers away from credit card payments to ACH/Check/Wire payments to reduce credit card fees.",
+            "Title": "Google's Take on SEO Practices",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google provides insights into various SEO practices, including the impact of auto-translated websites on rankings, their perspective on content syndication and original publishers, and whether traffic diversity is a ranking factor. They also offer unconventional advice on fixing broken backlinks and clarify whether H1 and title tags should match.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802658698994610360",
-                "https://twitter.com/rustybrick/status/1802696447604724127",
-                "https://twitter.com/rustybrick/status/1802667758523494791",
-                "https://twitter.com/rustybrick/status/1802710540466192402"
+                "https://twitter.com/glenngabe/status/1802335025628586206",
+                "https://twitter.com/glenngabe/status/1801969514164171230",
+                "https://www.searchenginejournal.com/google-on-traffic-diversity-as-a-ranking-factor/519689/",
+                "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/",
+                "https://www.searchenginejournal.com/google-should-h1-title-tags-match/519589/",
+                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Website URL Changes",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Business Profile website URLs are no longer redirecting to Google Maps listings and are now returning 404 errors. This change has caused confusion among businesses and SEO professionals.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1801679999923073248",
+                "https://twitter.com/rustybrick/status/1801619602121920706",
+                "https://twitter.com/rustybrick/status/1801578078650699854"
             ]
         },
         {
             "Title": "Apple Updates Applebot Documentation",
-            "Category": "Search Engine Optimization",
+            "Category": "Search Engine Optimization (SEO)",
             "Description": "Following the preview of Apple Intelligence at WWDC, Apple has updated its Applebot documentation. The updated documentation includes information on Applebot-Extended, Reverse DNS, new user agents, and more.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1802665242247512506",
-                "https://twitter.com/rustybrick/status/1802706765546430513",
-                "https://twitter.com/glenngabe/status/1802678084472078584"
+                "https://twitter.com/rustybrick/status/1802706765546430513"
             ]
         },
         {
             "Title": "Brave's AI Assistant Integrates Search Results",
-            "Category": "Artificial Intelligence",
-            "Description": "Brave's in-browser AI assistant, Leo, now incorporates real-time Brave Search results. This integration aims to provide more accurate and up-to-date answers within the browser.",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Brave's in-browser AI assistant, Leo, now incorporates real-time Brave Search results to provide more accurate and up-to-date answers.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802332556186062896"
             ]
         },
         {
-            "Title": "Impact of AI on Advertisers and Targeting",
-            "Category": "Artificial Intelligence",
-            "Description": "The launch of AI search chatbots like Bing Copilot is pushing advertisers to explore new ways to target users with relevant ads.  There are questions about the effectiveness of current AI ad targeting approaches.",
+            "Title": "Impact of AI Chatbots on Advertisers",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "The launch of AI search chatbots like Bing Copilot is pushing advertisers to explore new ways to target users with relevant ads. While Bing's approach shows promise, there are concerns about the coherence and effectiveness of ads within AI-powered search experiences.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802318858604130420",
                 "https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/"
             ]
         },
         {
-            "Title": "Google Chrome's AI-Powered Search and Privacy Concerns",
-            "Category": "Privacy",
-            "Description": "Google Chrome is developing an AI-powered search feature that will leverage user browsing history, raising privacy concerns about data access and potential use for AI training.",
+            "Title": "Google Chrome's AI-Powered Search Feature Raises Privacy Concerns",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google Chrome is developing an AI-powered search feature that will leverage users' browsing history. While this feature aims to enhance search capabilities, it has sparked privacy concerns as Google acknowledges potential access to user data for AI training.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1801960110744350825"
             ]
         },
         {
-            "Title": "Content Syndication and Original Publisher Status",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Central Office Hours provided insights into content syndication and how Google determines original publishers. The discussion focused on why Google might consider LinkedIn Pulse articles as original content even if published elsewhere first.",
+            "Title": "Meta Pauses AI Model Launch in Europe",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Meta has put its AI model launch in Europe on hold following a request from the Irish Data Protection Commission (DPC). The DPC raised concerns about Meta's plan to use personal data from Facebook and Instagram to train its large language models (LLMs).",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801969514164171230"
+                "https://twitter.com/glenngabe/status/1801654358339178920"
             ]
         },
         {
-            "Title": "Google's Take on Traffic Diversity as a Ranking Factor",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's SearchLiaison has reiterated that traffic diversity is not a ranking factor, despite previous clarifications on the matter.",
+            "Title": "Google's Personal Health Large Language Model (PH-LLM)",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google researchers have introduced the Personal Health Large Language Model (PH-LLM), a specialized version of their Gemini model. PH-LLM is designed to understand and reason with time-series personal health data collected from wearables like smartwatches and heart rate monitors.",
             "Links": [
-                "https://www.searchenginejournal.com/google-on-traffic-diversity-as-a-ranking-factor/519689/"
+                "https://twitter.com/glenngabe/status/1801656719807832172"
             ]
         },
         {
-            "Title": "Google's Advice on Broken Backlinks and Toxic Link Sabotage",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes has offered advice on addressing broken backlinks and toxic link sabotage, providing insights into how webmasters can mitigate potential negative impacts on their websites.",
+            "Title": "Michael Kors Adopts Mastercard's AI Shopping Assistant",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Michael Kors has become the first retailer to implement Mastercard's AI-powered shopping assistant, \"The Shopping Muse.\" Developed by Dynamic Yield, the assistant aims to enhance the online shopping experience by providing personalized recommendations and assistance.",
             "Links": [
-                "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/",
-                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/"
+                "https://twitter.com/glenngabe/status/1801593384265547783"
             ]
         },
         {
-            "Title": "Should H1 and Title Tags Match?",
-            "Category": "Search Engine Optimization",
-            "Description": "Google provides guidance on whether H1 and title tags should be identical and the potential implications for SEO.",
+            "Title": "TikTok Ads to Feature AI Avatars",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "TikTok is introducing AI avatars of creators and stock actors in its ads. These avatars will allow advertisers to create more engaging and dynamic ad content, potentially blurring the lines between real and AI-generated personas.",
             "Links": [
-                "https://www.searchenginejournal.com/google-should-h1-title-tags-match/519589/"
+                "https://twitter.com/glenngabe/status/1802740139057127752"
+            ]
+        },
+        {
+            "Title": "Runway Unveils Gen-3 Alpha for Text-to-Video Generation",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Runway has released Gen-3 Alpha, an AI model capable of generating high-quality, realistic video clips up to 10 seconds long from text prompts. This advancement in text-to-video technology intensifies the competition with OpenAI's Sora.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802737905556693257"
+            ]
+        },
+        {
+            "Title": "Google Ads Policy Update on Opioid Painkillers",
+            "Category": "Advertising",
+            "Description": "Google Ads has revised its policy regarding opioid painkillers, now permitting ads that discuss these medications without promoting or selling them. This change aims to strike a balance between providing information and preventing the promotion of potentially harmful substances.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1802658698994610360",
+                "https://twitter.com/rustybrick/status/1802696447604724127"
+            ]
+        },
+        {
+            "Title": "Temu's Trademark Infringement Allegations",
+            "Category": "Advertising",
+            "Description": "E-commerce platform Temu is facing scrutiny for allegedly using Google and Bing ads to promote products that infringe on trademarks of established brands like Dyson and Zara. This practice raises concerns about unfair competition and potential consumer deception.",
+            "Links": [
+                "https://www.cityam.com/temu-targets-trademarked-brands-such-as-dyson-and-zara-on-google-and-bing/"
+            ]
+        },
+        {
+            "Title": "YouTube Tests 'Notes' Feature for Videos",
+            "Category": "Social Media",
+            "Description": "YouTube is experimenting with a new feature called \"Notes\" for videos, allowing creators to add additional context or information to their content. This feature, initially available in the US for English-language videos, resembles the functionality of \"Notes\" on other platforms.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802738716252786961"
+            ]
+        },
+        {
+            "Title": "TikTok's Growing Influence as a Discovery Platform",
+            "Category": "Social Media",
+            "Description": "An Adobe survey highlights TikTok's increasing role as a discovery platform, particularly among Gen Z users. The survey reveals insights into how Gen Z leverages TikTok for search and how businesses are adapting their strategies to capitalize on this trend.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802680001919127792"
             ]
         }
     ],
