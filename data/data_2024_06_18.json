@@ -1,0 +1,383 @@
+{
+    "valid_articles": [
+        {
+            "Title": "ICYMI: Trying to track Google AI Overviews in Google Search Console - good luck...",
+            "Description": "ICYMI: Trying to track Google AI Overviews in Google Search Console - good luck... seroundtable.com/tracking-ai-ov\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802774713237733536"
+        },
+        {
+            "Title": "ICYMI: Google Ads forcing many advertisers off paying using credit cards",
+            "Description": "ICYMI: Google Ads forcing many advertisers off paying using credit cards seroundtable.com/google-ads-rem\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802770938414371158"
+        },
+        {
+            "Title": "ICYMI: Applebot documentation updated with Applebot-Extended, Reverse DNS, more user agents and more after the Apple Intelligence preview at WWDX",
+            "Description": "ICYMI: Applebot documentation updated with Applebot-Extended, Reverse DNS, more user agents and more after the Apple Intelligence preview at WWDX seroundtable.com/apple-updates-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802767163591176606"
+        },
+        {
+            "Title": "ICYMI: Google Maps fake engagement policy updated",
+            "Description": "ICYMI: Google Maps fake engagement policy updated seroundtable.com/google-maps-up\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802763389019504871"
+        },
+        {
+            "Title": "ICYMI: Google updated the hreflang docs to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag",
+            "Description": "ICYMI: Google updated the hreflang docs to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag seroundtable.com/google-updates\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802759613718130880"
+        },
+        {
+            "Title": "ICYMI: Google allows ads to discuss opioid painkillers without promoting or selling them",
+            "Description": "ICYMI: Google allows ads to discuss opioid painkillers without promoting or selling them seroundtable.com/google-ads-opi\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802756845645492381"
+        },
+        {
+            "Title": "My latest post on SER went live this morning. That's after digging into GSC to *TRY* and analyze AI overview data. I used Ziptie to identify queries where the site ranked lower on page one in the 10-blue links, but ranked in the AI overview. I should have been able to clearly see\u2026",
+            "Description": "My latest post on SER went live this morning. That's after digging into GSC to *TRY* and analyze AI overview data. I used Ziptie to identify queries where the site ranked lower on page one in the 10-blue links, but ranked in the AI overview. I should have been able to clearly see\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802742022178029683"
+        },
+        {
+            "Title": "Oh boy. Reminds me of the movie \"Surrogates\" :) -&gt; TikTok ads will now include AI avatars of creators and stock actors \"There are also new \u201cStock Avatars,\u201d which are pre-built avatars created using paid actors who are licensed for commercial use. The idea behind these avatars is\u2026",
+            "Description": "Oh boy. Reminds me of the movie \"Surrogates\" :) -&gt; TikTok ads will now include AI avatars of creators and stock actors \"There are also new \u201cStock Avatars,\u201d which are pre-built avatars created using paid actors who are licensed for commercial use. The idea behind these avatars is\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802740139057127752"
+        },
+        {
+            "Title": "Notes, but for YOUTUBE -&gt; Viewers in the US will start to see notes on videos in the coming weeks and months -&gt; YouTube starts testing Notes for videos \"The pilot will be available on mobile in the U.S. and in English to start. During this test phase, we anticipate that there\u2026",
+            "Description": "Notes, but for YOUTUBE -&gt; Viewers in the US will start to see notes on videos in the coming weeks and months -&gt; YouTube starts testing Notes for videos \"The pilot will be available on mobile in the U.S. and in English to start. During this test phase, we anticipate that there\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802738716252786961"
+        },
+        {
+            "Title": "More on the text-to-video front and puts pressure on OpenAI (w/Sora) -&gt; Runway unveils Gen-3 Alpha, a model to generate high-quality, detailed, highly realistic video clips of 10 seconds in length, after releasing Gen-2 in June 2023 \"Gen-3 Alpha allows users to generate\u2026",
+            "Description": "More on the text-to-video front and puts pressure on OpenAI (w/Sora) -&gt; Runway unveils Gen-3 Alpha, a model to generate high-quality, detailed, highly realistic video clips of 10 seconds in length, after releasing Gen-2 in June 2023 \"Gen-3 Alpha allows users to generate\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802737905556693257"
+        },
+        {
+            "Title": "Trying to track Google AI Overviews in Google Search Console - good luck...",
+            "Description": "Trying to track Google AI Overviews in Google Search Console - good luck... seroundtable.com/tracking-ai-ov\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802714315356819769"
+        },
+        {
+            "Title": "Google Ads forcing many advertisers off paying using credit cards",
+            "Description": "Google Ads forcing many advertisers off paying using credit cards seroundtable.com/google-ads-rem\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802710540466192402"
+        },
+        {
+            "Title": "Applebot documentation updated with Applebot-Extended, Reverse DNS, more user agents and more after the Apple Intelligence preview at WWDX",
+            "Description": "Applebot documentation updated with Applebot-Extended, Reverse DNS, more user agents and more after the Apple Intelligence preview at WWDX seroundtable.com/apple-updates-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802706765546430513"
+        },
+        {
+            "Title": "Google Maps fake engagement policy updated",
+            "Description": "Google Maps fake engagement policy updated",
+            "Link": "https://twitter.com/rustybrick/status/1802702991075561489"
+        },
+        {
+            "Title": "GARM and Ad Net Zero launch new standards to transform carbon emission measurement in media",
+            "Description": "Green advertising gets a boost thanks to standards that currently cover TV, digital, and out-of-home advertising, with plans to expand to include print, radio, and film.",
+            "Link": "https://digiday.com/marketing/garm-and-ad-net-zero-launch-new-standards-to-transform-carbon-emission-measurement-in-media/"
+        },
+        {
+            "Title": "Google updated the hreflang docs to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag",
+            "Description": "Google updated the hreflang docs to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag",
+            "Link": "https://twitter.com/rustybrick/status/1802699215702814991"
+        },
+        {
+            "Title": "Google allows ads to discuss opioid painkillers without promoting or selling them",
+            "Description": "Google allows ads to discuss opioid painkillers without promoting or selling them seroundtable.com/google-ads-opi\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802696447604724127"
+        },
+        {
+            "Title": "How to Monitor Google\u2019s Updates",
+            "Description": "Tracking the changes to Google's search algorithm takes work. These four tools can help.",
+            "Link": "https://www.practicalecommerce.com/how-to-monitor-googles-updates"
+        },
+        {
+            "Title": "The AI news conundrum. Consumers are skeptical of news produced w/the help of AI, but still won't pay for news -&gt; Global audiences suspicious of AI-powered newsrooms, report finds \"According to the survey, 52% of U.S. respondents and 63% of UK respondents said they would be\u2026",
+            "Description": "The AI news conundrum. Consumers are skeptical of news produced w/the help of AI, but still won't pay for news -&gt; Global audiences suspicious of AI-powered newsrooms, report finds \"According to the survey, 52% of U.S. respondents and 63% of UK respondents said they would be\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802682654535327779"
+        },
+        {
+            "Title": "TikTok\u2019s Rise as a Discovery Platform",
+            "Description": "Adobe Survey of 808 consumers and 251 business owners -> TikTok\u2019s Rise as a Discovery Platform *Nearly 1 in 10 Gen Zers were more likely to rely on TikTok than Google as a search engine. *More than half of business owners (54%) used TikTok to promote their business, posting an\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802680001919127792"
+        },
+        {
+            "Title": "My latest article on optimizing for Google AI Overview has been featured in #SEOFOMO newsletter!",
+            "Description": "RT by @aleyda: My latest article on optimizing for Google AI Overview has been featured in @aleyda 's #SEOFOMO newsletter! There are over 20 specific measures highlighted in the Google patent. Find out what they are here: richsanger.com/ai-overview-op\u2026 Subscribe to SEOFOMO! hub.seofomo.co/newsletters/",
+            "Link": "https://twitter.com/richsangerSEO/status/1802678831599518101"
+        },
+        {
+            "Title": "Today's in #MarketingFOMO's latest in Digital Marketing:",
+            "Description": "Today's in #MarketingFOMO's latest in Digital Marketing: * LinkedIn drops user targeting based on Groups data targeting the EU * While Meta, X step back from publishers, TikTok sees them as an opportunity * Google Ad Manager Launches Programmatic Email Ads * Much more! Read\u2026",
+            "Link": "https://twitter.com/aleyda/status/1802678638644519185"
+        },
+        {
+            "Title": "Apple-Extended",
+            "Description": "Yep, I thought that addition was interesting. Like Google-Extended, there's now Apple-Extended (if you want to block your content from being used to train Apple's AI models).",
+            "Link": "https://twitter.com/glenngabe/status/1802678084472078584"
+        },
+        {
+            "Title": "SEO video recap",
+            "Description": "Catch up on last week with the SEO video recap covering the weekend Google search volatility, more from Google on the search leak, interviewed Elizabeth Tucker, Apple Intelligence and much more youtube.com/watch?v=70BCCz\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802677824832065654"
+        },
+        {
+            "Title": "Google begins rolling out a \u201cListen to this page\u201d feature on Chrome for Android",
+            "Description": "After working on the feature for months -> Google begins rolling out a \u201cListen to this page\u201d feature on Chrome for Android, letting the browser read text-heavy web pages \"A miniplayer will appear at the bottom of the page with a progress indicator, play/pause, and close button,\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802674917776715963"
+        },
+        {
+            "Title": "Wondering if you can easily track AI overviews in Google Search Console?",
+            "Description": "Wondering if you can easily track AI overviews in Google Search Console? Join me as a jump down the rabbit hole and try to determine the impact of AI overviews on CTR, traffic, and more. And yep, it was confusing and messy, and maybe that's exactly what Google wants. A rare post\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802671692482826703"
+        },
+        {
+            "Title": "The maddening adventure of tracking AI Overviews in Google Search Console",
+            "Description": "The maddening adventure of tracking AI Overviews in Google Search Console where @glenngabe digs into this topic in detail seroundtable.com/tracking-ai-ov\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1802670274896167087"
+        },
+        {
+            "Title": "Copywriters detail how AI is changing their jobs",
+            "Description": "\"By 2024, the company laid off the rest of Miller's team, and he was alone.\" -> Copywriters detail how AI is changing their jobs, with some seeing a new line of work to make AI-generated text sound more human, a job that pays a lot less \"Instead of coming up with their own\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1802670099708424438"
+        },
+        {
+            "Title": "Google Ads forcing some advertisers off paying for their campaigns using credit cards",
+            "Description": "Google Ads forcing some advertisers off paying for their campaigns using credit cards and through ACH/Check/Wire payments instead - Google is looking to save the CC fees :) seroundtable.com/google-ads-rem\u2026 via @JeremyBrandt and @MenachemAni with reply from @adsliaison",
+            "Link": "https://twitter.com/rustybrick/status/1802667758523494791"
+        },
+        {
+            "Title": "Apple updates its Applebot documentation with Applebot-Extended, Reverse DNS, more user agents and so much more",
+            "Description": "Apple updates its Applebot documentation with Applebot-Extended, Reverse DNS, more user agents and so much more  hat tip @glenngabe",
+            "Link": "https://twitter.com/rustybrick/status/1802665242247512506"
+        },
+        {
+            "Title": "Google updated its Maps contributor \"fake engagement\" policy",
+            "Description": "Google updated its Maps contributor \"fake engagement\" policy - before and after attached - more details at",
+            "Link": "https://twitter.com/rustybrick/status/1802662725266329902"
+        },
+        {
+            "Title": "Google updates its hreflang documentation",
+            "Description": "Google updates its hreflang documentation to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag (plus as a treat for being offline from @methode )",
+            "Link": "https://twitter.com/rustybrick/status/1802660208814256207"
+        },
+        {
+            "Title": "Google Ads now allows ads to discuss opioid painkillers without promoting or selling them",
+            "Description": "Google Ads now allows ads to discuss opioid painkillers without promoting or selling them",
+            "Link": "https://twitter.com/rustybrick/status/1802658698994610360"
+        },
+        {
+            "Title": "New Ecommerce Tools: June 17, 2024",
+            "Description": "New tools this week include generative AI, chatbots, digital payments, social commerce, subscriptions, media networks, and cryptocurrencies.",
+            "Link": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2024"
+        },
+        {
+            "Title": "GiG to acquire SEO specialist Titan for \u20ac3.2m",
+            "Description": "Gaming Innovation Group (GiG) has agreed to acquire Titan, a supplier of SEO and content services, for a total consideration of \u20ac3.2m.",
+            "Link": "https://igamingbusiness.com/strategy/ma/gig-to-acquire-seo-specialist-titan/"
+        },
+        {
+            "Title": "Google's Unconventional Advice On Fixing Broken Backlinks",
+            "Description": "Google's Gary Illyes gave an unexpected answer to a question about fixing broken backlinks",
+            "Link": "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/"
+        },
+        {
+            "Title": "How To Think About SEO, Content & PR Measurement (Indicated In The Google Leak)",
+            "Description": "Using search measures that indicate how your content or offering influences an audience's search behavior can also influence ranking.",
+            "Link": "https://www.searchenginejournal.com/how-to-think-about-seo-content-pr-measurement/518617/"
+        },
+        {
+            "Title": "Answer this week's #SEOFOMO Poll \ud83d\udc40 This time about the overall impact of Google's AI Overviews inclusions so far in your targeted queries organic search traffic:",
+            "Description": "Answer this week's #SEOFOMO Poll \ud83d\udc40 This time about the overall impact of Google's AI Overviews inclusions so far in your targeted queries organic search traffic: How have AI Overviews impacted your site's organic search traffic so far? Answer here \ud83d\udc47 seofomo.co/posts/google-u\u2026",
+            "Link": "https://twitter.com/aleyda/status/1802616281440370716"
+        },
+        {
+            "Title": "Media Buying Briefing: Why influencer agencies are drawing attention at Cannes Lions",
+            "Description": "Influencer agencies are muscling their way deeper into Cannes Lions, as it becomes more of a distinct media channel. Are acquisitions around the corner?",
+            "Link": "https://digiday.com/media-buying/media-buying-briefing-why-influencer-agencies-are-drawing-attention-at-cannes-lions/"
+        },
+        {
+            "Title": "Omnicom and Amazon Ads partner to connect audience data to browsing and shopping insights",
+            "Description": "The partnership with Amazon Ads enables Omnicom\u2019s planning and investment teams to access Amazon\u2019s proprietary browsing, shopping and streaming insights to directly tie linear and CTV investment to purchases made on Amazon.",
+            "Link": "https://digiday.com/media-buying/omnicom-and-amazon-ads-partner-to-connect-audience-data-to-browsing-and-shopping-insights/"
+        },
+        {
+            "Title": "AI Briefing: What would Steve Jobs say about Apple's ambitions for AI?",
+            "Description": "Last week\u2019s WWDC made plenty of headlines with various AI updates across Apple\u2019s operating system and apps.",
+            "Link": "https://digiday.com/media/ai-briefing-what-would-steve-jobs-say-about-apples-ambitions-for-ai/"
+        },
+        {
+            "Title": "Digiday Podcast at Cannes Lions:\u00a0Why Hilton CMO Mark Weinstein says the 'hot air' AI hype cycle isn't over yet",
+            "Description": "No doubt, marketers have found uses for gen AI beyond social copy and internal content creation, but it\u2019s yet to be said if AI will reach an inflection point at this year\u2019s Cannes Lions.",
+            "Link": "https://digiday.com/marketing/digiday-podcast-at-cannes-lions-why-hilton-cmo-mark-weinstein-says-the-hot-air-ai-hype-cycle-isnt-over-yet/"
+        },
+        {
+            "Title": "Inside Publicis Groupe\u2019s closed-door Cannes AI push",
+            "Description": "Publicis Groupe plans to use the week to emphasize its AI expertise and entice its existing client roster to invest more heavily in the space.",
+            "Link": "https://digiday.com/marketing/inside-publicis-groupes-closed-door-cannes-ai-push/"
+        },
+        {
+            "Title": "Publishers\u2019 top tips for pitching advertisers at Cannes",
+            "Description": "The art of making sales at Cannes may not be the same strategy taught in business school.",
+            "Link": "https://digiday.com/media/publishers-top-tips-for-pitching-advertisers-at-cannes/"
+        },
+        {
+            "Title": "Cannes Briefing: What to expect out of Cannes Lions 2024",
+            "Description": "The Cannes Lions Festival\u2019s evolution from a sun-soaked schmooze-fest to a hive of strategic deal-making, discussion and deliberation continues to unfold this year.",
+            "Link": "https://digiday.com/marketing/cannes-briefing-what-to-expect-out-of-cannes-lions-2024/"
+        },
+        {
+            "Title": "I\u2019m seeing the new Google mobile search interface",
+            "Description": "Tweet from user @rustybrick stating they are seeing a new Google mobile search interface.",
+            "Link": "https://twitter.com/rustybrick/status/1802422111283384652"
+        },
+        {
+            "Title": "Google finally cleaned up the Search Console data anomalies page. Before and after attached (shorter one is new)",
+            "Description": "Tweet from user @rustybrick stating that Google has cleaned up the data anomalies page in Google Search Console.",
+            "Link": "https://twitter.com/rustybrick/status/1802308326539018287"
+        },
+        {
+            "Title": "From the latest Search Central Office Hours: Does an auto translation of my website for other regions affect my rankings negatively?",
+            "Description": "Tweet from user @glenngabe about auto-translation affecting search rankings, quoting Google's John Mueller.",
+            "Link": "https://twitter.com/glenngabe/status/1802335025628586206"
+        },
+        {
+            "Title": "\"Leo can incorporate search-augmented responses into its answers\" -> Leo, Brave\u2019s in-browser AI assistant, now incorporates real-time Brave Search results for even better answers",
+            "Description": "Tweet from user @glenngabe about Brave browser's AI assistant, Leo, now incorporating real-time search results.",
+            "Link": "https://twitter.com/glenngabe/status/1802332556186062896"
+        },
+        {
+            "Title": "How the launch of AI search chatbots such as Bing Copilot is affecting advertisers, as they look for new ways to target users with relevant ads (and how Google could learn from Bing's approach...)",
+            "Description": "Tweet from user @glenngabe discussing the impact of AI chatbots like Bing Copilot on advertisers and ad targeting.",
+            "Link": "https://twitter.com/glenngabe/status/1802318858604130420"
+        },
+        {
+            "Title": "Would you upgrade for Apple Intelligence? -> Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro's 8GB, due to RAM requirements for on-device AI processing",
+            "Description": "Tweet from user @glenngabe discussing potential RAM requirements for Apple Intelligence and its impact on iPhone models.",
+            "Link": "https://twitter.com/glenngabe/status/1802316555130143041"
+        },
+        {
+            "Title": "Top SEO misconceptions debunked",
+            "Description": "Article debunking common SEO misconceptions.",
+            "Link": "https://azbigmedia.com/business/marketing/top-seo-misconceptions-debunked/"
+        },
+        {
+            "Title": "Syndicating content or republishing your content on other sites? -> From the latest Google Search Central Office Hours: Why would Google consider LinkedIn Pulse articles an original publisher even though it was published on our website first?",
+            "Description": "Tweet from user @glenngabe about content syndication and Google's view on original publisher, quoting Google's John Mueller.",
+            "Link": "https://twitter.com/glenngabe/status/1801969514164171230"
+        },
+        {
+            "Title": "Yep, ignore them. Also check Roger's story about emailing someone at Google about a \"toxic link\" situation. It wasn't the links, it was medieval Panda :) -> Google Answers Question About Toxic Link Sabotage From Gary",
+            "Description": "Tweet from user @glenngabe about handling toxic links, referencing a story and Google's Gary Illyes' response.",
+            "Link": "https://twitter.com/glenngabe/status/1801965707875205356"
+        },
+        {
+            "Title": "Google Chrome's upcoming search feature will use AI to dig deeper into your browsing history",
+            "Description": "Tweet from user @glenngabe about Google Chrome's upcoming AI-powered search feature and its potential privacy implications.",
+            "Link": "https://twitter.com/glenngabe/status/1801960110744350825"
+        },
+        {
+            "Title": "Awkward :) -> Microsoft\u2019s star AI chief peers into OpenAI\u2019s code, highlighting an unusual rivalry (as he looks at the algorithms behind models like GPT-4)",
+            "Description": "Tweet from user @glenngabe about Microsoft's AI chief looking into OpenAI's code, highlighting the rivalry between the companies.",
+            "Link": "https://twitter.com/glenngabe/status/1801958909114003538"
+        },
+        {
+            "Title": "\"Such a change could open the door to an eventual initial public offering of OpenAI, which currently sports a private valuation of $86 billion\" -> Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit\u2026",
+            "Description": "Tweet from user @glenngabe about OpenAI potentially changing to a for-profit model and its implications.",
+            "Link": "https://twitter.com/glenngabe/status/1801957624486752583"
+        },
+        {
+            "Title": "Google Answers Question About Toxic Link Sabotage",
+            "Description": "Article summarizing Google's Gary Illyes' response to a question about toxic link sabotage.",
+            "Link": "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/"
+        }
+    ],
+    "reviewed_urls": [
+        "https://twitter.com/rustybrick/status/1802774713237733536",
+        "https://twitter.com/rustybrick/status/1802770938414371158",
+        "https://twitter.com/rustybrick/status/1802767163591176606",
+        "https://twitter.com/rustybrick/status/1802763389019504871",
+        "https://twitter.com/glenngabe/status/1802762748721250358",
+        "https://twitter.com/rustybrick/status/1802759613718130880",
+        "https://twitter.com/rustybrick/status/1802756845645492381",
+        "https://twitter.com/rustybrick/status/1802755838911623635",
+        "https://twitter.com/glenngabe/status/1802742022178029683",
+        "https://twitter.com/glenngabe/status/1802742022178029683",
+        "https://twitter.com/glenngabe/status/1802740139057127752",
+        "https://twitter.com/glenngabe/status/1802738716252786961",
+        "https://twitter.com/glenngabe/status/1802737905556693257",
+        "https://www.openpr.com/news/3541225/attain-the-highest-rank-with-small-seo-tool-online",
+        "https://www.theglobeandmail.com/investing/markets/markets-news/GetNews/26867014/las-vegas-seo-co-announces-premier-seo-consultancy-services-for-local-service-based-businesses-nationwide/",
+        "https://uk.news.yahoo.com/31-hilarious-chandler-bing-quotes-150013723.html",
+        "https://twitter.com/rustybrick/status/1802714315356819769",
+        "https://twitter.com/rustybrick/status/1802710540466192402",
+        "https://www.cinemablend.com/movies/i-spotted-inside-out-2-bing-bong-easter-egg-pixar-amy-poehler",
+        "https://twitter.com/rustybrick/status/1802706765546430513",
+        "https://twitter.com/rustybrick/status/1802702991075561489",
+        "https://twitter.com/rustybrick/status/1802702656814624829",
+        "https://digiday.com/marketing/garm-and-ad-net-zero-launch-new-standards-to-transform-carbon-emission-measurement-in-media/",
+        "https://twitter.com/rustybrick/status/1802319049390526970",
+        "https://twitter.com/rustybrick/status/1802699215702814991",
+        "https://twitter.com/rustybrick/status/1802696447604724127",
+        "https://twitter.com/rustybrick/status/1802695440975958444",
+        "https://www.prnewswire.com/news-releases/intero-digital-announces-intero-gro-making-an-impact-with-advanced-generative-engine-optimization-302173570.html",
+        "https://www.practicalecommerce.com/how-to-monitor-googles-updates",
+        "https://twitter.com/glenngabe/status/1802682654535327779",
+        "https://twitter.com/glenngabe/status/1802680001919127792",
+        "https://twitter.com/richsangerSEO/status/1802678831599518101",
+        "https://twitter.com/aleyda/status/1802678638644519185",
+        "https://twitter.com/glenngabe/status/1802678084472078584",
+        "https://twitter.com/rustybrick/status/1802677824832065654",
+        "https://twitter.com/glenngabe/status/1802674917776715963",
+        "https://finance.yahoo.com/news/onterra-systems-announces-routesavvy-api-120000369.html",
+        "https://twitter.com/glenngabe/status/1802671692482826703",
+        "https://twitter.com/rustybrick/status/1802670274896167087",
+        "https://twitter.com/glenngabe/status/1802670099708424438",
+        "https://twitter.com/rustybrick/status/1802667758523494791",
+        "https://twitter.com/rustybrick/status/1802665242247512506",
+        "https://twitter.com/rustybrick/status/1802662725266329902",
+        "https://twitter.com/rustybrick/status/1802660208814256207",
+        "https://twitter.com/rustybrick/status/1802658698994610360",
+        "https://twitter.com/rustybrick/status/1802657445237690762",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2024",
+        "https://igamingbusiness.com/strategy/ma/gig-to-acquire-seo-specialist-titan/",
+        "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/",
+        "https://insideclimatenews.org/news/17062024/largest-marine-protected-areas-have-inadequate-protections/",
+        "https://www.searchenginejournal.com/how-to-think-about-seo-content-pr-measurement/518617/",
+        "https://twitter.com/aleyda/status/1802616281440370716",
+        "https://www.tipranks.com/news/company-announcements/gig-acquires-titan-to-boost-seo-and-efficiency",
+        "https://digiday.com/media-buying/media-buying-briefing-why-influencer-agencies-are-drawing-attention-at-cannes-lions/",
+        "https://digiday.com/media-buying/omnicom-and-amazon-ads-partner-to-connect-audience-data-to-browsing-and-shopping-insights/",
+        "https://digiday.com/media/ai-briefing-what-would-steve-jobs-say-about-apples-ambitions-for-ai/",
+        "https://digiday.com/marketing/digiday-podcast-at-cannes-lions-why-hilton-cmo-mark-weinstein-says-the-hot-air-ai-hype-cycle-isnt-over-yet/",
+        "https://digiday.com/marketing/inside-publicis-groupes-closed-door-cannes-ai-push/",
+        "https://digiday.com/media/publishers-top-tips-for-pitching-advertisers-at-cannes/",
+        "https://digiday.com/marketing/cannes-briefing-what-to-expect-out-of-cannes-lions-2024/",
+        "https://twitter.com/rustybrick/status/1802509755920896086",
+        "https://twitter.com/rustybrick/status/1802422111283384652",
+        "https://twitter.com/rustybrick/status/1802375973893005778",
+        "https://twitter.com/rustybrick/status/1801585717132374321",
+        "https://twitter.com/aleyda/status/1802354321712894034",
+        "https://www.thestar.com.my/news/nation/2024/06/16/chinese-actress-fan-bing-bing-recommends-durian-cendol-to-chinese-tourists",
+        "https://twitter.com/aleyda/status/1802347980810227818",
+        "https://www.practicalecommerce.com/get-a-handle-on-ai-with-these-10-books",
+        "https://twitter.com/glenngabe/status/1802335025628586206",
+        "https://twitter.com/glenngabe/status/1802332556186062896",
+        "https://twitter.com/glenngabe/status/1802318858604130420",
+        "https://twitter.com/glenngabe/status/1802316555130143041",
+        "https://twitter.com/rustybrick/status/1802308326539018287",
+        "https://www.nst.com.my/news/nation/2024/06/1064299/fan-bing-bing-regards%C2%A0new%C2%A0role-heavy-responsibility-and-stroke-luck",
+        "https://worldofbuzz.com/fan-bing-bing-dances-after-eating-durian-stuns-internet-by-wearing-baju-kebaya-in-melaka/",
+        "https://azbigmedia.com/business/marketing/top-seo-misconceptions-debunked/",
+        "https://twitter.com/aleyda/status/1802021376082997372",
+        "https://twitter.com/natzir9/status/1801999858133250101",
+        "https://www.cracked.com/article_42549_we-regret-to-inform-you-that-bing-bong-is-still-very-much-dead-in-inside-out-2.html",
+        "https://twitter.com/glenngabe/status/1801969514164171230",
+        "https://twitter.com/glenngabe/status/1801965707875205356",
+        "https://twitter.com/glenngabe/status/1801960110744350825",
+        "https://twitter.com/glenngabe/status/1801958909114003538",
+        "https://twitter.com/glenngabe/status/1801957624486752583",
+        "https://twitter.com/aleyda/status/1801949459971985430",
+        "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/",
+        "https://twitter.com/jayriverlong/status/1801785758493380804"
+    ]
+}
