@@ -1,88 +1,120 @@
 {
     "data": [
         {
-            "Title": "Google Makes Changes to Search Console and Algorithm",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has made several updates to Search Console, including cleaning up the data anomalies page and clarifying how auto-translation affects search rankings. Additionally, Google's Gary Illyes provided unconventional advice on fixing broken backlinks. Meanwhile, a recent Google search leak has sparked discussions about SEO, content, and PR measurement.",
+            "Title": "Google Makes Changes to Search Console and AI Overviews",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has made several updates to Search Console, including cleaning up the data anomalies page and making it difficult to track AI Overviews.  SEOs are finding it challenging to analyze the impact of AI Overviews on click-through rates and traffic.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802308326539018287",
-                "https://twitter.com/glenngabe/status/1802335025628586206",
-                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/",
-                "https://www.searchenginejournal.com/how-to-think-about-seo-content-pr-measurement/518617/"
+                "https://twitter.com/rustybrick/status/1802774713237733536",
+                "https://twitter.com/rustybrick/status/1802714315356819769",
+                "https://twitter.com/rustybrick/status/1802308326539018287"
             ]
         },
         {
-            "Title": "Google Updates Policies on AI Overviews, Ads, and Maps",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has updated its policies on various fronts. It's now allowing ads to discuss opioid painkillers without promoting or selling them. The company has also clarified its hreflang documentation, stating that link tags for alternate versions of a page should not be combined. Additionally, Google has updated its Maps contributor \"fake engagement\" policy. However, tracking Google AI Overviews in Google Search Console remains a challenge.",
+            "Title": "Google Updates Policies on Google Ads, Maps, and Hreflang",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has updated several policies, including forcing some advertisers to switch from credit card payments to ACH/check/wire payments, updating the Maps contributor \"fake engagement\" policy, and clarifying the use of hreflang tags for alternate versions of a page.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1802770938414371158",
+                "https://twitter.com/rustybrick/status/1802710540466192402",
+                "https://twitter.com/rustybrick/status/1802706765546430513",
+                "https://twitter.com/rustybrick/status/1802702991075561489",
+                "https://twitter.com/rustybrick/status/1802699215702814991",
+                "https://twitter.com/rustybrick/status/1802667758523494791",
+                "https://twitter.com/rustybrick/status/1802665242247512506",
+                "https://twitter.com/rustybrick/status/1802662725266329902",
+                "https://twitter.com/rustybrick/status/1802660208814256207"
+            ]
+        },
+        {
+            "Title": "Google Allows Ads Discussing Opioid Painkillers",
+            "Category": "Advertising",
+            "Description": "Google Ads now permits advertisements that discuss opioid painkillers without promoting or selling them.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1802756845645492381",
-                "https://twitter.com/rustybrick/status/1802699215702814991",
-                "https://twitter.com/rustybrick/status/1802662725266329902",
-                "https://twitter.com/rustybrick/status/1802714315356819769"
+                "https://twitter.com/rustybrick/status/1802696447604724127",
+                "https://twitter.com/rustybrick/status/1802658698994610360"
             ]
         },
         {
-            "Title": "Google Ads Introduces New Features and Restrictions",
-            "Category": "Advertising",
-            "Description": "Google Ads is rolling out programmatic email ads and making changes to payment methods. Some advertisers are being transitioned away from credit card payments to ACH/Check/Wire options. This move is seen as a way for Google to reduce credit card processing fees.",
+            "Title": "Apple Updates Applebot Documentation",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Apple has updated its Applebot documentation, including information on Applebot-Extended, Reverse DNS, and additional user agents. The update follows the preview of Apple Intelligence at WWDC.",
             "Links": [
-                "https://twitter.com/aleyda/status/1802678638644519185",
-                "https://twitter.com/rustybrick/status/1802710540466192402",
-                "https://twitter.com/rustybrick/status/1802667758523494791"
+                "https://twitter.com/rustybrick/status/1802767163591176606",
+                "https://twitter.com/glenngabe/status/1802678084472078584"
             ]
         },
         {
-            "Title": "Apple Updates Applebot Documentation and Explores AI",
-            "Category": "Technology",
-            "Description": "Apple has updated its Applebot documentation, introducing Applebot-Extended, Reverse DNS, and more user agents. This update follows the preview of Apple Intelligence at WWDX. Speculation is rife about the RAM requirements for Apple Intelligence and whether it will be available on all iPhone 15 models.",
+            "Title": "TikTok Introduces AI Avatars for Ads",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "TikTok is incorporating AI-generated avatars of creators and stock actors into its advertisements. These avatars, known as \"Stock Avatars,\" are created using paid actors licensed for commercial use.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802706765546430513",
-                "https://twitter.com/glenngabe/status/1802678084472078584",
-                "https://twitter.com/glenngabe/status/1802316555130143041"
-            ]
-        },
-        {
-            "Title": "AI's Impact on Content Creation and Consumption",
-            "Category": "Artificial Intelligence",
-            "Description": "The use of AI in content creation is raising concerns among consumers, who are skeptical of AI-generated news. Meanwhile, copywriters are experiencing the impact of AI firsthand, with some taking on lower-paying roles to make AI-generated text sound more human.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802682654535327779",
-                "https://twitter.com/glenngabe/status/1802670099708424438"
-            ]
-        },
-        {
-            "Title": "TikTok's Growing Influence on Advertising and Discovery",
-            "Category": "Social Media",
-            "Description": "TikTok is emerging as a powerful discovery platform, with many Gen Z users preferring it over Google for search. The platform is also introducing AI avatars for creators and stock actors in ads, further blurring the lines between reality and digital representation.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802680001919127792",
                 "https://twitter.com/glenngabe/status/1802740139057127752"
             ]
         },
         {
-            "Title": "Brave Browser Enhances AI Assistant with Search Integration",
-            "Category": "Technology",
-            "Description": "Brave's in-browser AI assistant, Leo, now incorporates real-time Brave Search results, providing users with more comprehensive and contextually relevant answers.",
+            "Title": "YouTube Tests \"Notes\" Feature for Videos",
+            "Category": "Social Media",
+            "Description": "YouTube is piloting a new \"Notes\" feature, allowing viewers in the US to see notes on videos. The feature will initially be available on mobile devices and in English.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1802332556186062896"
+                "https://twitter.com/glenngabe/status/1802738716252786961"
             ]
         },
         {
-            "Title": "Microsoft and OpenAI's AI Rivalry Heats Up",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft's AI chief has been examining OpenAI's code, highlighting the intense competition between the two companies in the AI space. Meanwhile, OpenAI is reportedly considering a shift to a for-profit model, which could pave the way for an IPO.",
+            "Title": "Runway Unveils Gen-3 Alpha Text-to-Video Model",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Runway has released Gen-3 Alpha, an AI model capable of generating high-quality, realistic video clips up to 10 seconds long. The model builds upon the company's previous Gen-2 release and increases competition with OpenAI's Sora.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801958909114003538",
-                "https://twitter.com/glenngabe/status/1801957624486752583"
+                "https://twitter.com/glenngabe/status/1802737905556693257"
+            ]
+        },
+        {
+            "Title": "GARM and Ad Net Zero Launch Carbon Emission Measurement Standards",
+            "Category": "Advertising",
+            "Description": "The Global Alliance for Responsible Media (GARM) and Ad Net Zero have introduced new standards for measuring carbon emissions in advertising. The standards currently cover TV, digital, and out-of-home advertising, with plans to expand to print, radio, and film.",
+            "Links": [
+                "https://digiday.com/marketing/garm-and-ad-net-zero-launch-new-standards-to-transform-carbon-emission-measurement-in-media/"
+            ]
+        },
+        {
+            "Title": "Consumers Skeptical of AI-Generated News",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "A new report reveals that global audiences are wary of news produced with the assistance of AI. Despite this skepticism, consumers remain reluctant to pay for news content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802682654535327779"
+            ]
+        },
+        {
+            "Title": "TikTok's Growth as a Discovery Platform",
+            "Category": "Social Media",
+            "Description": "An Adobe survey highlights TikTok's increasing role as a discovery platform, particularly among Gen Z users. The survey found that nearly 1 in 10 Gen Z respondents were more likely to use TikTok than Google for search.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802680001919127792"
             ]
         },
         {
             "Title": "Google Chrome to Introduce AI-Powered Search Feature",
-            "Category": "Technology",
-            "Description": "Google Chrome is developing an AI-powered search feature that will analyze users' browsing history to deliver more personalized results. This development raises privacy concerns as Google continues to integrate AI into its products.",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google is developing an AI-driven search feature for its Chrome browser that will analyze users' browsing history to provide more relevant results. The feature has raised privacy concerns.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1801960110744350825"
+            ]
+        },
+        {
+            "Title": "Microsoft and OpenAI Rivalry Intensifies",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Microsoft's AI chief has been examining OpenAI's code, highlighting the growing competition between the two companies in the AI field.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801958909114003538"
+            ]
+        },
+        {
+            "Title": "OpenAI Considers Shift to For-Profit Model",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "OpenAI is reportedly contemplating a transition to a for-profit benefit corporation. The move could pave the way for an initial public offering (IPO) for the company, currently valued at $86 billion.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1801957624486752583"
             ]
         }
     ],
