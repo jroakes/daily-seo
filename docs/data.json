@@ -1,109 +1,102 @@
 {
     "data": [
         {
-            "Title": "Google Makes Changes to Search Console and Algorithm",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has made several updates to its search engine and related tools, including cleaning up the data anomalies page in Google Search Console, clarifying its stance on auto-translated websites and content syndication's impact on rankings, and addressing concerns about \"toxic link\" sabotage.",
+            "Title": "Google Makes Changes to Search Console, Ads, and Maps",
+            "Category": "Search Engines",
+            "Description": "Google has made several updates to its products, including cleaning up the data anomalies page in Search Console, forcing some advertisers to switch from credit card payments to ACH/Check/Wire payments in Google Ads, and updating its Maps contributor \"fake engagement\" policy.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1802308326539018287",
-                "https://twitter.com/glenngabe/status/1802335025628586206",
-                "https://twitter.com/glenngabe/status/1801969514164171230",
-                "https://twitter.com/glenngabe/status/1801965707875205356",
-                "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/"
+                "https://twitter.com/rustybrick/status/1802667758523494791",
+                "https://twitter.com/rustybrick/status/1802662725266329902"
             ]
         },
         {
-            "Title": "Google AI Overviews Pose Challenges for SEO Tracking and Impact",
-            "Category": "Search Engine Optimization",
-            "Description": "SEO professionals are finding it difficult to track the impact of Google's AI Overviews on organic search traffic. The lack of clear data in Google Search Console makes it challenging to analyze how these overviews affect click-through rates and overall website visibility.",
+            "Title": "Apple Updates Applebot Documentation",
+            "Category": "Search Engines",
+            "Description": "Apple has updated its Applebot documentation with several changes, including the addition of Applebot-Extended, Reverse DNS, and more user agents. The update follows the Apple Intelligence preview at WWDX.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802774713237733536",
-                "https://twitter.com/glenngabe/status/1802742022178029683",
-                "https://twitter.com/rustybrick/status/1802714315356819769",
-                "https://twitter.com/glenngabe/status/1802671692482826703",
-                "https://twitter.com/rustybrick/status/1802670274896167087",
-                "https://twitter.com/aleyda/status/1802616281440370716"
-            ]
-        },
-        {
-            "Title": "Google Updates Advertising Policies on Opioid Painkillers and Payment Methods",
-            "Category": "Advertising & Marketing",
-            "Description": "Google Ads has revised its policies, now permitting ads that discuss opioid painkillers without promoting or selling them. Additionally, the platform is transitioning some advertisers away from credit card payments to ACH/Check/Wire options, aiming to reduce credit card processing fees.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1802770938414371158",
-                "https://twitter.com/rustybrick/status/1802756845645492381",
-                "https://twitter.com/rustybrick/status/1802710540466192402",
-                "https://twitter.com/rustybrick/status/1802696447604724127",
-                "https://twitter.com/rustybrick/status/1802667758523494791"
-            ]
-        },
-        {
-            "Title": "Apple Enhances Applebot Documentation with New Features and Updates",
-            "Category": "Technology",
-            "Description": "Apple has updated its Applebot documentation, introducing new features like Applebot-Extended, which allows website owners to control their content's use in training Apple's AI models. The update also includes details on Reverse DNS, additional user agents, and other enhancements.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1802767163591176606",
                 "https://twitter.com/rustybrick/status/1802706765546430513",
                 "https://twitter.com/rustybrick/status/1802665242247512506",
                 "https://twitter.com/glenngabe/status/1802678084472078584"
             ]
         },
         {
-            "Title": "TikTok Introduces AI Avatars for Advertisers",
-            "Category": "Social Media",
-            "Description": "TikTok is incorporating AI-generated avatars into its advertising platform. Advertisers can now utilize avatars of creators or choose from pre-built \"Stock Avatars\" featuring licensed actors, offering new creative possibilities for ad campaigns.",
+            "Title": "Google Updates Hreflang Documentation",
+            "Category": "Search Engines",
+            "Description": "Google has updated its hreflang documentation to clarify that link tags for denoting alternate versions of a page must not be combined in a single link tag.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1802699215702814991",
+                "https://twitter.com/rustybrick/status/1802660208814256207"
+            ]
+        },
+        {
+            "Title": "Google Allows Ads Discussing Opioid Painkillers",
+            "Category": "Advertising",
+            "Description": "Google Ads now permits advertisements that discuss opioid painkillers without promoting or selling them.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1802696447604724127",
+                "https://twitter.com/rustybrick/status/1802756845645492381",
+                "https://twitter.com/rustybrick/status/1802658698994610360"
+            ]
+        },
+        {
+            "Title": "Tracking Google AI Overviews in Search Console Proves Difficult",
+            "Category": "Search Engines",
+            "Description": "Users are finding it challenging to track Google AI Overviews in Google Search Console, with attempts to analyze the impact on CTR and traffic proving confusing and messy.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1802774713237733536",
+                "https://twitter.com/glenngabe/status/1802742022178029683",
+                "https://twitter.com/rustybrick/status/1802670274896167087"
+            ]
+        },
+        {
+            "Title": "TikTok Introduces AI Avatars for Ads",
+            "Category": "Advertising",
+            "Description": "TikTok ads will now feature AI avatars of creators and stock actors. The platform is introducing \"Stock Avatars\" created using paid actors licensed for commercial use.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802740139057127752"
             ]
         },
         {
-            "Title": "YouTube Tests \"Notes\" Feature for Enhanced Video Interaction",
+            "Title": "YouTube Tests Notes Feature for Videos",
             "Category": "Social Media",
-            "Description": "YouTube is piloting a new \"Notes\" feature, allowing creators to add contextual information and updates to their videos. Viewers in the US will soon see these notes on mobile devices, enhancing the video viewing experience with additional insights.",
+            "Description": "YouTube is piloting a new \"Notes\" feature for videos, allowing viewers to add notes to specific parts of a video. The feature will initially be available on mobile in the US and in English.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802738716252786961"
             ]
         },
         {
-            "Title": "Runway Challenges OpenAI with Gen-3 Alpha Text-to-Video Model",
+            "Title": "Runway Unveils Gen-3 Alpha for Realistic Video Generation",
             "Category": "Artificial Intelligence",
-            "Description": "Runway has unveiled Gen-3 Alpha, a text-to-video generation model capable of creating high-quality, realistic video clips up to 10 seconds long. This release intensifies the competition with OpenAI's Sora, pushing the boundaries of AI-powered video generation.",
+            "Description": "Runway has launched Gen-3 Alpha, an AI model capable of generating high-quality, realistic video clips of up to 10 seconds in length. The model builds on the company's previous Gen-2 release and increases competition with OpenAI's Sora.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802737905556693257"
             ]
         },
         {
-            "Title": "Google Updates Maps Contributor Policy on Fake Engagement",
-            "Category": "Maps & Location Services",
-            "Description": "Google has revised its policy for Google Maps contributors, specifically targeting \"fake engagement.\" The updated guidelines aim to maintain the authenticity of user contributions and reviews on the platform.",
+            "Title": "Google Chrome to Introduce AI-Powered \"Listen to This Page\" Feature",
+            "Category": "Browsers",
+            "Description": "Google is rolling out a \"Listen to this page\" feature for Chrome on Android, enabling the browser to read text-heavy web pages aloud. The feature includes a mini-player with playback controls and a progress indicator.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802763389019504871",
-                "https://twitter.com/rustybrick/status/1802702991075561489",
-                "https://twitter.com/rustybrick/status/1802662725266329902"
+                "https://twitter.com/glenngabe/status/1802674917776715963"
             ]
         },
         {
-            "Title": "Google Chrome to Introduce AI-Powered Search Feature Using Browsing History",
-            "Category": "Technology",
-            "Description": "Google is developing an AI-driven search feature for its Chrome browser that leverages users' browsing history to provide more relevant and personalized search results. This feature raises privacy concerns as it delves deeper into users' online activity.",
+            "Title": "GiG Acquires SEO Specialist Titan",
+            "Category": "Mergers & Acquisitions",
+            "Description": "Gaming Innovation Group (GiG) has acquired Titan, a provider of SEO and content services, for \u20ac3.2 million.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801960110744350825"
+                "https://igamingbusiness.com/strategy/ma/gig-to-acquire-seo-specialist-titan/"
             ]
         },
         {
-            "Title": "OpenAI Explores For-Profit Model, Potential IPO on the Horizon",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI, the company behind ChatGPT, is considering a shift to a for-profit benefit corporation structure. This move could pave the way for a future initial public offering (IPO), potentially valuing the company at over \\$86 billion.",
+            "Title": "Google's Advice on Fixing Broken Backlinks",
+            "Category": "Search Engines",
+            "Description": "Google's Gary Illyes has offered advice on addressing broken backlinks, suggesting that webmasters shouldn't worry about them too much.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1801957624486752583"
-            ]
-        },
-        {
-            "Title": "Microsoft and OpenAI's AI Rivalry Intensifies as Microsoft Examines OpenAI's Code",
-            "Category": "Artificial Intelligence",
-            "Description": "The rivalry between Microsoft and OpenAI is heating up as Microsoft's AI chief has been analyzing the code behind OpenAI's language models, including GPT-4. This unusual move highlights the competition between the two tech giants in the AI space.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1801958909114003538"
+                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/",
+                "https://twitter.com/glenngabe/status/1801965707875205356",
+                "https://www.searchenginejournal.com/google-answers-question-about-toxic-link-sabotage/519711/"
             ]
         }
     ],
