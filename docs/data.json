@@ -1,260 +1,155 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Makes Tracking AI Overviews Difficult",
+            "Title": "Google Search Console Reports: Numbers Reflect Sitelinks, Not Canonicalization",
             "Category": "SEO",
-            "Description": "SEO professionals are finding it challenging to track the performance of Google's AI Overviews in Google Search Console, making it difficult to analyze their impact on organic search traffic.",
+            "Description": "Google clarifies that the numbers in Google Search Console reports are related to Google Sitelinks, not canonicalization. This clarification addresses confusion about the use of \"#\" in these reports.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802774713237733536",
-                "https://twitter.com/glenngabe/status/1802742022178029683",
-                "https://twitter.com/rustybrick/status/1802670274896167087"
+                "https://twitter.com/rustybrick/status/1803137101057110187",
+                "https://twitter.com/rustybrick/status/1803076703226401178",
+                "https://twitter.com/rustybrick/status/1803032662929490078"
             ]
         },
         {
-            "Title": "Google Ads Limits Credit Card Payments for Advertisers",
+            "Title": "Google Ads Credit Card Billing Changes: No Specific Thresholds",
             "Category": "Advertising",
-            "Description": "Google Ads is phasing out credit card payments for many advertisers, requiring them to switch to alternative payment methods like ACH, check, or wire transfer. This move is likely aimed at reducing credit card processing fees for Google.",
+            "Description": "Google announces changes to its credit card billing system for Google Ads, stating that there are no \"specific thresholds\" for the change. The move aims to reduce credit card processing fees for Google.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802770938414371158",
-                "https://twitter.com/rustybrick/status/1802710540466192402",
+                "https://twitter.com/rustybrick/status/1803136118755307531",
                 "https://twitter.com/rustybrick/status/1802667758523494791"
             ]
         },
         {
-            "Title": "Apple Updates Applebot Documentation with New Features",
+            "Title": "Google Maps Enhances Business Profile Management with New \"Edit\" and \"Post\" Buttons",
+            "Category": "Local Search",
+            "Description": "Google Maps introduces new \"edit\" and \"post\" buttons for Business Profile listings, providing businesses with easier access to update their information and engage with customers directly on the platform.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803133326263476316",
+                "https://twitter.com/rustybrick/status/1803072928336249283",
+                "https://twitter.com/rustybrick/status/1803030146359705842"
+            ]
+        },
+        {
+            "Title": "Google Search Profiles Get New Privacy Toggle",
+            "Category": "Privacy",
+            "Description": "Google rolls out a new privacy toggle for Google Search Profiles, giving users more control over the data associated with their search activity and personalized results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803130748192399442"
+            ]
+        },
+        {
+            "Title": "Google Search Results Don't Always Highlight Original Source of Content",
             "Category": "SEO",
-            "Description": "Apple has updated its Applebot documentation, introducing new features like Applebot-Extended, Reverse DNS lookups, and additional user agents. The update follows the preview of Apple Intelligence at WWDC and provides more clarity for website owners on how Applebot interacts with their sites.",
+            "Description": "John Mueller, Google Search Advocate, confirms that Google's search results may not always display the original source of content. This revelation raises concerns about content attribution and potential for plagiarism.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802767163591176606",
-                "https://twitter.com/rustybrick/status/1802706765546430513",
-                "https://twitter.com/rustybrick/status/1802665242247512506"
+                "https://twitter.com/rustybrick/status/1803129551272436114",
+                "https://twitter.com/rustybrick/status/1803069153592451126",
+                "https://www.seroundtable.com/google-search-results-original-source-37577.html"
             ]
         },
         {
-            "Title": "Google Updates Maps Fake Engagement Policy",
-            "Category": "Google Maps",
-            "Description": "Google has revised its policy regarding fake engagement on Google Maps, providing clearer guidelines for businesses and users on prohibited activities. The updated policy aims to maintain the integrity of reviews and interactions on the platform.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1802763389019504871",
-                "https://twitter.com/rustybrick/status/1802702991075561489",
-                "https://twitter.com/rustybrick/status/1802662725266329902"
-            ]
-        },
-        {
-            "Title": "Google Clarifies Hreflang Tag Usage in Documentation Update",
+            "Title": "Bing Webmaster Tools Can Display CTR Higher Than 100%",
             "Category": "SEO",
-            "Description": "Google has updated its hreflang documentation, emphasizing that link tags used to specify alternate language versions of a webpage should not be combined within a single tag. The clarification aims to improve the accuracy of language targeting for websites.",
+            "Description": "Bing Webmaster Tools users observe CTR exceeding 100%, prompting an explanation from Bing. The anomaly occurs when searchers click multiple times on the same search result, inflating the CTR calculation.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802759613718130880",
-                "https://twitter.com/rustybrick/status/1802699215702814991",
-                "https://twitter.com/rustybrick/status/1802660208814256207"
-            ]
-        },
-        {
-            "Title": "Google Ads Allows Ads Discussing Opioid Painkillers with Restrictions",
-            "Category": "Advertising",
-            "Description": "Google Ads has revised its policy to permit ads that discuss opioid painkillers, but with the stipulation that they cannot promote or sell these medications. This change aims to strike a balance between providing information and preventing the misuse of opioids.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1802756845645492381",
-                "https://twitter.com/rustybrick/status/1802696447604724127",
-                "https://twitter.com/rustybrick/status/1802658698994610360"
-            ]
-        },
-        {
-            "Title": "TikTok Introduces AI Avatars for Ads",
-            "Category": "Advertising",
-            "Description": "TikTok is incorporating AI-generated avatars of creators and stock actors into its advertising platform. These avatars offer brands a new way to create engaging ad content and potentially reduce reliance on human actors.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802740139057127752"
-            ]
-        },
-        {
-            "Title": "YouTube Tests \"Notes\" Feature for Videos",
-            "Category": "Social Media",
-            "Description": "YouTube is piloting a new \"Notes\" feature, allowing creators to add text-based annotations to their videos. The feature, initially available to select users in the US, provides an additional way for creators to engage viewers and offer context or updates.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802738716252786961"
-            ]
-        },
-        {
-            "Title": "Runway Unveils Gen-3 Alpha Text-to-Video Model",
-            "Category": "Artificial Intelligence",
-            "Description": "Runway has released Gen-3 Alpha, an advanced text-to-video generation model capable of creating realistic video clips up to 10 seconds long. This development intensifies the competition in the AI-powered video generation space, challenging OpenAI's Sora.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802737905556693257"
-            ]
-        },
-        {
-            "Title": "GARM and Ad Net Zero Establish Carbon Emission Measurement Standards for Media",
-            "Category": "Advertising",
-            "Description": "The Global Alliance for Responsible Media (GARM) and Ad Net Zero have introduced new standards for measuring carbon emissions in advertising across various media channels, including TV, digital, and out-of-home. This initiative aims to promote sustainability in the advertising industry.",
-            "Links": [
-                "https://digiday.com/marketing/garm-and-ad-net-zero-launch-new-standards-to-transform-carbon-emission-measurement-in-media/"
-            ]
-        },
-        {
-            "Title": "Consumers Express Skepticism Towards AI-Generated News",
-            "Category": "Artificial Intelligence",
-            "Description": "A recent survey reveals that a significant portion of consumers are wary of news content produced with the assistance of artificial intelligence. This skepticism highlights the challenges faced by news organizations as they explore AI-powered content creation.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802682654535327779"
-            ]
-        },
-        {
-            "Title": "TikTok's Influence as a Product Discovery Platform Grows",
-            "Category": "Social Media",
-            "Description": "A survey conducted by Adobe indicates that TikTok is gaining traction as a prominent platform for product discovery, particularly among Gen Z consumers. The platform's popularity for product recommendations and reviews poses a potential challenge to traditional search engines.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802680001919127792"
-            ]
-        },
-        {
-            "Title": "Google Chrome for Android to Introduce \"Listen to This Page\" Feature",
-            "Category": "Technology",
-            "Description": "Google is rolling out a new accessibility feature for Chrome on Android devices, allowing users to listen to web pages instead of reading them. The \"Listen to This Page\" feature aims to improve web accessibility for users with visual impairments or reading difficulties.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802674917776715963"
-            ]
-        },
-        {
-            "Title": "The Impact of AI on Copywriting Jobs",
-            "Category": "Artificial Intelligence",
-            "Description": "The increasing use of AI in content creation is significantly impacting the copywriting profession. While some copywriters are adapting by refining AI-generated text, others face job displacement, highlighting the evolving landscape of the industry.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1802670099708424438"
-            ]
-        },
-        {
-            "Title": "GiG Acquires SEO Agency Titan",
-            "Category": "Business",
-            "Description": "Gaming Innovation Group (GiG) has acquired Titan, a company specializing in SEO and content marketing services, for \u20ac3.2 million. The acquisition strengthens GiG's position in the iGaming market by enhancing its online visibility and content strategy.",
-            "Links": [
-                "https://igamingbusiness.com/strategy/ma/gig-to-acquire-seo-specialist-titan/"
-            ]
-        },
-        {
-            "Title": "Google's Gary Illyes Offers Unconventional Advice on Broken Backlinks",
-            "Category": "SEO",
-            "Description": "Google's Search Advocate, Gary Illyes, has provided an unexpected response to a question about addressing broken backlinks, suggesting that focusing on creating high-quality content is more effective than obsessing over broken link fixes.",
-            "Links": [
-                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/"
-            ]
-        },
-        {
-            "Title": "Understanding SEO, Content, and PR Measurement in Light of the Google Leak",
-            "Category": "SEO",
-            "Description": "A recent leak of Google's search algorithm documents has shed light on the importance of measuring how content influences user search behavior. This information emphasizes the need for SEOs, content marketers, and PR professionals to align their strategies with user intent.",
-            "Links": [
-                "https://www.searchenginejournal.com/how-to-think-about-seo-content-pr-measurement/518617/"
-            ]
-        },
-        {
-            "Title": "Influencer Agencies Gain Prominence at Cannes Lions",
-            "Category": "Advertising",
-            "Description": "Influencer marketing agencies are increasingly visible at Cannes Lions, reflecting the growing recognition of influencer marketing as a distinct media channel. This trend suggests potential acquisitions and further integration of influencer agencies into the advertising landscape.",
-            "Links": [
-                "https://digiday.com/media-buying/media-buying-briefing-why-influencer-agencies-are-drawing-attention-at-cannes-lions/"
-            ]
-        },
-        {
-            "Title": "Omnicom and Amazon Ads Partner to Enhance Audience Data Connectivity",
-            "Category": "Advertising",
-            "Description": "Omnicom and Amazon Ads have announced a partnership that grants Omnicom's teams access to Amazon's proprietary audience insights, including browsing, shopping, and streaming data. This collaboration aims to improve ad targeting and measurement by connecting linear and CTV advertising with Amazon purchases.",
-            "Links": [
-                "https://digiday.com/media-buying/omnicom-and-amazon-ads-partner-to-connect-audience-data-to-browsing-and-shopping-insights/"
-            ]
-        },
-        {
-            "Title": "Examining Apple's AI Ambitions in Light of Steve Jobs' Legacy",
-            "Category": "Artificial Intelligence",
-            "Description": "Following Apple's AI announcements at WWDC, industry experts are analyzing the company's AI strategy and its potential impact on the tech landscape. The discussion explores how Apple's approach to AI aligns with its historical focus on user experience and innovation.",
-            "Links": [
-                "https://digiday.com/media/ai-briefing-what-would-steve-jobs-say-about-apples-ambitions-for-ai/"
-            ]
-        },
-        {
-            "Title": "Publicis Groupe Emphasizes AI Expertise at Cannes",
-            "Category": "Artificial Intelligence",
-            "Description": "Publicis Groupe is leveraging Cannes Lions to showcase its AI capabilities and encourage clients to invest in AI-driven marketing solutions. The company aims to position itself as a leader in the AI advertising space.",
-            "Links": [
-                "https://digiday.com/marketing/inside-publicis-groupes-closed-door-cannes-ai-push/"
-            ]
-        },
-        {
-            "Title": "Google Launches Gemini App for Android in India",
-            "Category": "Technology",
-            "Description": "Google has released a dedicated Gemini app for Android users in India, expanding the availability of its conversational AI chatbot. The app supports multiple languages and is expected to be rolled out to iOS devices soon.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1803030777602376178"
-            ]
-        },
-        {
-            "Title": "Daily Mail Expands Long-Form Video Content on YouTube",
-            "Category": "Media",
-            "Description": "Daily Mail is investing in long-form video content with plans to launch a dozen new shows on YouTube by the end of the year. This strategic move aims to capitalize on the growing consumption of long-form video content online.",
-            "Links": [
-                "https://digiday.com/media/daily-mail-plans-to-debut-a-dozen-youtube-shows-in-2024-in-long-form-video-push/"
-            ]
-        },
-        {
-            "Title": "Bing Webmaster Tools Can Display CTR Above 100%",
-            "Category": "SEO",
-            "Description": "Bing Webmaster Tools has a unique characteristic where it can report click-through rates (CTR) exceeding 100%. This occurs when users click on a search result multiple times from the same search results page.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1803125776839221376",
                 "https://twitter.com/rustybrick/status/1803065378966274224",
                 "https://twitter.com/rustybrick/status/1803025113064865929"
             ]
         },
         {
-            "Title": "Google Tests Black Sitelinks in Search Results",
+            "Title": "Google Search Volatility Impacts Finance Sites with Surges and Drops",
             "Category": "SEO",
-            "Description": "Google is experimenting with the appearance of sitelinks in search results by testing black-colored sitelinks. This visual change could impact user engagement and click-through rates for websites.",
+            "Description": "Glenn Gabe observes significant volatility in Google Search results for finance sites, with some experiencing large drops followed by surges. The fluctuations suggest ongoing algorithm updates and adjustments by Google.",
             "Links": [
+                "https://twitter.com/glenngabe/status/1803123372093485194",
+                "https://twitter.com/glenngabe/status/1803047239864013104"
+            ]
+        },
+        {
+            "Title": "Google Experiments with Black Sitelinks in Search Results",
+            "Category": "SEO",
+            "Description": "Google is testing black sitelinks in its search results, deviating from the traditional blue color. The visual change aims to improve the readability and user experience of search result snippets.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803122001722409423",
                 "https://twitter.com/rustybrick/status/1803061603488891085",
                 "https://twitter.com/rustybrick/status/1803022596587638848"
             ]
         },
         {
-            "Title": "Reddit Launches Updated Conversation Ads",
+            "Title": "Case Study: How Recent Google Updates Affect Good SEO Practices",
+            "Category": "SEO",
+            "Description": "A new case study examines the impact of recent Google algorithm updates on websites implementing good SEO practices. The study analyzes factors like page update frequency, schema usage, anchor text, and page titles to understand the effects of these updates.",
+            "Links": [
+                "https://twitter.com/CyrusShepard/status/1803118579333857675"
+            ]
+        },
+        {
+            "Title": "Genspark Emerges as Latest AI-Powered Search Engine Contender",
+            "Category": "Artificial Intelligence",
+            "Description": "Genspark joins the growing field of AI-powered search engines, utilizing multiple specialized AI models to handle different query types. The platform's \"Sparkpages\" aim to provide comprehensive and informative search results.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1803108858828603739"
+            ]
+        },
+        {
+            "Title": "Google's Display & Video 360 API Receives Two New Updates",
             "Category": "Advertising",
-            "Description": "Reddit has introduced enhanced Conversation Ads with larger media formats, aiming to improve ad visibility and engagement within Reddit's comment sections. This update provides advertisers with new opportunities to reach Reddit's highly engaged user base.",
+            "Description": "Google updates its Display & Video 360 API, adding features for managing advertiser-level keyword targeting and an optimization objective field for insertion orders. These enhancements provide advertisers with more granular control over their campaigns.",
+            "Links": [
+                "https://searchengineland.com/google-display-video-360-api-updates-443306"
+            ]
+        },
+        {
+            "Title": "Daily Mail to Launch a Dozen YouTube Shows in 2024",
+            "Category": "Media",
+            "Description": "Daily Mail plans to expand its presence on YouTube with the launch of twelve new shows by the end of 2024. This move signifies the publication's commitment to long-form video content and reaching a wider audience.",
+            "Links": [
+                "https://digiday.com/media/daily-mail-plans-to-debut-a-dozen-youtube-shows-in-2024-in-long-form-video-push/"
+            ]
+        },
+        {
+            "Title": "Reddit Launches Updated Conversation Ads with Larger Media Placements",
+            "Category": "Advertising",
+            "Description": "Reddit introduces updated Conversation Ads, featuring larger media placements within the discussion element of Reddit posts. The enhanced ad format aims to improve visibility and engagement for advertisers.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1803041480489005089"
             ]
         },
         {
             "Title": "Google Discover Tests Bottom Search Bar in In-App Browser",
-            "Category": "Technology",
-            "Description": "Google is experimenting with a bottom-placed search bar within the in-app browser of its Discover feed. This change could potentially drive more search queries from Discover users and may indicate a broader shift towards bottom-positioned search bars in Google's mobile interfaces.",
+            "Category": "Search",
+            "Description": "Google Discover is experimenting with a bottom search bar in its in-app browser, potentially encouraging more queries and changing the search experience within the app.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1803034480938017111"
             ]
         },
         {
-            "Title": "Google Clarifies Use of Pound Signs (#) in Search Console Canonicalization Reports",
-            "Category": "SEO",
-            "Description": "Google's John Mueller has clarified that the presence of pound signs (#) in Google Search Console's canonicalization reports is not related to canonicalization issues. Instead, these symbols are used for reporting on sitelinks.",
+            "Title": "Google Gemini Expands to Android in India, iOS Rollout to Follow",
+            "Category": "Artificial Intelligence",
+            "Description": "Google launches its Gemini app for Android devices in India, supporting English and nine other languages. The app, powered by Google's most capable AI model, will soon be available for iOS devices.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803032662929490078"
+                "https://twitter.com/glenngabe/status/1803030777602376178"
             ]
         },
         {
-            "Title": "Google Maps Adds \"Edit\" and \"Post\" Buttons for Business Profile Management",
-            "Category": "Google Maps",
-            "Description": "Google Maps now features dedicated \"Edit\" and \"Post\" buttons within the interface for managing Google Business Profiles. This update simplifies the process for businesses to update their information and engage with customers directly on Google Maps.",
+            "Title": "Apple Updates Applebot Documentation with New Features and User Agents",
+            "Category": "SEO",
+            "Description": "Apple updates its Applebot documentation, introducing new features like Applebot-Extended, Reverse DNS lookups, and additional user agents. The updates provide more clarity and control for website owners regarding Applebot's crawling and indexing behavior.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803030146359705842"
+                "https://twitter.com/rustybrick/status/1802706765546430513",
+                "https://twitter.com/rustybrick/status/1802665242247512506"
             ]
         },
         {
-            "Title": "Google's John Mueller: Search Results Don't Always Reflect Original Source",
-            "Category": "SEO",
-            "Description": "Google's John Mueller has stated that the ranking of a piece of content in Google Search results does not necessarily indicate that Google considers it the original source. This clarification highlights the complexities of content attribution and ranking algorithms.",
+            "Title": "Google Updates Maps Contributor Policy on Fake Engagement",
+            "Category": "Local Search",
+            "Description": "Google revises its policy for Google Maps contributors, specifically addressing \"fake engagement.\" The updated guidelines aim to maintain the authenticity and reliability of user-generated content on Google Maps.",
             "Links": [
-                "https://www.seroundtable.com/google-search-results-original-source-37577.html",
-                "https://twitter.com/rustybrick/status/1803027629903401076"
+                "https://twitter.com/rustybrick/status/1802702991075561489",
+                "https://twitter.com/rustybrick/status/1802662725266329902"
             ]
         }
     ],
-    "date": "2024-06-18"
+    "date": "2024-06-19"
 }
