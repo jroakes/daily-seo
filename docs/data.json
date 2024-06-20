@@ -1,9 +1,74 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Reports: # Signs for Sitelinks, Not Canonicalization",
-            "Category": "SEO",
-            "Description": "Google clarified that the presence of \"#\" symbols in Google Search Console reports pertains to Sitelinks reporting and is not indicative of canonicalization issues.",
+            "Title": "Google AI Overviews Now Less Frequent, Research Shows",
+            "Category": "Search Engine Optimization",
+            "Description": "Research by @SERanking comparing pre and post-rollout results of AI Overviews on 100K keywords shows only 8.71% of keywords have AI Overviews vs 64% before release. Longer queries tend to trigger AIOs more.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1803501949053968595",
+                "https://twitter.com/aleyda/status/1803412802842906907"
+            ]
+        },
+        {
+            "Title": "Google Search Showing Fewer Reddit and Quora Links",
+            "Category": "Search Engine Optimization",
+            "Description": "Observation that Google Search appears to be displaying fewer links from Reddit and Quora in its search results, potentially indicating an algorithmic shift.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803499488981422082",
+                "https://twitter.com/rustybrick/status/1803439091008282997",
+                "https://www.seroundtable.com/google-search-showing-fewer-reddit-links-37590.html"
+            ]
+        },
+        {
+            "Title": "Google Explains When a Spike in Crawling Is Bad",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes explains that sudden spikes in crawling activity from Googlebot may indicate potential issues with a website, such as being hacked.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803491939192394057",
+                "https://www.searchenginejournal.com/is-google-crawling-your-site-a-lot-that-could-be-a-bad-sign/520188/",
+                "https://twitter.com/rustybrick/status/1803431541298622579",
+                "https://www.seroundtable.com/google-spike-in-crawling-is-bad-37589.html"
+            ]
+        },
+        {
+            "Title": "Google Testing \"People Also Ask\" With 6 Default Questions",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing a change to its search results page where the \"People also ask\" section defaults to showing 6 questions instead of 4.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803488164541063656",
+                "https://twitter.com/rustybrick/status/1803427766777327751"
+            ]
+        },
+        {
+            "Title": "Google Adds Menu Button to Some Local Panels in Search",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is adding a menu button to some local panels in search results, potentially improving user experience and providing more options for interacting with local business information.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803484389416091759",
+                "https://twitter.com/rustybrick/status/1803423991555826067"
+            ]
+        },
+        {
+            "Title": "Google AdSense Rolls Out New Privacy Features for US State Regulations",
+            "Category": "Digital Advertising",
+            "Description": "Google AdSense is introducing a new feature to help publishers comply with privacy regulations in various US states.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803481621359697965",
+                "https://twitter.com/rustybrick/status/1803421223571038593"
+            ]
+        },
+        {
+            "Title": "Technical SEO Skills Can Boost Salaries by up to $35k",
+            "Category": "Search Engine Optimization",
+            "Description": "Highlights the earning potential of SEO professionals with specific skill sets, such as technical SEO and analytics, which are in high demand.",
+            "Links": [
+                "https://www.techspot.com/news/103461-working-seo-skill-set-can-boost-salary-up.html"
+            ]
+        },
+        {
+            "Title": "Google Search Console Reports: Pound Signs (#) Not Related to Canonicalization",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller clarifies that the pound signs (#) appearing in Google Search Console reports are not related to canonicalization, but instead to Google's tracking of on-page sitelinks.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803076703226401178",
                 "https://twitter.com/rustybrick/status/1803032662929490078",
@@ -11,95 +76,101 @@
             ]
         },
         {
-            "Title": "Google Search Testing Black Sitelinks",
-            "Category": "SEO",
-            "Description": "Google is experimenting with the appearance of sitelinks in search results by testing black-colored sitelinks.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1803122001722409423",
-                "https://twitter.com/rustybrick/status/1803061603488891085",
-                "https://twitter.com/rustybrick/status/1803022596587638848"
-            ]
-        },
-        {
-            "Title": "Google Maps Introduces New \"Edit\" and \"Post\" Buttons for Business Profiles",
+            "Title": "Google Maps Adds New \"Edit\" and \"Post\" Buttons for Business Profiles",
             "Category": "Local Search",
-            "Description": "Google Maps now features dedicated \"edit\" and \"post\" buttons within the interface, providing businesses with easier access to manage their Business Profile listings.",
+            "Description": "Google Maps is adding new \"edit\" and \"post\" buttons to the interface for managing Google Business Profile listings, making it easier for businesses to update their information.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803133326263476316",
                 "https://twitter.com/rustybrick/status/1803072928336249283",
                 "https://twitter.com/rustybrick/status/1803030146359705842"
             ]
         },
         {
-            "Title": "Google Ads Limits Credit Card Payments for Some Advertisers",
-            "Category": "Advertising",
-            "Description": "Google Ads is transitioning some advertisers away from credit card payments, requiring them to use ACH, check, or wire transfer methods instead, potentially to reduce credit card processing fees.",
+            "Title": "Google Search Results Don't Always Show Original Source, Says Mueller",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller stated that the search results displayed by Google do not always reflect the original source of the content, as determined by Google's algorithms.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803136118755307531",
-                "https://twitter.com/rustybrick/status/1802667758523494791"
+                "https://twitter.com/rustybrick/status/1803069153592451126",
+                "https://www.seroundtable.com/google-search-results-original-source-37577.html",
+                "https://twitter.com/rustybrick/status/1803027629903401076"
             ]
         },
         {
-            "Title": "Bing Webmaster Tools Can Display CTR Above 100%",
-            "Category": "SEO",
-            "Description": "Bing Webmaster Tools may show click-through rates (CTR) exceeding 100% due to instances where users click multiple times on the same search result listing.",
+            "Title": "Bing Webmaster Tools Can Show CTR Higher Than 100%",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing Webmaster Tools has the capability to display a click-through rate (CTR) exceeding 100% if a user clicks multiple times on the same search result within a session.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803125776839221376",
                 "https://twitter.com/rustybrick/status/1803065378966274224",
                 "https://twitter.com/rustybrick/status/1803025113064865929"
             ]
         },
         {
-            "Title": "Google Search Results May Not Always Highlight Original Source of Content",
-            "Category": "SEO",
-            "Description": "John Mueller from Google stated that achieving a high ranking in search results doesn't necessarily guarantee that the displayed content originates from that specific source.",
+            "Title": "Google Testing Black Sitelinks in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is currently experimenting with a new visual design for sitelinks in its search results, where the sitelinks are displayed in a black color.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1803129551272436114",
-                "https://twitter.com/rustybrick/status/1803069153592451126",
-                "https://www.seroundtable.com/google-search-results-original-source-37577.html"
+                "https://twitter.com/rustybrick/status/1803061603488891085",
+                "https://twitter.com/rustybrick/status/1803022596587638848"
             ]
         },
         {
-            "Title": "Reddit Enhances Conversation Ads with Larger Media and Improved Placement",
-            "Category": "Advertising",
-            "Description": "Reddit has updated its Conversation Ads format, incorporating larger media elements and optimizing their placement within Reddit posts to enhance visibility and engagement.",
+            "Title": "Leaked Google Documents Suggest Keyword Density Still Matters in SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "\"Keyword stuffing\" is a discarded optimization tactic. Leaked Google documents suggest otherwise.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1803041480489005089"
+                "https://www.practicalecommerce.com/keyword-density-matters-in-seo",
+                "https://theoklahoma100.com/?p=21884",
+                "https://www.inc.com/entrepreneurs-organization/5-key-takeaways-from-googles-api-leak-to-boost-your-companys-search-ranking.html",
+                "https://theweek.com/tech/google-seo-algorithm-leak"
             ]
         },
         {
-            "Title": "Google Discover's In-App Browser Tests Bottom Search Bar",
-            "Category": "Search",
-            "Description": "Google is experimenting with a bottom-placed search bar within the Google Discover app's in-app browser, potentially aiming to encourage more search queries from users.",
+            "Title": "TikTok Ads to Feature AI Avatars of Creators and Stock Actors",
+            "Category": "Digital Advertising",
+            "Description": "TikTok is introducing AI-generated avatars for use in advertisements, allowing brands to feature virtual representations of creators and stock actors in their campaigns.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1803034480938017111"
+                "https://twitter.com/glenngabe/status/1802740139057127752"
             ]
         },
         {
-            "Title": "Google Launches Gemini App for Android in India, iOS Rollout to Follow",
-            "Category": "AI",
-            "Description": "Google has released its Gemini AI app for Android devices in India, supporting English and nine other languages. The app is expected to become available on iOS devices soon.",
+            "Title": "YouTube Begins Testing \"Notes\" Feature for Videos",
+            "Category": "Online Video",
+            "Description": "YouTube is rolling out a new feature called \"Notes,\" allowing creators to add text-based annotations to their videos, enhancing viewer engagement and providing additional context.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1803030777602376178"
+                "https://twitter.com/glenngabe/status/1802738716252786961"
             ]
         },
         {
-            "Title": "Google Chrome for Android Rolls Out \"Listen to This Page\" Feature",
-            "Category": "Accessibility",
-            "Description": "Google Chrome for Android users can now utilize a new \"Listen to this page\" feature, enabling the browser to read aloud text-heavy web pages for improved accessibility.",
+            "Title": "Runway Unveils Gen-3 Alpha: AI Model Generates Realistic 10-Second Video Clips",
+            "Category": "Artificial Intelligence",
+            "Description": "Runway has released Gen-3 Alpha, an AI model capable of generating high-quality, realistic video clips up to 10 seconds in length, advancing the capabilities of text-to-video technology.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1802737905556693257"
+            ]
+        },
+        {
+            "Title": "Google Chrome for Android Testing \"Listen to This Page\" Feature",
+            "Category": "Web Browsing",
+            "Description": "Google is testing a new feature for its Chrome browser on Android devices that enables users to listen to text-heavy web pages, providing a convenient alternative to reading.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1802674917776715963"
             ]
         },
         {
-            "Title": "Apple Updates Applebot Documentation with Applebot-Extended and More",
-            "Category": "SEO",
-            "Description": "Apple has revised its Applebot documentation, introducing Applebot-Extended, a user agent that allows websites to prevent their content from being used for training Apple's AI models.",
+            "Title": "Gaming Innovation Group Acquires SEO Specialist Titan for \u20ac3.2 Million",
+            "Category": "Mergers and Acquisitions",
+            "Description": "Gaming Innovation Group (GiG) has acquired Titan, a company specializing in SEO and content services, for a total consideration of \u20ac3.2 million.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1802706765546430513",
-                "https://twitter.com/rustybrick/status/1802665242247512506"
+                "https://igamingbusiness.com/strategy/ma/gig-to-acquire-seo-specialist-titan/"
+            ]
+        },
+        {
+            "Title": "Google's Gary Illyes Offers Unconventional Advice on Fixing Broken Backlinks",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes has provided an unexpected response to a question about addressing broken backlinks, suggesting an alternative approach to resolving the issue.",
+            "Links": [
+                "https://www.searchenginejournal.com/fixing-broken-backlinks/519732/"
             ]
         }
     ],
-    "date": "2024-06-19"
+    "date": "2024-06-20"
 }
