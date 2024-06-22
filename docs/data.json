@@ -1,65 +1,61 @@
 {
     "data": [
         {
-            "Title": "Google Releases June 2024 Spam Update",
+            "Title": "Google Launches June 2024 Spam Update",
             "Category": "Search Engine Optimization",
-            "Description": "Google has begun rolling out its June 2024 spam update, a broad effort to combat spam in search results. The update is expected to take a week to fully roll out and may impact website rankings. This update is separate from the algorithmic part of the \"site reputation abuse\" enforcement.",
+            "Description": "Google has released a new spam update targeting websites that engage in spammy practices. The update is expected to impact search rankings and could take up to a week to fully roll out.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1803810550809346459",
-                "https://twitter.com/rustybrick/status/1803810463353819646",
-                "https://www.searchenginejournal.com/google-launches-june-2024-spam-update/520281/"
+                "https://twitter.com/rustybrick/status/1804119826580885749",
+                "https://www.searchenginejournal.com/google-launches-june-2024-spam-update/520281/",
+                "https://twitter.com/aleyda/status/1803814981407752243"
             ]
         },
         {
-            "Title": "Google Search Experiences Indexing Issues",
+            "Title": "Google's AI Overviews Are Changing Search Engine Optimization",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search encountered an indexing issue that prevented new content from being indexed and served for several major websites, including WSJ, NYT, CNN, and Forbes. The issue was acknowledged and resolved by Google. ",
+            "Description": "Google\u2019s AI Overviews (AIOs) has disrupted eCommerce, forcing online retailers to rethink their search strategies. PYMNTS breaks it down.",
+            "Links": [
+                "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/",
+                "https://searchengineland.com/google-ai-overviews-analyses-443392",
+                "https://twitter.com/aleyda/status/1803501949053968595"
+            ]
+        },
+        {
+            "Title": "Google Search Indexing Issues Impact Major Websites",
+            "Category": "Search Engine Optimization",
+            "Description": "Tweet from @rustybrick reporting a Google Search indexing issue affecting major websites.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803925912720642536",
-                "https://twitter.com/rustybrick/status/1804089368618893530",
-                "https://twitter.com/glenngabe/status/1804111915376885775"
-            ]
-        },
-        {
-            "Title": "Google Tests New Search Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with several new search features, including a floating search bar in Google Discover, a default of six results instead of four for \"People also ask,\" and a \"latest deals\" filter showing deals from the past 24 hours.  ",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1803488164541063656",
-                "https://twitter.com/rustybrick/status/1803749888804675601",
-                "https://twitter.com/rustybrick/status/1804112276917571985"
+                "https://twitter.com/rustybrick/status/1803939915287400480",
+                "https://twitter.com/rustybrick/status/1804089368618893530"
             ]
         },
         {
             "Title": "Google Maps Exploit Allows Manipulation of Business Listings",
             "Category": "Local Search",
-            "Description": "A Google Maps exploit allows individuals to move competitors' map pins, resulting in a drop in local rankings and potential business suspension. The issue has persisted for months and raises concerns about the platform's vulnerability to manipulation. ",
+            "Description": "Google Maps exploit lets you move your competitors map pin far away, resulting in their local rankings drops & even your business being suspended seroundtable.com/google-map-pin\u2026",
             "Links": [
+                "https://twitter.com/rustybrick/status/1803854327154389224",
                 "https://twitter.com/rustybrick/status/1803793929034145816",
-                "https://twitter.com/glenngabe/status/1803759784304246799",
-                "https://twitter.com/rustybrick/status/1803752405621784882"
+                "https://twitter.com/glenngabe/status/1803759784304246799"
             ]
         },
         {
-            "Title": "Google's AI Overviews See Reduced Prominence in Search Results",
+            "Title": "Google Search Algorithm Leaked: An SEO Game-Changer?",
             "Category": "Search Engine Optimization",
-            "Description": "Recent analyses indicate that Google's AI Overviews are appearing less frequently in search results, now showing up for an average of 7-9% of queries. Additionally, Reddit is no longer among the top 10 most cited domains within these overviews. ",
+            "Description": "While Google has provided some insights on how its algorithm works in ranking web pages, most strategies we know are still based on studies and trials of marketers and SEO experts.",
             "Links": [
-                "https://twitter.com/aleyda/status/1803501949053968595",
-                "https://www.seroundtable.com/google-dials-back-ai-overviews-in-search-results-study-finds/520309/",
-                "https://searchengineland.com/google-ai-overviews-analyses-443392"
+                "https://theoklahoma100.com/?p=21884"
             ]
         },
         {
-            "Title": "Google Emphasizes Ecommerce and User-Generated Content in Search",
+            "Title": "Technical SEO Skills Can Lead to Higher Salaries",
             "Category": "Search Engine Optimization",
-            "Description": "A recent study reveals a shift in Google's search results, with ecommerce sites and user-generated content gaining visibility while product review sites experience a decline. This suggests a growing emphasis on providing users with direct access to products and authentic experiences. ",
+            "Description": "Article highlighting an in-demand SEO skill set that can significantly increase salaries, focusing on technical SEO, website performance analysis, and analytics configuration.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1803411729457496237",
-                "https://www.searchenginejournal.com/study-google-favors-ecommerce-sites-user-generated-content/520326/",
-                "https://twitter.com/aleyda/status/1803067979598332309"
+                "https://www.techspot.com/news/103461-working-seo-skill-set-can-boost-salary-up.html"
             ]
         }
     ],
-    "date": "2024-06-21"
+    "date": "2024-06-22"
 }
