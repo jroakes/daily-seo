@@ -6,34 +6,52 @@
             "Description": "Google has released a new spam update targeting websites that engage in spammy practices. The update is expected to impact search rankings and could take up to a week to fully roll out.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1804119826580885749",
-                "https://www.searchenginejournal.com/google-launches-june-2024-spam-update/520281/",
-                "https://twitter.com/aleyda/status/1803814981407752243"
+                "https://twitter.com/glenngabe/status/1803810550809346459",
+                "https://www.searchenginejournal.com/google-launches-june-2024-spam-update/520281/"
             ]
         },
         {
-            "Title": "Google's AI Overviews Are Changing Search Engine Optimization",
+            "Title": "Google's AI Overviews Shaking Up Ecommerce SEO",
             "Category": "Search Engine Optimization",
             "Description": "Google\u2019s AI Overviews (AIOs) has disrupted eCommerce, forcing online retailers to rethink their search strategies. PYMNTS breaks it down.",
             "Links": [
                 "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/",
-                "https://searchengineland.com/google-ai-overviews-analyses-443392",
-                "https://twitter.com/aleyda/status/1803501949053968595"
+                "https://searchengineland.com/google-ai-overviews-analyses-443392"
             ]
         },
         {
-            "Title": "Google Search Indexing Issues Impact Major Websites",
+            "Title": "Google Search Experiencing Indexing Issues",
             "Category": "Search Engine Optimization",
-            "Description": "Tweet from @rustybrick reporting a Google Search indexing issue affecting major websites.",
+            "Description": "Google Search is experiencing an indexing issue affecting major websites, with reports of new content not being indexed or served. Google has acknowledged the issue and is working on a fix.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803925912720642536",
                 "https://twitter.com/rustybrick/status/1803939915287400480",
-                "https://twitter.com/rustybrick/status/1804089368618893530"
+                "https://twitter.com/glenngabe/status/1804111915376885775"
+            ]
+        },
+        {
+            "Title": "Google Search Image Thumbnails Disappear for Some Sites",
+            "Category": "Search Engine Optimization",
+            "Description": "If a website's image thumbnails have disappeared from Google Search snippets, it is likely due to quality issues with the site rather than technical problems, according to Google's John Mueller.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1804117309893583344",
+                "https://twitter.com/glenngabe/status/1804127168089260174"
+            ]
+        },
+        {
+            "Title": "Google Tests New Features in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is experimenting with several new features in its search results, including a \"latest deals\" section, a floating search bar in Discover, and the display of both \"Top-quality store\" and \"shop rating\" labels in snippets.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1803850552368910512",
+                "https://twitter.com/rustybrick/status/1804112276917571985",
+                "https://twitter.com/rustybrick/status/1803846777314889873"
             ]
         },
         {
             "Title": "Google Maps Exploit Allows Manipulation of Business Listings",
             "Category": "Local Search",
-            "Description": "Google Maps exploit lets you move your competitors map pin far away, resulting in their local rankings drops & even your business being suspended seroundtable.com/google-map-pin\u2026",
+            "Description": "A Google Maps exploit has been discovered that allows individuals to move competitors' map pins, potentially harming their local rankings and even leading to business suspensions.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803854327154389224",
                 "https://twitter.com/rustybrick/status/1803793929034145816",
@@ -41,19 +59,27 @@
             ]
         },
         {
-            "Title": "Google Search Algorithm Leaked: An SEO Game-Changer?",
-            "Category": "Search Engine Optimization",
-            "Description": "While Google has provided some insights on how its algorithm works in ranking web pages, most strategies we know are still based on studies and trials of marketers and SEO experts.",
+            "Title": "Google Local Service Ads Coming to Google Maps",
+            "Category": "Local Search",
+            "Description": "Google is rolling out Local Service Ads within Google Maps, starting with iOS devices. Businesses cannot opt out of these ads without completely disabling Local Service Ads.",
             "Links": [
-                "https://theoklahoma100.com/?p=21884"
+                "https://twitter.com/rustybrick/status/1804109760200888549"
             ]
         },
         {
-            "Title": "Technical SEO Skills Can Lead to Higher Salaries",
-            "Category": "Search Engine Optimization",
-            "Description": "Article highlighting an in-demand SEO skill set that can significantly increase salaries, focusing on technical SEO, website performance analysis, and analytics configuration.",
+            "Title": "Publishers Seek to Capitalize on Amazon Prime Day 2024",
+            "Category": "Ecommerce",
+            "Description": "Publishers are implementing three key strategies to maximize affiliate commerce revenue during Amazon Prime Day 2024, leveraging lessons learned from the previous year.",
             "Links": [
-                "https://www.techspot.com/news/103461-working-seo-skill-set-can-boost-salary-up.html"
+                "https://digiday.com/media/three-strategies-publishers-are-adopting-to-drive-affiliate-commerce-revenue-for-amazon-prime-day-2024/"
+            ]
+        },
+        {
+            "Title": "The Trade Desk Blocks Yahoo Video Inventory",
+            "Category": "Digital Advertising",
+            "Description": "The Trade Desk has cut open marketplace access to Yahoo\u2019s video inventory in an ongoing dispute over how inventory is represented.",
+            "Links": [
+                "https://digiday.com/media/the-trade-desk-shuts-advertisers-access-to-yahoos-video-content/"
             ]
         }
     ],
