@@ -6,12 +6,56 @@
             "Description": "Google released a spam update in June 2024. Details about the update are still emerging.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1804163866651222349",
-                "https://twitter.com/glenngabe/status/1804128752097521693",
+                "https://twitter.com/glenngabe/status/1803810550809346459",
                 "https://www.searchenginejournal.com/google-launches-june-2024-spam-update/520281/"
             ]
         },
         {
-            "Title": "Google Universal Analytics Shutdown",
+            "Title": "Google Search Indexing Issue Resolved",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has addressed a recent indexing issue that was impacting the visibility of new content on the search engine. The issue was acknowledged by Google and documented on its Search Status dashboard.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1804089368618893530",
+                "https://twitter.com/rustybrick/status/1804119791029903678"
+            ]
+        },
+        {
+            "Title": "Google AI Overviews Showing Less Often",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI Overviews are appearing less frequently in search results, now showing up for an average of 7-9% of queries. Additionally, Reddit is no longer among the top 10 most cited domains in these overviews.",
+            "Links": [
+                "https://searchengineland.com/google-ai-overviews-analyses-443392",
+                "https://www.searchenginejournal.com/google-dials-back-ai-overviews-in-search-results-study-finds/520309/"
+            ]
+        },
+        {
+            "Title": "Google Tests Floating Search Bar in Discover",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing a floating search bar in the Google Discover results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1804152542395535762",
+                "https://twitter.com/rustybrick/status/1804112276917571985"
+            ]
+        },
+        {
+            "Title": "Google to Make Movie and TV Reviews Public",
+            "Category": "Google Products",
+            "Description": "Starting on June 24th, Google will make users' movie and TV reviews public under a new profile page.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804122914880389598"
+            ]
+        },
+        {
+            "Title": "Local Service Ads Coming to Google Maps",
+            "Category": "Advertising",
+            "Description": "Local Service Ads are being integrated into Google Maps on iOS devices, providing businesses with another avenue to reach potential customers. However, there is currently no option to opt out of this feature without disabling Local Service Ads entirely.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1804148767719068025",
+                "https://twitter.com/rustybrick/status/1804109760200888549"
+            ]
+        },
+        {
+            "Title": "Universal Analytics Data to be Deleted July 1",
             "Category": "Web Analytics",
             "Description": "July 1: Users will lose access to Universal Analytics data and interface. After July 1: All Universal Analytics data will be permanently deleted.",
             "Links": [
@@ -19,46 +63,13 @@
             ]
         },
         {
-            "Title": "Google AI Overviews Impacting E-commerce SEO",
+            "Title": "Google Image Thumbnails Disappearing from Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Google\u2019s AI Overviews (AIOs) has disrupted eCommerce, forcing online retailers to rethink their search strategies.",
+            "Description": "Google may be removing image thumbnails from search result snippets due to quality issues with the website.",
             "Links": [
-                "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/"
-            ]
-        },
-        {
-            "Title": "Google Search Indexing Issues",
-            "Category": "Search Engine Optimization",
-            "Description": "A significant Google Search issue is preventing new content from being indexed and served, affecting major websites like The Wall Street Journal, The New York Times, CNN, and Forbes.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1803925912720642536",
-                "https://twitter.com/rustybrick/status/1804089368618893530"
-            ]
-        },
-        {
-            "Title": "Google Search Algorithm Updates and Tests",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing a variety of new features and updates to its search algorithm, including changes to image thumbnails, \"People Also Ask\" results, Local Service Ads, and more.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1804220489809776838",
                 "https://twitter.com/rustybrick/status/1804160091945357718",
-                "https://twitter.com/rustybrick/status/1804152542395535762",
-                "https://twitter.com/rustybrick/status/1804148767719068025"
-            ]
-        },
-        {
-            "Title": "Google Maps Exploit Allows Manipulation of Business Locations",
-            "Category": "Local Search",
-            "Description": "A Google Maps exploit allows users to manipulate the location of competitors' map pins, potentially impacting their local rankings and even leading to suspensions.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1803854327154389224"
-            ]
-        },
-        {
-            "Title": "Apple Delays Features in EU Due to DMA Concerns",
-            "Category": "Technology and Regulation",
-            "Description": "Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA's interoperability requirements \"Because the DMA allegedly forces it to downgrade the security of its products and services\"",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804484579849334823"
+                "https://twitter.com/rustybrick/status/1804117309893583344"
             ]
         }
     ],
