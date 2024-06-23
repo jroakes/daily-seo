@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Launches June 2024 Spam Update",
+            "Title": "Google Releases June 2024 Spam Update",
             "Category": "Search Engine Optimization",
-            "Description": "Google has released its June 2024 spam update, a broad update targeting various forms of spam. The update is expected to take about a week to fully roll out.  While the specific details are still emerging, it is not believed to be related to the 'site reputation abuse' enforcement or link spam.",
+            "Description": "Google released a spam update in June 2024. Details about the update are still emerging.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1804163866651222349",
                 "https://twitter.com/glenngabe/status/1804128752097521693",
@@ -11,79 +11,45 @@
             ]
         },
         {
-            "Title": "Google Search Experiencing Indexing Issues",
+            "Title": "Google Search Indexing Issue Resolved",
             "Category": "Search Engine Optimization",
-            "Description": "A significant issue with Google Search is preventing new content from being indexed and served.  The problem is affecting major websites, including The Wall Street Journal, The New York Times, CNN, and Forbes.  Google has acknowledged the issue and is working on a resolution.",
-            "Link": [
-                "https://twitter.com/rustybrick/status/1803925912720642536"
+            "Description": "Google has addressed a recent indexing issue that was impacting the visibility of new content on the search engine. The issue was acknowledged by Google and documented on its Search Status dashboard.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1804089368618893530",
+                "https://twitter.com/rustybrick/status/1804119791029903678"
             ]
         },
         {
-            "Title": "Google Universal Analytics To Stop Processing Data July 1st",
+            "Title": "Google's AI Overviews Showing Less Often",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's AI Overviews are appearing less frequently in search results, now showing up for an average of 7-9% of queries. Additionally, Reddit is no longer among the top 10 most cited domains in these overviews.",
+            "Links": [
+                "https://searchengineland.com/google-ai-overviews-analyses-443392",
+                "https://www.searchenginejournal.com/google-dials-back-ai-overviews-in-search-results-study-finds/520309/"
+            ]
+        },
+        {
+            "Title": "Google to Make Movie and TV Reviews Public",
+            "Category": "Google Products",
+            "Description": "Starting on June 24th, Google will make users' movie and TV reviews public under a new profile page.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804122914880389598"
+            ]
+        },
+        {
+            "Title": "Universal Analytics Data to be Deleted July 1st",
             "Category": "Web Analytics",
-            "Description": "Google is reminding users that Universal Analytics will stop processing data on July 1st. After this date, users will lose access to the Universal Analytics data and interface. All Universal Analytics data will be permanently deleted.",
+            "Description": "July 1: Users will lose access to Universal Analytics data and interface. After July 1: All Universal Analytics data will be permanently deleted.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1804493203665555824"
             ]
         },
         {
-            "Title": "Google AI Overviews Decline in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Recent analyses indicate that Google's AI Overviews are appearing less frequently in search results, now showing up for an average of 7-9% of queries. Additionally, Reddit is no longer among the top 10 most cited domains in these overviews.",
+            "Title": "Local Service Ads Coming to Google Maps",
+            "Category": "Advertising",
+            "Description": "Local Service Ads are being integrated into Google Maps on iOS devices, providing businesses with another avenue to reach potential customers. However, there is currently no option to opt out of this feature without disabling Local Service Ads entirely.",
             "Links": [
-                "https://searchengineland.com/google-ai-overviews-analyses-443392"
-            ]
-        },
-        {
-            "Title": "Google Search Image Thumbnails Disappear Due to Quality Issues",
-            "Category": "Search Engine Optimization",
-            "Description": "Google may be removing image thumbnails from search result snippets due to quality issues with websites. John Mueller from Google confirmed that this is likely due to quality issues and not technical problems.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1804220489809776838",
-                "https://twitter.com/rustybrick/status/1804160091945357718",
-                "https://twitter.com/rustybrick/status/1804117309893583344"
-            ]
-        },
-        {
-            "Title": "Sudden Spikes and Drops in Google Search Console Indexing Data",
-            "Category": "Search Engine Optimization",
-            "Description": "Website owners are often concerned by sudden spikes and drops in their Google Search Console indexing data.  Recent analysis suggests that these fluctuations may be related to reporting anomalies rather than actual SEO issues. ",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804138149783679310",
-                "https://twitter.com/glenngabe/status/1803851465100005649"
-            ]
-        },
-        {
-            "Title": "Google Maps Exploit Allows Manipulation of Business Locations",
-            "Category": "Local Search",
-            "Description": "A newly discovered exploit in Google Maps allows users to manipulate the location of competitors' map pins. This could potentially impact local rankings and even lead to suspensions. The vulnerability raises concerns about the integrity of Google Maps data.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1803854327154389224"
-            ]
-        },
-        {
-            "Title": "Local Service Ads Coming to Google Maps on iOS",
-            "Category": "Local Search",
-            "Description": "Google is integrating Local Service Ads into Google Maps on iOS devices. This provides businesses with another avenue to reach potential customers. However, there is currently no option to opt out of this feature without disabling Local Service Ads entirely.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1804148767719068025",
                 "https://twitter.com/rustybrick/status/1804109760200888549"
-            ]
-        },
-        {
-            "Title": "Apple Delays Release of Features in EU Due to DMA Concerns",
-            "Category": "Technology",
-            "Description": "Apple has announced that it will withhold the release of several features, including Apple Intelligence and iPhone Mirroring, in the EU this year. The company cites concerns about the DMA's interoperability requirements, claiming they would force Apple to \"downgrade the security of its products and services.\"",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804484579849334823"
-            ]
-        },
-        {
-            "Title": "Perplexity CEO Responds to Plagiarism Allegations",
-            "Category": "Artificial Intelligence",
-            "Description": "Perplexity CEO Aravind Srinivas has responded to allegations of plagiarism, stating that the company does not ignore robots.txt but relies on a third-party web crawler for indexing. This has raised concerns about the source and ethics of the data used by Perplexity's AI.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804485713276109036"
             ]
         }
     ],
