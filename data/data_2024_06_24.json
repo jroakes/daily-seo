@@ -1,0 +1,387 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Google Search Processed A Billion DMCA Takedowns In Four Months",
+            "Description": "Google Search's takedown department is facing the busiest year ever. The all-time takedown total has just surged to nine billion, adding the latest billion in just four months.",
+            "Link": "https://twitter.com/glenngabe/status/1804855872205504875"
+        },
+        {
+            "Title": "Shopify merchants may not be using AI tools correctly",
+            "Description": "Shopify rolled out AI tools for merchants in 2023, but that doesn't mean merchants will use them correctly.  Some merchants are seeing AI-generated content that may not be accurate or relevant to their business.",
+            "Link": "https://twitter.com/glenngabe/status/1804849175269445782"
+        },
+        {
+            "Title": "Is Google the only big consumer AI company with the incentive to protect the basic norms of the web?",
+            "Description": "Everyone always talks about Google, ai and search from the innovators dilemma pov. Can\u2019t kill the golden goose. The more interesting angle is that Google is the only big consumer ai company with the incentive to protect the basic norms of the web.",
+            "Link": "https://twitter.com/bryanfcasey/status/1804844999437107229"
+        },
+        {
+            "Title": "Sudden spike in indexing in Google Search Console might be totally fine",
+            "Description": "If you see a sudden spike in indexing in GSC, and you're worried it could impact quality, it might be totally fine. The answer might be right under your nose (just a little further down the page",
+            "Link": "https://twitter.com/glenngabe/status/1804500627000582561"
+        },
+        {
+            "Title": "Scenarios requiring \"advanced\" SEO skills",
+            "Description": "A few main scenarios that require more than the \u201cbasic\u201d SEO skills due to the challenges / complexities they tend to have: 1. New (or far weaker) brand/site in very competitive search market, with the main challenge",
+            "Link": "https://twitter.com/aleyda/status/1804496669758611638"
+        },
+        {
+            "Title": "Create your Gemini-based chatbot using natural language",
+            "Description": "Google is seeking to patent a system for chatbot development using \u201cstructured description-based\u201d techniques. Google\u2019s tech basically allows a user to create a fine-tuned chatbot for specific tasks using just natural language.",
+            "Link": "https://twitter.com/glenngabe/status/1804494941588005218"
+        },
+        {
+            "Title": "Google turns off Universal Analytics July 1: What you need to know",
+            "Description": "July 1: Users will lose access to Universal Analytics data and interface. After July 1: All Universal Analytics data will be permanently deleted.",
+            "Link": "https://twitter.com/glenngabe/status/1804493203665555824"
+        },
+        {
+            "Title": "Amazon considers monthly price tag for revamped Alexa with generative AI features",
+            "Description": "Amazon has considered a $5 to $10 monthly price tag for a revamped Alexa with generative AI features, dubbed \u201cRemarkable Alexa\"",
+            "Link": "https://twitter.com/glenngabe/status/1804486666746318972"
+        },
+        {
+            "Title": "Perplexity uses third-party web crawler that ignores robots.txt",
+            "Description": "In response to plagiarism allegations, Perplexity CEO Aravind Srinivas says the company \u201cis not ignoring\u201d robots.txt, but does rely on third-party web crawlers to index content.",
+            "Link": "https://twitter.com/glenngabe/status/1804485713276109036"
+        },
+        {
+            "Title": "Apple withholds release of Apple Intelligence, iPhone Mirroring, and more in EU",
+            "Description": "Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA's interoperability requirements",
+            "Link": "https://twitter.com/glenngabe/status/1804484579849334823"
+        },
+        {
+            "Title": "Technical SEO Best Practices: How To Improve Discoverability, Crawlability & Rankings",
+            "Description": "Best practices for Core Web Vitals and accessibility that will create an enhanced user experience for your audience.",
+            "Link": "https://www.searchenginejournal.com/webinar-lp-technical-seo-best-practices-how-to-improve-discoverability-crawlability-rankings/"
+        },
+        {
+            "Title": "Online Merchants Scramble as Google\u2019s AI Overviews Shakes Up SEO",
+            "Description": "Google\u2019s AI Overviews (AIOs) has disrupted eCommerce, forcing online retailers to rethink their search strategies.",
+            "Link": "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/"
+        },
+        {
+            "Title": "SEO video recap covering Google June Spam update, Father\u2019s Day Google search volatility, AI Overviews tracking and FAQs, Google Maps exploit, Google Ads credit cards, Applebot changes and much more",
+            "Description": "SEO video recap covering Google June Spam update, Father\u2019s Day Google search volatility, AI Overviews tracking and FAQs, Google Maps exploit, Google Ads credit cards, Applebot changes and much more",
+            "Link": "https://twitter.com/rustybrick/status/1804228039603294339"
+        },
+        {
+            "Title": "Top 4 Free Keyword Research Tools Every SEO Should Know",
+            "Description": "Hundreds of keyword research tools exist, but many only offer costly services, deterring new SEOs.",
+            "Link": "https://www.digitalinformationworld.com/2024/06/top-4-free-keyword-research-tools-every.html"
+        },
+        {
+            "Title": "Google June 2024 spam update",
+            "Description": "Google June 2024 spam update",
+            "Link": "https://twitter.com/rustybrick/status/1804224264624820356"
+        },
+        {
+            "Title": "Did your images disappear in the Google Search result snippets?",
+            "Description": "Did your images disappear in the Google Search result snippets - it is likely a quality issues...",
+            "Link": "https://twitter.com/rustybrick/status/1804220489809776838"
+        },
+        {
+            "Title": "Google Safe Search FAQ",
+            "Description": "Google Safe Search FAQ",
+            "Link": "https://twitter.com/rustybrick/status/1804216714961522865"
+        },
+        {
+            "Title": "Google tests floating search bar in the Google Discover results",
+            "Description": "Google tests floating search bar in the Google Discover results",
+            "Link": "https://twitter.com/rustybrick/status/1804212940083728457"
+        },
+        {
+            "Title": "Local Service Ads coming to Google Maps",
+            "Description": "Local Service Ads coming to Google Maps",
+            "Link": "https://twitter.com/rustybrick/status/1804209165034033526"
+        },
+        {
+            "Title": "These are the 2024 SEO trends you need to know",
+            "Description": "If 2023 brought seismic shifts in how marketers approach their work, what can we expect for 2024?",
+            "Link": "https://www.aol.com/lifestyle/2024-seo-trends-know-173100359.html"
+        },
+        {
+            "Title": "The Trade Desk shuts advertisers' access to Yahoo's video content",
+            "Description": "The DSP cut open marketplace access to Yahoo\u2019s video in an ongoing dispute over how inventory is represented.",
+            "Link": "https://digiday.com/media/the-trade-desk-shuts-advertisers-access-to-yahoos-video-content/"
+        },
+        {
+            "Title": "Top SEO misconceptions debunked",
+            "Description": "SEO is constantly evolving, which makes it easy to get muddled by best-practice misconceptions. Take a look at the facts behind the biggest SEO fictions.",
+            "Link": "https://azbigmedia.com/business/marketing/top-seo-misconceptions-debunked/"
+        },
+        {
+            "Title": "Google June 2024 spam update",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804163866651222349"
+        },
+        {
+            "Title": "5 Ways To Help Google Find Your Content",
+            "Description": "We\u2019ll do a quick rundown of the 5 best ways to optimise your content for quality Google rankings to make them stand out from the crowd and expand your reach.",
+            "Link": "https://www.thecanary.co/discovery/business/2024/06/21/5-ways-to-help-google-find-your-content/"
+        },
+        {
+            "Title": "Google tests a more results button with a bit more design and query detail in the people also ask",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804160092096401479"
+        },
+        {
+            "Title": "Did your images disappear in the Google Search result snippets - it is likely a quality issues...",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804160091945357718"
+        },
+        {
+            "Title": "Google Safe Search FAQ",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804156316996219019"
+        },
+        {
+            "Title": "Google tests floating search bar in the Google Discover results",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804152542395535762"
+        },
+        {
+            "Title": "Local Service Ads coming to Google Maps",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804148767719068025"
+        },
+        {
+            "Title": "Google whiteboard logo signage",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804144992367354222"
+        },
+        {
+            "Title": "Corporate Search Engine Optimization Tools Market Size, Status, Global Outlook 2024 To 2032",
+            "Description": "The business intelligence report on Corporate Search Engine Optimization Tools Market defines the major trends determining this domain s growth with respect to competitive and geographical landscape Moreover the study covers the challenges that impede industry development and offers insights ...",
+            "Link": "https://www.openpr.com/news/3548436/corporate-search-engine-optimization-tools-market-size"
+        },
+        {
+            "Title": "It's a \"normal, broad spam update\", NOT the algorithmic part of the 'site reputation abuse' enforcement, not a link spam update (Google would have said that), and it could take a week to roll out.",
+            "Description": "None",
+            "Link": "https://twitter.com/glenngabe/status/1804128752097521693"
+        },
+        {
+            "Title": "SEO video recap covering Google June spam update, Father\u2019s Day Google search volatility, AI Overviews tracking and FAQs, Google Maps exploit, Google Ads credit cards, Applebot changes and much more",
+            "Description": "None",
+            "Link": "https://twitter.com/rustybrick/status/1804123565161173185"
+        },
+        {
+            "Title": "Starting on 6/24 Google is making your movie and TV reviews visible under a new profile page",
+            "Description": "None",
+            "Link": "https://twitter.com/glenngabe/status/1804122914880389598"
+        },
+        {
+            "Title": "SEO video recap covering Father\u2019s Day Google search volatility, AI Overviews tracking and FAQs, Google Maps exploit, Google Ads credit cards, Applebot changes and much more",
+            "Description": "SEO video recap covering Father\u2019s Day Google search volatility, AI Overviews tracking and FAQs, Google Maps exploit, Google Ads credit cards, Applebot changes and much more  Sponsored by @Wix with industry mentions of @glenngabe @johnmu @MordyOberstein",
+            "Link": "https://twitter.com/rustybrick/status/1804122419411456223"
+        },
+        {
+            "Title": "YouTube will ask iOS users to \u2018Allow\u2019 tracking for more personalized ads",
+            "Description": "YouTube will ask iOS users to \u2018Allow\u2019 tracking for more personalized ads \"In the near future (\u201cstarting soon\u201d), YouTube for iOS will show a one-time permission",
+            "Link": "https://twitter.com/glenngabe/status/1804121422429556877"
+        },
+        {
+            "Title": "Google June 2024 spam update takes target",
+            "Description": "Google June 2024 spam update takes target \ud83c\udfaf - here is what we know about this update so far seroundtable.com/google-june-20\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804119826580885749"
+        },
+        {
+            "Title": "Indexing bug resolved",
+            "Description": "This is now resolved and confirmed by Google as an indexing bug last night. Story updated at seroundtable.com/google-search-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804119791029903678"
+        },
+        {
+            "Title": "Anthropic launches Claude 3.5 Sonnet",
+            "Description": "3.5 Sonnet -> Anthropic launches Claude 3.5 Sonnet, which beats its flagship model Claude 3 Opus and outperforms GPT-4o in some tests, available for free on the web and iOS \"Alongside the new model, Anthropic is releasing what it\u2019s calling Artifacts, a workspace where users",
+            "Link": "https://twitter.com/glenngabe/status/1804119729545633837"
+        },
+        {
+            "Title": "Google Search image thumbnails in your snippets disappeared months ago?",
+            "Description": "Google Search image thumbnails in your snippets disappeared months ago? It is mostly likely not a technical issue but a quality issue with your site, says @JohnMu seroundtable.com/google-search-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804117309893583344"
+        },
+        {
+            "Title": "Google Safe Search FAQ posted",
+            "Description": "Google Safe Search FAQ posted seroundtable.com/google-safe-se\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804114793361739798"
+        },
+        {
+            "Title": "Google testing floating search bar in the Google Discover results",
+            "Description": "Google testing floating search bar in the Google Discover results seroundtable.com/google-discove\u2026 via @MordyOberstein",
+            "Link": "https://twitter.com/rustybrick/status/1804112276917571985"
+        },
+        {
+            "Title": "Recent indexing issue fixed",
+            "Description": "Quick update: If you were impacted by the recent indexing issue, it's been fixed. You might still see some delayed indexing issues, but Google said the problem was addressed.",
+            "Link": "https://twitter.com/glenngabe/status/1804111915376885775"
+        },
+        {
+            "Title": "Local Service Ads coming to Google Maps",
+            "Description": "Local Service Ads coming to Google Maps (on iOS for now) and there is no way to opt out of it without turning off LSAs completely seroundtable.com/google-maps-lo\u2026 via @seosavvyagent",
+            "Link": "https://twitter.com/rustybrick/status/1804109760200888549"
+        },
+        {
+            "Title": "Google Dublin whiteboard logo signage",
+            "Description": "Google Dublin whiteboard logo signage seroundtable.com/photos/google-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804106999623516342"
+        },
+        {
+            "Title": "Google clarified the product level return policy markup takes precedents",
+            "Description": "Google clarified the product level return policy markup takes precedents over the organization level return policy (no surprise there) story updated at seroundtable.com/google-organiz\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804096978827059561"
+        },
+        {
+            "Title": "Lies and conspiracies",
+            "Description": "RT by @rustybrick: Yesterday, some people chose to misconstrue what I said on stage at a conference that led to lies and conspiracies. I was able to get a recording of my talk so I can share what I actually said. I have nothing to hide here, so you\u2019re all welcome to have a listen.\u2026",
+            "Link": "https://twitter.com/lilyraynyc/status/1804092223622942745"
+        },
+        {
+            "Title": "The Google Search indexing issue is now fixed",
+            "Description": "The Google Search indexing issue is now fixed - Google confirmed the issue and a spokesperson sent me a statement - Google also documented it on its Search Status dashboard - story updated at seroundtable.com/google-search-\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1804089368618893530"
+        },
+        {
+            "Title": "260k Search Results Analyzed: Here's How Google Evaluates Your Content [Data Study]",
+            "Description": "Dive into an analysis of the SERPs to understand how Google evaluates content with the recent Helpful Content Update.",
+            "Link": "https://www.searchenginejournal.com/search-results-analyzed-how-google-evaluates-content/518998/"
+        },
+        {
+            "Title": "SEO in an age of zero-click searches / AI",
+            "Description": "RT by @aleyda: SEO folks finally starting to ask, \"in an age of zero-click searches / AI, where should I focus my energy when it's increasingly hard to drive traffic to my website?\"). The answer is, and always has been, building brands and promoting them. Influence recall and preference. 1/2",
+            "Link": "https://twitter.com/jonoalderson/status/1804050505640898747"
+        },
+        {
+            "Title": "\u201cIf our new product can eliminate your career, maybe you should never have had that career\u201d",
+            "Description": "RT by @aleyda: \u201cIf our new product can eliminate your career, maybe you should never have had that career\u201d is an absolutely wild position to take. The sheer arrogance and inability to read the room.",
+            "Link": "https://twitter.com/RobertFreundLaw/status/1804018008513523949"
+        },
+        {
+            "Title": "Why the Tribeca Film Festival embraced AI movies with OpenAI and Runway",
+            "Description": "The 2024 festival brought new dialogue about generative AI, from AI-generated films to feature-length documentaries about AI\u2019s risks and rewards.",
+            "Link": "https://digiday.com/media/why-the-tribeca-film-festival-embraced-ai-movies-with-openai-and-runway/"
+        },
+        {
+            "Title": "Influencer marketing firm Captiv8 looks to grow social commerce with brand storefront offering",
+            "Description": "Influencer marketing firm Captiv8 this week launched a brand storefront offering to expand creator commerce opportunities beyond social media.",
+            "Link": "https://digiday.com/media-buying/influencer-marketing-firm-captiv8-looks-to-grow-social-commerce-with-brand-storefront-offering/"
+        },
+        {
+            "Title": "Sugar23 pitches marketers on production in Cannes, using entertainment to 'telegraph what the brand is really about'",
+            "Description": "Brands need to produce entertainment that people would pay to consume rather than skip.",
+            "Link": "https://digiday.com/marketing/sugar23-pitches-marketers-on-production-in-cannes-using-entertainment-to-telegraph-what-the-brand-is-really-about/"
+        },
+        {
+            "Title": "Digiday Podcast at Cannes: Inside Instacart's plans to make every surface shoppable with CMO Laura Jones",
+            "Description": "Instacart is on a mission to make every surface shoppable, pitching that to advertisers at this year\u2019s Cannes Lions festival.",
+            "Link": "https://digiday.com/marketing/digiday-podcast-at-cannes-inside-instacarts-plans-to-make-every-surface-shoppable-with-cmo-laura-jones/"
+        },
+        {
+            "Title": "Three strategies publishers are adopting to drive affiliate commerce revenue for Amazon Prime Day 2024",
+            "Description": "Publishers like Cond\u00e9 Nast, Gallery Media Group and She Knows are taking what they learned from last year\u2019s Amazon Prime Day to shape their strategies this year in an effort to boost affiliate commerce revenue during the July shopping event.",
+            "Link": "https://digiday.com/media/three-strategies-publishers-are-adopting-to-drive-affiliate-commerce-revenue-for-amazon-prime-day-2024/"
+        },
+        {
+            "Title": "HR and marketing are more connected than they used to be",
+            "Description": "A highly competitive job market and the rise of employer branding have necessitated a closer collaboration between HR and marketing.",
+            "Link": "https://digiday.com/marketing/hr-and-marketing-are-more-connected-than-they-used-to-be/"
+        },
+        {
+            "Title": "Cannes Briefing: Sports hold full court at Cannes Lions 2024",
+            "Description": "Sports isn\u2019t just a sideshow at Cannes Lions 2024, it\u2019s taking center stage.",
+            "Link": "https://digiday.com/marketing/cannes-briefing-sports-hold-full-court-at-cannes-lions-2024/"
+        },
+        {
+            "Title": "Google Search indexing issue",
+            "Description": "RT @rustybrick: Google Search indexing issue - not seeing new content being indexed (or served) for sites as large as @WSJ @nytimes @cnnbrk\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1803925912720642536"
+        }
+    ],
+    "reviewed_urls": [
+        "https://twitter.com/aleyda/status/1804897597959671808",
+        "https://www.practicalecommerce.com/amazon-mid-2024-earnings-overview",
+        "https://twitter.com/glenngabe/status/1804855872205504875",
+        "https://twitter.com/glenngabe/status/1804849175269445782",
+        "https://twitter.com/bryanfcasey/status/1804844999437107229",
+        "https://twitter.com/aleyda/status/1804818539737428015",
+        "https://ca.news.yahoo.com/best-celebrity-chef-frozen-meal-181502520.html",
+        "https://variety.com/2024/artisans/news/inside-out-2-hidden-easter-eggs-elio-1236044267/",
+        "https://www.theroanokestar.com/2024/06/22/how-new-york-seo-agency-can-drive-foot-traffic-for-retail-stores/",
+        "https://twitter.com/glenngabe/status/1804500627000582561",
+        "https://twitter.com/aleyda/status/1804496669758611638",
+        "https://twitter.com/glenngabe/status/1804494941588005218",
+        "https://twitter.com/glenngabe/status/1804493203665555824",
+        "https://twitter.com/aleyda/status/1804486786766311689",
+        "https://twitter.com/glenngabe/status/1804486666746318972",
+        "https://twitter.com/glenngabe/status/1804485713276109036",
+        "https://twitter.com/glenngabe/status/1804484579849334823",
+        "https://worldofbuzz.com/kopi-bing-msian-radio-dj-gets-mistaken-as-fanbingbing-responds-with-pictures-of-herself-in-kebaya/",
+        "https://www.searchenginejournal.com/webinar-lp-technical-seo-best-practices-how-to-improve-discoverability-crawlability-rankings/",
+        "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/",
+        "https://www.themarysue.com/what-happened-to-bing-bong-in-inside-out-explained/",
+        "https://www.larkinmortuary.com/obituary/view/bing-zhang",
+        "https://twitter.com/rustybrick/status/1804228039603294339",
+        "https://www.digitalinformationworld.com/2024/06/top-4-free-keyword-research-tools-every.html",
+        "https://twitter.com/rustybrick/status/1804224264624820356",
+        "https://twitter.com/rustybrick/status/1804220489809776838",
+        "https://twitter.com/rustybrick/status/1804220489809776838",
+        "https://twitter.com/rustybrick/status/1804216714961522865",
+        "https://twitter.com/rustybrick/status/1804212940083728457",
+        "https://twitter.com/rustybrick/status/1804209165034033526",
+        "https://twitter.com/rustybrick/status/1804205390399242625",
+        "https://www.aol.com/lifestyle/2024-seo-trends-know-173100359.html",
+        "https://digiday.com/media/the-trade-desk-shuts-advertisers-access-to-yahoos-video-content/",
+        "https://twitter.com/rustybrick/status/1804195064903606704",
+        "https://azbigmedia.com/business/marketing/top-seo-misconceptions-debunked/",
+        "https://premierconstructionnews.com/2024/06/21/iconic-brand-karl-lagerfeld-refashions-content-creation-seo-and-translation-with-ai-powered-pim-solution-from-akeneo/",
+        "https://twitter.com/aleyda/status/1804174469583487192",
+        "https://twitter.com/rustybrick/status/1804167642212696361",
+        "https://twitter.com/rustybrick/status/1804163866651222349",
+        "https://www.thecanary.co/discovery/business/2024/06/21/5-ways-to-help-google-find-your-content/",
+        "https://twitter.com/rustybrick/status/1804160092096401479",
+        "https://twitter.com/rustybrick/status/1804160091945357718",
+        "https://twitter.com/rustybrick/status/1804158872308809888",
+        "https://www.practicalecommerce.com/stay-at-home-moms-drive-totally-dazzled",
+        "https://twitter.com/rustybrick/status/1804156316996219019",
+        "https://twitter.com/rustybrick/status/1804155553683321285",
+        "https://twitter.com/rustybrick/status/1804152542395535762",
+        "https://twitter.com/rustybrick/status/1804148767719068025",
+        "https://twitter.com/rustybrick/status/1804144992367354222",
+        "https://twitter.com/glenngabe/status/1804141920819491110",
+        "https://www.lep.co.uk/lifestyle/retro/i-cant-believe-bing-crosby-came-to-preston-22-amazing-retro-pics-of-mid-1970s-preston-4675160",
+        "https://twitter.com/glenngabe/status/1804138149783679310",
+        "https://www.openpr.com/news/3548436/corporate-search-engine-optimization-tools-market-size",
+        "https://twitter.com/rustybrick/status/1804129664241185259",
+        "https://twitter.com/glenngabe/status/1804128752097521693",
+        "https://twitter.com/glenngabe/status/1804128752097521693",
+        "https://twitter.com/glenngabe/status/1804127168089260174",
+        "https://twitter.com/glenngabe/status/1804125501130252459",
+        "https://twitter.com/rustybrick/status/1804123565161173185",
+        "https://twitter.com/glenngabe/status/1804122914880389598",
+        "https://twitter.com/rustybrick/status/1804122419411456223",
+        "https://twitter.com/glenngabe/status/1804121422429556877",
+        "https://twitter.com/rustybrick/status/1804119826580885749",
+        "https://twitter.com/rustybrick/status/1804119791029903678",
+        "https://twitter.com/glenngabe/status/1804119729545633837",
+        "https://twitter.com/rustybrick/status/1804117309893583344",
+        "https://twitter.com/rustybrick/status/1804114793361739798",
+        "https://twitter.com/rustybrick/status/1804112276917571985",
+        "https://twitter.com/glenngabe/status/1804111915376885775",
+        "https://twitter.com/rustybrick/status/1804109760200888549",
+        "https://twitter.com/rustybrick/status/1804106999623516342",
+        "https://twitter.com/rustybrick/status/1804096978827059561",
+        "https://twitter.com/lilyraynyc/status/1804092223622942745",
+        "https://twitter.com/rustybrick/status/1804089368618893530",
+        "https://www.einnews.com/pr_news/721461494/yourseoboard-introduces-advanced-platform-tailored-for-white-label-seo-excellence",
+        "https://www.searchenginejournal.com/search-results-analyzed-how-google-evaluates-content/518998/",
+        "https://twitter.com/jonoalderson/status/1804050505640898747",
+        "https://twitter.com/RobertFreundLaw/status/1804018008513523949",
+        "https://digiday.com/media/why-the-tribeca-film-festival-embraced-ai-movies-with-openai-and-runway/",
+        "https://digiday.com/media-buying/influencer-marketing-firm-captiv8-looks-to-grow-social-commerce-with-brand-storefront-offering/",
+        "https://digiday.com/marketing/sugar23-pitches-marketers-on-production-in-cannes-using-entertainment-to-telegraph-what-the-brand-is-really-about/",
+        "https://digiday.com/marketing/digiday-podcast-at-cannes-inside-instacarts-plans-to-make-every-surface-shoppable-with-cmo-laura-jones/",
+        "https://digiday.com/media/three-strategies-publishers-are-adopting-to-drive-affiliate-commerce-revenue-for-amazon-prime-day-2024/",
+        "https://digiday.com/marketing/hr-and-marketing-are-more-connected-than-they-used-to-be/",
+        "https://digiday.com/marketing/cannes-briefing-sports-hold-full-court-at-cannes-lions-2024/",
+        "https://twitter.com/rustybrick/status/1803925912720642536"
+    ]
+}
