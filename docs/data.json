@@ -1,125 +1,51 @@
 {
     "data": [
         {
-            "Title": "Google June 2024 Spam Update",
-            "Category": "SEO",
-            "Description": "Google released a spam update in June 2024.  The update is expected to take a week to roll out.  This is a \"normal, broad spam update\", not related to the algorithmic part of the 'site reputation abuse' enforcement, and not a link spam update.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1804224264624820356",
-                "https://twitter.com/rustybrick/status/1804163866651222349",
-                "https://twitter.com/glenngabe/status/1804128752097521693"
-            ]
-        },
-        {
-            "Title": "Google Search Indexing Issues Resolved",
-            "Category": "SEO",
-            "Description": "Google confirmed an indexing issue was impacting Google Search.  The issue prevented new content from being indexed and served for sites. The issue was resolved and Google is reporting that delayed indexing issues should be resolved soon.",
+            "Title": "Google Search Experiences Indexing Issues",
+            "Category": "Search",
+            "Description": "Google Search has experienced indexing issues, affecting the visibility of new content from various websites, including major publications like The Wall Street Journal, The New York Times, and CNN.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803925912720642536",
-                "https://twitter.com/rustybrick/status/1804119791029903678",
-                "https://twitter.com/glenngabe/status/1804111915376885775"
+                "https://twitter.com/rustybrick/status/1804119826580885749",
+                "https://twitter.com/rustybrick/status/1804089368618893530"
             ]
         },
         {
-            "Title": "Google Search Image Thumbnails Disappear From Snippets",
-            "Category": "SEO",
-            "Description": "Some websites are reporting that image thumbnails have disappeared from their Google Search result snippets.  John Mueller suggests that this is not a technical issue, but rather a quality issue with the affected sites.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1804220489809776838",
-                "https://twitter.com/rustybrick/status/1804160091945357718",
-                "https://twitter.com/rustybrick/status/1804117309893583344"
-            ]
-        },
-        {
-            "Title": "Google Tests New Features in Search and Discover",
-            "Category": "SEO",
-            "Description": "Google is experimenting with several new features in Search and Discover. These include a floating search bar in Google Discover results, a more prominent \"more results\" button in People Also Ask, and the integration of Local Service Ads into Google Maps.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1804212940083728457",
-                "https://twitter.com/rustybrick/status/1804152542395535762",
-                "https://twitter.com/rustybrick/status/1804160092096401479"
-            ]
-        },
-        {
-            "Title": "Google's AI Overviews Impact E-commerce SEO",
-            "Category": "SEO",
-            "Description": "Google's AI Overviews (AIOs) are changing the e-commerce landscape, requiring online retailers to adapt their SEO strategies. The impact of AIOs on search results is a hot topic in the SEO community.",
-            "Links": [
-                "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/",
-                "https://twitter.com/rustybrick/status/1804228039603294339",
-                "https://twitter.com/rustybrick/status/1804122419411456223"
-            ]
-        },
-        {
-            "Title": "Google Analytics: Universal Analytics Data Deletion on July 1st",
-            "Category": "Analytics",
-            "Description": "Google reminds users that access to Universal Analytics data and interface will end on July 1st. After this date, all Universal Analytics data will be permanently deleted. Users are encouraged to migrate to Google Analytics 4.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804493203665555824"
-            ]
-        },
-        {
-            "Title": "Amazon Explores Monthly Fee for AI-Powered Alexa",
+            "Title": "Google Implements AI Across Products and Services",
             "Category": "AI",
-            "Description": "Amazon is considering a monthly subscription fee of $5 to $10 for \"Remarkable Alexa,\" a revamped version of its voice assistant powered by generative AI. This new iteration aims to offer enhanced features and capabilities.",
+            "Description": "Google is leveraging its AI capabilities to enhance various products and services. This includes using AI Overviews to generate business descriptions for local listings on Google Business Profiles and incorporating Instagram posts into the Perspectives search carousel.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1804486666746318972"
-            ]
-        },
-        {
-            "Title": "Anthropic Releases Claude 3.5 Sonnet, Surpassing GPT-4 in Some Tests",
-            "Category": "AI",
-            "Description": "Anthropic has launched Claude 3.5 Sonnet, a new AI model that outperforms its predecessor, Claude 3 Opus, and even surpasses GPT-4o in certain tests. Available for free on the web and iOS, it introduces \"Artifacts,\" a workspace for user interaction.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804119729545633837"
-            ]
-        },
-        {
-            "Title": "Google Develops Gemini-Based Chatbot Creation System",
-            "Category": "AI",
-            "Description": "Google has filed a patent for a system that simplifies chatbot development using natural language. This technology, based on Google's Gemini model, allows users to create customized chatbots for specific tasks without complex coding.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1805204473435820271",
+                "https://twitter.com/rustybrick/status/1805199440317153653",
                 "https://twitter.com/glenngabe/status/1804494941588005218"
             ]
         },
         {
-            "Title": "Perplexity's Use of Third-Party Web Crawlers Raises Robots.txt Concerns",
-            "Category": "AI",
-            "Description": "Perplexity, facing plagiarism accusations, clarifies its use of third-party web crawlers for content indexing. While CEO Aravind Srinivas states they don't ignore robots.txt, their reliance on external crawlers raises questions about adherence to website directives.",
+            "Title": "June 2024 Google Spam Update",
+            "Category": "Search",
+            "Description": "Google has rolled out its June 2024 spam update, targeting websites engaging in spammy practices. The update is expected to take about a week to fully roll out.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1804224264624820356",
+                "https://twitter.com/glenngabe/status/1804128752097521693",
+                "https://twitter.com/rustybrick/status/1804163866651222349"
+            ]
+        },
+        {
+            "Title": "DMCA Takedowns Surge on Google Search",
+            "Category": "Copyright",
+            "Description": "Google Search has processed a billion DMCA takedown requests in just four months, indicating a significant increase in copyright infringement claims.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804855872205504875",
+                "https://twitter.com/glenngabe/status/1804484579849334823",
                 "https://twitter.com/glenngabe/status/1804485713276109036"
             ]
         },
         {
-            "Title": "Gen Z Favors Reddit Over Google for Product Searches",
-            "Category": "Marketing",
-            "Description": "A recent study reveals a shift in Gen Z's online behavior, with social media platforms like Reddit surpassing search engines for product discovery. This trend challenges traditional marketing approaches and highlights the growing influence of social commerce.",
+            "Title": "Universal Analytics to be Discontinued",
+            "Category": "Analytics",
+            "Description": "Google will discontinue Universal Analytics on July 1, 2024. Users will lose access to data and the interface, and all data will be permanently deleted after this date.",
             "Links": [
-                "https://www.searchenginejournal.com/gen-z-ditches-google-turns-to-reddit-for-product-searches/520429/"
-            ]
-        },
-        {
-            "Title": "The Trade Desk Blocks Access to Yahoo's Video Inventory",
-            "Category": "Advertising",
-            "Description": "The Trade Desk, a demand-side platform (DSP), has restricted advertisers' access to Yahoo's video content in its open marketplace. This action stems from an ongoing dispute over inventory representation and transparency.",
-            "Links": [
-                "https://digiday.com/media/the-trade-desk-shuts-advertisers-access-to-yahoos-video-content/"
-            ]
-        },
-        {
-            "Title": "Apple Delays Release of Certain Features in EU Due to DMA Concerns",
-            "Category": "Technology",
-            "Description": "Citing concerns about the EU's Digital Markets Act (DMA) and its interoperability requirements, Apple is postponing the release of several features in the region. These include Apple Intelligence and iPhone Mirroring, signaling potential compliance challenges.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804484579849334823"
-            ]
-        },
-        {
-            "Title": "Google Processes One Billion DMCA Takedown Requests in Four Months",
-            "Category": "Technology",
-            "Description": "Google's takedown department is experiencing unprecedented demand, processing a record-breaking one billion DMCA takedown requests in just four months. This surge brings the total number of takedowns processed by Google to nine billion, highlighting the ongoing battle against online copyright infringement.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1804855872205504875"
+                "https://twitter.com/glenngabe/status/1804493203665555824"
             ]
         }
     ],
