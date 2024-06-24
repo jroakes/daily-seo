@@ -2,50 +2,128 @@
     "data": [
         {
             "Title": "Google Search Experiences Indexing Issues",
-            "Category": "Search",
-            "Description": "Google Search has experienced indexing issues, affecting the visibility of new content from various websites, including major publications like The Wall Street Journal, The New York Times, and CNN.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is experiencing indexing issues, with new content not being indexed or served for websites. The issue is affecting even large sites like WSJ, NYTimes, and CNN.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1803925912720642536",
-                "https://twitter.com/rustybrick/status/1804119826580885749",
-                "https://twitter.com/rustybrick/status/1804089368618893530"
+                "https://twitter.com/rustybrick/status/1804119791029903678",
+                "https://twitter.com/glenngabe/status/1804111915376885775"
             ]
         },
         {
-            "Title": "Google Implements AI Across Products and Services",
-            "Category": "AI",
-            "Description": "Google is leveraging its AI capabilities to enhance various products and services. This includes using AI Overviews to generate business descriptions for local listings on Google Business Profiles and incorporating Instagram posts into the Perspectives search carousel.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805204473435820271",
-                "https://twitter.com/rustybrick/status/1805199440317153653",
-                "https://twitter.com/glenngabe/status/1804494941588005218"
-            ]
-        },
-        {
-            "Title": "June 2024 Google Spam Update",
-            "Category": "Search",
-            "Description": "Google has rolled out its June 2024 spam update, targeting websites engaging in spammy practices. The update is expected to take about a week to fully roll out.",
+            "Title": "Google Rolls Out June 2024 Spam Update",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has released its June 2024 spam update, targeting spammy and manipulative websites. The update is expected to take a week to fully roll out.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1804224264624820356",
                 "https://twitter.com/glenngabe/status/1804128752097521693",
-                "https://twitter.com/rustybrick/status/1804163866651222349"
+                "https://twitter.com/rustybrick/status/1804119826580885749"
             ]
         },
         {
-            "Title": "DMCA Takedowns Surge on Google Search",
-            "Category": "Copyright",
-            "Description": "Google Search has processed a billion DMCA takedown requests in just four months, indicating a significant increase in copyright infringement claims.",
+            "Title": "Google's AI Overviews Disrupting E-commerce SEO",
+            "Category": "E-commerce",
+            "Description": "Google's AI Overviews (AIOs) are changing the e-commerce landscape, impacting online retailers' search strategies. Merchants are having to adapt to the way AIOs present product information.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1804855872205504875",
-                "https://twitter.com/glenngabe/status/1804484579849334823",
+                "https://www.pymnts.com/news/ecommerce/2024/online-merchants-scramble-as-googles-ai-overviews-shakes-up-seo/",
+                "https://twitter.com/rustybrick/status/1804228039603294339",
+                "https://twitter.com/rustybrick/status/1805199440317153653"
+            ]
+        },
+        {
+            "Title": "Google Search Console Users See Sudden Indexing Spikes",
+            "Category": "Search Engine Optimization",
+            "Description": "Some Google Search Console users are reporting a sudden spike in indexing, raising concerns about potential impact on website quality. However, the spike might not necessarily be a cause for alarm.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804500627000582561"
+            ]
+        },
+        {
+            "Title": "Google to Delete Universal Analytics Data on July 1st",
+            "Category": "Analytics",
+            "Description": "Google is reminding users that Universal Analytics data and interface access will be lost on July 1st. After this date, all Universal Analytics data will be permanently deleted.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804493203665555824"
+            ]
+        },
+        {
+            "Title": "Amazon Explores Monthly Fee for AI-Powered Alexa",
+            "Category": "Artificial Intelligence",
+            "Description": "Amazon is considering a monthly subscription fee of $5 to $10 for \"Remarkable Alexa,\" a revamped version of its voice assistant with generative AI capabilities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804486666746318972"
+            ]
+        },
+        {
+            "Title": "Perplexity's Use of Third-Party Web Crawler Raises Concerns",
+            "Category": "Artificial Intelligence",
+            "Description": "Perplexity, an AI search engine, is facing allegations of plagiarism due to its reliance on third-party web crawlers that reportedly ignore robots.txt directives.",
+            "Links": [
                 "https://twitter.com/glenngabe/status/1804485713276109036"
             ]
         },
         {
-            "Title": "Universal Analytics to be Discontinued",
-            "Category": "Analytics",
-            "Description": "Google will discontinue Universal Analytics on July 1, 2024. Users will lose access to data and the interface, and all data will be permanently deleted after this date.",
+            "Title": "Apple Delays Release of AI Features in EU",
+            "Category": "Artificial Intelligence",
+            "Description": "Apple is holding back the release of Apple Intelligence, iPhone Mirroring, and other features in the EU. The company cites concerns about the DMA's interoperability requirements.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1804493203665555824"
+                "https://twitter.com/glenngabe/status/1804484579849334823"
+            ]
+        },
+        {
+            "Title": "Google Develops Natural Language Chatbot Creation System",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is working on a patent for a system that allows users to create customized chatbots for specific tasks using natural language, leveraging its Gemini AI technology.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804494941588005218"
+            ]
+        },
+        {
+            "Title": "Google Search to Feature User Movie and TV Reviews",
+            "Category": "Search Engine Optimization",
+            "Description": "Starting June 24th, Google Search will display user movie and TV reviews under a new profile page, making it easier for users to find and share their opinions.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804122914880389598"
+            ]
+        },
+        {
+            "Title": "YouTube to Request Tracking Permission from iOS Users",
+            "Category": "Privacy",
+            "Description": "YouTube will soon prompt iOS users to grant tracking permission for more personalized ads, aligning with Apple's privacy-focused App Tracking Transparency framework.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804121422429556877"
+            ]
+        },
+        {
+            "Title": "Anthropic Releases Claude 3.5 Sonnet AI Model",
+            "Category": "Artificial Intelligence",
+            "Description": "Anthropic has launched Claude 3.5 Sonnet, a new AI model that surpasses its predecessor, Claude 3 Opus, and even outperforms GPT-4o in certain tests. It's available for free on the web and iOS.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1804119729545633837"
+            ]
+        },
+        {
+            "Title": "Gen Z Favors Reddit Over Google for Product Research",
+            "Category": "Social Media",
+            "Description": "A recent study reveals that Gen Z is increasingly using social media platforms like Reddit for product discovery, shifting away from traditional search engines like Google.",
+            "Links": [
+                "https://www.searchenginejournal.com/gen-z-ditches-google-turns-to-reddit-for-product-searches/520429/"
+            ]
+        },
+        {
+            "Title": "Google Tests Automatically Created Assets at the Ad Level",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Ads is experimenting with bringing Automatically Created Assets (ACA) to the ad level, potentially enabling the automatic generation of headlines and descriptions for individual ads.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805206989972308058"
+            ]
+        },
+        {
+            "Title": "Google Perspectives Search Carousel Now Includes Instagram Posts",
+            "Category": "Social Media",
+            "Description": "Google's Perspectives search carousel, which aggregates diverse viewpoints, is now incorporating Instagram posts, expanding the range of content sources displayed in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805204473435820271"
             ]
         }
     ],
