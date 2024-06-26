@@ -14439,3 +14439,589 @@ Error occurred at 2024-06-25 20:04:17.398855:
 RESPONSE: 
 {"stories": [{"Title": "Google Gmail Gets Gemini-Powered \"Summarize\"", "Category": "Artificial Intelligence", "Description": "Gmail is rolling out a new AI feature powered by Google's Gemini model. The \"Summarize this email\" button will appear underneath the subject line in the mobile Gmail app for Android and iOS.", "Links": ["https://twitter.com/glenngabe/status/1805321953118765429"]}, {"Title": "Google Execs Must Testify in Digital Ads Lawsuit", "Category": "Legal", "Description": "Google executives Sundar Pichai and Sergey Brin are required to appear for questioning in a digital advertising lawsuit.", "Links": ["https://twitter.com/rustybrick/status/1805316605771235428"]}, {"Title": "Google Search Updates", "Category": "Search", "Description": "Google is testing several new features and updates for its search engine, including bolding domain names in search results, experimenting with new sitelink formats and designs, and removing the continuous scroll feature.", "Links": ["https://twitter.com/rustybrick/status/1805268654172373352", "https://twitter.com/rustybrick/status/1805564344849121383", "https://twitter.com/rustybrick/status/1805586749395173780"]}, {"Title": "Google Updates Guidance for Structured Data Carousels", "Category": "Search", "Description": "Google has updated its help documentation for structured data carousels, providing new guidance on how to mark up categories with multiple items using structured data.", "Links": ["https://twitter.com/rustybrick/status/1805243480387785148", "https://twitter.com/rustybrick/status/1805201956920852736", "https://www.seroundtable.com/google-sd-carousel-markup-multiple-items-oncategory-pages-37608.html"]}, {"Title": "Google Using AI to Write Business Descriptions", "Category": "Artificial Intelligence", "Description": "Google is now utilizing AI Overviews to generate business descriptions for local listings on Google Business Profiles.", "Links": ["https://twitter.com/rustybrick/status/1805239706004693434", "https://twitter.com/rustybrick/status/1805199440317153653"]}, {"Title": "Google Podcasts Manager Closing Down", "Category": "Podcasts", "Description": "Google Podcasts Manager is shutting down, with users having until July 30th to retrieve their podcast statistics. Podcasters are advised to submit their RSS feeds to Google Podcasts.", "Links": ["https://twitter.com/glenngabe/status/1805281832088617009"]}, {"Title": "RIAA Sues AI Music Services", "Category": "Legal", "Description": "The Recording Industry Association of America (RIAA) is suing AI music services Suno and Udio for alleged copyright infringement, claiming they attempted to conceal the extent of their infringement.", "Links": ["https://twitter.com/glenngabe/status/1805280088792924479"]}, {"Title": "Shopify Introduces AI-Powered Features for Merchants", "Category": "Ecommerce", "Description": "Shopify has unveiled new AI-powered tools for merchants, including suggested replies, product categorization, and an AI chatbot called Sidekick, currently in early access.", "Links": ["https://twitter.com/glenngabe/status/1805279337563963643"]}, {"Title": "Google Ads May Introduce Automatically Created Assets at the Ad Level", "Category": "Advertising", "Description": "Google Ads is considering implementing Automatically Created Assets at the ad level, potentially expanding the use of AI in ad creation.", "Links": ["https://twitter.com/rustybrick/status/1805311428188061917", "https://twitter.com/rustybrick/status/1805251030134952015"]}, {"Title": "Google Discusses Issues with JavaScript for Structured Data", "Category": "Search", "Description": "Google has highlighted potential problems with using JavaScript for structured data in Google Merchant Center.", "Links": ["https://twitter.com/rustybrick/status/1805311428544336169"]}, {"Title": "Google Perspectives Search Carousel Now Features Instagram Posts", "Category": "Search", "Description": "Google's Perspectives search carousel now includes Instagram posts, expanding the range of social media content displayed in search results.", "Links": ["https://twitter.com/rustybrick/status/1805307653364793599", "https://twitter.com/rustybrick/status/1805247255353725028"]}, {"Title": "Meta Tags Real Photos as \"Made with AI\"", "Category": "Artificial Intelligence", "Description": "Photographers have expressed concerns over Meta incorrectly labeling their real photos as \"Made with AI,\" sparking debate about the use of AI in photo editing and the accuracy of AI-powered image recognition.", "Links": ["https://twitter.com/glenngabe/status/1805322864607871129"]}, {"Title": "Google Search Showing More AI Overviews for Health Queries", "Category": "Search", "Description": "Google Search has resumed displaying more AI Overviews for health-related search queries after a brief reduction in their presence.", "Links": ["https://twitter.com/rustybrick/status/1805569377825153375", "https://twitter.com/rustybrick/status/1805673816133148813"]}, {"Title": "Google Developing Customizable Chatbots", "Category": "Artificial Intelligence", "Description": "Google is reportedly developing a product that enables users to create personalized chatbots, potentially modeled after celebrities, with a possible launch in 2024.", "Links": ["https://twitter.com/glenngabe/status/1805568913867968701"]}, {"Title": "Google Search Introduces Credit Card Carousels and Widgets", "Category": "Search", "Description": "Google Search is now incorporating credit card carousels and widgets directly into its results pages, potentially impacting the credit card affiliate marketing landscape.", "Links": ["https://twitter.com/rustybrick/status/1805566861439820082", "https://twitter.com/rustybrick/status/1805670041331155293"]}, {"Title": "Google Updates Sitemap Documentation", "Category": "Search", "Description": "Google has revised its sitemap documentation to clarify that the \"lastmod\" value should accurately reflect the date and time of the most recent significant update to a page.", "Links": ["https://twitter.com/rustybrick/status/1805561828249874863", "https://twitter.com/rustybrick/status/1805662491655192651"]}, {"Title": "Google to Automate Lead Credits for Local Service Ads", "Category": "Advertising", "Description": "Google is implementing automated lead crediting for Local Service Ads, a move that has sparked discussion among advertisers regarding its potential advantages and disadvantages.", "Links": ["https://twitter.com/rustybrick/status/1805559311600697616", "https://twitter.com/rustybrick/status/1805658716861014222"]}, {"Title": "Pinterest Users Can Now Turn Boards into Videos", "Category": "Social Media", "Description": "Inspired by Gen Z, Pinterest has introduced a new feature allowing users to transform their Pinterest boards into short videos suitable for sharing on platforms like Instagram and TikTok.", "Links": ["https://twitter.com/glenngabe/status/1805638887265472805"]}, {"Title": "Investors Take Over Stability AI", "Category": "Artificial Intelligence", "Description": "A group of investors, including former Facebook President Sean Parker, are investing $80 million to take control of Stability AI, an image-generation startup that experienced rapid growth but faced business challenges.", "Links": ["https://twitter.com/glenngabe/status/1805637677338735088"]}, {"Title": "YouTube Tests New \"Hype\" Feature for Videos", "Category": "Social Media", "Description": "YouTube is experimenting with a new feature called \"Hype\" that allows viewers to express their enthusiasm for videos. The ranking of \"Hyped\" videos will be displayed in the \"Explore\" section, separate from the \"Trending\" section.", "Links": ["https://twitter.com/glenngabe/status/1805571245099946295"]}, {"Title": "Amazon Developing AI Chatbot \"Metis\"", "Category": "Artificial Intelligence", "Description": "Amazon is reportedly working on an AI chatbot codenamed \"Metis\" designed to compete with ChatGPT. The chatbot will utilize Retrieval Augmented Generation (RAG) to provide up-to-date responses and is tentatively scheduled for a September launch.", "Links": ["https://twitter.com/glenngabe/status/1805569772421083596"]}]}
 
+Error occurred at 2024-06-26 12:04:56.559766:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Google Ends Continuous Scroll SERPS: What It Really Means",
+    "Description": "Google ends continuous scroll in search results, giving an explanation that raises more questions than answers",
+    "Link": "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/"
+  },
+  {
+    "Title": "Google Debunks SEO Myth: Branded Keywords Won't Hurt Rankings",
+    "Description": "Google debunks SEO myth: Using branded keywords in content doesn't harm rankings.",
+    "Link": "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/"
+  },
+  {
+    "Title": "Perion embarks on layoffs after revenue takes hit",
+    "Description": "The software company is eliminating 35 jobs to cut costs following Microsoft\u2019s decision to change its advertising rules on Bing",
+    "Link": "https://www.calcalistech.com/ctechnews/article/sjdai5d8r"
+  },
+  {
+    "Title": "Google sitemap docs updated \"The lastmod value should reflect the date and time of the last significant update to the page\" was added",
+    "Description": "Google updated its sitemap document to add \"The lastmod value should reflect the date and time of the last significant update to the page\"",
+    "Link": "https://twitter.com/rustybrick/status/1805602093845078350"
+  },
+  {
+    "Title": "Remember that @googlesearchc validation tools (such as the URL Inspect tool and Rich Results Test) use a different crawler (the Google-InspectionTool) than the actual Googlebot for Smartphone and Desktop.",
+    "Description": "Google Search Console validation tools use a different crawler (Google-InspectionTool) than the actual Googlebot for Smartphone and Desktop.",
+    "Link": "https://twitter.com/aleyda/status/1805600174108004714"
+  },
+  {
+    "Title": "Google Automated Local Services Ads lead credits coming next month",
+    "Description": "Google will be automating lead credits for Local Services Ads starting next month.",
+    "Link": "https://twitter.com/rustybrick/status/1805598318896332935"
+  },
+  {
+    "Title": "Google will open an \"in-product lead feedback survey on every lead\" so you can follow up on ad credits for LSAs there?",
+    "Description": "Google will be adding an in-product lead feedback survey to Local Services Ads, allowing advertisers to follow up on ad credits.",
+    "Link": "https://twitter.com/rustybrick/status/1805595078078964017"
+  },
+  {
+    "Title": "Google dropping continuous scroll in search results",
+    "Description": "Google is discontinuing the continuous scroll feature in its search results.",
+    "Link": "https://twitter.com/rustybrick/status/1805586749395173780"
+  },
+  {
+    "Title": "Google said this change is to allow the search company to serve the search results faster on more searches, instead of automatically",
+    "Description": "Google claims that dropping continuous scroll will allow them to serve search results faster.",
+    "Link": "https://twitter.com/glenngabe/status/1805587630417232345"
+  },
+  {
+    "Title": "Like I said yesterday, if you're an affiliate marketer focused on finance, this is a GIANT heads-up. And affiliate marketers focused on other categories should pay close attention to both SERP features tested AND how AI overviews trigger for important queries.",
+    "Description": "Affiliate marketers, especially in the finance sector, need to pay close attention to changes in SERP features and AI overviews.",
+    "Link": "https://twitter.com/glenngabe/status/1805581061654532210"
+  },
+  {
+    "Title": "I think we'll continue to see more AI overviews for YMYL queries over time as Google improves the responses (and the sites being provided in those overviews). But I'm still seeing situations where AI overviews are not triggering at all for more sensitive queries.",
+    "Description": "Google is expected to increase the use of AI overviews for YMYL queries, but they are not yet consistently appearing for sensitive queries.",
+    "Link": "https://twitter.com/glenngabe/status/1805576587103891855"
+  },
+  {
+    "Title": "Interesting -> YouTube tests letting viewers \u2018Hype\u2019 a video \"The ranking will appear in the \u2018Explore\u2019 section, separate from the \"Trending\" section. Note: Hypes are not used as an indicator for YouTube\u2019s search and discovery system.\"",
+    "Description": "YouTube is testing a new feature called \"Hype\" that allows viewers to boost videos in the \"Explore\" section, but it won't affect search rankings.",
+    "Link": "https://twitter.com/glenngabe/status/1805571245099946295"
+  },
+  {
+    "Title": "Will use RAG to generate up-to-date replies -> Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; It's tentatively slated for a September launch.",
+    "Description": "Amazon is developing an AI chatbot called \"Metis\" to compete with ChatGPT, with a planned launch in September.",
+    "Link": "https://twitter.com/glenngabe/status/1805569772421083596"
+  },
+  {
+    "Title": "Google Search showing more AI Overviews for health queries since pulling them back a few weeks ago",
+    "Description": "Google Search is once again displaying more AI Overviews for health-related queries after temporarily reducing their presence.",
+    "Link": "https://twitter.com/rustybrick/status/1805569377825153375"
+  },
+  {
+    "Title": "What could go wrong? :) -> Confirmed: Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024",
+    "Description": "Google is developing a product that allows users to create customizable chatbots, potentially modeled after celebrities, with a planned 2024 release.",
+    "Link": "https://twitter.com/glenngabe/status/1805568913867968701"
+  },
+  {
+    "Title": "Google now shows credit card carousels and widgets, which can really disrupt the credit card affiliate business",
+    "Description": "Google's display of credit card carousels and widgets in search results could significantly impact the credit card affiliate marketing industry.",
+    "Link": "https://twitter.com/rustybrick/status/1805566861439820082"
+  },
+  {
+    "Title": "Google testing even more sitelinks formats/designs - blue/black text, arrows, pills, boxes - etc",
+    "Description": "Google is experimenting with various sitelink formats and designs in search results, including different colors, shapes, and visual elements.",
+    "Link": "https://twitter.com/rustybrick/status/1805564344849121383"
+  },
+  {
+    "Title": "To be clear, it seems there is no way to request credits manually anymore - is that true",
+    "Description": "It appears that manual requests for credits are no longer possible within Google's advertising platform.",
+    "Link": "https://twitter.com/rustybrick/status/1805560686895845598"
+  },
+  {
+    "Title": "Google Local Service Ads to automate lead credits - is this a good thing or bad thing for advertisers?",
+    "Description": "Google's move to automate lead credits for Local Services Ads has sparked debate about its potential benefits and drawbacks for advertisers.",
+    "Link": "https://twitter.com/rustybrick/status/1805559311600697616"
+  },
+  {
+    "Title": "I wrote a thing about (imo) the most interesting part of the Google leak. Yes, it isn't revolutionary - I even wrote about these concepts in 2018. But understanding how these critical parts fit together is: a) Very satisfying b) Something we can build on",
+    "Description": "An analysis of the recent Google leak highlights the importance of understanding how various search components work together, even if the concepts themselves aren't entirely new.",
+    "Link": "https://twitter.com/THCapper/status/1805546708606083185"
+  },
+  {
+    "Title": "International SEO Course coming soon  @semrush  \ud83c\udf0e let\u2019s goooo!",
+    "Description": "An upcoming international SEO course is being launched in collaboration with SEMrush.",
+    "Link": "https://twitter.com/aleyda/status/1805533912300470411"
+  },
+  {
+    "Title": "As Oracle\u2019s ad business collapses, layoffs and uncertainty ripple through the industry",
+    "Description": "The decline of Oracle's advertising business is leading to layoffs and uncertainty within the advertising industry.",
+    "Link": "https://digiday.com/marketing/as-oracles-ad-business-collapses-layoffs-and-uncertainty-ripple-through-the-industry/"
+  },
+  {
+    "Title": "\u2018Considerably less ready\u2019: Marketers\u2019 post-cookie preparedness has dropped by 23% since 2022",
+    "Description": "Marketers are showing a decline in preparedness for the phasing out of third-party cookies, with a 23% drop in readiness compared to 2022.",
+    "Link": "https://digiday.com/marketing/considerably-less-ready-marketers-post-cookie-preparedness-has-dropped-by-23-since-2022/"
+  },
+  {
+    "Title": "GARM's lead sheds light on new standards for sustainability measurement in media",
+    "Description": "GARM's Rob Rakowitz shares how his team worked to create a Rosetta Stone for talking about and measuring sustainability in the advertising ecosystem.",
+    "Link": "https://digiday.com/podcasts/garms-lead-sheds-light-on-new-standards-for-sustainability-measurement-in-media/"
+  },
+  {
+    "Title": "SEO innovation: Performics @ Starcom",
+    "Description": "By implementing SEO best practices and core web vitals requirements, Starcom was able to seamlessly migrate all 40+ travel brands under The Travel Corporation into a singular platform while protecting web traffic.",
+    "Link": "https://www.performancemarketingworld.com/article/1878169?utm_source=website&utm_medium=social"
+  },
+  {
+    "Title": "Top SEO misconceptions debunked",
+    "Description": "SEO is constantly evolving, which makes it easy to get muddled by best-practice misconceptions. Take a look at the facts behind the biggest SEO fictions.",
+    "Link": "https://azbigmedia.com/business/marketing/top-seo-misconceptions-debunked/"
+  },
+  {
+    "Title": "Google execs Pichai, Brin must sit for questioning in digital ads lawsuit reuters.com/legal/transact\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805316605771235428"
+  },
+  {
+    "Title": "ICYMI: Google Ads may bring Automatically Created Assets to the ad level seroundtable.com/google-ads-aut\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805311428188061917"
+  },
+  {
+    "Title": "ICYMI: Google discusses the issues using JavaScript for structured data with Google Merchant Center seroundtable.com/google-warns-j\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805311428544336169"
+  },
+  {
+    "Title": "ICYMI: Google Perspectives now with Instagram posts seroundtable.com/google-perspec\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805307653364793599"
+  },
+  {
+    "Title": "ICYMI: Google adds new guidance for structured data carousel (beta) help docs on how to markup multiple items on a category page seroundtable.com/google-sd-caro\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805303878524756302"
+  },
+  {
+    "Title": "ICYMI: Google AI Overviews now used for Google Business Profiles descriptions - scary seroundtable.com/google-busines\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805300103785156946"
+  },
+  {
+    "Title": "ICYMI: When you should fix 404 errors according to Google... seroundtable.com/google-fix-pag\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805296328597291096"
+  },
+  {
+    "Title": "ICYMI: Google red Fiat car and Google street sign seroundtable.com/photos/google-\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805292553920471077"
+  },
+  {
+    "Title": "Remember to update your links if you are still linking to your show on Google podcasts -> Google Podcasts closes, and joins the graveyard \"You\u2019ve got until the end of July 30 to get your podcast stats from Google Podcasts Manager. That website will also help submit your RSS\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/glenngabe/status/1805281832088617009"
+  },
+  {
+    "Title": "More AI lawsuits -> The RIAA sues AI music services Suno and Udio over alleged mass copyright infringement and claims they have tried to hide the scope of their infringement \"A group of record labels including the big three \u2014 Universal Music Group (UMG), Sony Music\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/glenngabe/status/1805280088792924479"
+  },
+  {
+    "Title": "I just shared about a funny Shopify AI description situation yesterday :) -> Shopify unveils AI-focused updates for merchants, including suggested replies and product categorization, and launches its AI chatbot Sidekick in early access \"Sidekick, which the company first\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/glenngabe/status/1805279337563963643"
+  },
+  {
+    "Title": "Again, again, Google bolding domain names in the search results - added this example to my older story seroundtable.com/google-search-\u2026",
+    "Description": "",
+    "Link": "https://twitter.com/rustybrick/status/1805268654172373352"
+  },
+  {
+    "Title": "Reflections and revelations: Cannes ad execs confront responsibility amid industry chaos",
+    "Description": "Responsibility isn\u2019t usually a strong suit for ad execs at Cannes, but this year, it took center stage.",
+    "Link": "https://digiday.com/marketing/reflections-and-revelations-cannes-ad-execs-confront-responsibility-amid-industry-chaos/"
+  },
+  {
+    "Title": "3 Ways to Depersonalize Google SERPs",
+    "Description": "Google search results vary by user based on search history, clicks, and more. Removing the personalization helps understand what others may see.",
+    "Link": "https://www.practicalecommerce.com/3-ways-to-depersonalize-google-serps"
+  },
+  {
+    "Title": "Headless Architecture: Enhancing SEO and Digital Experience Through Modern Web Development",
+    "Description": "The performance improvements that headless architecture can bring can also benefit SEO and the experience, but rarely is it explained how.",
+    "Link": "https://www.cmswire.com/digital-experience/headless-architecture-enhancing-seo-and-digital-experience-through-modern-web-development/"
+  },
+  {
+    "Title": "Google\u2019s delays aside, why marketers can\u2019t pause post-cookie planning",
+    "Description": "While Google\u2019s latest delay in deprecating third-party cookies in Chrome might offer some reprieve for teams still behind on post-cookies prep, it also underscores the intricate landscape of digital advertising. The delay, attributed to \u201congoing challenges related to reconciling divergent feedback from the industry, regulators and developers\u201d in a recent Digiday article, emphasizes the need [\u2026]",
+    "Link": "https://digiday.com/sponsored/googles-delays-aside-why-marketers-cant-pause-post-cookie-planning/"
+  },
+  {
+    "Title": "9 AI Search Engines to Know",
+    "Description": "AI search engines use artificial intelligence to better understand the user intent behind each search query and summarize the most relevant information.",
+    "Link": "https://builtin.com/articles/ai-search-engine"
+  },
+  {
+    "Title": "Google Adds Carousel Guidance On How To Markup Multiple Items On Category Pages",
+    "Description": "Google has added a new bullet point in the structured data carousels (beta) help documentation around how to mark up categories with many items with that structured data.  This is based on examples pages such as paginated content or infinite scroll.",
+    "Link": "https://www.seroundtable.com/google-sd-carousel-markup-multiple-items-oncategory-pages-37608.html"
+  },
+  {
+    "Title": "If you haven\u2019t seen it yet; there\u2019s a new free job board for you to: * find seo/ppc roles * publish your seo/ppc roles adverts for free Check it out \ud83d\udc47",
+    "Description": "A tweet announcing a new free job board for SEO and PPC roles.",
+    "Link": "https://twitter.com/aleyda/status/1805169342339776817"
+  },
+  {
+    "Title": "RT @screamingfrog: Just released a small update to 20.2 of the @screamingfrog SEO Spider - . Mainly small improvemen\u2026",
+    "Description": "A retweet announcing a small update to the Screaming Frog SEO Spider.",
+    "Link": "https://twitter.com/screamingfrog/status/1805140412899713101"
+  },
+  {
+    "Title": "What you missed at Cannes Lions 2024",
+    "Description": "A summary of the key events and takeaways from Cannes Lions 2024.",
+    "Link": "https://digiday.com/media-buying/what-you-missed-at-cannes-lions-2024/"
+  },
+  {
+    "Title": "AI Briefing: How AI showed up at Cannes Lions 2024",
+    "Description": "A report on the presence and impact of AI at Cannes Lions 2024.",
+    "Link": "https://digiday.com/media/ai-briefing-how-ai-showed-up-at-cannes-lions-2024/"
+  },
+  {
+    "Title": "Media Buying Briefing: The two types of influencer agencies, and why they have different appeal to holding companies",
+    "Description": "An analysis of the two main types of influencer agencies and their respective strengths.",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-the-two-types-of-influencer-agencies-and-why-they-have-different-appeal-to-holding-companies/"
+  },
+  {
+    "Title": "At Cannes, publishers attempt to quell marketers' open programmatic apostasy",
+    "Description": "An overview of publishers' efforts to address marketers' concerns about open programmatic advertising.",
+    "Link": "https://digiday.com/media/at-cannes-publishers-attempt-to-quell-marketers-open-programmatic-apostasy/"
+  },
+  {
+    "Title": "WTF is the Private Aggregation API in Google\u2019s Privacy Sandbox?",
+    "Description": "An explanation of the Private Aggregation API and its role in the post-cookie world.",
+    "Link": "https://digiday.com/marketing/wtf-is-the-private-aggregation-api-in-googles-privacy-sandbox/"
+  },
+  {
+    "Title": "Why the 'year of gaming' might be the ad industry\u2019s next 'year of mobile'",
+    "Description": "A discussion on the potential of gaming as a major advertising channel.",
+    "Link": "https://digiday.com/marketing/why-the-year-of-gaming-might-be-the-ad-industrys-next-year-of-mobile/"
+  },
+  {
+    "Title": "Digital Traffic Will Transform Sales in Manufacturing",
+    "Description": "An article highlighting the importance of digital marketing, particularly SEO, for manufacturers.",
+    "Link": "https://www.americanmachinist.com/shop-operations/article/55090608/digital-traffic-will-transform-sales-in-manufacturing-machine-shop-marketing-july-2024"
+  },
+  {
+    "Title": "I'm delighted to announce the #SEOFOMO Jobs, the free Job board & alerts to help you find your dream role, whether remote, in-person or hybrid \ud83d\udcb8 Check it out: hub.seofomo.co/seofomo-jobs/ \ud83d\udc40\ud83d\ude4c PS: I will be doing a few changes/updates in the next few days, if you see anything that\u2026",
+    "Description": "An announcement for the launch of #SEOFOMO Jobs, a free job board and alert system for SEO professionals.",
+    "Link": "https://twitter.com/aleyda/status/1804897597959671808"
+  },
+  {
+    "Title": "Google Search Processed A Billion DMCA Takedowns In Four Months \"Google Search's takedown department is facing the busiest year ever. The all-time takedown total has just surged to nine billion, adding the latest billion in just four months. The list of most\u2026",
+    "Description": "A tweet sharing an article about the increasing number of DMCA takedown requests received by Google Search.",
+    "Link": "https://twitter.com/glenngabe/status/1804855872205504875"
+  },
+  {
+    "Title": "Shopify rolled out AI tools for merchants in 2023, but that doesn't mean merchants will use them correctly. :) Here's the snippet for this ecommerce site's homepage. I wonder how many people are seeing that description and wondering if that's the actual site they want...",
+    "Description": "A tweet discussing the potential pitfalls of AI-generated content for e-commerce, using a Shopify example.",
+    "Link": "https://twitter.com/glenngabe/status/1804849175269445782"
+  },
+  {
+    "Title": "RT by @aleyda: Everyone always talks about Google, ai and search from the innovators dilemma pov. Can\u2019t kill the golden goose. The more interesting angle is that Google is the only big consumer ai company with the incentive to protect the basic norms of the web.",
+    "Description": "A retweet of a comment on Google's unique position in the AI landscape and its responsibility to protect the web.",
+    "Link": "https://twitter.com/bryanfcasey/status/1804844999437107229"
+  },
+  {
+    "Title": "Don't miss today's #SEOFOMO announcement \ud83e\udd29 register now for free and stay updated with the latest SEO updates, news, jobs, events... join +33.8K SEOs \ud83d\udc47",
+    "Description": "A tweet promoting the #SEOFOMO community and encouraging SEOs to stay updated on industry news and events.",
+    "Link": "https://twitter.com/aleyda/status/1804818539737428015"
+  },
+  {
+    "Title": "As controversy builds, the clock is ticking for noted livestreamer Dr Disrespect's sponsors",
+    "Description": "Non-endemic brands are facing scrutiny for their laissez-faire approach to games as a marketing channel, as exemplified by their delayed response to Dr Disrespect's 2020 Twitch ban.",
+    "Link": "https://digiday.com/marketing/as-controversy-builds-the-clock-is-ticking-for-noted-livestreamer-dr-disrespects-sponsors/"
+  },
+  {
+    "Title": "Don't call them social media networking sites: Why these platforms are distancing themselves from the social media label",
+    "Description": "Social media platforms are moving away from the \"social media networks\" label to highlight positive aspects for users and attract ad spend.",
+    "Link": "https://digiday.com/marketing/dont-call-them-social-media-networking-sites-why-these-platforms-are-distancing-themselves-from-the-social-media-label/"
+  },
+  {
+    "Title": "CMO Strategies: Retail media\u2019s rise \u2014 from Amazon to eBay",
+    "Description": "Retail media is rapidly growing as a marketing channel, leveraging its unique strengths to challenge social media's dominance.",
+    "Link": "https://digiday.com/marketing/cmo-strategies-retail-medias-rise-from-amazon-to-ebay/"
+  },
+  {
+    "Title": "Future of TV Briefing: Why digital advertisers need bridge metrics for streaming",
+    "Description": "Digital advertisers need new metrics to bridge the gap between traditional TV and streaming, as traditional metrics are being applied to streaming.",
+    "Link": "https://digiday.com/future-of-tv/future-of-tv-briefing-why-digital-advertisers-need-bridge-metrics-for-streaming/"
+  },
+  {
+    "Title": "Google AI Overviews are an evolution, not a revolution",
+    "Description": "Google's AI Overviews are an incremental step in search evolution, and SEO professionals should adapt their strategies accordingly.",
+    "Link": "https://searchengineland.com/google-ai-overviews-evolution-revolution-443454"
+  },
+  {
+    "Title": "TikTok Shop sees 13% jump in orders; TikTok hiring hundreds to support e-commerce",
+    "Description": "TikTok Shop saw a 13% increase in orders from April to May 2024.  TikTok is reportedly hiring hundreds of employees in the US to support its e-commerce efforts and aims to grow Shop tenfold in the US by the beginning of 2024.",
+    "Link": "https://twitter.com/glenngabe/status/1805933615877902787"
+  },
+  {
+    "Title": "Yahoo Japan waives $189M in ad revenue after detecting fraudulent clicks",
+    "Description": "Yahoo Japan will waive $189 million in ad revenue, approximately 1.6% of its parent company's FY 2023 revenue, after detecting fraudulent clicks. The company admitted it is unsure if some clicks originated from humans.",
+    "Link": "https://twitter.com/glenngabe/status/1805932598432092502"
+  },
+  {
+    "Title": "Should product review content mention brand names? Google's John Mueller weighs in.",
+    "Description": "Some SEO professionals advise against mentioning product brand names in review content. However, Google's Search Liaison, John Mueller, disagrees with this approach.",
+    "Link": "https://twitter.com/rustybrick/status/1805931765644870038"
+  },
+  {
+    "Title": "Google Ads introduces new insights box and report for target ROAS",
+    "Description": "Google Ads has launched a new insights box and report that provides insights into target ROAS for both Performance Max and Standard Shopping campaigns.",
+    "Link": "https://twitter.com/rustybrick/status/1805929249292825080"
+  },
+  {
+    "Title": "Google reverts to classic pagination, removes continuous scroll on desktop search",
+    "Description": "Google has removed continuous scroll from desktop search results, reverting to the classic pagination bar. This change, aimed at improving search speed, will be followed by a similar update to mobile search.",
+    "Link": "https://twitter.com/rustybrick/status/1805926732777623737"
+  },
+  {
+    "Title": "Google Business Profiles verification status tool updated with new options",
+    "Description": "Google has updated its verification status tool for Google Business Profiles, providing users with more options and enhanced functionality.",
+    "Link": "https://twitter.com/rustybrick/status/1805924216165781785"
+  },
+  {
+    "Title": "Google News sources and Publisher Center experience temporary outage",
+    "Description": "Google News sources and the Publisher Center experienced a temporary outage, causing disruptions for publishers and users. The issue has since been resolved.",
+    "Link": "https://twitter.com/rustybrick/status/1805921699528925429"
+  },
+  {
+    "Title": "Tech companies update terms of service to incorporate AI language and data usage",
+    "Description": "Tech companies, including Google, have subtly revised their terms and conditions to include language related to AI. These changes reflect the increasing use of user data for training AI models.",
+    "Link": "https://twitter.com/Techmeme/status/1805914024028279144"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-06-26 12:04:56.560202:
+RESPONSE: 
+```json
+[
+  {
+    "Title": "Google Ends Continuous Scroll in Search Results",
+    "Category": "Search Engine Optimization",
+    "Description": "Google is discontinuing the continuous scroll feature in its search results, reverting to the classic pagination bar. The change, aimed at improving search speed, will be followed by a similar update to mobile search.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805586749395173780",
+      "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/",
+      "https://twitter.com/rustybrick/status/1805926732777623737"
+    ]
+  },
+  {
+    "Title": "Google Debunks Branded Keyword SEO Myth",
+    "Category": "Search Engine Optimization",
+    "Description": "Google has debunked the SEO myth that using branded keywords in content harms rankings. ",
+    "Links": [
+      "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/"
+    ]
+  },
+  {
+    "Title": "Google Updates Sitemap Documentation",
+    "Category": "Search Engine Optimization",
+    "Description": "Google updated its sitemap document to add \"The lastmod value should reflect the date and time of the last significant update to the page\"",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805602093845078350"
+    ]
+  },
+  {
+    "Title": "Google Search Console Validation Tools Use Different Crawler",
+    "Category": "Search Engine Optimization",
+    "Description": "Google Search Console validation tools use a different crawler (Google-InspectionTool) than the actual Googlebot for Smartphone and Desktop.",
+    "Links": [
+      "https://twitter.com/aleyda/status/1805600174108004714"
+    ]
+  },
+  {
+    "Title": "Google to Automate Lead Credits for Local Services Ads",
+    "Category": "Search Engine Optimization",
+    "Description": "Google will be automating lead credits for Local Services Ads starting next month. This change has sparked debate about its potential benefits and drawbacks for advertisers.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805598318896332935",
+      "https://twitter.com/rustybrick/status/1805559311600697616",
+      "https://twitter.com/rustybrick/status/1805560686895845598"
+    ]
+  },
+  {
+    "Title": "Google Adds In-Product Lead Feedback Survey to Local Services Ads",
+    "Category": "Search Engine Optimization",
+    "Description": "Google will be adding an in-product lead feedback survey to Local Services Ads, allowing advertisers to follow up on ad credits.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805595078078964017"
+    ]
+  },
+  {
+    "Title": "Google Testing New Sitelink Formats and Designs",
+    "Category": "Search Engine Optimization",
+    "Description": "Google is experimenting with various sitelink formats and designs in search results, including different colors, shapes, and visual elements.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805564344849121383"
+    ]
+  },
+  {
+    "Title": "Google's Use of AI Overviews in Search Results Raises Concerns",
+    "Category": "Search Engine Optimization",
+    "Description": "Google is increasingly using AI-generated overviews in search results, particularly for health-related and sensitive queries. This development has raised concerns among SEO professionals and affiliate marketers.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805581061654532210",
+      "https://twitter.com/glenngabe/status/1805576587103891855",
+      "https://twitter.com/rustybrick/status/1805569377825153375"
+    ]
+  },
+  {
+    "Title": "Google's Display of Credit Card Carousels Impacts Affiliate Marketing",
+    "Category": "Search Engine Optimization",
+    "Description": "Google's display of credit card carousels and widgets in search results could significantly impact the credit card affiliate marketing industry.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805566861439820082"
+    ]
+  },
+  {
+    "Title": "Google AI Overviews Now Used for Google Business Profiles Descriptions",
+    "Category": "Search Engine Optimization",
+    "Description": "Google is now using AI-generated overviews for Google Business Profiles descriptions.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805300103785156946"
+    ]
+  },
+  {
+    "Title": "Google Adds Guidance for Structured Data Carousel Markup",
+    "Category": "Search Engine Optimization",
+    "Description": "Google has added guidance to its structured data documentation on how to mark up categories with many items using structured data, including examples for paginated content and infinite scroll.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805303878524793599",
+      "https://www.seroundtable.com/google-sd-carousel-markup-multiple-items-oncategory-pages-37608.html"
+    ]
+  },
+  {
+    "Title": "John Mueller Clarifies Google's Stance on Brand Names in Product Reviews",
+    "Category": "Search Engine Optimization",
+    "Description": "Google's John Mueller has clarified that mentioning product brand names in review content does not negatively impact SEO, contrary to some advice circulating among SEO professionals.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805931765644870038"
+    ]
+  },
+  {
+    "Title": "Perion Announces Layoffs Following Microsoft Bing Advertising Changes",
+    "Category": "Business",
+    "Description": "Perion, a software company, is laying off 35 employees to cut costs after Microsoft changed its advertising rules on Bing.",
+    "Links": [
+      "https://www.calcalistech.com/ctechnews/article/sjdai5d8r"
+    ]
+  },
+  {
+    "Title": "Oracle's Advertising Business Decline Leads to Industry Uncertainty",
+    "Category": "Business",
+    "Description": "The decline of Oracle's advertising business is causing layoffs and uncertainty within the advertising industry.",
+    "Links": [
+      "https://digiday.com/marketing/as-oracles-ad-business-collapses-layoffs-and-uncertainty-ripple-through-the-industry/"
+    ]
+  },
+  {
+    "Title": "Amazon Developing ChatGPT Competitor \"Metis\"",
+    "Category": "Artificial Intelligence",
+    "Description": "Amazon is developing an AI chatbot called \"Metis\" to compete with ChatGPT. It is expected to launch in September and will use RAG (Retrieval-Augmented Generation) to provide up-to-date responses.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805569772421083596"
+    ]
+  },
+  {
+    "Title": "Google Developing Customizable AI Chatbots",
+    "Category": "Artificial Intelligence",
+    "Description": "Google is developing a product that allows users to create customizable chatbots, potentially modeled after celebrities. The planned release date is 2024.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805568913867968701"
+    ]
+  },
+  {
+    "Title": "Tech Companies Update Terms of Service to Include AI Language and Data Usage",
+    "Category": "Artificial Intelligence",
+    "Description": "Tech companies, including Google, have updated their terms and conditions to include language related to AI, reflecting the increasing use of user data for training AI models.",
+    "Links": [
+      "https://twitter.com/Techmeme/status/1805914024028279144"
+    ]
+  },
+  {
+    "Title": "YouTube Tests \"Hype\" Feature for Videos",
+    "Category": "Social Media",
+    "Description": "YouTube is testing a new feature called \"Hype\" that allows viewers to boost videos in the \"Explore\" section. However, it won't affect search rankings.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805571245099946295"
+    ]
+  },
+  {
+    "Title": "TikTok Shop Orders Increase as Platform Expands E-commerce Efforts",
+    "Category": "Social Media",
+    "Description": "TikTok Shop saw a 13% increase in orders from April to May 2024. TikTok is hiring hundreds of employees in the US to support its e-commerce efforts and aims to grow Shop tenfold in the US by the beginning of 2024.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805933615877902787"
+    ]
+  },
+  {
+    "Title": "Social Media Platforms Distance Themselves from the \"Social Media\" Label",
+    "Category": "Social Media",
+    "Description": "Social media platforms are moving away from the \"social media networks\" label to highlight positive aspects for users and attract ad spend.",
+    "Links": [
+      "https://digiday.com/marketing/dont-call-them-social-media-networking-sites-why-these-platforms-are-distancing-themselves-from-the-social-media-label/"
+    ]
+  },
+  {
+    "Title": "Google Ads Introduces New Insights for Target ROAS",
+    "Category": "Advertising",
+    "Description": "Google Ads has launched a new insights box and report that provides insights into target ROAS for both Performance Max and Standard Shopping campaigns.",
+    "Links": [
+      "https://twitter.com/rustybrick/status/1805929249292825080"
+    ]
+  },
+  {
+    "Title": "Yahoo Japan Waives \$189 Million in Ad Revenue Due to Fraudulent Clicks",
+    "Category": "Advertising",
+    "Description": "Yahoo Japan will waive $189 million in ad revenue after detecting fraudulent clicks. The company admitted it is unsure if some clicks originated from humans.",
+    "Links": [
+      "https://twitter.com/glenngabe/status/1805932598432092502"
+    ]
+  },
+  {
+    "Title": "Marketers Show Decline in Post-Cookie Preparedness",
+    "Category": "Advertising",
+    "Description": "Marketers are showing a decline in preparedness for the phasing out of third-party cookies, with a 23% drop in readiness compared to 2022.",
+    "Links": [
+      "https://digiday.com/marketing/considerably-less-ready-marketers-post-cookie-preparedness-has-dropped-by-23-since-2022/"
+    ]
+  },
+  {
+    "Title": "Retail Media's Rise Challenges Social Media Dominance",
+    "Category": "Advertising",
+    "Description": "Retail media is rapidly growing as a marketing channel, leveraging its unique strengths to challenge social media's dominance.",
+    "Links": [
+      "https://digiday.com/marketing/cmo-strategies-retail-medias-rise-from-amazon-to-ebay/"
+    ]
+  },
+  {
+    "Title": "Gaming Poised to Become the Next Major Advertising Channel",
+    "Category": "Advertising",
+    "Description": "The gaming industry is attracting significant attention from advertisers, with its potential as a marketing channel drawing comparisons to the rise of mobile advertising.",
+    "Links": [
+      "https://digiday.com/marketing/why-the-year-of-gaming-might-be-the-ad-industrys-next-year-of-mobile/"
+    ]
+  }
+]
+```
