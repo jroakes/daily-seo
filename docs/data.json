@@ -2,18 +2,18 @@
     "data": [
         {
             "Title": "Google Discontinues Continuous Scroll in Search Results",
-            "Category": "Search Engine Optimization",
+            "Category": "Search Engine Optimization (SEO)",
             "Description": "Google is discontinuing the continuous scroll feature in its search results, reverting to the classic pagination bar. The change aims to improve search speed and is expected to be implemented on mobile search soon.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805586749395173780",
-                "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/",
-                "https://twitter.com/rustybrick/status/1805968256299303047"
+                "https://twitter.com/glenngabe/status/1805587630417232345",
+                "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/"
             ]
         },
         {
-            "Title": "Google Debunks Branded Keywords SEO Myth",
-            "Category": "Search Engine Optimization",
-            "Description": "Google clarifies that using branded keywords in content does not negatively impact search rankings. Danny Sullivan emphasizes that creating helpful content for users, which may naturally include brand mentions, is crucial.",
+            "Title": "Google Debunks Branded Keyword SEO Myth",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google clarifies that using branded keywords in content does not negatively impact search rankings, contradicting a common SEO myth. The company emphasizes that creating helpful content for users, which may naturally include brand mentions, is paramount.",
             "Links": [
                 "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/",
                 "https://twitter.com/rustybrick/status/1805975806071423443",
@@ -21,34 +21,17 @@
             ]
         },
         {
-            "Title": "Perion Network Announces Layoffs Following Microsoft Bing's Pricing Changes",
-            "Category": "Business & Finance",
-            "Description": "Perion Network, a digital advertising company, is laying off 35 employees (6% of its workforce) as part of cost-cutting measures. The layoffs are attributed to Microsoft's revised pricing policies for its Bing search engine.",
-            "Links": [
-                "https://www.calcalistech.com/ctechnews/article/sjdai5d8r",
-                "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html"
-            ]
-        },
-        {
-            "Title": "Google Updates Sitemap Documentation with Emphasis on \"Lastmod\" Accuracy",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has updated its sitemap documentation to clarify the importance of using the \"lastmod\" value to reflect the date and time of the last significant update to a page.",
+            "Title": "Google Updates Sitemap Documentation",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has updated its sitemap documentation, adding clarification that the \"lastmod\" value should reflect the date and time of the last significant update to a page.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805602093845078350"
             ]
         },
         {
-            "Title": "Google Search Console Validation Tools Use Different Crawler Than Live Googlebot",
-            "Category": "Search Engine Optimization",
-            "Description": "A reminder that Google Search Console's validation tools, such as the URL Inspection tool and Rich Results Test, utilize a different crawler (Google-InspectionTool) than the actual Googlebot used for indexing websites.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1805600174108004714"
-            ]
-        },
-        {
             "Title": "Google to Automate Lead Credits for Local Services Ads",
-            "Category": "Search Engine Marketing",
-            "Description": "Google will be automating lead credits for Local Services Ads starting next month. This change has sparked debate about its potential benefits and drawbacks for advertisers.",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google announces the automation of lead credits for Local Services Ads, starting next month. The move has sparked discussions about its potential benefits and drawbacks for advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805598318896332935",
                 "https://twitter.com/rustybrick/status/1805595078078964017",
@@ -56,109 +39,92 @@
             ]
         },
         {
-            "Title": "Affiliate Marketers Urged to Monitor SERP Feature Changes and AI Overviews",
-            "Category": "Search Engine Marketing",
-            "Description": "Affiliate marketers, particularly those in the finance sector, need to closely observe changes in SERP features and the increasing use of AI-generated overviews for important queries.",
+            "Title": "Google Search Console Validation Tools Use Different Crawler",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "A reminder that Google Search Console validation tools, such as the URL Inspection tool and Rich Results Test, utilize a different crawler (Google-InspectionTool) than the actual Googlebot used for indexing websites.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805581061654532210"
+                "https://twitter.com/aleyda/status/1805600174108004714"
             ]
         },
         {
-            "Title": "YouTube Tests \"Hype\" Feature for Boosting Videos in \"Explore\" Section",
-            "Category": "Social Media & Content Marketing",
-            "Description": "YouTube is experimenting with a new feature called \"Hype\" that allows viewers to promote videos in the \"Explore\" section. However, it's important to note that \"Hypes\" will not influence YouTube's search and discovery system.",
+            "Title": "Perion Network Announces Layoffs",
+            "Category": "Business & Finance",
+            "Description": "Perion Network, a digital advertising company, is laying off 35 employees (6% of its workforce) as part of cost-cutting measures. The layoffs are attributed to Microsoft's pricing policy changes for the Bing search engine, which impacted Perion's revenue.",
+            "Links": [
+                "https://www.calcalistech.com/ctechnews/article/sjdai5d8r",
+                "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html"
+            ]
+        },
+        {
+            "Title": "YouTube Tests \"Hype\" Feature for Videos",
+            "Category": "Social Media & Content Creation",
+            "Description": "YouTube is experimenting with a new feature called \"Hype\" that allows viewers to boost videos in the \"Explore\" section. However, it's important to note that \"Hypes\" will not influence search rankings or YouTube's discovery system.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1805571245099946295"
             ]
         },
         {
-            "Title": "Amazon Developing AI Chatbot \"Metis\" to Rival ChatGPT",
-            "Category": "Artificial Intelligence",
-            "Description": "Amazon is reportedly working on an AI-powered chatbot codenamed \"Metis\" designed to compete with ChatGPT. The chatbot is expected to leverage Retrieval Augmented Generation (RAG) for up-to-date responses and is tentatively slated for a September launch.",
+            "Title": "Amazon Developing AI Chatbot \"Metis\"",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Amazon is reportedly developing an AI-powered chatbot codenamed \"Metis\" to compete with ChatGPT. The chatbot is expected to leverage Retrieval Augmented Generation (RAG) to provide up-to-date responses and is tentatively slated for a September launch.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1805569772421083596"
             ]
         },
         {
-            "Title": "Google Increases AI Overviews for Health Queries After Brief Reduction",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is once again displaying more AI-generated overviews for health-related search queries after temporarily scaling back their presence.",
+            "Title": "Google Increases AI Overviews for Health Queries",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search is once again prominently displaying AI Overviews for health-related search queries after a period of reduced visibility. This development has implications for content creators and SEO strategies in the health information domain.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805569377825153375"
             ]
         },
         {
-            "Title": "Google Developing Customizable Chatbots, Potentially Modeled After Celebrities",
-            "Category": "Artificial Intelligence",
-            "Description": "Google is reportedly developing a product that enables users to create personalized chatbots, with the possibility of modeling them after celebrities. The product is expected to launch as early as 2024.",
+            "Title": "Google Developing Customizable AI Chatbots",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google is reportedly developing a product that enables users to create personalized AI-powered chatbots. These chatbots could potentially be modeled after celebrities, offering a unique and engaging user experience. The product is expected to launch as early as 2024.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1805568913867968701"
             ]
         },
         {
-            "Title": "Google's Credit Card Carousels and Widgets Could Disrupt Affiliate Marketing",
-            "Category": "Search Engine Marketing",
-            "Description": "Google's introduction of credit card carousels and widgets in search results has the potential to significantly impact the credit card affiliate marketing industry.",
+            "Title": "Google's Credit Card Widgets Disrupt Affiliate Marketing",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's introduction of credit card carousels and widgets in search results is poised to significantly impact the credit card affiliate marketing industry. The prominent placement of these features could disrupt traditional affiliate marketing strategies.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805566861439820082"
             ]
         },
         {
-            "Title": "Google Experiments with New Sitelink Formats and Designs",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing various sitelink formats and designs in search results, incorporating different colors, shapes, and visual elements.",
+            "Title": "Google Experiments with New Sitelink Designs",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google is testing various sitelink formats and designs in its search results. These experiments include different colors, shapes, and visual elements, potentially impacting how sitelinks appear and perform in search.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805564344849121383"
             ]
         },
         {
-            "Title": "Google Adds Guidance for Marking Up Multiple Items on Category Pages with Structured Data",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has updated its structured data documentation with new guidance on how to mark up category pages containing numerous items using structured data. This includes examples for paginated content and infinite scroll.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805303878524756302",
-                "https://www.seroundtable.com/google-sd-carousel-markup-multiple-items-oncategory-pages-37608.html"
-            ]
-        },
-        {
-            "Title": "Google Using AI Overviews for Google Business Profile Descriptions",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is now utilizing AI-generated overviews for Google Business Profile descriptions, raising concerns and discussions within the SEO community.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805300103785156946"
-            ]
-        },
-        {
-            "Title": "Shopify Introduces AI-Powered Tools for Merchants, Including Chatbot \"Sidekick\"",
-            "Category": "E-commerce & Artificial Intelligence",
-            "Description": "Shopify unveils a suite of AI-focused updates for merchants, including suggested replies, product categorization, and the launch of its AI chatbot, \"Sidekick,\" in early access. However, concerns arise regarding the potential for misuse and inaccurate AI-generated content.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1805279337563963643",
-                "https://twitter.com/glenngabe/status/1804849175269445782"
-            ]
-        },
-        {
-            "Title": "Oracle's Advertising Business Decline Leads to Layoffs and Industry Uncertainty",
+            "Title": "Oracle's Ad Business Decline Impacts Industry",
             "Category": "Business & Finance",
-            "Description": "The decline of Oracle's advertising business is resulting in layoffs and creating uncertainty within the advertising industry.",
+            "Description": "The decline of Oracle's advertising business is leading to layoffs and uncertainty within the advertising industry. As Oracle scales back its ad operations, the ripple effects are being felt across the industry, raising questions about future trends and opportunities.",
             "Links": [
                 "https://digiday.com/marketing/as-oracles-ad-business-collapses-layoffs-and-uncertainty-ripple-through-the-industry/"
             ]
         },
         {
-            "Title": "Marketer Preparedness for Post-Cookie World Declines by 23% Since 2022",
-            "Category": "Digital Marketing & Privacy",
-            "Description": "Marketers are showing a decline in preparedness for the phasing out of third-party cookies, with a 23% drop in readiness compared to 2022. This highlights the challenges businesses face in adapting to a privacy-focused digital advertising landscape.",
+            "Title": "Marketer Preparedness for Post-Cookie World Declines",
+            "Category": "Marketing & Advertising",
+            "Description": "Marketers are showing a decline in preparedness for the phasing out of third-party cookies, with a 23% drop in readiness compared to 2022. This lack of preparedness raises concerns about the industry's ability to adapt to a privacy-focused digital advertising landscape.",
             "Links": [
                 "https://digiday.com/marketing/considerably-less-ready-marketers-post-cookie-preparedness-has-dropped-by-23-since-2022/"
             ]
         },
         {
-            "Title": "TikTok Shop's Rapid Growth Raises Concerns for Amazon and Google",
-            "Category": "E-commerce & Social Media",
-            "Description": "TikTok Shop is experiencing significant growth, with orders increasing by 13% between April and May. TikTok's e-commerce expansion, including hiring hundreds of employees in the US, is seen as a potential threat to established players like Amazon and Google.",
+            "Title": "New Standards for Sustainability Measurement in Media",
+            "Category": "Marketing & Advertising",
+            "Description": "GARM's Rob Rakowitz discusses the development of new standards for measuring sustainability in the advertising ecosystem. These standards aim to provide a common framework for evaluating and improving the environmental impact of advertising operations.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805933615877902787"
+                "https://digiday.com/podcasts/garms-lead-sheds-light-on-new-standards-for-sustainability-measurement-in-media/"
             ]
         }
     ],
