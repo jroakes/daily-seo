@@ -3,20 +3,20 @@
         {
             "Title": "Google Ends Continuous Scroll in Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Google is dropping continuous scroll in search results. Continuous scroll launched in Google mobile search in October 2021 and on desktop in December 2022.",
+            "Description": "Google is dropping continuous scroll in search results, starting with desktop, with mobile to follow soon.  Continuous scroll launched in Google mobile search in October 2021 and on desktop in December 2022.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805968256299303047",
                 "https://twitter.com/rustybrick/status/1805586749395173780",
-                "https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529"
+                "https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529",
+                "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/"
             ]
         },
         {
-            "Title": "Google Debunks SEO Myth: Branded Keywords Won't Hurt Rankings",
+            "Title": "Google Says Using Branded Keywords in Content Doesn't Hurt Rankings",
             "Category": "Search Engine Optimization",
-            "Description": "Google debunks SEO myth: Using branded keywords in content doesn't harm rankings.",
+            "Description": "Google's SearchLiaison, Danny Sullivan, responded to new SEO advice that you should not include brand names in review content. Sullivan disagreed, saying, \"you shouldn't be afraid to mention the brand name of something you are reviewing.\"",
             "Links": [
-                "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/",
                 "https://www.seroundtable.com/google-brand-names-review-content-37623.html",
+                "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/",
                 "https://twitter.com/rustybrick/status/1805975806071423443"
             ]
         },
@@ -25,9 +25,36 @@
             "Category": "Search Engine Optimization",
             "Description": "Google Search is showing more AI Overviews for health queries since pulling them back a few weeks ago.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805673816133148813",
-                "https://twitter.com/rustybrick/status/1805613418285531602",
-                "https://twitter.com/rustybrick/status/1805569377825153375"
+                "https://twitter.com/rustybrick/status/1805569377825153375",
+                "https://twitter.com/rustybrick/status/1805613418285531602"
+            ]
+        },
+        {
+            "Title": "Google Testing AI Overviews With Link Cards at the Top",
+            "Category": "Search Engine Optimization",
+            "Description": "Google confirmed it is testing placing the link cards for the AI Overviews at the top - hope this rolls out but Google confirmed this is just a test...",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806294153745117621",
+                "https://twitter.com/glenngabe/status/1806302483255263660",
+                "https://twitter.com/rustybrick/status/1806338193836703970"
+            ]
+        },
+        {
+            "Title": "Google Adds Guidance for How to Markup Multiple Items on a Category Page Using Structured Data Carousel (Beta)",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has added a new bullet point in the structured data carousels (beta) help documentation around how to mark up categories with many items with that structured data.  This is based on examples pages such as paginated content or infinite scroll.",
+            "Links": [
+                "https://www.seroundtable.com/google-sd-carousel-markup-multiple-items-oncategory-pages-37608.html",
+                "https://twitter.com/rustybrick/status/1805201956920852736"
+            ]
+        },
+        {
+            "Title": "Google Search Ranking Systems Aren't Perfect",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's SearchLiaison acknowledged imperfections in their ranking systems and shared steps they are taking to improve search results.  Google is working on improving search rankings on the system level, so it can scale, not on an individual site level",
+            "Links": [
+                "https://www.searchenginejournal.com/google-our-ranking-systems-arent-perfect/520877/",
+                "https://twitter.com/rustybrick/status/1806284087402823750"
             ]
         },
         {
@@ -35,73 +62,71 @@
             "Category": "Search Engine Optimization",
             "Description": "Google updated its sitemap document to add \"The lastmod value should reflect the date and time of the last significant update to the page\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805662491655192651",
                 "https://twitter.com/rustybrick/status/1805602093845078350",
                 "https://twitter.com/rustybrick/status/1805561828249874863"
             ]
         },
         {
-            "Title": "Google is Testing New Sitelinks Formats and Designs",
+            "Title": "Google Chrome for Mobile Adds New Search Features",
             "Category": "Search Engine Optimization",
-            "Description": "Google is testing even more sitelinks formats/designs - blue/black text, arrows, pills, boxes - etc.",
+            "Description": "Google Chrome for mobile adds new search features including local Chrome Actions, new search shortcuts, trending in search suggestions and more",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805666266364981585",
-                "https://twitter.com/rustybrick/status/1805605868508991758",
-                "https://twitter.com/rustybrick/status/1805564344849121383"
+                "https://twitter.com/rustybrick/status/1806289120463098251",
+                "https://twitter.com/rustybrick/status/1806330644059824401"
             ]
         },
         {
-            "Title": "Google to Launch AI-Powered Customizable Chatbots",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024.",
+            "Title": "Google Search Tests Sliding the Page to the Right on Entering a New Query",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search tests sliding the page to the right on entering a new query",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805568913867968701"
+                "https://twitter.com/rustybrick/status/1806286603955921044",
+                "https://twitter.com/rustybrick/status/1806326869588951144"
             ]
         },
         {
-            "Title": "Amazon Developing AI Chatbot \"Metis\" to Rival ChatGPT",
-            "Category": "Artificial Intelligence",
-            "Description": "Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT. It's tentatively slated for a September launch. The chatbot would be accessed through a website and powered by an in-house AI model that will use RAG to generate up-to-date replies.",
+            "Title": "Google is Updating its Business Profile Terms of Service",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is updating its Business Profile terms of service",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805569772421083596"
+                "https://twitter.com/rustybrick/status/1806338566869447123"
             ]
         },
         {
-            "Title": "Perion Network Announces Layoffs Following Revenue Hit",
+            "Title": "Google Ads Updates Search Ads Query Matching and Brand Controls",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads updates to its Search ads query matching and brand controls that made advertisers happy. Includes better reporting for misspellings, negative keywords now block misspellings, and changes to brand inclusions and brand exclusions",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806291637020303785",
+                "https://twitter.com/rustybrick/status/1806334419093106836"
+            ]
+        },
+        {
+            "Title": "New Google Ads Report for Target ROAS Insights",
+            "Category": "Paid Advertising",
+            "Description": "ICYMI: New Google Ads report for target ROAS insights for Performance Max and Standard Shopping campaigns",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806032429234208865",
+                "https://twitter.com/rustybrick/status/1805972031118401968"
+            ]
+        },
+        {
+            "Title": "Google Local Service Ads to Automate Lead Credits",
+            "Category": "Paid Advertising",
+            "Description": "Google Local Service Ads will automate lead credits.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805559311600697616",
+                "https://twitter.com/rustybrick/status/1805598318896332935",
+                "https://twitter.com/rustybrick/status/1805658716861014222"
+            ]
+        },
+        {
+            "Title": "Perion Network Announces Layoffs",
             "Category": "Business",
             "Description": "Perion Network announced to lay off its 6% of the workforce due to cost-cutting measures. The Perion Network layoffs. announced due to Microsoft's pricing policy change, will affect around 35 employees.",
             "Links": [
                 "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html",
                 "https://www.calcalistech.com/ctechnews/article/sjdai5d8r"
-            ]
-        },
-        {
-            "Title": "Google Search Introduces Credit Card Carousels and Widgets",
-            "Category": "Finance",
-            "Description": "Google now shows credit card carousels and widgets, which can disrupt the credit card affiliate business.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805670041331155293",
-                "https://twitter.com/rustybrick/status/1805609643567141131",
-                "https://twitter.com/rustybrick/status/1805566861439820082"
-            ]
-        },
-        {
-            "Title": "Google Local Service Ads to Automate Lead Credits",
-            "Category": "Advertising",
-            "Description": "Google Local Service Ads will automate lead credits.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805658716861014222",
-                "https://twitter.com/rustybrick/status/1805598318896332935",
-                "https://twitter.com/rustybrick/status/1805559311600697616"
-            ]
-        },
-        {
-            "Title": "New Google Ads Report Provides Target ROAS Insights",
-            "Category": "Advertising",
-            "Description": "ICYMI: New Google Ads report for target ROAS insights for Performance Max and Standard Shopping campaigns seroundtable.com/google-ads-tro\u2026",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1806032429234208865",
-                "https://twitter.com/rustybrick/status/1805972031118401968"
             ]
         }
     ],
