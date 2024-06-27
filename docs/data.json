@@ -1,132 +1,111 @@
 {
     "data": [
         {
-            "Title": "Google Discontinues Continuous Scroll in Search Results",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is discontinuing the continuous scroll feature in its search results, reverting to the classic pagination bar. The change aims to improve search speed and is expected to be implemented on mobile search soon.",
+            "Title": "Google Drops Continuous Scroll in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is dropping continuous scroll in search results. Continuous scroll launched in Google mobile search in October 2021 and on desktop in December 2022.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1805968256299303047",
                 "https://twitter.com/rustybrick/status/1805586749395173780",
-                "https://twitter.com/glenngabe/status/1805587630417232345",
-                "https://www.searchenginejournal.com/google-ends-continuous-scroll-serps-what-it-really-means/520768/"
+                "https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529"
             ]
         },
         {
-            "Title": "Google Debunks Branded Keyword SEO Myth",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google clarifies that using branded keywords in content does not negatively impact search rankings, contradicting a common SEO myth. The company emphasizes that creating helpful content for users, which may naturally include brand mentions, is paramount.",
+            "Title": "Google Debunks SEO Myth: Branded Keywords Won't Hurt Rankings",
+            "Category": "Search Engine Optimization",
+            "Description": "Google debunks SEO myth: Using branded keywords in content doesn't harm rankings.",
             "Links": [
                 "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/",
                 "https://twitter.com/rustybrick/status/1805975806071423443",
-                "https://twitter.com/rustybrick/status/1805931765644870038"
+                "https://twitter.com/rustybrick/status/1806036203990372831"
+            ]
+        },
+        {
+            "Title": "Google Search Showing More AI Overviews for Health Queries",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is showing more AI Overviews for health queries since pulling them back a few weeks ago.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805613418285531602",
+                "https://twitter.com/rustybrick/status/1805569377825153375",
+                "https://twitter.com/rustybrick/status/1805673816133148813"
+            ]
+        },
+        {
+            "Title": "Google to Automate Lead Credits for Local Service Ads",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Local Service Ads will automate lead credits.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805598318896332935",
+                "https://twitter.com/rustybrick/status/1805559311600697616",
+                "https://twitter.com/rustybrick/status/1805658716861014222"
             ]
         },
         {
             "Title": "Google Updates Sitemap Documentation",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has updated its sitemap documentation, adding clarification that the \"lastmod\" value should reflect the date and time of the last significant update to a page.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google updated its sitemap document to add \"The lastmod value should reflect the date and time of the last significant update to the page\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805602093845078350"
+                "https://twitter.com/rustybrick/status/1805602093845078350",
+                "https://twitter.com/rustybrick/status/1805561828249874863",
+                "https://twitter.com/rustybrick/status/1805662491655192651"
             ]
         },
         {
-            "Title": "Google to Automate Lead Credits for Local Services Ads",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google announces the automation of lead credits for Local Services Ads, starting next month. The move has sparked discussions about its potential benefits and drawbacks for advertisers.",
+            "Title": "Google Testing New Sitelinks Formats and Designs",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing even more sitelinks formats/designs - blue/black text, arrows, pills, boxes - etc.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805598318896332935",
-                "https://twitter.com/rustybrick/status/1805595078078964017",
-                "https://twitter.com/rustybrick/status/1805559311600697616"
+                "https://twitter.com/rustybrick/status/1805564344849121383",
+                "https://twitter.com/rustybrick/status/1805605868508991758",
+                "https://twitter.com/rustybrick/status/1805666266364981585"
             ]
         },
         {
-            "Title": "Google Search Console Validation Tools Use Different Crawler",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A reminder that Google Search Console validation tools, such as the URL Inspection tool and Rich Results Test, utilize a different crawler (Google-InspectionTool) than the actual Googlebot used for indexing websites.",
+            "Title": "Google Search Now Shows Credit Card Carousels and Widgets",
+            "Category": "Search Engine Optimization",
+            "Description": "Google now shows credit card carousels and widgets, which can disrupt the credit card affiliate business.",
             "Links": [
-                "https://twitter.com/aleyda/status/1805600174108004714"
+                "https://twitter.com/rustybrick/status/1805566861439820082",
+                "https://twitter.com/rustybrick/status/1805609643567141131",
+                "https://twitter.com/rustybrick/status/1805670041331155293"
+            ]
+        },
+        {
+            "Title": "New Google Ads Report for Target ROAS Insights",
+            "Category": "Advertising",
+            "Description": "New Google Ads report for target ROAS insights for Performance Max and Standard Shopping campaigns seroundtable.com/google-ads-tro\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1805972031118401968",
+                "https://twitter.com/rustybrick/status/1806032429234208865"
             ]
         },
         {
             "Title": "Perion Network Announces Layoffs",
-            "Category": "Business & Finance",
-            "Description": "Perion Network, a digital advertising company, is laying off 35 employees (6% of its workforce) as part of cost-cutting measures. The layoffs are attributed to Microsoft's pricing policy changes for the Bing search engine, which impacted Perion's revenue.",
+            "Category": "Business",
+            "Description": "Perion Network announced to lay off its 6% of the workforce due to cost-cutting measures. The Perion Network layoffs. announced due to Microsoft's pricing policy change, will affect around 35 employees. \ud83d\udcf2 Perion Network Layoffs: Israel-Based Digital Ad Company to Lays Off 35 Employees Amid Cost-Cutting and Bing Search Engine\u2019s Changed Pricing Mechanism.",
             "Links": [
-                "https://www.calcalistech.com/ctechnews/article/sjdai5d8r",
-                "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html"
+                "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html",
+                "https://www.calcalistech.com/ctechnews/article/sjdai5d8r"
             ]
         },
         {
-            "Title": "YouTube Tests \"Hype\" Feature for Videos",
-            "Category": "Social Media & Content Creation",
-            "Description": "YouTube is experimenting with a new feature called \"Hype\" that allows viewers to boost videos in the \"Explore\" section. However, it's important to note that \"Hypes\" will not influence search rankings or YouTube's discovery system.",
+            "Title": "Google Business Profiles Verification Status Tool Gains More Options",
+            "Category": "Search Engine Optimization",
+            "Description": "ICYMI: Google Business Profiles verification status tool gains more options seroundtable.com/google-busines\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805571245099946295"
+                "https://twitter.com/rustybrick/status/1805964481802977775",
+                "https://twitter.com/rustybrick/status/1806009780034740291"
             ]
         },
         {
-            "Title": "Amazon Developing AI Chatbot \"Metis\"",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Amazon is reportedly developing an AI-powered chatbot codenamed \"Metis\" to compete with ChatGPT. The chatbot is expected to leverage Retrieval Augmented Generation (RAG) to provide up-to-date responses and is tentatively slated for a September launch.",
+            "Title": "Google News Sources and Google Publisher Center Experience Outage",
+            "Category": "Search Engine Optimization",
+            "Description": "Google News sources and Google Publisher Center stop working yesterday, it is now fixed",
             "Links": [
-                "https://twitter.com/glenngabe/status/1805569772421083596"
-            ]
-        },
-        {
-            "Title": "Google Increases AI Overviews for Health Queries",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search is once again prominently displaying AI Overviews for health-related search queries after a period of reduced visibility. This development has implications for content creators and SEO strategies in the health information domain.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805569377825153375"
-            ]
-        },
-        {
-            "Title": "Google Developing Customizable AI Chatbots",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Google is reportedly developing a product that enables users to create personalized AI-powered chatbots. These chatbots could potentially be modeled after celebrities, offering a unique and engaging user experience. The product is expected to launch as early as 2024.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1805568913867968701"
-            ]
-        },
-        {
-            "Title": "Google's Credit Card Widgets Disrupt Affiliate Marketing",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's introduction of credit card carousels and widgets in search results is poised to significantly impact the credit card affiliate marketing industry. The prominent placement of these features could disrupt traditional affiliate marketing strategies.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805566861439820082"
-            ]
-        },
-        {
-            "Title": "Google Experiments with New Sitelink Designs",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is testing various sitelink formats and designs in its search results. These experiments include different colors, shapes, and visual elements, potentially impacting how sitelinks appear and perform in search.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805564344849121383"
-            ]
-        },
-        {
-            "Title": "Oracle's Ad Business Decline Impacts Industry",
-            "Category": "Business & Finance",
-            "Description": "The decline of Oracle's advertising business is leading to layoffs and uncertainty within the advertising industry. As Oracle scales back its ad operations, the ripple effects are being felt across the industry, raising questions about future trends and opportunities.",
-            "Links": [
-                "https://digiday.com/marketing/as-oracles-ad-business-collapses-layoffs-and-uncertainty-ripple-through-the-industry/"
-            ]
-        },
-        {
-            "Title": "Marketer Preparedness for Post-Cookie World Declines",
-            "Category": "Marketing & Advertising",
-            "Description": "Marketers are showing a decline in preparedness for the phasing out of third-party cookies, with a 23% drop in readiness compared to 2022. This lack of preparedness raises concerns about the industry's ability to adapt to a privacy-focused digital advertising landscape.",
-            "Links": [
-                "https://digiday.com/marketing/considerably-less-ready-marketers-post-cookie-preparedness-has-dropped-by-23-since-2022/"
-            ]
-        },
-        {
-            "Title": "New Standards for Sustainability Measurement in Media",
-            "Category": "Marketing & Advertising",
-            "Description": "GARM's Rob Rakowitz discusses the development of new standards for measuring sustainability in the advertising ecosystem. These standards aim to provide a common framework for evaluating and improving the environmental impact of advertising operations.",
-            "Links": [
-                "https://digiday.com/podcasts/garms-lead-sheds-light-on-new-standards-for-sustainability-measurement-in-media/"
+                "https://twitter.com/rustybrick/status/1805960706455376132",
+                "https://twitter.com/rustybrick/status/1806021104441405856"
             ]
         }
     ],
-    "date": "2024-06-26"
+    "date": "2024-06-27"
 }
