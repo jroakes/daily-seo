@@ -1,137 +1,159 @@
 {
     "data": [
         {
-            "Title": "Google Ends Continuous Scroll in Search Results",
+            "Title": "Google Discontinues Continuous Scroll in Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Google is dropping continuous scroll in search results. Continuous scroll launched in Google mobile search in October 2021 and on desktop in December 2022.",
+            "Description": "Google has announced the discontinuation of continuous scroll in desktop search results, citing faster loading times and a desire to serve explicitly requested results. The change is expected to roll out to mobile search soon. Continuous scroll was initially launched in Google mobile search in October 2021 and on desktop in December 2022.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1805968256299303047",
-                "https://twitter.com/rustybrick/status/1805586749395173780",
+                "https://twitter.com/aleyda/status/1805865808762900751",
                 "https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529"
             ]
         },
         {
-            "Title": "Google Debunks SEO Myth: Branded Keywords Won't Hurt Rankings",
-            "Category": "Search Engine Optimization",
-            "Description": "Google debunks SEO myth: Using branded keywords in content doesn't harm rankings.",
+            "Title": "Google Analytics 4 to Replace Universal Analytics with AI-Powered Insights",
+            "Category": "Web Analytics",
+            "Description": "Google has announced that Google Analytics 4 properties will fully replace Universal Analytics properties on July 1, 2024. Google Analytics 4 will introduce AI-powered insights to reporting, providing users with more intelligent and actionable data.",
             "Links": [
-                "https://www.searchenginejournal.com/google-debunks-seo-myth-branded-keywords-wont-hurt-rankings/520772/"
+                "https://twitter.com/glenngabe/status/1806303907703898583",
+                "https://twitter.com/glenngabe/status/1806006708801573360"
             ]
         },
         {
-            "Title": "Google Says Don't Avoid Mentioning Brand Names In Your Review Content",
+            "Title": "Google Tests AI Overviews with Link Cards at the Top of Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Danny Sullivan, Google's Search Liaison, responded to some new SEO advice floating around the SEOverse that suggests you should not add the brand name of the products you are reviewing in your review content. Sullivan disagreed with this advice and said, \"you shouldn't be afraid to mention the brand name of something you are reviewing.\"",
-            "Links": [
-                "https://www.seroundtable.com/google-brand-names-review-content-37623.html",
-                "https://twitter.com/rustybrick/status/1805975806071423443"
-            ]
-        },
-        {
-            "Title": "Google Search Showing More AI Overviews for Health Queries",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is showing more AI Overviews for health queries since pulling them back a few weeks ago.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1805569377825153375",
-                "https://twitter.com/rustybrick/status/1805613418285531602"
-            ]
-        },
-        {
-            "Title": "Google Testing AI Overviews with Link Cards at the Top",
-            "Category": "Search Engine Optimization",
-            "Description": "Confirmed test from Google. Link cards AT THE TOP OF THE AI OVERVIEW. Let's see if this rolls out. :) I can't reproduce across various accounts yet, but I'll try more today.",
+            "Description": "Google is testing a new layout for AI Overviews in search results, placing the link cards at the top. This change aims to improve the visibility and accessibility of source links for users.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1806302483255263660",
-                "https://twitter.com/rustybrick/status/1806011606356132345",
                 "https://twitter.com/rustybrick/status/1806294153745117621",
-                "https://twitter.com/rustybrick/status/1806338193836703970",
-                "https://twitter.com/rustybrick/status/1806398591784890606"
+                "https://twitter.com/rustybrick/status/1806011606356132345"
             ]
         },
         {
-            "Title": "Google Updates Sitemap Documentation",
+            "Title": "Google Emphasizes Importance of Mentioning Brand Names in Review Content",
             "Category": "Search Engine Optimization",
-            "Description": "Google updated its sitemap document to add \"The lastmod value should reflect the date and time of the last significant update to the page\"",
+            "Description": "Google's Search Liaison, Danny Sullivan, has contradicted recent SEO advice suggesting the omission of brand names in review content. Sullivan emphasized the importance of natural language and user expectations, stating that \"you shouldn't be afraid to mention the brand name of something you are reviewing.\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805561828249874863",
-                "https://twitter.com/rustybrick/status/1805602093845078350"
+                "https://twitter.com/rustybrick/status/1805975806071423443",
+                "https://www.seroundtable.com/google-brand-names-review-content-37623.html",
+                "https://twitter.com/rustybrick/status/1806036203990372831"
             ]
         },
         {
-            "Title": "Google: \"Our Ranking Systems Aren't Perfect\"",
+            "Title": "Google Chrome for Mobile Enhances Search Experience with New Features",
             "Category": "Search Engine Optimization",
-            "Description": "Google's SearchLiaison acknowledged imperfections in their ranking systems and shared steps they are taking to improve search results",
+            "Description": "Google Chrome for mobile has introduced new search features, including local Chrome Actions, new search shortcuts, trending search suggestions, and more. These updates aim to provide users with a more convenient and informative search experience on mobile devices.",
             "Links": [
-                "https://www.searchenginejournal.com/google-our-ranking-systems-arent-perfect/520877/",
-                "https://twitter.com/rustybrick/status/1806284087402823750",
-                "https://twitter.com/rustybrick/status/1806383492189786352"
+                "https://twitter.com/rustybrick/status/1806289120463098251",
+                "https://twitter.com/glenngabe/status/1806015212811657353",
+                "https://twitter.com/rustybrick/status/1806009535167123850"
             ]
         },
         {
-            "Title": "Perion Network Lays Off 35 Employees",
-            "Category": "Business",
-            "Description": "Perion Network announced to lay off its 6% of the workforce due to cost-cutting measures. The Perion Network layoffs. announced due to Microsoft's pricing policy change, will affect around 35 employees. \ud83d\udcf2 Perion Network Layoffs: Israel-Based Digital Ad Company to Lays Off 35 Employees Amid Cost-Cutting and Bing Search Engine\u2019s Changed Pricing Mechanism.",
+            "Title": "Google Search Algorithm Leak Prompts Discussion on SEO Strategies",
+            "Category": "Search Engine Optimization",
+            "Description": "A recent leak of information about Google's search algorithm has sparked discussions among SEO professionals about potential adjustments to strategies. While Google has provided some insights into its algorithm, the leak has revealed new details that could impact how websites are ranked.",
             "Links": [
+                "https://twitter.com/Majestic/status/1806298943300493324",
+                "https://thetampabay100.com/business/2024/06/27/google-search-algorithm-leak-an-seo-game-changer/29775",
+                "https://twitter.com/aleyda/status/1805533912300470411"
+            ]
+        },
+        {
+            "Title": "Reddit and YouTube Outperforming Product Pages in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Analysis of search engine results pages (SERPs) reveals that Reddit and YouTube are outranking product pages for numerous queries, even for top retailers. This highlights the importance of considering a wider range of competitors and incorporating diverse content formats into SEO strategies.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1806297131679920626",
+                "https://twitter.com/TheCoolestCool/status/1805596300039115153"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing's Censorship Practices in China Draw Scrutiny",
+            "Category": "Search Engine Censorship",
+            "Description": "A new study by Citizen Lab reveals that Microsoft Bing's censorship practices in China are more extensive than those of Chinese companies. The findings come as U.S. lawmakers scrutinize Microsoft's willingness to comply with demands from Beijing.",
+            "Links": [
+                "https://restofworld.org/2024/microsoft-bing-chinese-censorship/",
                 "https://www.latestly.com/technology/perion-network-layoffs-israel-based-digital-ad-company-to-lays-off-35-employees-amid-cost-cutting-and-bing-search-engines-changed-pricing-mechanism-6066632.html",
                 "https://www.calcalistech.com/ctechnews/article/sjdai5d8r"
             ]
         },
         {
-            "Title": "Google Analytics 4 to Replace Universal Analytics",
-            "Category": "Analytics",
-            "Description": "Just received an email from Google Analytics. Yep, UA will be gone soon. Make sure you back up your data. I exported a ton of it recently. \"On July 1, 2024, Google Analytics 4 properties will have fully replaced Universal Analytics properties, as previously announced. From that\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1806006708801573360"
-            ]
-        },
-        {
-            "Title": "Google Ads Updates Search Ads Query Matching and Brand Controls",
-            "Category": "Advertising",
-            "Description": "Google Ads updates to its Search ads query matching and brand controls that made advertisers happy. Includes better reporting for misspellings, negative keywords now block misspellings, and changes to brand inclusions and brand exclusions seroundtable.com/google-ads-cha\u2026 via @adsliaison",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1806291637020303785",
-                "https://twitter.com/rustybrick/status/1806334419093106836",
-                "https://twitter.com/rustybrick/status/1806394817091367310"
-            ]
-        },
-        {
-            "Title": "Google Chrome for Mobile Adds New Search Features",
+            "Title": "Google Acknowledges Imperfections in Search Ranking Systems",
             "Category": "Search Engine Optimization",
-            "Description": "Google Chrome for mobile adds new search features including local Chrome Actions, new search shortcuts, trending in search suggestions and more seroundtable.com/google-chrome-\u2026",
+            "Description": "Google's Search Liaison, Danny Sullivan, has acknowledged that the company's search ranking systems are not perfect. Sullivan stated that Google is continuously working to improve search results but emphasized that these improvements are made at a system level rather than on an individual site basis.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1806289120463098251",
-                "https://twitter.com/rustybrick/status/1806330644059824401",
-                "https://twitter.com/rustybrick/status/1806391041970549013"
+                "https://twitter.com/rustybrick/status/1806284087402823750",
+                "https://www.seroundtable.com/google-search-rankings-improve-scale-system-37636.html",
+                "https://www.searchenginejournal.com/google-our-ranking-systems-arent-perfect/520877/"
             ]
         },
         {
-            "Title": "Google Search Tests Sliding the Page to the Right on Entering a New Query",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search tests sliding the page to the right on entering a new query seroundtable.com/google-search-\u2026 via @shemiadhikarath",
+            "Title": "Google Ads Introduces New Features for Query Matching and Brand Controls",
+            "Category": "Search Engine Marketing",
+            "Description": "Google Ads has rolled out updates to its Search ads query matching and brand controls, including better reporting for misspellings, negative keywords now blocking misspellings, and changes to brand inclusions and brand exclusions. These updates aim to provide advertisers with more control and transparency over their campaigns.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1806286603955921044",
-                "https://twitter.com/rustybrick/status/1806326869588951144",
-                "https://twitter.com/rustybrick/status/1806387267361288564"
+                "https://twitter.com/rustybrick/status/1806291637020303785"
             ]
         },
         {
-            "Title": "Google is Updating its Business Profile Terms of Service",
-            "Category": "Business",
-            "Description": "Google is updating its Business Profile terms of service",
+            "Title": "Google Ads Launches New Report for Target ROAS Insights",
+            "Category": "Search Engine Marketing",
+            "Description": "Google Ads has introduced a new report that provides target ROAS (Return on Ad Spend) insights for Performance Max and Standard Shopping campaigns. This report aims to help advertisers optimize their campaigns for better return on investment.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1806338566869447123"
+                "https://twitter.com/rustybrick/status/1806032429234208865",
+                "https://twitter.com/rustybrick/status/1805929249292825080",
+                "https://twitter.com/rustybrick/status/1805972031118401968"
             ]
         },
         {
-            "Title": "Google June 2024 Spam Update Done Rolling Out",
-            "Category": "Search Engine Optimization",
-            "Description": "The June spam update rollout is complete. What's next? Only Google knows. Muahahaha. :)",
+            "Title": "Tech Companies Update Terms and Conditions to Incorporate AI Language",
+            "Category": "Artificial Intelligence",
+            "Description": "Tech companies are updating their terms and conditions to include language related to artificial intelligence (AI). This move reflects the increasing use of AI in various products and services and the need to address data usage for AI model training.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1806367486624842144",
-                "https://twitter.com/rustybrick/status/1806363510646964505",
-                "https://www.searchenginejournal.com/google-completes-june-2024-spam-update-rollout/520946/"
+                "https://twitter.com/Techmeme/status/1805914024028279144"
+            ]
+        },
+        {
+            "Title": "Reddit Implements Measures to Protect Against AI Crawlers",
+            "Category": "Artificial Intelligence",
+            "Description": "Reddit is taking steps to safeguard its platform against AI crawlers by implementing updates to its robots.txt file and introducing rate-limiting measures. These actions aim to prevent the unauthorized scraping of user data by AI systems.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805696746619625713"
+            ]
+        },
+        {
+            "Title": "Amazon Developing AI Chatbot to Compete with ChatGPT",
+            "Category": "Artificial Intelligence",
+            "Description": "Amazon is reportedly developing an AI chatbot, codenamed Metis, designed to compete with ChatGPT. The chatbot is expected to be accessible through a website and powered by an in-house AI model. It is tentatively slated for a September launch.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805569772421083596"
+            ]
+        },
+        {
+            "Title": "Google Developing Customizable Chatbots, Potentially Modeled After Celebrities",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is developing a product that allows users to create customizable chatbots, potentially modeled after celebrities. The product is expected to launch as early as 2024 and raises questions about the implications of such technology.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805568913867968701"
+            ]
+        },
+        {
+            "Title": "YouTube Tests New \"Hype\" Feature for Videos",
+            "Category": "Online Video",
+            "Description": "YouTube is experimenting with a new feature that allows viewers to \"Hype\" videos. The ranking will appear in the \"Explore\" section, separate from the \"Trending\" section. It is unclear how this feature will impact video rankings.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805571245099946295"
+            ]
+        },
+        {
+            "Title": "Pinterest Introduces Feature to Convert Boards into Videos",
+            "Category": "Social Media",
+            "Description": "Inspired by Gen Z's preference for short-form video content, Pinterest has introduced a feature that allows users to turn their boards into videos. This move aims to enhance content sharing and engagement on platforms like Instagram and TikTok.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805638887265472805"
             ]
         }
     ],
-    "date": "2024-06-27"
+    "date": "2024-06-28"
 }
