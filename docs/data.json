@@ -1,69 +1,167 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has announced several updates to its search engine, including the discontinuation of continuous scroll on desktop search, the completion of the June 2024 spam update, and the testing of AI Overviews with link cards at the top. Google also clarified that using branded keywords in content does not negatively impact search rankings.",
+            "Title": "Google June 2024 Spam Update Complete",
+            "Category": "Search Engines",
+            "Description": "Google has completed the rollout of its June 2024 spam update. The update, which began on June 13, is designed to target websites that are engaging in spammy practices.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1805926732777623737",
                 "https://twitter.com/rustybrick/status/1806700581702017206",
-                "https://twitter.com/rustybrick/status/1806011606356132345",
-                "https://www.seroundtable.com/google-brand-names-review-content-37623.html"
+                "https://twitter.com/rustybrick/status/1806656541376086189",
+                "https://twitter.com/glenngabe/status/1806367486624842144"
             ]
         },
         {
-            "Title": "Google Analytics 4 Transition",
-            "Category": "Web Analytics",
-            "Description": "Google Analytics 4 (GA4) will fully replace Universal Analytics (UA) on July 1, 2024. Google has begun sending out email reminders to users, urging them to back up their data and migrate to GA4. GA4 will also be adding AI-powered insights to its reporting features.",
+            "Title": "Google Warns of Soft 404 Errors and Their Impact on SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes warns of soft 404 errors' impact on web crawling and recommends proper error handling to improve SEO and site efficiency.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1806006708801573360",
+                "https://www.searchenginejournal.com/google-warns-of-soft-404-errors-and-their-impact-on-seo/521016/"
+            ]
+        },
+        {
+            "Title": "Microsoft AI CEO: Web content is 'freeware'",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft AI CEO: Web content is \u2018freeware\u2019 via @MrDannyGoodwin searchengineland.com/microsoft-web-\u2026",
+            "Links": [
+                "https://twitter.com/sengineland/status/1806772003975713072"
+            ]
+        },
+        {
+            "Title": "How Google Measures Search Quality",
+            "Category": "Search Engines",
+            "Description": "How Google measures search quality - interview by @JohnMu and @okaylizzi of Elizabeth Tucker at Google seroundtable.com/how-google-sea\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806654024889844164"
+            ]
+        },
+        {
+            "Title": "Google Product Studio Expands to UK, India, and Japan",
+            "Category": "Software and Tools",
+            "Description": "Google Product Studio now works in the UK, India, and Japan. Plus there are new themes to choose from and new file upload feature",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806693032030331079",
+                "https://twitter.com/rustybrick/status/1806651508777161076"
+            ]
+        },
+        {
+            "Title": "Bing Search People Also Ask May Include AI-Generated Content",
+            "Category": "Search Engines",
+            "Description": "Microsoft may now include AI generated content within the Bing Search people also ask sections.  Bing is labeling some of the people also ask boxes with the disclaimer, \"Includes Al generated content.\"",
+            "Links": [
+                "https://www.seroundtable.com/bing-people-also-ask-ai-generated-content-37627.html",
+                "https://twitter.com/rustybrick/status/1806689257538412753"
+            ]
+        },
+        {
+            "Title": "Google Ads Introduces New WordPress Specific Conversion Google Tag Code",
+            "Category": "Advertising Platforms",
+            "Description": "ICYMI: New WordPress specific conversion Google Tag code for Google Ads seroundtable.com/google-ads-wor\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806743363510800797"
+            ]
+        },
+        {
+            "Title": "Report: Menu Items and Popular Times May Be Google Local Ranking Signals",
+            "Category": "Local Search",
+            "Description": "There is a new report out that says menu items and how busy you are during Google Maps popular times are both ranking factors and signals for Google's local ranking system.  Claudia Tomina posted the details on her blog and told me she tested this across numerous businesses.",
+            "Links": [
+                "https://www.seroundtable.com/menu-items-popular-times-are-google-local-signal-37642.html",
+                "https://searchengineland.com/report-says-menu-items-and-busier-businesses-may-be-local-ranking-signals-on-google-443751"
+            ]
+        },
+        {
+            "Title": "Google's Search Dilemma: The Battle With 'Not' & Prepositions",
+            "Category": "Search Engines",
+            "Description": "Google still struggles with complex search queries, particularly those using \"not\" and prepositions, despite AI advancements.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-search-dilemma-the-battle-with-not-prepositions/520995/"
+            ]
+        },
+        {
+            "Title": "Google AI Overviews Now Feature Link Cards at the Top",
+            "Category": "Search Engines",
+            "Description": "Confirmed: Google AI Overviews with link cards at the top seroundtable.com/google-ai-over\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806398591784890606",
+                "https://twitter.com/rustybrick/status/1806338193836703970"
+            ]
+        },
+        {
+            "Title": "Google Ads Updates Query Matching and Brand Controls",
+            "Category": "Advertising Platforms",
+            "Description": "ICYMI: Google Ads updates to its Search ads query matching and brand controls seroundtable.com/google-ads-cha\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806394817091367310",
+                "https://twitter.com/rustybrick/status/1806334419093106836"
+            ]
+        },
+        {
+            "Title": "Google Chrome for Mobile Adds New Search Features",
+            "Category": "Web Browsers",
+            "Description": "ICYMI: Google Chrome for mobile adds new search features seroundtable.com/google-chrome-\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806391041970549013",
+                "https://twitter.com/rustybrick/status/1806330644059824401"
+            ]
+        },
+        {
+            "Title": "Google Search Testing Sliding Page Animation for New Queries",
+            "Category": "Search Engines",
+            "Description": "ICYMIL: Google Search sliding the page to the right on entering a new query seroundtable.com/google-search-\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806387267361288564",
+                "https://twitter.com/rustybrick/status/1806326869588951144"
+            ]
+        },
+        {
+            "Title": "Google Focusing on System-Level Search Ranking Improvements for Scalability",
+            "Category": "Search Engines",
+            "Description": "ICYMI: Google is working on improving search rankings on the system level, so it can scale, not on an individual site level seroundtable.com/google-search-\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1806383492189786352",
+                "https://twitter.com/rustybrick/status/1806323094308417670"
+            ]
+        },
+        {
+            "Title": "Google Analytics 4 to Integrate AI-Powered Insights",
+            "Category": "Web Analytics",
+            "Description": "With Universal Analytics going away completely soon, Google Analytics 4 will add AI-powered insights to its reporting.",
+            "Links": [
                 "https://twitter.com/glenngabe/status/1806303907703898583"
             ]
         },
         {
-            "Title": "AI in Search Results",
+            "Title": "Amazon Plans Temu-Like Section for Cheap Goods from China",
+            "Category": "Ecommerce",
+            "Description": "Amazon plans to launch a Temu-like section featuring cheap items that ship directly from China to overseas consumers.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1806297632966365667"
+            ]
+        },
+        {
+            "Title": "TikTok Shop Orders Surge as Platform Ramps Up Ecommerce Efforts",
+            "Category": "Ecommerce",
+            "Description": "Alarms going off at Amazon and Google -> Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts \"By the beginning of 2024, it was gunning to grow Shop tenfold in the U.S. to",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1805933615877902787"
+            ]
+        },
+        {
+            "Title": "Google: Don't Shy Away from Brand Names in Review Content",
             "Category": "Search Engine Optimization",
-            "Description": "AI-generated content is becoming increasingly prevalent in search results. Google is testing AI Overviews with link cards at the top, while Bing's People Also Ask section may now include AI-generated content.  Marketers and SEO professionals are advised to monitor these changes and adapt their strategies accordingly.",
+            "Description": "Danny Sullivan, Google's Search Liaison, responded to some new SEO advice floating around the SEOverse that suggests you should not add the brand name of the products you are reviewing in your review content. Sullivan disagreed with this advice and said, \"you shouldn't be afraid to mention the brand name of something you are reviewing.\"",
             "Links": [
-                "https://twitter.com/glenngabe/status/1806302483255263660",
-                "https://www.seroundtable.com/bing-people-also-ask-ai-generated-content-37627.html",
-                "https://searchengineland.com/google-ai-overviews-evolution-revolution-443454"
+                "https://www.seroundtable.com/google-brand-names-review-content-37623.html"
             ]
         },
         {
-            "Title": "Google Chrome Mobile Updates",
-            "Category": "Web Browsers",
-            "Description": "Google Chrome for mobile has added new search features, including local Chrome Actions, new search shortcuts, and trending search suggestions. The update also includes shortcut buttons for local searches and live sports scores in Discover.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1806289120463098251",
-                "https://twitter.com/glenngabe/status/1806015212811657353",
-                "https://twitter.com/rustybrick/status/1806009535167123850"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing Censorship",
+            "Title": "Google to Remove Continuous Scroll from Search Results",
             "Category": "Search Engines",
-            "Description": "A new study by Citizen Lab reveals that Microsoft Bing's censorship practices in China are even more extensive than those of Chinese companies. The study comes as U.S. lawmakers scrutinize Microsoft's willingness to comply with demands from Beijing.",
+            "Description": "Google is dropping continuous scroll in search results. Google said this change is to allow the search company to serve the search results faster on more searches, instead of automatically loading results that users haven't explicitly requested.",
             "Links": [
-                "https://restofworld.org/2024/microsoft-bing-chinese-censorship/"
-            ]
-        },
-        {
-            "Title": "Reddit's Fight Against AI Crawlers",
-            "Category": "Social Media",
-            "Description": "Reddit is implementing changes to its robots.txt file and rate-limiting measures to protect the platform from AI crawlers. These measures aim to safeguard user data and prevent the unauthorized scraping of content by AI systems.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1805696746619625713"
-            ]
-        },
-        {
-            "Title": "Google's Credit Cards Widget Controversy",
-            "Category": "Search Engines",
-            "Description": "The CEO of WalletHub has criticized Google's new Credit Cards widget, alleging that it prioritizes Google's financial interests over providing users with the best credit card options. The widget's impact on search results and user experience is being debated.",
-            "Links": [
-                "https://twitter.com/gofishchris/status/1805971123378553025"
+                "https://twitter.com/aleyda/status/1805865808762900751"
             ]
         }
     ],
-    "date": "2024-06-28"
+    "date": "2024-06-29"
 }
