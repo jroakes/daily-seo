@@ -1,35 +1,28 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Performance Report Delays",
+            "Title": "Google Search Console Performance Reporting Delays",
             "Category": "Search Engine Optimization",
-            "Description": "Google has confirmed delays in the Google Search Console Performance reports and is working on a fix. This issue occurs periodically, and Google typically resolves it over time.",
+            "Description": "Google has confirmed it is working to fix delays and latency issues with the Google Search Console Performance reports. This issue, affecting performance and other reports, occurs periodically. Google usually resolves it over time, allowing reports to catch up.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808080803399659889",
-                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html"
+                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
+                "https://twitter.com/glenngabe/status/1808112441215136214"
             ]
         },
         {
-            "Title": "Google Merchant Center Updates Conversion Data Usage",
+            "Title": "Google Merchant Center Conversion Data Usage Policy Change",
             "Category": "Search Engine Optimization",
-            "Description": "Google Merchant Center is changing how it uses conversion data shared by merchants. Google may use this data for new reporting features and to improve Google Search experiences and services.",
+            "Description": "Google Merchant Center merchants received email notifications about changes in how Google collects and uses their shared conversion data. Google might utilize this data for new reporting methods, enhancing Google Search experiences and services.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808020529116504501",
                 "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
             ]
         },
         {
-            "Title": "YouTube Updates Policy on AI-Generated Content",
-            "Category": "Artificial Intelligence",
-            "Description": "YouTube will now allow users to request the removal of AI-generated content that simulates their face or voice. This policy change aims to address concerns about privacy and misinformation.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808032636033503490"
-            ]
-        },
-        {
-            "Title": "Bing Adds Prompt Injection to Webmaster Guidelines",
+            "Title": "Bing Introduces \"Prompt Injection\" to Webmaster Guidelines",
             "Category": "Search Engine Optimization",
-            "Description": "Bing has updated its Webmaster Guidelines to address prompt injection, a security vulnerability that can manipulate AI-powered systems. Website owners are prohibited from using techniques that exploit this vulnerability.",
+            "Description": "Bing added a new guideline to its Bing Webmaster Guidelines named Prompt Injection. A prompt injection is a type of cyberattack against large language models (LLMs). Hackers disguise malicious inputs as legitimate prompts, manipulating generative AI systems (GenAI) into leaking sensitive data, spreading misinformation, or worse, according to IBM.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1807772645842108497",
                 "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html",
@@ -37,31 +30,63 @@
             ]
         },
         {
+            "Title": "Google Search Tests \"Top Quality Store\" Badge",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is experimenting with a \"top quality store\" badge displayed alongside website names in search results. This badge could influence user trust and click-through rates.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1807776420867068171",
+                "https://twitter.com/rustybrick/status/1807836818886336927"
+            ]
+        },
+        {
             "Title": "Google Explains the Negative Impact of Soft 404 Errors",
             "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes explains that soft 404 errors, where a page returns a 200 OK status but should return a 404 Not Found, negatively impact crawl budget and search rankings.",
+            "Description": "Gary Illyes from Google explained two reasons why soft 404 errors are bad.  Soft 404s are when a page returns a 200 status okay, but Google thinks that page should return a 404 page not found error.  According to Gary, soft 404s are bad because they (1) limit crawl budget and (2) the pages won't likely show up in Google Search.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1807844368428290550",
                 "https://twitter.com/rustybrick/status/1807783970735632815",
-                "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html"
+                "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html",
+                "https://twitter.com/glenngabe/status/1807748435233157259"
             ]
         },
         {
             "Title": "Google June 2024 Spam Update Completed",
             "Category": "Search Engine Optimization",
-            "Description": "Google has completed the rollout of its June 2024 spam update, which aimed to improve the quality of search results by demoting websites engaging in spammy practices.",
+            "Description": "Confirmation that Google's June 2024 Spam Update has finished rolling out.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1806656541376086189",
                 "https://twitter.com/aleyda/status/1807025511966683400"
             ]
         },
         {
-            "Title": "Debate Arises Over \"Fair Use\" of Open Web Content",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft AI CEO Mustafa Suleyman sparked controversy by stating that content on the open web is \"freeware\" due to fair use principles. Critics argue that fair use does not grant permission for commercial reuse without consent.",
+            "Title": "YouTube May Allow Custom Playlist Thumbnails",
+            "Category": "Online Video",
+            "Description": "Rumor that YouTube may soon allow users to upload custom thumbnails for their playlists.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1807026643820507532",
-                "https://twitter.com/aleyda/status/1807015089880326461"
+                "https://twitter.com/glenngabe/status/1807379159426990236"
+            ]
+        },
+        {
+            "Title": "OpenAI and Time Magazine Partner to Enhance ChatGPT",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI partners with Time magazine to provide ChatGPT with access to its archive of journalistic content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1807380226483052989"
+            ]
+        },
+        {
+            "Title": "TikTok Developing AI Chatbot \"Genie\"",
+            "Category": "Artificial Intelligence",
+            "Description": "Genie -&gt; TikTok\u2019s Developing a New AI Chatbot Called Genie, which could incorporate generative AI search \"TikTok has sought to trademark the name \u201cGenie\u201d for its coming AI chatbot tool, which would enable users to pose questions in-stream, and get immediate responses, among\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808114230484193377"
+            ]
+        },
+        {
+            "Title": "YouTube Updates Policy on AI-Generated Content",
+            "Category": "Online Video",
+            "Description": "YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice \"The change allows people to request the removal of this type of AI content under YouTube\u2019s privacy request process. It\u2019s an\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808032636033503490"
             ]
         }
     ],
