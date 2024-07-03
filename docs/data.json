@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Experiences Major Reporting Delays",
+            "Title": "Google Search Console Experiences Major Delays in Performance Reporting",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console is experiencing significant delays in performance reporting, exceeding 75 hours and raising concerns among SEOs. Google has acknowledged the issue and is working on a fix.",
+            "Description": "Google Search Console is experiencing significant delays in performance reporting, exceeding 75 hours and raising concerns among SEOs. Google has acknowledged the issue and is working on a fix, but it is unclear when the reports will be fully caught up.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808275005991530608",
                 "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
-                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857",
+                "https://twitter.com/rustybrick/status/1808440980875411797"
             ]
         },
         {
-            "Title": "Google's AI Overviews Decline in Mobile Search",
+            "Title": "Google's AI Overviews May Be Impacting Mobile Search Volume",
             "Category": "Search Engine Optimization",
-            "Description": "A recent study reveals that Google's AI-powered search overviews have coincided with a decline in mobile search volume, prompting Google to potentially scale back the feature.",
+            "Description": "A recent study suggests that Google's AI-generated overviews, which provide summarized answers at the top of search results, may be contributing to a decline in mobile search volume. This has led to speculation that Google may be reconsidering the prominence of this feature.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/",
                 "https://twitter.com/aleyda/status/1808173422649745590",
@@ -21,70 +21,40 @@
             ]
         },
         {
-            "Title": "Google Search Prioritizes AI-Generated Content, Raising Concerns",
+            "Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting, Raising Concerns",
             "Category": "Artificial Intelligence",
-            "Description": "Concerns are growing as Google's search results appear to prioritize AI-generated content and SEO spam over original, human-created content, potentially impacting the quality and trustworthiness of search results.",
+            "Description": "There is growing concern that Google's search algorithms are prioritizing AI-generated content and SEO spam over original, human-created content. This issue has sparked debate about the future of online content creation and the potential impact on the quality of information available through search engines.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808202503043100839",
-                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
+                "https://www.firstpost.com/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
                 "https://www.searchenginejournal.com/ai-overviews-imho-with-pedro-dias/521202/"
             ]
         },
         {
             "Title": "Google Merchant Center Updates Conversion Data Usage Policy",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center has updated its conversion data usage policy, notifying merchants that the data they share may be used for new reporting features and to improve Google Search experiences and services.",
+            "Description": "Google has updated its Google Merchant Center conversion data usage policy, notifying merchants that the data they share may be used for new reporting features and to improve Google Search experiences and services. This change has prompted discussions about data privacy and transparency in the ecommerce ecosystem.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808195431685304575",
                 "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html",
                 "https://twitter.com/rustybrick/status/1808020529116504501"
             ]
         },
         {
-            "Title": "Bing Updates Webmaster Guidelines with Prompt Injection Policy",
+            "Title": "Bing Updates Webmaster Guidelines to Address \"Prompt Injection\" Attacks",
             "Category": "Search Engine Optimization",
-            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines named \"Prompt Injection,\" prohibiting the insertion of malicious code into website content to manipulate AI systems.",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines to address \"prompt injection,\" a type of cyberattack targeting large language models (LLMs). This update highlights the increasing importance of cybersecurity measures in the age of AI-powered search and content generation.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1807833043765248078",
                 "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html",
                 "https://searchengineland.com/prompt-injection-added-to-bing-webmaster-guidelines-443788"
             ]
         },
         {
-            "Title": "Google Ads Introduces New Brand Exclusion Controls",
-            "Category": "Digital Marketing",
-            "Description": "Google Ads has rolled out new brand exclusion controls, but advertisers are reporting that the feature is not yet fully effective in preventing ads from appearing for unrelated brands.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808202981398953985",
-                "https://twitter.com/rustybrick/status/1808497421405872549",
-                "https://twitter.com/rustybrick/status/1808458414609072157"
-            ]
-        },
-        {
-            "Title": "Google's Zero-Click Search Results Decline to 58.5%",
+            "Title": "New Study Shows Decrease in Google's Zero-Click Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "A new study by Rand Fishkin reveals that Google's zero-click search results, where users find information directly on the search results page without clicking through to websites, have decreased from 65% to 58.5%.",
+            "Description": "A new study by Rand Fishkin reveals that Google's zero-click search results, where users find answers directly on the search results page without clicking through to other websites, have decreased from 65% to 58.5%. This suggests that Google may be making changes to drive more traffic to external websites.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808508746525466972",
-                "https://twitter.com/rustybrick/status/1808465964188754215",
-                "https://twitter.com/aleyda/status/1808141221409313152"
-            ]
-        },
-        {
-            "Title": "Google Search Tests \"Current Styles\" Carousel",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with a new \"current styles\" carousel in search results, potentially impacting searches related to fashion and trends.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808504971463110784",
-                "https://twitter.com/rustybrick/status/1808463447832805565"
-            ]
-        },
-        {
-            "Title": "Google's Greenhouse Gas Emissions Surge 48% in Five Years",
-            "Category": "Technology",
-            "Description": "Google's greenhouse gas emissions have increased by 48% over the past five years, primarily due to the expansion of data centers supporting the company's AI initiatives, raising concerns about the environmental impact of AI development.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808403749188014334"
+                "https://twitter.com/rustybrick/status/1808465964188754215"
             ]
         }
     ],
