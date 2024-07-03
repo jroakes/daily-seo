@@ -1,112 +1,62 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Performance Reports Experiencing Delays",
+            "Title": "Google Search Console Experiences Significant Reporting Delays",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console performance reports are currently experiencing delays of over 60 hours. Google has confirmed it is working on a fix for the latency issues.",
+            "Description": "Google Search Console performance reports have been delayed for an unusually long period, exceeding 60 hours. This issue is affecting various reports and has caused concern among SEO professionals.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808080803399659889",
-                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
-                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+                "https://twitter.com/rustybrick/status/1808275005991530608",
+                "https://twitter.com/rustybrick/status/1808214375116742950",
+                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html"
             ]
         },
         {
-            "Title": "Google's June 2024 Spam Update Completed",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's June 2024 spam update has finished rolling out after a seven-day period. The update aimed to improve the quality of search results by demoting spammy and low-quality content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1806656541376086189",
-                "https://twitter.com/aleyda/status/1807025511966683400",
-                "https://www.seroundtable.com/july-2024-google-webmaster-report-37655.html"
-            ]
-        },
-        {
-            "Title": "Soft 404 Errors Negatively Impact Website Performance",
-            "Category": "Search Engine Optimization",
-            "Description": "Google emphasizes the negative implications of soft 404 errors on website performance and search engine optimization. Soft 404s occur when a page returns a 200 status code (OK) but Google believes it should return a 404 (Not Found) error. These errors can limit crawl budget and hinder a page's ability to rank in search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807783970735632815",
-                "https://twitter.com/glenngabe/status/1807748435233157259",
-                "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html"
-            ]
-        },
-        {
-            "Title": "Google Tests \"Top Quality Store\" Badge in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is experimenting with a \"top quality store\" badge displayed alongside website names in search results. This badge could potentially influence user trust and click-through rates.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807776420867068171",
-                "https://twitter.com/rustybrick/status/1807836818886336927"
-            ]
-        },
-        {
-            "Title": "Bing Adds \"Prompt Injection\" to Webmaster Guidelines",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing has introduced a new webmaster guideline addressing prompt injection, a security vulnerability that can be exploited to manipulate AI-powered systems. This guideline emphasizes the importance of protecting websites from this emerging threat.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807772645842108497",
-                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html",
-                "https://searchengineland.com/prompt-injection-added-to-bing-webmaster-guidelines-443788"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Updates Conversion Data Usage",
+            "Title": "Google Updates Merchant Center Conversion Data Usage Policy",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center is changing how it uses conversion data shared by merchants. Google may use this data for new reporting features and to improve Google Search experiences and services.",
+            "Description": "Google Merchant Center merchants have been notified of a change in how Google collects and utilizes conversion data. The updated policy allows Google to employ this data for enhanced reporting, improved search experiences, and refined services.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808020529116504501",
-                "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
+                "https://twitter.com/rustybrick/status/1808195431685304575",
+                "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html",
+                "https://twitter.com/rustybrick/status/1808020529116504501"
             ]
         },
         {
-            "Title": "YouTube Allows Takedown Requests for AI-Generated Content Simulating Real People",
+            "Title": "Google Search Prioritizes AI-Generated Content Over Original Reporting",
             "Category": "Artificial Intelligence",
-            "Description": "YouTube has implemented a policy change allowing individuals to request the removal of AI-generated content that simulates their face or voice. This change aims to address concerns about privacy and the potential misuse of synthetic media.",
+            "Description": "A recent study reveals that Google Search results often rank AI-generated content, even if it's spam, above original reporting. This raises concerns about the spread of misinformation and the devaluation of human-created content.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1808032636033503490"
-            ]
-        },
-        {
-            "Title": "TikTok Develops AI Chatbot \"Genie\"",
-            "Category": "Artificial Intelligence",
-            "Description": "TikTok is developing a new AI chatbot called \"Genie,\" which could incorporate generative AI search functionality. The chatbot would allow users to ask questions within the app and receive immediate responses.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808114230484193377"
-            ]
-        },
-        {
-            "Title": "Google Ads to Accept Ads for Daily Fantasy Sports and Lottery Couriers",
-            "Category": "Advertising",
-            "Description": "Starting July 15th, Google Ads will begin accepting and running ads for Daily Fantasy Sports and lottery couriers in many US states. This policy change reflects the growing popularity of these industries.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808094517020745983"
+                "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/",
+                "https://twitter.com/rustybrick/status/1808202503043100839",
+                "https://twitter.com/aleyda/status/1808173422649745590"
             ]
         },
         {
             "Title": "Google Ads Introduces New Setting for \"Altered or Synthetic Content\"",
-            "Category": "Advertising",
-            "Description": "Google Ads has added a new setting for political campaigns, requiring advertisers to disclose whether they have used \"Altered or synthetic content\" in their ads. This move aims to increase transparency and accountability in political advertising.",
+            "Category": "Digital Advertising",
+            "Description": "Google Ads has rolled out a new setting that requires advertisers to disclose the use of \"Altered or synthetic content\" in their ads. This move aims to increase transparency and user trust by clearly labeling AI-generated content.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808101059967214015",
+                "https://twitter.com/rustybrick/status/1808202981398953985",
                 "https://twitter.com/rustybrick/status/1808142583723327796"
             ]
         },
         {
-            "Title": "Microsoft Advertising Launches Property Center, Expands Lodging Campaigns",
-            "Category": "Advertising",
-            "Description": "Microsoft Advertising has launched Property Center, a new platform for managing hotel and vacation rental listings. The company is also expanding its lodging campaigns, offering more features and targeting options for advertisers in the travel industry.",
+            "Title": "Bing Updates Webmaster Guidelines with New \"Prompt Injection\" Guideline",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection.\" This type of cyberattack targets large language models (LLMs) by manipulating generative AI systems with malicious inputs disguised as legitimate prompts.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808098543262978091"
+                "https://twitter.com/rustybrick/status/1807833043765248078",
+                "https://twitter.com/rustybrick/status/1807772645842108497",
+                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
             ]
         },
         {
-            "Title": "OpenAI Partners with Time Magazine to Enhance ChatGPT",
+            "Title": "YouTube Implements Policy Change for Takedown Requests of AI-Generated Content",
             "Category": "Artificial Intelligence",
-            "Description": "OpenAI has partnered with Time magazine to provide ChatGPT with access to its extensive archive of journalistic content. This collaboration aims to improve ChatGPT's knowledge base and ability to generate accurate and informative responses.",
+            "Description": "YouTube has updated its policies to allow individuals to request the removal of AI-generated content that simulates their face or voice. This change aims to address concerns about privacy and the potential misuse of synthetic media.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1807380226483052989"
+                "https://twitter.com/glenngabe/status/1808032636033503490"
             ]
         }
     ],
-    "date": "2024-07-02"
+    "date": "2024-07-03"
 }
