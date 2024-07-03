@@ -1,19 +1,39 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Performance Reports Experiencing Delays",
+            "Title": "Google Search Console Experiences Major Reporting Delays",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console performance reports have been delayed for an unusually long period, exceeding 60 hours. Google is aware of the issue and working on a fix.",
+            "Description": "Google Search Console is experiencing significant delays in performance reporting, exceeding 75 hours and raising concerns among SEOs. Google has acknowledged the issue and is working on a fix.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808275005991530608",
-                "https://twitter.com/rustybrick/status/1808214375116742950",
-                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html"
+                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
+                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
             ]
         },
         {
-            "Title": "Google Updates Merchant Center Conversion Data Usage Policy",
+            "Title": "Google's AI Overviews Decline in Mobile Search",
+            "Category": "Search Engine Optimization",
+            "Description": "A recent study reveals that Google's AI-powered search overviews have coincided with a decline in mobile search volume, prompting Google to potentially scale back the feature.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/",
+                "https://twitter.com/aleyda/status/1808173422649745590",
+                "https://www.practicalecommerce.com/tracking-ai-overviews-queries-links"
+            ]
+        },
+        {
+            "Title": "Google Search Prioritizes AI-Generated Content, Raising Concerns",
+            "Category": "Artificial Intelligence",
+            "Description": "Concerns are growing as Google's search results appear to prioritize AI-generated content and SEO spam over original, human-created content, potentially impacting the quality and trustworthiness of search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808202503043100839",
+                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
+                "https://www.searchenginejournal.com/ai-overviews-imho-with-pedro-dias/521202/"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Updates Conversion Data Usage Policy",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center merchants received notifications about a change in how Google collects and uses conversion data. Google may use this data for new reporting and to improve Google Search.",
+            "Description": "Google Merchant Center has updated its conversion data usage policy, notifying merchants that the data they share may be used for new reporting features and to improve Google Search experiences and services.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808195431685304575",
                 "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html",
@@ -21,100 +41,50 @@
             ]
         },
         {
-            "Title": "Google Search Ranking AI-Generated Spam Above Original Reporting",
-            "Category": "Artificial Intelligence",
-            "Description": "A concerning trend has emerged where Google Search is ranking AI-generated spam content above original reporting in news results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808202503043100839"
-            ]
-        },
-        {
-            "Title": "Google's AI Overviews Decline as Study Shows Correlation with Drop in Mobile Searches",
+            "Title": "Bing Updates Webmaster Guidelines with Prompt Injection Policy",
             "Category": "Search Engine Optimization",
-            "Description": "A recent study suggests that Google's AI overviews coincided with a decline in mobile search volume, prompting Google to potentially scale back the feature.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/",
-                "https://twitter.com/aleyda/status/1808173422649745590"
-            ]
-        },
-        {
-            "Title": "YouTube Updates Policy to Allow Takedown Requests for AI-Generated Content Simulating Faces and Voices",
-            "Category": "Artificial Intelligence",
-            "Description": "YouTube's policy change enables individuals to request the removal of AI-generated content that simulates their face or voice through the platform's privacy request process.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808032636033503490"
-            ]
-        },
-        {
-            "Title": "Bing Introduces \"Prompt Injection\" Guideline to Webmaster Guidelines",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection,\" a cyberattack targeting large language models (LLMs) by manipulating generative AI systems.",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines named \"Prompt Injection,\" prohibiting the insertion of malicious code into website content to manipulate AI systems.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1807833043765248078",
-                "https://twitter.com/rustybrick/status/1807772645842108497",
-                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
+                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html",
+                "https://searchengineland.com/prompt-injection-added-to-bing-webmaster-guidelines-443788"
             ]
         },
         {
-            "Title": "Google Search to Allow Ads for Daily Fantasy Sports and Lottery Couriers in Several States",
-            "Category": "Advertising",
-            "Description": "Google Ads will now permit advertisements for Daily Fantasy Sports and lottery courier services in numerous states.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808192663440838947"
-            ]
-        },
-        {
-            "Title": "Google Ads Implements New Setting for Disclosing \"Altered or Synthetic Content\"",
-            "Category": "Advertising",
-            "Description": "Google Ads introduces a new setting requiring advertisers to disclose the use of \"Altered or synthetic content\" in their ads.",
+            "Title": "Google Ads Introduces New Brand Exclusion Controls",
+            "Category": "Digital Marketing",
+            "Description": "Google Ads has rolled out new brand exclusion controls, but advertisers are reporting that the feature is not yet fully effective in preventing ads from appearing for unrelated brands.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808202981398953985",
-                "https://twitter.com/rustybrick/status/1808142583723327796"
+                "https://twitter.com/rustybrick/status/1808497421405872549",
+                "https://twitter.com/rustybrick/status/1808458414609072157"
             ]
         },
         {
-            "Title": "Google Search Testing \"Top Quality Store\" Badge",
-            "Category": "Ecommerce",
-            "Description": "Google Search is experimenting with a \"Top Quality Store\" badge displayed next to the site name in search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807836818886336927",
-                "https://twitter.com/rustybrick/status/1807776420867068171"
-            ]
-        },
-        {
-            "Title": "Google Explains the Negative Impact of Soft 404 Errors on Websites",
+            "Title": "Google's Zero-Click Search Results Decline to 58.5%",
             "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes explains why soft 404 errors are detrimental to websites, highlighting their impact on crawl budget and search visibility.",
+            "Description": "A new study by Rand Fishkin reveals that Google's zero-click search results, where users find information directly on the search results page without clicking through to websites, have decreased from 65% to 58.5%.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1807844368428290550",
-                "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html"
+                "https://twitter.com/rustybrick/status/1808508746525466972",
+                "https://twitter.com/rustybrick/status/1808465964188754215",
+                "https://twitter.com/aleyda/status/1808141221409313152"
             ]
         },
         {
-            "Title": "Google's July 2024 Webmaster Report Highlights",
+            "Title": "Google Search Tests \"Current Styles\" Carousel",
             "Category": "Search Engine Optimization",
-            "Description": "The July 2024 Google Webmaster Report covers significant events, including the June Spam Update, AI Overviews, an indexing bug, and the completion of mobile-first indexing.",
+            "Description": "Google is experimenting with a new \"current styles\" carousel in search results, potentially impacting searches related to fashion and trends.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808210531154559418",
-                "https://twitter.com/rustybrick/status/1808150133445398547",
-                "https://www.seroundtable.com/july-2024-google-webmaster-report-37655.html"
+                "https://twitter.com/rustybrick/status/1808504971463110784",
+                "https://twitter.com/rustybrick/status/1808463447832805565"
             ]
         },
         {
-            "Title": "Google Local Service Ads Now Appear in Mobile Search's Local Business Finder Results",
-            "Category": "Advertising",
-            "Description": "Google Local Service Ads have been integrated into the local business finder results within Google's mobile search.",
+            "Title": "Google's Greenhouse Gas Emissions Surge 48% in Five Years",
+            "Category": "Technology",
+            "Description": "Google's greenhouse gas emissions have increased by 48% over the past five years, primarily due to the expansion of data centers supporting the company's AI initiatives, raising concerns about the environmental impact of AI development.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808206756310364620",
-                "https://twitter.com/rustybrick/status/1808146358458802447"
-            ]
-        },
-        {
-            "Title": "Microsoft Advertising Launches New Property Center",
-            "Category": "Advertising",
-            "Description": "Microsoft Advertising has introduced a new Property Center.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808199206710268226"
+                "https://twitter.com/glenngabe/status/1808403749188014334"
             ]
         }
     ],
