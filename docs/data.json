@@ -1,62 +1,94 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Experiences Major Delays in Performance Reporting",
+            "Title": "Google Search Console Experiencing Delays",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console is experiencing significant delays in performance reporting, exceeding 75 hours and raising concerns among SEOs. Google has acknowledged the issue and is working on a fix, but it is unclear when the reports will be fully caught up.",
+            "Description": "Google Search Console is experiencing significant delays in reporting, with performance reports lagging by several hours. Google has acknowledged the issue and is working on a fix.",
             "Links": [
-                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
-                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857",
-                "https://twitter.com/rustybrick/status/1808440980875411797"
+                "https://twitter.com/rustybrick/status/1808572918936306105",
+                "https://twitter.com/rustybrick/status/1808561585377480780",
+                "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"
             ]
         },
         {
-            "Title": "Google's AI Overviews May Be Impacting Mobile Search Volume",
+            "Title": "Study Finds Over Half of Google Searches End Without a Click",
             "Category": "Search Engine Optimization",
-            "Description": "A recent study suggests that Google's AI-generated overviews, which provide summarized answers at the top of search results, may be contributing to a decline in mobile search volume. This has led to speculation that Google may be reconsidering the prominence of this feature.",
+            "Description": "A new study has revealed that 58.5% of Google searches now result in zero clicks, highlighting the increasing prevalence of featured snippets and other search features that provide answers directly on the results page.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/",
-                "https://twitter.com/aleyda/status/1808173422649745590",
-                "https://www.practicalecommerce.com/tracking-ai-overviews-queries-links"
-            ]
-        },
-        {
-            "Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting, Raising Concerns",
-            "Category": "Artificial Intelligence",
-            "Description": "There is growing concern that Google's search algorithms are prioritizing AI-generated content and SEO spam over original, human-created content. This issue has sparked debate about the future of online content creation and the potential impact on the quality of information available through search engines.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808202503043100839",
-                "https://www.firstpost.com/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
-                "https://www.searchenginejournal.com/ai-overviews-imho-with-pedro-dias/521202/"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Updates Conversion Data Usage Policy",
-            "Category": "Ecommerce",
-            "Description": "Google has updated its Google Merchant Center conversion data usage policy, notifying merchants that the data they share may be used for new reporting features and to improve Google Search experiences and services. This change has prompted discussions about data privacy and transparency in the ecommerce ecosystem.",
-            "Links": [
-                "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html",
-                "https://twitter.com/rustybrick/status/1808020529116504501"
-            ]
-        },
-        {
-            "Title": "Bing Updates Webmaster Guidelines to Address \"Prompt Injection\" Attacks",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines to address \"prompt injection,\" a type of cyberattack targeting large language models (LLMs). This update highlights the increasing importance of cybersecurity measures in the age of AI-powered search and content generation.",
-            "Links": [
-                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html",
-                "https://searchengineland.com/prompt-injection-added-to-bing-webmaster-guidelines-443788"
-            ]
-        },
-        {
-            "Title": "New Study Shows Decrease in Google's Zero-Click Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "A new study by Rand Fishkin reveals that Google's zero-click search results, where users find answers directly on the search results page without clicking through to other websites, have decreased from 65% to 58.5%. This suggests that Google may be making changes to drive more traffic to external websites.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1808569144167838126",
                 "https://twitter.com/rustybrick/status/1808508746525466972",
-                "https://twitter.com/rustybrick/status/1808465964188754215"
+                "https://twitter.com/aleyda/status/1808141221409313152"
+            ]
+        },
+        {
+            "Title": "Google Testing \"Current Styles\" Carousel in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is experimenting with a new \"current styles\" carousel in its search results, potentially impacting how users discover and engage with fashion and trend-related content.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808565369248100511",
+                "https://twitter.com/rustybrick/status/1808504971463110784"
+            ]
+        },
+        {
+            "Title": "Google Ads Updates Brand Exclusion Controls and Ad Policies",
+            "Category": "Digital Advertising",
+            "Description": "Google Ads has introduced new brand exclusion controls, but they are not yet fully effective in preventing ads from showing for unrelated brands. Additionally, Google Ads will now allow ads for Daily Fantasy Sports and lottery couriers in many states. The platform has also added a new political campaign setting for AI-generated content.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808557819354100058",
+                "https://twitter.com/rustybrick/status/1808497421405872549",
+                "https://twitter.com/rustybrick/status/1808132265408618713"
+            ]
+        },
+        {
+            "Title": "Cloudflare Enables One-Click Blocking of AI Crawlers",
+            "Category": "Artificial Intelligence",
+            "Description": "Cloudflare has released a new feature that allows users to block AI crawlers from accessing their websites with a single click, providing website owners with more control over their data.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808623814714032504"
+            ]
+        },
+        {
+            "Title": "Perplexity AI Enhances Search Engine with Multi-Step Reasoning",
+            "Category": "Artificial Intelligence",
+            "Description": "Google competitor Perplexity AI has launched an upgraded Pro Search with multi-step reasoning capabilities, allowing it to handle more complex and nuanced search queries.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808496154151145622"
+            ]
+        },
+        {
+            "Title": "YouTube Expands Channel Handles to 75 Languages",
+            "Category": "Social Media",
+            "Description": "YouTube is expanding channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language. This move aims to make the platform more accessible and inclusive for a global audience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808493555326857341"
+            ]
+        },
+        {
+            "Title": "Snapchat Introduces New Features, Including Sub-Second Snaps",
+            "Category": "Social Media",
+            "Description": "Snapchat has rolled out new features, including the ability to send Snaps that last less than 0.5 seconds. This update provides users with more creative control and options for sharing ephemeral content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808491177970172306"
+            ]
+        },
+        {
+            "Title": "Google Prioritizing AI-Generated Content Raises Concerns",
+            "Category": "Artificial Intelligence",
+            "Description": "There are growing concerns that Google is prioritizing AI-generated content, including spam, over original reporting in its search results. This shift has raised alarm bells among content creators and publishers who fear losing traffic and revenue.",
+            "Links": [
+                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
+                "https://twitter.com/rustybrick/status/1808202503043100839"
+            ]
+        },
+        {
+            "Title": "Bing Updates Webmaster Guidelines to Address Prompt Injection Attacks",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection,\" a type of cyberattack targeting large language models (LLMs) used in AI-powered search engines and chatbots.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1807733638752055558",
+                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
             ]
         }
     ],
-    "date": "2024-07-03"
+    "date": "2024-07-04"
 }
