@@ -1,67 +1,79 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Experiencing Delays in Performance Reports",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console users are experiencing significant delays in the availability of performance reports. Google has acknowledged the issue and is working on a fix.  These delays are not related to any algorithm updates or indexing issues.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808572918936306105",
-                "https://twitter.com/rustybrick/status/1808561585377480780",
-                "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"
-            ]
-        },
-        {
-            "Title": "Study Finds Over Half of Google Searches Result in Zero Clicks",
-            "Category": "Search Engine Optimization",
-            "Description": "A new study has revealed that 58.5% of Google searches now end without a click to a website. This highlights the growing trend of Google providing answers directly within search results, potentially impacting website traffic.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808569144167838126",
-                "https://twitter.com/rustybrick/status/1808508746525466972",
-                "https://twitter.com/aleyda/status/1808141221409313152"
-            ]
-        },
-        {
-            "Title": "Google Testing \"Current Styles\" Carousel in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with a new \"current styles\" carousel in its search results. This feature aims to provide users with a visually-driven way to explore trending styles and products, potentially impacting traditional search listings.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808565369248100511",
-                "https://twitter.com/rustybrick/status/1808504971463110784",
-                "https://www.seroundtable.com/july-2024-google-webmaster-report-37655.html"
-            ]
-        },
-        {
-            "Title": "Cloudflare Introduces One-Click Blocking of AI Crawlers",
-            "Category": "Artificial Intelligence",
-            "Description": "Cloudflare has released a new feature that allows website owners to block AI crawlers with a single click. This provides greater control over how websites are accessed and potentially used for AI training purposes.",
+            "Title": "Cloudflare Enables One-Click Blocking of AI Crawlers",
+            "Category": "Technology",
+            "Description": "Cloudflare released a feature that allows users to block AI crawlers with a single click.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808623814714032504"
             ]
         },
         {
-            "Title": "Google Ads Updates Brand Exclusion Controls and Ad Policies",
-            "Category": "Digital Advertising",
-            "Description": "Google Ads has introduced new brand exclusion controls, but they are not yet fully effective in preventing ads from appearing alongside unrelated brands. Additionally, Google Ads is allowing ads for Daily Fantasy Sports and lottery couriers in more states and has added a new setting for advertisers to disclose the use of \"Altered or synthetic content\" in their ads.",
+            "Title": "Google Search Console Performance Report Delays Not Related to Algorithm Updates",
+            "Category": "Technology",
+            "Description": "Google Search Console delays are not a sign of an unconfirmed Google search core ranking update.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808557819354100058",
-                "https://twitter.com/rustybrick/status/1808497421405872549",
-                "https://twitter.com/rustybrick/status/1808132265408618713"
+                "https://twitter.com/rustybrick/status/1808572918936306105",
+                "https://twitter.com/rustybrick/status/1808512521248067877",
+                "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"
             ]
         },
         {
-            "Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting",
-            "Category": "Artificial Intelligence",
-            "Description": "Concerns are rising as Google Search appears to be prioritizing AI-generated content, often spam, over original reporting in news results. This raises questions about the future of online content creation and the potential impact on publishers.",
+            "Title": "Study Finds 58.5% of Google Searches Result in Zero Clicks",
+            "Category": "Technology",
+            "Description": "A study found that 58.5% of Google searches now result in zero clicks.",
             "Links": [
-                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
-                "https://twitter.com/rustybrick/status/1808202503043100839",
-                "https://www.portlavacawave.com/news/national/google-is-broken-how-an-algorithm-tweak-cost-livelihoods/article_b5d48528-15f7-55e7-a81a-cc381dfcf3bd.html"
+                "https://twitter.com/rustybrick/status/1808569144167838126",
+                "https://twitter.com/rustybrick/status/1808508746525466972"
+            ]
+        },
+        {
+            "Title": "Google Testing \"Current Styles\" Carousel in Search Results",
+            "Category": "Technology",
+            "Description": "Google is testing a new \"current styles\" carousel in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808565369248100511",
+                "https://twitter.com/rustybrick/status/1808504971463110784"
+            ]
+        },
+        {
+            "Title": "Google Search Console Performance Report Status Not Displayed in Search Status Dashboard",
+            "Category": "Technology",
+            "Description": "Explanation of why the Google Search Console performance report status is not posted in the Search Status dashboard.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808561594370249037",
+                "https://twitter.com/rustybrick/status/1808501196753182908"
+            ]
+        },
+        {
+            "Title": "Google Reprocessing Search Console Performance Reports, Causing Delays",
+            "Category": "Technology",
+            "Description": "Google is reprocessing Search Console performance reports, which may take 2-3 days to complete.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808561585377480780"
+            ]
+        },
+        {
+            "Title": "Google Ads' New Brand Exclusion Controls Not Yet Fully Effective",
+            "Category": "Advertising",
+            "Description": "Google Ads' new brand exclusion controls are not yet fully effective in preventing ads from showing for unrelated brands.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808557819354100058",
+                "https://twitter.com/rustybrick/status/1808497421405872549"
+            ]
+        },
+        {
+            "Title": "Perplexity Enhances Pro Search with Multi-Step Reasoning Capabilities",
+            "Category": "Technology",
+            "Description": "Google competitor Perplexity launches an upgraded Pro Search with multi-step reasoning capabilities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808496154151145622"
             ]
         },
         {
             "Title": "YouTube Expands Channel Handles to 75 Languages",
             "Category": "Social Media",
-            "Description": "YouTube is expanding channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language. This enhances user experience and promotes global accessibility on the platform.",
+            "Description": "YouTube expands channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1808493555326857341"
             ]
@@ -69,67 +81,71 @@
         {
             "Title": "Snapchat Introduces New Features, Including Sub-Second Snaps",
             "Category": "Social Media",
-            "Description": "Snapchat is rolling out new features, including the ability to send Snaps that last less than 0.5 seconds. This innovation aims to enhance user engagement and cater to the growing demand for fast-paced content sharing.",
+            "Description": "Snapchat introduces new features, including Snaps that last less than 0.5 seconds.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1808491177970172306"
             ]
         },
         {
-            "Title": "Perplexity Enhances Pro Search with Multi-Step Reasoning",
-            "Category": "Artificial Intelligence",
-            "Description": "Google competitor Perplexity has launched an upgraded Pro Search with multi-step reasoning capabilities. This advancement allows the search engine to handle more complex queries and provide more comprehensive results.",
+            "Title": "Google Prioritizing AI-Generated Content Over Original Content in Search Results",
+            "Category": "Technology",
+            "Description": "Google is prioritizing AI-generated, SEO spam content over original content in search results, raising concerns among creators.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1808496154151145622"
+                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
+                "https://twitter.com/rustybrick/status/1808202503043100839"
             ]
         },
         {
-            "Title": "Google Explains Causes of 'Crawled but Not Indexed' Errors",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes has provided insights into the reasons behind the common 'crawled but not indexed' errors that website owners encounter. Understanding these causes can help SEOs optimize their websites for better indexing and visibility.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-explains-crawled-not-indexed/521321/"
-            ]
-        },
-        {
-            "Title": "Google's Gary Illyes Offers Advice on Outcompeting Large Websites",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes has shared his thoughts on how smaller websites can effectively compete with larger platforms like Reddit and major brands in search results. His insights provide valuable guidance for website owners looking to improve their search rankings.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-shows-how-to-beat-reddit/521375/"
-            ]
-        },
-        {
-            "Title": "Bing Updates Webmaster Guidelines to Address Prompt Injection Attacks",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection,\" a type of cyberattack targeting large language models (LLMs). This highlights the evolving security concerns surrounding AI and the need for website owners to adapt their practices.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807733638752055558",
-                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Changes Conversion Data Usage Policy",
-            "Category": "Ecommerce",
-            "Description": "Google has updated its conversion data usage policy for Google Merchant Center. Merchants are being notified that Google may use their conversion data for new reporting features and to improve Google Search experiences and services.",
+            "Title": "Google Merchant Center Updates Conversion Data Usage Policy",
+            "Category": "Advertising",
+            "Description": "Google Merchant Center has updated its conversion data usage policy, allowing the company to use the data for new reporting and to improve Google Search.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808195431685304575",
                 "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
             ]
         },
         {
-            "Title": "Microsoft Advertising Launches Property Center and Expands Lodging Campaigns",
-            "Category": "Digital Advertising",
-            "Description": "Microsoft Advertising has launched Property Center, a new platform for managing hotel and rental property listings. Additionally, they are expanding their lodging campaigns, offering more features and targeting options for advertisers in the travel and hospitality industry.",
+            "Title": "Google Ads Allows Ads for Daily Fantasy Sports and Lottery Couriers in Many States",
+            "Category": "Advertising",
+            "Description": "Google Ads will now allow ads for Daily Fantasy Sports and lottery couriers in many states.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808199206710268226"
+                "https://twitter.com/rustybrick/status/1808192663440838947",
+                "https://twitter.com/rustybrick/status/1808132265408618713"
             ]
         },
         {
-            "Title": "Pinterest Consolidating Local Domains to Subdomains",
-            "Category": "Search Engine Optimization",
-            "Description": "Pinterest is in the process of moving some of its local domains to subdomains of its .com domain. This change may impact SEO strategies for businesses targeting specific regions on Pinterest.",
+            "Title": "Google Analytics Reporting Experiences Delays",
+            "Category": "Technology",
+            "Description": "Google Analytics is experiencing reporting delays, potentially unrelated to the Search Console performance report issues.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808188958846620090"
+            ]
+        },
+        {
+            "Title": "Pinterest Migrates Local Domains to Subdomains",
+            "Category": "Technology",
+            "Description": "Pinterest is moving some local domains to subdomains of its .com domain.",
             "Links": [
                 "https://twitter.com/mjcachon/status/1807769338121720250"
+            ]
+        },
+        {
+            "Title": "Google Working on Resolving Search Console Performance Report Delays",
+            "Category": "Technology",
+            "Description": "Google is actively working to fix the delays and latency issues affecting the Google Search Console Performance reports.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808110688159535354",
+                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
+                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+            ]
+        },
+        {
+            "Title": "Bing Updates Webmaster Guidelines with New Prompt Injection Guideline",
+            "Category": "Technology",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines to address prompt injection attacks, a type of cyberattack targeting large language models.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1807733638752055558",
+                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
             ]
         }
     ],
