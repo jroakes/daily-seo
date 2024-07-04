@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Experiencing Delays",
+            "Title": "Google Search Console Experiencing Delays in Performance Reports",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console is experiencing significant delays in reporting, with performance reports lagging by several hours. Google has acknowledged the issue and is working on a fix.",
+            "Description": "Google Search Console users are experiencing significant delays in the availability of performance reports. Google has acknowledged the issue and is working on a fix.  These delays are not related to any algorithm updates or indexing issues.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808572918936306105",
                 "https://twitter.com/rustybrick/status/1808561585377480780",
@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Study Finds Over Half of Google Searches End Without a Click",
+            "Title": "Study Finds Over Half of Google Searches Result in Zero Clicks",
             "Category": "Search Engine Optimization",
-            "Description": "A new study has revealed that 58.5% of Google searches now result in zero clicks, highlighting the increasing prevalence of featured snippets and other search features that provide answers directly on the results page.",
+            "Description": "A new study has revealed that 58.5% of Google searches now end without a click to a website. This highlights the growing trend of Google providing answers directly within search results, potentially impacting website traffic.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808569144167838126",
                 "https://twitter.com/rustybrick/status/1808508746525466972",
@@ -23,16 +23,25 @@
         {
             "Title": "Google Testing \"Current Styles\" Carousel in Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with a new \"current styles\" carousel in its search results, potentially impacting how users discover and engage with fashion and trend-related content.",
+            "Description": "Google is experimenting with a new \"current styles\" carousel in its search results. This feature aims to provide users with a visually-driven way to explore trending styles and products, potentially impacting traditional search listings.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808565369248100511",
-                "https://twitter.com/rustybrick/status/1808504971463110784"
+                "https://twitter.com/rustybrick/status/1808504971463110784",
+                "https://www.seroundtable.com/july-2024-google-webmaster-report-37655.html"
+            ]
+        },
+        {
+            "Title": "Cloudflare Introduces One-Click Blocking of AI Crawlers",
+            "Category": "Artificial Intelligence",
+            "Description": "Cloudflare has released a new feature that allows website owners to block AI crawlers with a single click. This provides greater control over how websites are accessed and potentially used for AI training purposes.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808623814714032504"
             ]
         },
         {
             "Title": "Google Ads Updates Brand Exclusion Controls and Ad Policies",
             "Category": "Digital Advertising",
-            "Description": "Google Ads has introduced new brand exclusion controls, but they are not yet fully effective in preventing ads from showing for unrelated brands. Additionally, Google Ads will now allow ads for Daily Fantasy Sports and lottery couriers in many states. The platform has also added a new political campaign setting for AI-generated content.",
+            "Description": "Google Ads has introduced new brand exclusion controls, but they are not yet fully effective in preventing ads from appearing alongside unrelated brands. Additionally, Google Ads is allowing ads for Daily Fantasy Sports and lottery couriers in more states and has added a new setting for advertisers to disclose the use of \"Altered or synthetic content\" in their ads.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808557819354100058",
                 "https://twitter.com/rustybrick/status/1808497421405872549",
@@ -40,25 +49,19 @@
             ]
         },
         {
-            "Title": "Cloudflare Enables One-Click Blocking of AI Crawlers",
+            "Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting",
             "Category": "Artificial Intelligence",
-            "Description": "Cloudflare has released a new feature that allows users to block AI crawlers from accessing their websites with a single click, providing website owners with more control over their data.",
+            "Description": "Concerns are rising as Google Search appears to be prioritizing AI-generated content, often spam, over original reporting in news results. This raises questions about the future of online content creation and the potential impact on publishers.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808623814714032504"
-            ]
-        },
-        {
-            "Title": "Perplexity AI Enhances Search Engine with Multi-Step Reasoning",
-            "Category": "Artificial Intelligence",
-            "Description": "Google competitor Perplexity AI has launched an upgraded Pro Search with multi-step reasoning capabilities, allowing it to handle more complex and nuanced search queries.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808496154151145622"
+                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
+                "https://twitter.com/rustybrick/status/1808202503043100839",
+                "https://www.portlavacawave.com/news/national/google-is-broken-how-an-algorithm-tweak-cost-livelihoods/article_b5d48528-15f7-55e7-a81a-cc381dfcf3bd.html"
             ]
         },
         {
             "Title": "YouTube Expands Channel Handles to 75 Languages",
             "Category": "Social Media",
-            "Description": "YouTube is expanding channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language. This move aims to make the platform more accessible and inclusive for a global audience.",
+            "Description": "YouTube is expanding channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language. This enhances user experience and promotes global accessibility on the platform.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1808493555326857341"
             ]
@@ -66,27 +69,67 @@
         {
             "Title": "Snapchat Introduces New Features, Including Sub-Second Snaps",
             "Category": "Social Media",
-            "Description": "Snapchat has rolled out new features, including the ability to send Snaps that last less than 0.5 seconds. This update provides users with more creative control and options for sharing ephemeral content.",
+            "Description": "Snapchat is rolling out new features, including the ability to send Snaps that last less than 0.5 seconds. This innovation aims to enhance user engagement and cater to the growing demand for fast-paced content sharing.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1808491177970172306"
             ]
         },
         {
-            "Title": "Google Prioritizing AI-Generated Content Raises Concerns",
+            "Title": "Perplexity Enhances Pro Search with Multi-Step Reasoning",
             "Category": "Artificial Intelligence",
-            "Description": "There are growing concerns that Google is prioritizing AI-generated content, including spam, over original reporting in its search results. This shift has raised alarm bells among content creators and publishers who fear losing traffic and revenue.",
+            "Description": "Google competitor Perplexity has launched an upgraded Pro Search with multi-step reasoning capabilities. This advancement allows the search engine to handle more complex queries and provide more comprehensive results.",
             "Links": [
-                "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
-                "https://twitter.com/rustybrick/status/1808202503043100839"
+                "https://twitter.com/glenngabe/status/1808496154151145622"
+            ]
+        },
+        {
+            "Title": "Google Explains Causes of 'Crawled but Not Indexed' Errors",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes has provided insights into the reasons behind the common 'crawled but not indexed' errors that website owners encounter. Understanding these causes can help SEOs optimize their websites for better indexing and visibility.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-explains-crawled-not-indexed/521321/"
+            ]
+        },
+        {
+            "Title": "Google's Gary Illyes Offers Advice on Outcompeting Large Websites",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes has shared his thoughts on how smaller websites can effectively compete with larger platforms like Reddit and major brands in search results. His insights provide valuable guidance for website owners looking to improve their search rankings.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-shows-how-to-beat-reddit/521375/"
             ]
         },
         {
             "Title": "Bing Updates Webmaster Guidelines to Address Prompt Injection Attacks",
             "Category": "Search Engine Optimization",
-            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection,\" a type of cyberattack targeting large language models (LLMs) used in AI-powered search engines and chatbots.",
+            "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing \"Prompt Injection,\" a type of cyberattack targeting large language models (LLMs). This highlights the evolving security concerns surrounding AI and the need for website owners to adapt their practices.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1807733638752055558",
                 "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Changes Conversion Data Usage Policy",
+            "Category": "Ecommerce",
+            "Description": "Google has updated its conversion data usage policy for Google Merchant Center. Merchants are being notified that Google may use their conversion data for new reporting features and to improve Google Search experiences and services.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808195431685304575",
+                "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising Launches Property Center and Expands Lodging Campaigns",
+            "Category": "Digital Advertising",
+            "Description": "Microsoft Advertising has launched Property Center, a new platform for managing hotel and rental property listings. Additionally, they are expanding their lodging campaigns, offering more features and targeting options for advertisers in the travel and hospitality industry.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808199206710268226"
+            ]
+        },
+        {
+            "Title": "Pinterest Consolidating Local Domains to Subdomains",
+            "Category": "Search Engine Optimization",
+            "Description": "Pinterest is in the process of moving some of its local domains to subdomains of its .com domain. This change may impact SEO strategies for businesses targeting specific regions on Pinterest.",
+            "Links": [
+                "https://twitter.com/mjcachon/status/1807769338121720250"
             ]
         }
     ],
