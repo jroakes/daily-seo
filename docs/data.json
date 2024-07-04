@@ -1,21 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Performance Reporting Delays",
+            "Title": "Google Search Console Experiencing Delays and Data Inaccuracies",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console performance reports are experiencing significant delays, sometimes exceeding 60 hours. Google acknowledges the issue and is actively working on a fix. The delays are attributed to reprocessing of data, which is also causing inaccuracies in fresh data reports. Google advises patience as they work to fully reprocess the data and restore normal reporting speeds.",
+            "Description": "Google Search Console is currently experiencing significant delays in performance reporting, with data being delayed by over 50 hours. Google is aware of the issue and actively working on a fix. Additionally, the fresh data in the reports is being reprocessed and may not be entirely accurate. Google advises patience as they work to fully reprocess the data, which is expected to take a few days.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808275005991530608",
-                "https://twitter.com/rustybrick/status/1808214375116742950",
-                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html",
-                "https://twitter.com/rustybrick/status/1808838857896436125",
-                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+                "https://twitter.com/rustybrick/status/1808110688159535354",
+                "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html"
             ]
         },
         {
-            "Title": "Google Search Console Delays Not Related to Algorithm Updates",
+            "Title": "Google Search Console Delays Not Related to Algorithm Update",
             "Category": "Search Engine Optimization",
-            "Description": "Recent delays in Google Search Console reporting are not indicative of an unconfirmed Google search core ranking update. Google's John Mueller clarified that reporting processes are independent of ranking updates. This addresses rumors suggesting that the delays signify an ongoing algorithm update.",
+            "Description": "Recent delays in Google Search Console reporting are not indicative of an unconfirmed Google search core ranking update. Google's John Mueller has confirmed that these delays are unrelated to any algorithm updates and are simply a technical issue.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808572918936306105",
                 "https://twitter.com/rustybrick/status/1808512521248067877",
@@ -23,167 +21,57 @@
             ]
         },
         {
+            "Title": "Study Finds Nearly 60% of Google Searches End Without a Click",
+            "Category": "Search Engine Optimization",
+            "Description": "A new study reveals that almost 60% of Google searches in 2024 ended without a click, highlighting the increasing prevalence of zero-click searches. The study also found that nearly 30% of clicks go to Google's own properties, leaving only about 36% of clicks for the open web.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808569144167838126",
+                "https://twitter.com/rustybrick/status/1808508746525466972",
+                "https://searchengineland.com/google-search-zero-click-study-2024-443869"
+            ]
+        },
+        {
             "Title": "Cloudflare Enables One-Click Blocking of AI Crawlers",
             "Category": "Artificial Intelligence",
-            "Description": "Cloudflare released a new feature that allows users to block AI crawlers from accessing their websites with a single click. This provides website owners with greater control over how their content is accessed and used by AI systems.",
+            "Description": "Cloudflare has introduced a new feature that allows users to block AI crawlers from accessing their websites with a single click. This feature provides website owners with greater control over how their content is accessed and used by AI systems.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808623814714032504"
             ]
         },
         {
-            "Title": "Study Finds 58.5% of Google Searches Result in Zero Clicks",
-            "Category": "Search Engine Optimization",
-            "Description": "A recent study revealed that 58.5% of Google searches now end without a click to any external websites. This highlights the growing trend of Google providing answers and information directly within its search results pages, potentially impacting website traffic.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808569144167838126",
-                "https://twitter.com/rustybrick/status/1808508746525466972"
-            ]
-        },
-        {
-            "Title": "Google Testing \"Current Styles\" Carousel in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with a new \"current styles\" carousel in its search results. This feature aims to provide users with more visually-driven results, potentially impacting how users discover and interact with fashion and trend-related content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808565369248100511",
-                "https://twitter.com/rustybrick/status/1808504971463110784"
-            ]
-        },
-        {
-            "Title": "Google Search Console Performance Report Status Not in Search Status Dashboard",
-            "Category": "Search Engine Optimization",
-            "Description": "Google clarified that the status of Google Search Console performance reports is not displayed in the Search Status dashboard. This addresses confusion among users who were looking for performance report status updates within the Search Status dashboard.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808561594370249037",
-                "https://twitter.com/rustybrick/status/1808501196753182908"
-            ]
-        },
-        {
-            "Title": "Google Ads' New Brand Exclusion Controls Not Yet Fully Effective",
-            "Category": "Digital Advertising",
-            "Description": "Google Ads' recently introduced brand exclusion controls are not yet fully effective in preventing ads from appearing alongside unrelated brands. While the controls are under development, advertisers may still find their ads displayed alongside undesirable brands.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808557819354100058",
-                "https://twitter.com/rustybrick/status/1808497421405872549"
-            ]
-        },
-        {
-            "Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting",
+            "Title": "Google Prioritizing AI-Generated Content Over Original Reporting, Raising Concerns",
             "Category": "Artificial Intelligence",
-            "Description": "Concerns are rising as Google Search appears to prioritize AI-generated content, often inaccurate or spammy, over original reporting in news results. This raises questions about the impact on content creators and the potential spread of misinformation.",
+            "Description": "There are growing concerns that Google Search is prioritizing AI-generated content, often spammy, over original reporting in its news results. This shift in search ranking has raised alarm bells among content creators and publishers who are seeing their original work being overshadowed by AI-generated content.",
             "Links": [
                 "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html",
                 "https://twitter.com/rustybrick/status/1808202503043100839"
             ]
         },
         {
-            "Title": "Perplexity Enhances Pro Search with Multi-Step Reasoning",
-            "Category": "Artificial Intelligence",
-            "Description": "Google competitor Perplexity launches an upgraded Pro Search feature with multi-step reasoning capabilities. This allows the search engine to handle more complex queries and provide more comprehensive answers, potentially challenging Google's dominance.",
+            "Title": "Google Ads Updates Policy on AI-Generated Content in Political Campaigns",
+            "Category": "Advertising & Marketing",
+            "Description": "Google Ads has introduced a new political campaign setting related to AI-generated content. The setting, labeled \"Altered or synthetic content,\" requires advertisers to disclose the use of AI in creating campaign materials, aiming for greater transparency in political advertising.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1808496154151145622"
+                "https://twitter.com/rustybrick/status/1808101059967214015"
             ]
         },
         {
-            "Title": "YouTube Expands Channel Handles to 75 Languages",
-            "Category": "Social Media",
-            "Description": "YouTube expands channel handles to 75 languages, enabling creators and viewers to personalize their handles in their preferred language. This enhances user experience and promotes inclusivity on the platform.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808493555326857341"
-            ]
-        },
-        {
-            "Title": "Snapchat Introduces Snaps Lasting Less Than 0.5 Seconds",
-            "Category": "Social Media",
-            "Description": "Snapchat introduces new features, including Snaps that disappear in less than 0.5 seconds. This adds a new layer of ephemerality and speed to the platform, catering to users seeking quick and fleeting interactions.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1808491177970172306"
-            ]
-        },
-        {
-            "Title": "Google Explains Reasons for Crawled but Not Indexed Errors",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes sheds light on the reasons behind \"crawled but not indexed\" errors, a common issue faced by website owners. Understanding these reasons can help SEOs address indexing problems and improve website visibility in search results.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-explains-crawled-not-indexed/521321/"
-            ]
-        },
-        {
-            "Title": "Google's Soft 404 Errors Impact Crawl Budget",
-            "Category": "Search Engine Optimization",
-            "Description": "Google emphasizes the negative impact of soft 404 errors on a website's crawl budget. Soft 404s occur when a page returns a 200 OK status code but Google believes it should be a 404 Not Found. These errors can limit how effectively Google crawls and indexes a website.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1807748435233157259",
-                "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html"
-            ]
-        },
-        {
-            "Title": "Bing Updates Webmaster Guidelines with Prompt Injection",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing adds \"Prompt Injection\" to its Webmaster Guidelines, addressing a new type of cyberattack targeting large language models (LLMs). This highlights the evolving security concerns surrounding AI and the need for website owners to protect their systems from malicious prompts.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1807733638752055558",
-                "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"
-            ]
-        },
-        {
-            "Title": "Reddit Not Blocking Google Search, But...",
-            "Category": "Search Engine Optimization",
-            "Description": "Contrary to rumors, Reddit is not blocking Google Search from crawling and indexing its content. However, observations suggest potential changes to Reddit's robots.txt, which could impact how Reddit content appears in Google search results.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1808797034385695184",
-                "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"
-            ]
-        },
-        {
-            "Title": "Google's Gary Illyes Shares SEO Insights",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes provides valuable insights on various SEO topics, including the importance of topical authority, the hidden strengths of robots.txt, and alternative methods for managing robots.txt rules on CDNs. These insights offer practical guidance for SEOs.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-shows-how-to-beat-reddit/521375/",
-                "https://www.searchenginejournal.com/you-dont-need-robots-txt-on-root-domain-says-google/521382/",
-                "https://www.searchenginejournal.com/robots-txt-turns-30-google-highlights-hidden-strengths/521276/"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Updates Conversion Data Usage Policy",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center announces changes to its conversion data usage policy. Google may now use merchant-shared conversion data for new reporting features and to enhance Google Search experiences and services.",
+            "Title": "Google Merchant Center Revises Conversion Data Usage Policy",
+            "Category": "Ecommerce & Retail",
+            "Description": "Google has updated its conversion data usage policy for Google Merchant Center. The revised policy grants Google broader permissions to utilize the conversion data shared by merchants, including using it for new reporting features and improving Google Search experiences and services.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1808195431685304575",
+                "https://twitter.com/rustybrick/status/1808135033728778593",
                 "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
             ]
         },
         {
-            "Title": "Google Ads Allows Ads for Daily Fantasy Sports and Lottery Couriers",
-            "Category": "Digital Advertising",
-            "Description": "Google Ads updates its advertising policies to permit ads for Daily Fantasy Sports and lottery couriers in many states. This opens up new advertising opportunities within regulated industries.",
+            "Title": "Reddit Implements Robots.txt Changes, Potentially Limiting Google Search Visibility",
+            "Category": "Social Media & User-Generated Content",
+            "Description": "Reddit has made changes to its robots.txt file, potentially signaling a move to limit Google's ability to crawl and index its content. This move could impact how Reddit content appears in Google search results and may reflect a broader trend of platforms seeking greater control over their content distribution.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808192663440838947",
-                "https://twitter.com/rustybrick/status/1808132265408618713"
-            ]
-        },
-        {
-            "Title": "Google Analytics Reporting Experiences Delays",
-            "Category": "Web Analytics",
-            "Description": "Google Analytics reporting is also experiencing delays, potentially unrelated to the Google Search Console performance reporting issues. This suggests broader technical issues within Google's reporting infrastructure.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808188958846620090"
-            ]
-        },
-        {
-            "Title": "Pinterest Migrates Local Domains to Subdomains",
-            "Category": "Search Engine Optimization",
-            "Description": "Pinterest is moving some of its local domains to subdomains of its .com domain. This technical change may impact SEO strategies targeting specific regions or languages.",
-            "Links": [
-                "https://twitter.com/mjcachon/status/1807769338121720250"
-            ]
-        },
-        {
-            "Title": "Microsoft Advertising Launches Property Center, Expands Lodging Campaigns",
-            "Category": "Digital Advertising",
-            "Description": "Microsoft Advertising introduces Property Center and expands its lodging campaigns, offering new tools and features for advertisers in the hospitality industry.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808098543262978091"
+                "https://twitter.com/aleyda/status/1808797034385695184",
+                "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"
             ]
         }
     ],
