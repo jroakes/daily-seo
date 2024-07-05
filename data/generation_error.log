@@ -16730,3 +16730,509 @@ Error occurred at 2024-07-04 12:04:18.860519:
 RESPONSE: 
 {"stories": [{"Title": "Cloudflare Enables One-Click Blocking of AI Crawlers", "Category": "AI & Technology", "Description": "Cloudflare released a feature that allows users to block AI crawlers with a single click.", "Links": ["https://twitter.com/rustybrick/status/1808623814714032504"]}, {"Title": "Google Search Console Experiences Reporting Delays", "Category": "Search Engines & SEO", "Description": "Google Search Console users are experiencing significant delays in performance reporting, with reports being delayed by over 52 hours.", "Links": ["https://twitter.com/rustybrick/status/1808572918936306105", "https://twitter.com/rustybrick/status/1808512521248067877", "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"]}, {"Title": "Study Finds 58.5% of Google Searches Result in Zero Clicks", "Category": "Search Engines & SEO", "Description": "A new study reveals that 58.5% of Google searches now end without a click to other websites.", "Links": ["https://twitter.com/rustybrick/status/1808569144167838126", "https://twitter.com/rustybrick/status/1808508746525466972", "https://twitter.com/aleyda/status/1808141221409313152"]}, {"Title": "Google Search Testing \"Current Styles\" Carousel", "Category": "Search Engines & SEO", "Description": "Google is experimenting with a new \"current styles\" carousel in its search results.", "Links": ["https://twitter.com/rustybrick/status/1808565369248100511", "https://twitter.com/rustybrick/status/1808504971463110784"]}, {"Title": "Google Ads' New Brand Exclusion Controls Not Yet Fully Effective", "Category": "Advertising & Marketing", "Description": "Google Ads' recently introduced brand exclusion controls are not yet completely preventing ads from appearing alongside unrelated brands.", "Links": ["https://twitter.com/rustybrick/status/1808557819354100058", "https://twitter.com/rustybrick/status/1808497421405872549"]}, {"Title": "Google Search Prioritizing AI-Generated Content Over Original Reporting", "Category": "AI & Technology", "Description": "Concerns are rising as Google Search appears to be ranking AI-generated spam content above original reporting in news results.", "Links": ["https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html", "https://twitter.com/rustybrick/status/1808202503043100839"]}, {"Title": "Perplexity Enhances Pro Search with Multi-Step Reasoning", "Category": "AI & Technology", "Description": "Google competitor Perplexity launches an upgraded Pro Search with multi-step reasoning capabilities.", "Links": ["https://twitter.com/glenngabe/status/1808496154151145622"]}, {"Title": "YouTube Expands Channel Handles to 75 Languages", "Category": "Social Media & Content", "Description": "YouTube expands channel handles to 75 languages, allowing creators and viewers to personalize their handles in their preferred language.", "Links": ["https://twitter.com/glenngabe/status/1808493555326857341"]}, {"Title": "Snapchat Introduces Snaps Lasting Less Than 0.5 Seconds", "Category": "Social Media & Content", "Description": "Snapchat introduces new features, including Snaps that last less than 0.5 seconds.", "Links": ["https://twitter.com/glenngabe/status/1808491177970172306"]}, {"Title": "Google Merchant Center Updates Conversion Data Usage Policy", "Category": "Ecommerce & Business", "Description": "Google Merchant Center merchants have been notified of a change in how Google collects and uses conversion data, with potential implications for reporting and search experiences.", "Links": ["https://twitter.com/rustybrick/status/1808195431685304575", "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"]}, {"Title": "Google Ads Allows Ads for Daily Fantasy Sports and Lottery Couriers", "Category": "Advertising & Marketing", "Description": "Google Ads announces a policy change allowing ads for Daily Fantasy Sports and lottery couriers in many states.", "Links": ["https://twitter.com/rustybrick/status/1808192663440838947", "https://twitter.com/rustybrick/status/1808132265408618713"]}, {"Title": "Microsoft Advertising Launches Property Center, Expands Lodging Campaigns", "Category": "Advertising & Marketing", "Description": "Microsoft Advertising has launched Property Center and expanded its lodging campaigns.", "Links": ["https://twitter.com/rustybrick/status/1808199206710268226"]}, {"Title": "Pinterest Moves Local Domains to Subdomains", "Category": "Search Engines & SEO", "Description": "Pinterest is transitioning some of its local domains to subdomains of its .com domain.", "Links": ["https://twitter.com/mjcachon/status/1807769338121720250"]}, {"Title": "Google Explains Why Soft 404 Errors Are Detrimental to Websites", "Category": "Search Engines & SEO", "Description": "Google's Gary Illyes explains that soft 404 errors can negatively impact crawl budget and search visibility.", "Links": ["https://twitter.com/glenngabe/status/1807748435233157259", "https://www.seroundtable.com/google-on-why-soft-404s-are-bad-37646.html"]}, {"Title": "Bing Updates Webmaster Guidelines with Prompt Injection Guidance", "Category": "Search Engines & SEO", "Description": "Bing has added a new guideline to its Bing Webmaster Guidelines addressing the issue of prompt injection attacks.", "Links": ["https://twitter.com/rustybrick/status/1807733638752055558", "https://www.seroundtable.com/prompt-injection-bing-webmaster-guidelines-37650.html"]}, {"Title": "Reddit Denies Blocking Google Search Crawling and Indexing", "Category": "Search Engines & SEO", "Description": "Rumors circulating about Reddit blocking Google Search from accessing its content have been debunked.", "Links": ["https://twitter.com/aleyda/status/1808811354347716719", "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"]}]}
 
+Error occurred at 2024-07-05 16:03:45.983479:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Google Search Console performance report now showing me last updated 3 hours ago - are we back?!",
+    "Description": "Barry Schwartz reports that Google Search Console performance reports are showing updates as of 3 hours ago, indicating a potential recovery from earlier issues.",
+    "Link": "https://twitter.com/rustybrick/status/1809013683869069385"
+  },
+  {
+    "Title": "Still improving but not there yet #GoogleSearchConsole",
+    "Description": "Barry Schwartz notes that while Google Search Console performance reports are showing improvements, they are not yet fully recovered.",
+    "Link": "https://twitter.com/rustybrick/status/1809005963438968953"
+  },
+  {
+    "Title": "RT by @aleyda: Aleyda Solis (@aleyda) believes that if you're doing SEO right - focusing on brand recognition, user engagement, authority, quality links, and descriptive anchor text - the leak shouldn't change your approach much.",
+    "Description": "Aleyda Solis emphasizes that a focus on core SEO principles remains crucial regardless of algorithm updates or leaks.",
+    "Link": "https://twitter.com/Majestic/status/1808879081464775091"
+  },
+  {
+    "Title": "As I said, patience SEOs - patience",
+    "Description": "Barry Schwartz urges patience from SEOs as Google Search Console performance reports continue to recover.",
+    "Link": "https://twitter.com/rustybrick/status/1808877111605657796"
+  },
+  {
+    "Title": "RT by @glenngabe: The data for this report is still catching up and being reprocessed. In the meantime, you might see a fresh data point with partial data. This is expected with data recoveries, and the partial data will be replaced with final data. Thanks for your patience.",
+    "Description": "Google Search Central acknowledges that Google Search Console performance report data is still being reprocessed and may show partial data temporarily.",
+    "Link": "https://twitter.com/googlesearchc/status/1808876210828566705"
+  },
+  {
+    "Title": "ICYMI Reddit is not blocking Google Search",
+    "Description": "Barry Schwartz clarifies that rumors of Reddit blocking Google Search from crawling and indexing its content are false.",
+    "Link": "https://twitter.com/rustybrick/status/1808871889370054770"
+  },
+  {
+    "Title": "RT by @aleyda: Google Search Console performance reports are indeed catching up but the fresh data is being reprocessed and is not 100% accurate yet, the fresh data reports are off right now, Google needs a few days to fully reprocess it",
+    "Description": "Aleyda Solis reiterates that Google Search Console performance reports are still being reprocessed and the fresh data may not be entirely accurate.",
+    "Link": "https://twitter.com/rustybrick/status/1808838857896436125"
+  },
+  {
+    "Title": "Wayback machine shows the normal robots.txt in mid-June. Weird setup from Reddit. :)",
+    "Description": "Glenn Gabe observes a discrepancy between Reddit's current robots.txt and its historical version in the Wayback Machine.",
+    "Link": "https://twitter.com/glenngabe/status/1808834029627535623"
+  },
+  {
+    "Title": "I imagine this has to do with reprocessing the data that @googlesearchc mentioned here \ud83d\udc47 /ht @rustybrick \ud83d\ude4f",
+    "Description": "Aleyda Solis speculates that the observed data discrepancies in Google Search Console are related to the ongoing data reprocessing.",
+    "Link": "https://twitter.com/aleyda/status/1808833821892042874"
+  },
+  {
+    "Title": "Now the Google Search Console shows that it was updated 28 hours ago BUT *ALL* the properties, across all industries I have access to, show a big drop in the \"Fresh Data\" from Monday \ud83d\udc40 this can't reflect the accurate evolution of their clicks (!) @googlesearchc can you please\u2026",
+    "Description": "Aleyda Solis points out a significant drop in \"Fresh Data\" across various properties in Google Search Console, suggesting potential data inaccuracies.",
+    "Link": "https://twitter.com/aleyda/status/1808832439545892999"
+  },
+  {
+    "Title": "Oh boy -> OpenAI updates its ChatGPT macOS app to encrypt locally stored conversations, after a user discovered that the app was storing chats in plain text theverge.com/2024/7/3/24191\u2026",
+    "Description": "Glenn Gabe shares news about OpenAI updating its ChatGPT macOS app to encrypt locally stored conversations after a security vulnerability was discovered.",
+    "Link": "https://twitter.com/glenngabe/status/1808830437072003144"
+  },
+  {
+    "Title": "No - Reddit is NOT blocking Google Search and Reddit will continue to outrank you in Google for all your content seroundtable.com/reddit-it-not-\u2026 nice investigation work @pedrodias and @ryansiddle",
+    "Description": "Barry Schwartz dismisses claims of Reddit blocking Google Search, stating that Reddit will likely maintain its search ranking dominance.",
+    "Link": "https://twitter.com/rustybrick/status/1808825699571990926"
+  },
+  {
+    "Title": "Reddit It Not Blocking Google Search",
+    "Description": "This article debunks rumors about Reddit blocking Google Search and provides insights into the platform's approach to SEO.",
+    "Link": "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"
+  },
+  {
+    "Title": "Reddit Robots.txt PLOT TWIST \ud83d\udc40 I see it too \ud83d\udc47 They might be showing different information to the Googlebot (at least the Inspection Tool one)Check:",
+    "Description": "Aleyda Solis highlights a potential discrepancy in Reddit's robots.txt, suggesting that it might be serving different information to Googlebot.",
+    "Link": "https://twitter.com/aleyda/status/1808811354347716719"
+  },
+  {
+    "Title": "Ask An SEO: What Are The Best Resources To Learn SEO And Who Are The Best People To Follow Online For Good Advice?",
+    "Description": "This article provides guidance on finding reliable SEO resources and experts to follow, helping readers navigate the complexities of SEO information.",
+    "Link": "https://www.searchenginejournal.com/ask-an-seo-what-are-the-best-resources-to-learn-seo-and-who-are-the-best-people-to-follow-online-for-good-advice/520158/"
+  },
+  {
+    "Title": "SEOs: \u201cWe\u2019re tired of being outranked by undeserving, inaccurate UGC\u201d Google: \u201cbut people love it\u201d Reddit: hold my beer \ud83c\udf7a \ud83d\udc40 Check out their robots.txt:",
+    "Description": "Aleyda Solis humorously comments on the challenges SEOs face with user-generated content (UGC) outranking authoritative sources, referencing Reddit's robots.txt as a potential factor.",
+    "Link": "https://twitter.com/aleyda/status/1808797034385695184"
+  },
+  {
+    "Title": "Media Briefing: How the digital publishing industry has fared so far in 2024",
+    "Description": "This mid-year review examines the top stories that have shaped the digital publishing industry in the first half of 2024.",
+    "Link": "https://digiday.com/media/media-briefing-how-the-digital-publishing-industry-has-fared-so-far-in-2024/"
+  },
+  {
+    "Title": "How Aston Martin's F1 team drives awareness for its carmaker parent brand",
+    "Description": "This article explores how Aston Martin leverages its Formula 1 team and platforms like TikTok to enhance brand awareness and connect with a wider audience.",
+    "Link": "https://digiday.com/marketing/how-aston-martins-f1-team-drives-awareness-for-its-carmaker-parent-brand/"
+  },
+  {
+    "Title": "Research Briefing: NBCU and Warner Bros. Discovery pursue programmatic ad dollars at the Olympics",
+    "Description": "This research briefing delves into the increasing role of programmatic advertising in major events like the Olympics, highlighting the strategies of media giants like NBCU and Warner Bros. Discovery.",
+    "Link": "https://digiday.com/marketing/research-briefing-nbcu-and-warner-bros-discovery-pursue-programmatic-ad-dollars-at-the-olympics/"
+  },
+  {
+    "Title": "Cloudflare lets you block AI crawlers with one click",
+    "Description": "Cloudflare has released a new feature that allows users to block AI crawlers from accessing their websites with a single click.",
+    "Link": "https://twitter.com/rustybrick/status/1808623814714032504"
+  },
+  {
+    "Title": "You Don't Need Robots.txt On Root Domain, Says Google",
+    "Description": "Google's Gary Illyes has shared an unconventional method for centralizing robots.txt rules on CDNs, suggesting that it's not always necessary to have a robots.txt file on the root domain.",
+    "Link": "https://www.searchenginejournal.com/you-dont-need-robots-txt-on-root-domain-says-google/521382/"
+  },
+  {
+    "Title": "Google Search Console delays are not a sign of an unconfirmed Google search core ranking update",
+    "Description": "Google Search Console has been experiencing delays, but these delays are not an indication of an unconfirmed Google search core ranking update.",
+    "Link": "https://twitter.com/rustybrick/status/1808572918936306105"
+  },
+  {
+    "Title": "Google zero click study",
+    "Description": "A new study has been released examining Google's zero-click search results, which are results that provide information directly on the search results page without requiring users to click through to a website.",
+    "Link": "https://twitter.com/rustybrick/status/1808569144167838126"
+  },
+  {
+    "Title": "Google Search tests current styles carousel",
+    "Description": "Google is testing a new \"current styles\" carousel in its search results, which appears to showcase trending styles related to the user's search query.",
+    "Link": "https://twitter.com/rustybrick/status/1808565369248100511"
+  },
+  {
+    "Title": "Why the Google Search Console performance report status is not posted in the Search Status dashboard",
+    "Description": "Google has provided an explanation for why the status of Google Search Console performance reports is not reflected in the Search Status dashboard.",
+    "Link": "https://twitter.com/rustybrick/status/1808561594370249037"
+  },
+  {
+    "Title": "Google is reprocessing the Search Console performance reports but it can take 2-3 days for the reports to fully catch up to normal speeds",
+    "Description": "Google is currently reprocessing Search Console performance reports, which may result in delays of 2-3 days for the reports to be fully updated.",
+    "Link": "https://twitter.com/rustybrick/status/1808561585377480780"
+  },
+  {
+    "Title": "Google Ads new brand exclusion controls won't prevent your ads from showing for random firms yet",
+    "Description": "Google Ads' new brand exclusion controls, which are intended to give advertisers more control over which brands their ads appear alongside, are not yet fully effective in preventing ads from displaying for unrelated firms.",
+    "Link": "https://twitter.com/rustybrick/status/1808557819354100058"
+  },
+  {
+    "Title": "How AI and contextual targeting help gain voter attention for the 2024 election",
+    "Description": "This article explores how AI and contextual targeting are being utilized in political advertising to reach voters more effectively during the 2024 election season, particularly through Connected TV (CTV) advertising.",
+    "Link": "https://digiday.com/sponsored/how-ai-and-contextual-targeting-help-gain-voter-attention-for-the-2024-election/"
+  },
+  {
+    "Title": "Google rival Perplexity unveils enhanced Pro Search with multi-step reasoning",
+    "Description": "Perplexity, a search engine positioning itself as a competitor to Google, has introduced an enhanced Pro Search feature with multi-step reasoning capabilities, enabling it to handle more complex and nuanced search queries.",
+    "Link": "https://twitter.com/glenngabe/status/1808496154151145622"
+  },
+  {
+    "Title": "YouTube Expands Channel @handles to 75 Languages",
+    "Description": "YouTube is expanding the availability of channel handles, which were introduced in 2022, to 75 languages, allowing creators and viewers to customize their unique handles in their preferred language.",
+    "Link": "https://twitter.com/glenngabe/status/1808493555326857341"
+  },
+  {
+    "Title": "Snapchat adds new features, including Snaps that last less than 0.5 seconds",
+    "Description": "Snapchat has rolled out new features, including the ability to send extremely short-lived Snaps that last less than half a second, providing users with more creative control and communication options.",
+    "Link": "https://twitter.com/glenngabe/status/1808491177970172306"
+  },
+  {
+    "Title": "Google Search Console delays are not a sign of an unconfirmed Google search core ranking update",
+    "Description": "John Mueller says that delays in Search Console reporting are not related to Google search ranking updates.",
+    "Link": "https://twitter.com/rustybrick/status/1808468480922206347"
+  },
+  {
+    "Title": "New Google zero click study from SparkToro",
+    "Description": "Rand Fishkin's new study shows zero-click searches have decreased from 65% to 58.5%.",
+    "Link": "https://twitter.com/rustybrick/status/1808465964188754215"
+  },
+  {
+    "Title": "Google Search \"current styles\" carousel",
+    "Description": "Google is showing a \"current styles\" carousel in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1808463447832805565"
+  },
+  {
+    "Title": "Google explains why the Google Search Console performance report status is not posted in the Search Status dashboard",
+    "Description": "Google's John Mueller explains why the Google Search Console performance report status is not reflected in the Search Status dashboard.",
+    "Link": "https://twitter.com/rustybrick/status/1808460931044618684"
+  },
+  {
+    "Title": "Google Ads new brand exclusion controls will not prevent your ads from showing for random firms (just yet)",
+    "Description": "Google Ads' new brand exclusion controls are not yet fully preventing ads from appearing for unrelated brands.",
+    "Link": "https://twitter.com/rustybrick/status/1808458414609072157"
+  },
+  {
+    "Title": "Google Search Console's performance report has been delayed for over 75 hours",
+    "Description": "Google Search Console's performance report is experiencing significant delays, surpassing 75 hours.",
+    "Link": "https://twitter.com/rustybrick/status/1808440980875411797"
+  },
+  {
+    "Title": "The state of SEO reporting",
+    "Description": "Aleyda Solis comments on the current state of SEO reporting, tagging Google Search Console.",
+    "Link": "https://twitter.com/aleyda/status/1808430387988689308"
+  },
+  {
+    "Title": "Google is prioritising AI-generated, SEO spam content over original content in search results",
+    "Description": "Concerns are raised about Google prioritizing AI-generated content and SEO spam over original content in search results.",
+    "Link": "https://www.firstpost.com/tech/google-is-prioritising-ai-generated-seo-spam-content-over-original-content-in-search-results-13788775.html"
+  },
+  {
+    "Title": "Google Search Console data delayed 72 hours",
+    "Description": "Glenn Gabe reports that Google Search Console data is experiencing delays of up to 72 hours.",
+    "Link": "https://twitter.com/glenngabe/status/1808410433897779435"
+  },
+  {
+    "Title": "News outlets are accusing Perplexity of plagiarism and unethical web scraping",
+    "Description": "Perplexity faces accusations of plagiarism and unethical web scraping practices from news outlets.",
+    "Link": "https://twitter.com/glenngabe/status/1808407943349473508"
+  },
+  {
+    "Title": "Apple will get an observer role on OpenAI's board",
+    "Description": "Apple's Phil Schiller will join OpenAI's board as an observer, following their recent partnership.",
+    "Link": "https://twitter.com/glenngabe/status/1808405051922137178"
+  },
+  {
+    "Title": "Should the Google API leak change the way you do #SEO?",
+    "Description": "Majestic's podcast will discuss the implications of the recent Google API leak for SEO practices.",
+    "Link": "https://twitter.com/digitaloftuk/status/1808404168752742450"
+  },
+  {
+    "Title": "Google says its greenhouse gas emissions have surged 48% in the past five years",
+    "Description": "Google's greenhouse gas emissions have increased by 48% in the past five years due to the expansion of data centers supporting AI efforts.",
+    "Link": "https://twitter.com/glenngabe/status/1808403749188014334"
+  },
+  {
+    "Title": "Future of TV Briefing: How the future of TV has shaken out so far in 2024",
+    "Description": "A recap of the major developments in the television industry during the first half of 2024.",
+    "Link": "https://digiday.com/future-of-tv/future-of-tv-briefing-how-the-future-of-tv-has-shaken-out-so-far-in-2024/"
+  },
+  {
+    "Title": "The Trade Desk holds fire on full Yahoo suspension",
+    "Description": "The Trade Desk and Yahoo continue negotiations regarding a dispute over \"instream video inventory.\"",
+    "Link": "https://digiday.com/media/the-trade-desk-holds-fire-on-full-yahoo-suspension/"
+  },
+  {
+    "Title": "This performance specialist shop finds new value as an agency for agencies",
+    "Description": "Eden Collective is providing performance media, analytics, and strategic support to other agencies.",
+    "Link": "https://digiday.com/media-buying/this-performance-specialist-shop-finds-new-value-as-an-agency-for-agencies/"
+  },
+  {
+    "Title": "Agency group Common Interest is on an acquisition drive",
+    "Description": "Agency group Common Interest is actively pursuing acquisitions to redefine brand building with a focus on cultural relevance and performance.",
+    "Link": "https://digiday.com/marketing/agency-group-common-interest-is-on-an-acquisition-drive/"
+  },
+  {
+    "Title": "Google's AI Overviews Coincide With Drop In Mobile Searches",
+    "Description": "Study reveals Google's AI overviews coincided with decline in mobile search volume, likely causing Google to pull back on the feature.",
+    "Link": "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/"
+  },
+  {
+    "Title": "GraphRAG Is A Better RAG And Now It's Free",
+    "Description": "GraphRAG, which is superior to RAG for powering AI answer engines and chatbots, is now available on GitHub for free",
+    "Link": "https://www.searchenginejournal.com/graphrag/521296/"
+  },
+  {
+    "Title": "Nearly 60% of Google searches end without a click in 2024",
+    "Description": "Meanwhile, almost 30% of clicks go to Google's properties and about 36% of clicks go to the open web, a new zero-click search study finds.",
+    "Link": "https://searchengineland.com/google-search-zero-click-study-2024-443869"
+  },
+  {
+    "Title": "9 Tips For Successful Lead Generation (Insights From Expert Brands)",
+    "Description": "Learn how to drive more leads, with proven tips and strategies learned from years of experience and getting results.",
+    "Link": "https://www.searchenginejournal.com/9-tips-for-successful-lead-generation/521191/"
+  },
+  {
+    "Title": "Google Ads new setting to say if you used \"Altered or synthetic content\" in your ad",
+    "Description": "Google Ads is introducing a new setting that requires advertisers to disclose whether they have used \"altered or synthetic content\" in their ads.",
+    "Link": "https://twitter.com/rustybrick/status/1808142583723327796"
+  },
+  {
+    "Title": "2024 Zero-Click Search Study: For every 1,000 US Google Searches, only 374 clicks go to the Open Web. In the EU, it\u2019s 360.",
+    "Description": "A new study by SparkToro reveals that zero-click searches continue to rise, with only 374 out of 1,000 Google searches in the US leading to clicks on the open web.",
+    "Link": "https://twitter.com/aleyda/status/1808141221409313152"
+  },
+  {
+    "Title": "It's New- July 2 - Google Search Console delays, Google Ads politics & gambling ads, Google Merchant Center conversion data & UA3 is gone!",
+    "Description": "A roundup of Google updates, including Search Console delays, changes to Google Ads policies on political and gambling ads, updates to Google Merchant Center conversion data usage, and the sunsetting of Universal Analytics (UA).",
+    "Link": "https://twitter.com/rustybrick/status/1808139488196968624"
+  },
+  {
+    "Title": "New Microsoft Advertising Property Center",
+    "Description": "Microsoft Advertising has launched a new Property Center, providing advertisers with a centralized hub to manage their Microsoft Advertising accounts and campaigns.",
+    "Link": "https://twitter.com/rustybrick/status/1808138808749105535"
+  },
+  {
+    "Title": "Google Merchant Center conversion data usage policy change",
+    "Description": "Google Merchant Center has updated its conversion data usage policy, outlining how Google collects and uses conversion data shared by merchants.",
+    "Link": "https://twitter.com/rustybrick/status/1808135033728778593"
+  },
+  {
+    "Title": "Google Ads to allow ads for Daily Fantasy Sports and lottery couriers in many states",
+    "Description": "Google Ads is updating its advertising policies to allow ads for Daily Fantasy Sports and lottery couriers in several states, expanding advertising opportunities in these sectors.",
+    "Link": "https://twitter.com/rustybrick/status/1808132265408618713"
+  },
+  {
+    "Title": "New \ud83d\udd25 Free Google AI Overview Tool from @awebranking Tracks the evolution of AI Overviews over time in Google search",
+    "Description": "A new free tool by ahrefs tracks the evolution of AI Overviews in Google search results, providing insights into their prevalence and characteristics across industries and search intents.",
+    "Link": "https://twitter.com/aleyda/status/1808127949792567519"
+  },
+  {
+    "Title": "\ud83d\udc4c New AI Overviews Study by @awebranking from 8K KWs Analysis",
+    "Description": "A new study by ahrefs analyzing 8,000 keywords provides insights into the characteristics and prevalence of AI Overviews in Google search results, including their average length and the factors influencing their appearance.",
+    "Link": "https://twitter.com/aleyda/status/1808125827319517317"
+  },
+  {
+    "Title": "How to spot and avoid shady link building vendors",
+    "Description": "An article providing guidance on identifying and avoiding unethical link building practices, protecting websites from spammy links and potential SEO penalties.",
+    "Link": "https://searchengineland.com/avoid-shady-link-building-vendors-443805"
+  },
+  {
+    "Title": "Genie -> TikTok\u2019s Developing a New AI Chatbot Called Genie, which could incorporate generative AI search",
+    "Description": "TikTok is developing a new AI chatbot called \"Genie,\" aiming to enhance user experience by providing in-stream question answering and potentially incorporating generative AI search capabilities.",
+    "Link": "https://twitter.com/glenngabe/status/1808114230484193377"
+  },
+  {
+    "Title": "July 2024 Google Webmaster Report: June Spam Update, AI Overviews, Indexing Bug & More",
+    "Description": "A comprehensive report summarizing key Google updates in July 2024, including the June spam update, insights into AI Overviews, an indexing bug, and the completion of mobile-first indexing.",
+    "Link": "https://www.seroundtable.com/july-2024-google-webmaster-report-37655.html"
+  },
+  {
+    "Title": "Google Merchant Center Updates How It Uses Conversion Data",
+    "Description": "Google Merchant Center has announced changes to how it collects and utilizes conversion data from merchants, potentially impacting reporting and Google Search experiences.",
+    "Link": "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
+  },
+  {
+    "Title": "Google Working To Fix Search Console Search Performance Delays & Latency",
+    "Description": "Google acknowledges and is actively addressing delays and latency issues affecting Search Console Performance reports, aiming to resolve the issue and ensure accurate data reporting.",
+    "Link": "https://www.seroundtable.com/google-search-console-search-delays-latency-37658.html"
+  },
+  {
+    "Title": "New Ecommerce Tools: July 2, 2024",
+    "Description": "A roundup of new ecommerce tools launched, covering areas such as shoppable media, AI assistants, personalization, returns forecasting, installment payments, shipping platforms, and marketplaces.",
+    "Link": "https://www.practicalecommerce.com/new-ecommerce-tools-july-2-2024"
+  },
+  {
+    "Title": "Focus on ecommerce? This could also be used for sentiment analysis (w/AR) -> Shopify filed a patent application for a \u201cresponsive user interface based on gaze depth.\u201d",
+    "Description": "Shopify has filed a patent application for a \"responsive user interface based on gaze depth,\" hinting at potential advancements in ecommerce user experiences and sentiment analysis through AR eye-tracking technology.",
+    "Link": "https://twitter.com/glenngabe/status/1808037923230564806"
+  },
+  {
+    "Title": "YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice",
+    "Description": "YouTube's updated policy allows individuals to request the removal of AI-generated content that simulates their face or voice, addressing concerns related to privacy and consent in the age of synthetic media.",
+    "Link": "https://twitter.com/glenngabe/status/1808032636033503490"
+  },
+  {
+    "Title": "The June Spam Update didn't affect SERP movements during the period of the rollout. Here's some data:",
+    "Description": "Data from SISTRIX indicates that Google's June Spam Update did not significantly impact search engine results page (SERP) movements during its rollout period.",
+    "Link": "https://twitter.com/sistrix/status/1808023988074938668"
+  },
+  {
+    "Title": "'Google is broken': How an algorithm tweak cost livelihoods",
+    "Description": "An article exploring the unintended consequences of Google's search algorithm updates, highlighting how changes aimed at improving content quality have negatively impacted some smaller businesses.",
+    "Link": "https://www.portlavacawave.com/news/national/google-is-broken-how-an-algorithm-tweak-cost-livelihoods/article_b5d48528-15f7-55e7-a81a-cc381dfcf3bd.html"
+  },
+  {
+    "Title": "Digiday+ Research: Are cookie concerns, MFAs holding back publishers' digital revenue?",
+    "Description": "Many publishers still depend on revenue from traditional channels in addition to digital ones, and fewer publishers get most of their revenue entirely from digital channels than they have in years past.",
+    "Link": "https://digiday.com/media/digiday-research-are-cookie-concerns-mfas-holding-back-publishers-digital-revenue/"
+  },
+  {
+    "Title": "Programmatic pushes its way into the upfront bazaar",
+    "Description": "Several heads of investment at media agencies acknowledged that a larger percentage of their upfront spend on behalf of their clients is being handled programmatically, with hands-on-keyboards rather than handshakes.",
+    "Link": "https://digiday.com/media-buying/programmatic-pushes-its-way-into-the-upfront-bazaar/"
+  },
+  {
+    "Title": "Google Search Console Delays Is Not A Google Core Update",
+    "Description": "Another rumor coming out of the Google Search Console reporting delays is that this is some sort of unconfirmed update is rolling out. Well, that is not the case at all. John Mueller of Google said this is not a core update or even an unconfirmed core update.",
+    "Link": "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"
+  },
+  {
+    "Title": "Google Shows How To Beat Reddit & Big Brands",
+    "Description": "Google's Gary Illyes shares his thoughts on how small sites can outcompete Reddit and big brand websites",
+    "Link": "https://www.searchenginejournal.com/google-shows-how-to-beat-reddit/521375/"
+  },
+  {
+    "Title": "12 SEO metrics to add to your digital PR measurement program",
+    "Description": "Uncover insights to better understand your audience, optimize content and quantify PR impact by adopting these essential SEO metrics.",
+    "Link": "https://searchengineland.com/seo-metrics-digital-pr-measurement-440491"
+  },
+  {
+    "Title": "Google Explains Reasons For Crawled Not Indexed",
+    "Description": "Google's Gary Ilyes provided several causes of the dreaded crawled but not indexed errors",
+    "Link": "https://www.searchenginejournal.com/google-explains-crawled-not-indexed/521321/"
+  },
+  {
+    "Title": "AI Overviews \u2013 How Will They Impact The Industry? We Ask Pedro Dias",
+    "Description": "Gain insight into the impact of AI Overviews on the SEO industry and content strategy in this interview with ex-Googler Pedro Dias.",
+    "Link": "https://www.searchenginejournal.com/ai-overviews-imho-with-pedro-dias/521202/"
+  },
+  {
+    "Title": "Amid Oracle fallout, advertisers are weighing up challengers against established vendors",
+    "Description": "Marketers have a hard choice to make between ad tech vendors. And they've got to make it quickly.",
+    "Link": "https://digiday.com/marketing/amid-oracle-fallout-advertisers-are-weighing-up-challengers-against-established-vendors/"
+  },
+  {
+    "Title": "@carlhendy: RT by @aleyda: Cloudflare has launched a new feature to block AI bots, scrapers, and crawlers with a single click, and it's free. As AI crawlers continue to swallow up web content, this tool helps protect your content from being used without consent. Many AI crawlers ignore robots txt\u2026",
+    "Description": "Cloudflare has launched a new feature to block AI bots, scrapers, and crawlers with a single click, and it's free. As AI crawlers continue to swallow up web content, this tool helps protect your content from being used without consent. Many AI crawlers ignore robots.txt.",
+    "Link": "https://twitter.com/carlhendy/status/1808662706364559469"
+  },
+  {
+    "Title": "Robots.txt Turns 30: Google Highlights Hidden Strengths",
+    "Description": "Google's Gary Illyes highlights robots.txt file's error tolerance and unexpected features as it marks 30 years of aiding web crawling and SEO.",
+    "Link": "https://www.searchenginejournal.com/robots-txt-turns-30-google-highlights-hidden-strengths/521276/"
+  },
+  {
+    "Title": "Google working on fixing latency issues with the Search Performance reports",
+    "Description": "The reports within Search Console are now delayed by over 52 hours.",
+    "Link": "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+  },
+  {
+    "Title": "Google Gives Exact Reason Why Negative SEO Doesn't Work",
+    "Description": "Gary Illyes' reason for why negative SEO links don't work matches what link builders have known for 20 years",
+    "Link": "https://www.searchenginejournal.com/google-explains-why-negative-seo-is-ineffective/521430/"
+  },
+  {
+    "Title": "Did you know? Microsoft Pays You To Ditch Google, And Here's How it Works",
+    "Description": "Microsoft pays you to use its search engine Bing instead of Google, with the Microsoft Rewards Program. Here's everything you need to know.",
+    "Link": "https://www.mysmartprice.com/gear/internet/internet-features/did-you-know-microsoft-pays-you-to-ditch-google/"
+  },
+  {
+    "Title": "Smart -> Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers",
+    "Description": "Smart -> Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers",
+    "Link": "https://twitter.com/glenngabe/status/1809191746766565624"
+  },
+  {
+    "Title": "Google Search Console Performance reports are fixed",
+    "Description": "Google Search Console Performance reports are now caught up after experiencing significant delays.",
+    "Link": "https://twitter.com/rustybrick/status/1809237297004675384"
+  },
+  {
+    "Title": "Google Search Console URL Inspection tool request indexing feature does not change canonicalization",
+    "Description": "Google's John Mueller stated that using the request indexing feature in Google Search Console's URL Inspection Tool does not alter canonicalization. This clarification came in response to a question about whether the feature could expedite URL removal for 301 redirected URLs.",
+    "Link": "https://twitter.com/rustybrick/status/1809233522126930389"
+  },
+  {
+    "Title": "Are AI Overviews a time-wasting decoy for SEOs or a treasure map to be plundered?",
+    "Description": "This article explores the question of whether AI Overviews are a valuable tool for SEOs or a distraction. It examines the potential benefits and drawbacks of using AI Overviews and provides insights into how they can be incorporated into an SEO strategy.",
+    "Link": "https://twitter.com/garrettsussman/status/1809232132176261169"
+  },
+  {
+    "Title": "You can redirect your main robots.txt to your CDN's robots.txt",
+    "Description": "Google explains that websites using a CDN can simplify robots.txt management by redirecting their main robots.txt file to the CDN's robots.txt. This eliminates the need to manage two separate files.",
+    "Link": "https://twitter.com/rustybrick/status/1809229747190186349"
+  },
+  {
+    "Title": "Google image SEO best practices \"Use HTML image elements to embed images\" section was updated",
+    "Description": "Google has updated its image SEO best practices, specifically the section on using HTML image elements for embedding images. The update likely includes new recommendations or clarifications on optimizing images for search.",
+    "Link": "https://twitter.com/rustybrick/status/1809225972467535922"
+  },
+  {
+    "Title": "Beware of Instant Site-speed Fixes",
+    "Description": "This article cautions against quick fixes for website speed issues, using the example of a Shopify store owner who experienced slow page loads after a redesign. It highlights the importance of thorough analysis and optimization for sustainable site speed improvements.",
+    "Link": "https://www.practicalecommerce.com/beware-of-instant-site-speed-fixes"
+  },
+  {
+    "Title": "Google Search tests a wider search bar",
+    "Description": "Google is experimenting with a wider search bar in its search results, potentially to accommodate longer search queries. This change could impact how users search and how websites optimize for search visibility.",
+    "Link": "https://twitter.com/rustybrick/status/1809222197287833847"
+  },
+  {
+    "Title": "11 of the best free tools every SEO should know about",
+    "Description": "This article lists 11 free SEO tools that can help website owners and marketers analyze, optimize, and improve their website's search performance. The tools cover various aspects of SEO, from keyword research to technical analysis.",
+    "Link": "https://searchengineland.com/seo-free-tools-know-443896"
+  },
+  {
+    "Title": "Google Search Console Performance reports are now all caught up after a long significant delay",
+    "Description": "Google has resolved the issue with Google Search Console Performance reports, which were experiencing significant delays. The reports are now up to date, providing website owners with accurate data on their search performance.",
+    "Link": "https://twitter.com/rustybrick/status/1809193256808522174"
+  },
+  {
+    "Title": "Google's request indexing feature in Google Search Console does not change canonicalization says @JohnMu",
+    "Description": "John Mueller from Google has confirmed that the request indexing feature in Google Search Console does not affect canonicalization. This information is crucial for website owners who use canonical tags to manage duplicate content.",
+    "Link": "https://twitter.com/rustybrick/status/1809190740095901836"
+  },
+  {
+    "Title": "Google Says Request Indexing Does Not Change Canonicalization",
+    "Description": "John Mueller, a Google representative, has clarified that using the request indexing feature in Google Search Console does not modify canonicalization. This clarification addresses concerns about potential impacts on canonical tags when using the tool.",
+    "Link": "https://www.seroundtable.com/google-request-indexing-does-not-change-canonicalization-37676.html"
+  },
+  {
+    "Title": "Google updated its image SEO best practices \"Use HTML image elements to embed images\" section",
+    "Description": "Google has revised its image SEO best practices, specifically the section related to using HTML image elements for embedding images. This update likely provides new guidelines or clarifications on optimizing images for search engines.",
+    "Link": "https://twitter.com/rustybrick/status/1809185706851319879"
+  },
+  {
+    "Title": "Google Search testing a longer/wider search bar (for longer queries?)",
+    "Description": "Google is conducting tests with a wider search bar in its search results page, possibly to accommodate longer search queries. This change could influence how users input their searches and how websites optimize their content for search visibility.",
+    "Link": "https://twitter.com/rustybrick/status/1809183190134763634"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-07-05 16:03:45.983893:
+RESPONSE: 
+{"stories": [{"Title": "Google Search Console Performance Report Delays", "Category": "Search Engine Optimization (SEO)", "Description": "Google Search Console experienced significant delays in its performance reporting, exceeding 75 hours. Google acknowledged the issue, attributing it to data reprocessing, and assured users that it was working on a fix. The delays sparked speculation about potential unconfirmed Google search ranking updates, but John Mueller from Google clarified that the delays were not related to any algorithm updates. The performance reports have since been fully updated.", "Links": ["https://twitter.com/rustybrick/status/1809237297004675384", "https://twitter.com/rustybrick/status/1808440980875411797", "https://twitter.com/glenngabe/status/1808410433897779435", "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"]}, {"Title": "Google Search Console Request Indexing Does Not Impact Canonicalization", "Category": "Search Engine Optimization (SEO)", "Description": "John Mueller from Google confirmed that using the request indexing feature in Google Search Console's URL Inspection Tool does not affect canonicalization. This clarification came in response to a question about whether the feature could expedite URL removal for 301 redirected URLs. This information is important for website owners who rely on canonical tags to manage duplicate content and ensure proper indexing of their preferred URLs.", "Links": ["https://twitter.com/rustybrick/status/1809233522126930389", "https://twitter.com/rustybrick/status/1809190740095901836", "https://www.seroundtable.com/google-request-indexing-does-not-change-canonicalization-37676.html"]}, {"Title": "Reddit's Robots.txt Raises Questions About SEO Practices", "Category": "Search Engine Optimization (SEO)", "Description": "Discussions arose around Reddit's robots.txt file, with observations of discrepancies between its current version and historical versions in the Wayback Machine. Some speculated that Reddit might be serving different information to Googlebot, potentially impacting how the search engine crawls and indexes its content. This led to broader conversations about the challenges SEOs face with user-generated content (UGC) outranking authoritative sources in search results.", "Links": ["https://twitter.com/rustybrick/status/1808871889370054770", "https://twitter.com/glenngabe/status/1808834029627535623", "https://twitter.com/aleyda/status/1808811354347716719", "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"]}, {"Title": "Cloudflare Introduces One-Click AI Crawler Blocking", "Category": "Artificial Intelligence (AI)", "Description": "Cloudflare has launched a new feature that allows users to block AI crawlers from accessing their websites with a single click. This feature addresses concerns about AI crawlers scraping web content without permission for AI training purposes. The tool is available free of charge to all Cloudflare customers.", "Links": ["https://twitter.com/rustybrick/status/1808623814714032504", "https://twitter.com/carlhendy/status/1808662706364559469", "https://twitter.com/glenngabe/status/1809191746766565624"]}, {"Title": "Zero-Click Searches Remain Prevalent in 2024", "Category": "Search Engine Optimization (SEO)", "Description": "A new study by SparkToro reveals that zero-click searches continue to be prevalent, with only 374 out of 1,000 Google searches in the US leading to clicks on the open web. This highlights the ongoing trend of Google providing more information directly on the search results page, potentially impacting website traffic from organic search.", "Links": ["https://twitter.com/rustybrick/status/1808569144167838126", "https://twitter.com/rustybrick/status/1808465964188754215", "https://twitter.com/aleyda/status/1808141221409313152", "https://searchengineland.com/google-search-zero-click-study-2024-443869"]}, {"Title": "Google's AI Overviews Impact Search Behavior", "Category": "Artificial Intelligence (AI)", "Description": "A study by ahrefs revealed that Google's AI Overviews, which provide summarized information directly on the search results page, coincided with a decline in mobile search volume. This suggests that AI Overviews may be influencing user behavior, potentially leading to fewer clicks on organic search results. The study analyzed 8,000 keywords and provided insights into the characteristics and prevalence of AI Overviews.", "Links": ["https://twitter.com/aleyda/status/1808127949792567519", "https://twitter.com/aleyda/status/1808125827319517317", "https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/"]}, {"Title": "Google Updates Image SEO Best Practices", "Category": "Search Engine Optimization (SEO)", "Description": "Google has updated its image SEO best practices, specifically the section on using HTML image elements for embedding images. The update likely includes new recommendations or clarifications on how to optimize images for search engines. This is important for website owners and SEOs to ensure their images are properly indexed and displayed in search results.", "Links": ["https://twitter.com/rustybrick/status/1809225972467535922", "https://twitter.com/rustybrick/status/1809185706851319879"]}, {"Title": "Google Merchant Center Updates Conversion Data Usage Policy", "Category": "Ecommerce", "Description": "Google Merchant Center announced changes to how it collects and utilizes conversion data from merchants. The updated policy outlines how Google collects, processes, and uses conversion data shared by merchants. This could potentially impact reporting and Google Search experiences for merchants using Google Merchant Center.", "Links": ["https://twitter.com/rustybrick/status/1808135033728778593", "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"]}, {"Title": "Google Ads Updates Policies on Political and Gambling Ads", "Category": "Advertising", "Description": "Google Ads is updating its advertising policies to allow ads for Daily Fantasy Sports and lottery couriers in several states. This expansion of advertising opportunities in these sectors reflects evolving regulations and industry trends. Advertisers need to stay informed about these policy changes to ensure compliance.", "Links": ["https://twitter.com/rustybrick/status/1808132265408618713"]}, {"Title": "TikTok Develops AI Chatbot \"Genie\"", "Category": "Artificial Intelligence (AI)", "Description": "TikTok is developing a new AI chatbot called \"Genie\" to enhance user experience. Genie is expected to provide in-stream question answering and potentially incorporate generative AI search capabilities. This move highlights TikTok's focus on leveraging AI to improve its platform and compete with other tech giants in the AI space.", "Links": ["https://twitter.com/glenngabe/status/1808114230484193377"]}, {"Title": "OpenAI Updates ChatGPT macOS App with Encryption", "Category": "Artificial Intelligence (AI)", "Description": "OpenAI updated its ChatGPT macOS app to encrypt locally stored conversations after a security vulnerability was discovered. This update addresses privacy concerns by ensuring that user conversations are protected even if the device is compromised.", "Links": ["https://twitter.com/glenngabe/status/1808830437072003144"]}, {"Title": "YouTube Allows Takedown Requests for AI-Generated Content Simulating Individuals", "Category": "Artificial Intelligence (AI)", "Description": "YouTube updated its policy to allow individuals to request the removal of AI-generated content that simulates their face or voice. This addresses concerns related to privacy, consent, and the potential misuse of AI-generated synthetic media.", "Links": ["https://twitter.com/glenngabe/status/1808032636033503490"]}]}
