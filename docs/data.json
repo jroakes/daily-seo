@@ -1,70 +1,79 @@
 {
     "data": [
         {
-            "Title": "Google Search Console Performance Report Delays",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console has been experiencing significant delays in its performance reporting, with data being delayed for over 75 hours. Google acknowledges the issue and is actively working on resolving the latency problems.  Despite the delays, Google has confirmed that this is not related to any algorithm or ranking updates.",
+            "Title": "Google Search Console Performance Reports Fixed After Delay",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console Performance reports are now all caught up after a long significant delay. The data for the reports was still catching up and being reprocessed, with partial data initially displayed. This is expected with data recoveries, and the partial data will be replaced with final data.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808440980875411797",
-                "https://twitter.com/glenngabe/status/1808410433897779435",
-                "https://searchengineland.com/google-working-on-fixing-latency-issues-with-the-search-performance-reports-443857"
+                "https://twitter.com/rustybrick/status/1809237297004675384",
+                "https://twitter.com/glenngabe/status/1809193508479377413",
+                "https://twitter.com/rustybrick/status/1809193256808522174"
             ]
         },
         {
-            "Title": "Reddit's Robots.txt File Raises Questions",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "SEOs have observed discrepancies in Reddit's robots.txt file, suggesting the platform might be serving different information to Googlebot. This has sparked speculation about Reddit's SEO strategy and whether they are intentionally trying to limit Google's crawling and indexing of their content.",
+            "Title": "Google Search Console URL Inspection Tool Does Not Change Canonicalization",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller said that using the request indexing feature in Google Search Console's URL Inspection Tool does not change canonicalization. The question that was asked is if it can help speed up URL removal for a 301 redirected URL.",
             "Links": [
-                "https://twitter.com/aleyda/status/1808811354347716719",
-                "https://twitter.com/glenngabe/status/1808834029627535623",
+                "https://twitter.com/rustybrick/status/1809293920012214572",
+                "https://twitter.com/rustybrick/status/1809190740095901836",
+                "https://www.seroundtable.com/google-request-indexing-does-not-change-canonicalization-37676.html"
+            ]
+        },
+        {
+            "Title": "Redirect Your Main Robots.txt to Your CDN's Robots.txt",
+            "Category": "Search Engine Optimization",
+            "Description": "You can redirect your main robots.txt to your CDN's robots.txt and manage it only there so you don't need to manage two robots.txt files, Google explains. Google's John Mueller says if you are using a CDN you can redirect your www version to the CDN and manage robots.txt there.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1809290145037688905",
+                "https://twitter.com/rustybrick/status/1809188223526006862",
+                "https://www.searchenginejournal.com/you-dont-need-robots-txt-on-root-domain-says-google/521382/"
+            ]
+        },
+        {
+            "Title": "Google Updates Image SEO Best Practices",
+            "Category": "Search Engine Optimization",
+            "Description": "Google image SEO best practices \"Use HTML image elements to embed images\" section was updated.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1809286370416029737",
+                "https://twitter.com/rustybrick/status/1809185706851319879"
+            ]
+        },
+        {
+            "Title": "Google Search Tests Wider Search Bar",
+            "Category": "Search Engine Optimization",
+            "Description": "ICYMI: Google Search tests a wider search bar.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1809282595542430198",
+                "https://twitter.com/rustybrick/status/1809183190134763634"
+            ]
+        },
+        {
+            "Title": "Cloudflare Launches Tool to Block AI Crawlers",
+            "Category": "Artificial Intelligence",
+            "Description": "Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1809191746766565624",
+                "https://twitter.com/rustybrick/status/1808623814714032504"
+            ]
+        },
+        {
+            "Title": "Reddit Does Not Block Google Search",
+            "Category": "Search Engine Optimization",
+            "Description": "Despite rumors, Reddit confirms it is not blocking Google Search from crawling and indexing its content, ensuring continued visibility in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1808871889370054770",
                 "https://twitter.com/rustybrick/status/1808825699571990926"
             ]
         },
         {
-            "Title": "Cloudflare Introduces One-Click AI Crawler Blocking",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Cloudflare has launched a new feature that allows website owners to block AI crawlers from accessing their content with a single click. This free tool aims to address concerns about AI models scraping web data without permission, providing a way to protect content and potentially control its use in AI training datasets.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808623814714032504",
-                "https://twitter.com/carlhendy/status/1808662706364559469",
-                "https://twitter.com/glenngabe/status/1809191746766565624"
-            ]
-        },
-        {
-            "Title": "Google's Zero-Click Search Results Remain Prevalent",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A new study by SparkToro reveals that zero-click searches on Google continue to rise, with only 374 out of 1,000 searches in the US leading to clicks on external websites. This highlights the ongoing challenge for website owners in attracting traffic from search results, as Google increasingly provides information directly on the search results page.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808569144167838126",
-                "https://twitter.com/rustybrick/status/1808465964188754215",
-                "https://twitter.com/aleyda/status/1808141221409313152"
-            ]
-        },
-        {
-            "Title": "OpenAI Enhances ChatGPT Security After Vulnerability",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "OpenAI has updated its ChatGPT macOS app to encrypt locally stored conversations after a security flaw was discovered, which allowed unauthorized access to chat history. This update addresses privacy concerns and strengthens the security of user data within the ChatGPT application.",
+            "Title": "OpenAI Updates ChatGPT macOS App with Local Encryption",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI releases an update for its ChatGPT macOS app, enabling local encryption of conversations following a discovery of plain text storage vulnerability.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1808830437072003144"
             ]
-        },
-        {
-            "Title": "Google Ads Updates Policies on Political and Gambling Ads",
-            "Category": "Digital Advertising",
-            "Description": "Google Ads is implementing policy changes that will allow ads for Daily Fantasy Sports and lottery couriers in certain states. This update reflects the evolving landscape of online gambling and fantasy sports, expanding advertising opportunities in these sectors.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808132265408618713"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Revises Conversion Data Usage",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center has updated its conversion data usage policy, outlining how it collects and utilizes data from merchants. This change may impact reporting and potentially influence Google Search experiences for users.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1808135033728778593",
-                "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"
-            ]
         }
     ],
-    "date": "2024-07-05"
+    "date": "2024-07-06"
 }
