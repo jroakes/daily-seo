@@ -2,88 +2,116 @@
     "data": [
         {
             "Title": "Google Search Console Performance Reports Fixed After Outage",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console Performance reports are now all caught up after a long significant delay.",
+            "Category": "SEO & Search",
+            "Description": "Google Search Console Performance reports are now fully caught up and showing accurate data after a significant delay and period of inaccurate data.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1809237297004675384",
-                "https://twitter.com/aleyda/status/1809198621755126075",
+                "https://twitter.com/glenngabe/status/1809193508479377413",
                 "https://twitter.com/rustybrick/status/1809193256808522174"
             ]
         },
         {
-            "Title": "Google Search Console Delays Not Related to Algorithm Update",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "The Search Console delays are not a sign of an unconfirmed Google search core ranking update says @johnmu",
+            "Title": "Reddit Does Not Block Google Search",
+            "Category": "SEO & Search",
+            "Description": "Despite rumors circulating on July 4th, Reddit has not blocked Google Search from crawling and indexing its content.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1808468480922206347",
-                "https://www.seroundtable.com/google-search-console-delays-is-not-a-google-core-update-37668.html"
+                "https://twitter.com/rustybrick/status/1808871889370054770",
+                "https://twitter.com/rustybrick/status/1808825699571990926",
+                "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html"
             ]
         },
         {
             "Title": "Google Updates Image SEO Best Practices",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google updated its image SEO best practices \"Use HTML image elements to embed images\" section",
+            "Category": "SEO & Search",
+            "Description": "Google has updated the \"Use HTML image elements to embed images\" section of its image SEO best practices.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1809286370416029737",
+                "https://twitter.com/rustybrick/status/1809225972467535922",
                 "https://twitter.com/rustybrick/status/1809185706851319879"
             ]
         },
         {
-            "Title": "Google Tests Wider Search Bar, Possibly for Longer Queries",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search testing a longer/wider search bar (for longer queries?)",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1809183190134763634"
-            ]
-        },
-        {
-            "Title": "Cloudflare Launches Tool to Block AI Crawlers for Free",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1809191746766565624",
-                "https://twitter.com/rustybrick/status/1808623814714032504"
-            ]
-        },
-        {
-            "Title": "Google's Gary Illyes Explains Why Negative SEO Doesn't Work",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Gary Illyes' reason for why negative SEO links don't work matches what link builders have known for 20 years",
+            "Title": "Google Explains Why Negative SEO Is Ineffective",
+            "Category": "SEO & Search",
+            "Description": "Google's Gary Illyes has reiterated that negative SEO links do not work, confirming what link builders have known for years.",
             "Links": [
                 "https://www.searchenginejournal.com/google-explains-why-negative-seo-is-ineffective/521430/"
             ]
         },
         {
-            "Title": "Google's Take on Competing with Reddit and Big Brands",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's Gary Illyes shares his thoughts on how small sites can outcompete Reddit and big brand websites",
+            "Title": "Google Testing Wider Search Bar",
+            "Category": "SEO & Search",
+            "Description": "Google is experimenting with a wider search bar, potentially to accommodate longer search queries.",
             "Links": [
-                "https://www.searchenginejournal.com/google-shows-how-to-beat-reddit/521375/"
+                "https://twitter.com/rustybrick/status/1809282595542430198",
+                "https://twitter.com/rustybrick/status/1809222197287833847",
+                "https://twitter.com/rustybrick/status/1809183190134763634"
             ]
         },
         {
-            "Title": "Managing robots.txt: Google Suggests CDNs Over Root Domain",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's Gary Illyes presents an alternative approach to managing robots.txt rules, suggesting centralization on CDNs instead of the root domain, challenging conventional practices.",
+            "Title": "Cloudflare Launches Tool to Block AI Data Scraping",
+            "Category": "AI & Technology",
+            "Description": "Cloudflare has released a tool that aims to prevent bots from scraping website data for AI training purposes. The tool is available for free to all Cloudflare customers.",
             "Links": [
-                "https://www.searchenginejournal.com/you-dont-need-robots-txt-on-root-domain-says-google/521382/"
+                "https://twitter.com/glenngabe/status/1809191746766565624"
             ]
         },
         {
-            "Title": "YouTube Enhances Copyright Protection with AI-Powered Erase Song Tool",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Pretty impressive & can help resolve copyright claims w/out impacting the entire video -> YouTube updates its Erase Song tool for creators with an AI algorithm to detect and remove any copyrighted music from their videos without impacting other audio",
+            "Title": "OpenAI Updates ChatGPT App for macOS to Encrypt Local Conversations",
+            "Category": "AI & Technology",
+            "Description": "OpenAI has updated its ChatGPT app for macOS to encrypt locally stored conversations. This update comes after a user discovered that the app was storing chats in plain text.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1808830437072003144"
+            ]
+        },
+        {
+            "Title": "OpenAI Requests New York Times Source Materials in Copyright Case",
+            "Category": "AI & Technology",
+            "Description": "OpenAI is requesting access to journalists' source materials from the New York Times to support its defense in a multi-million dollar copyright infringement lawsuit.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1809565207577911462"
+            ]
+        },
+        {
+            "Title": "YouTube Enhances Erase Song Tool with AI for Copyright Management",
+            "Category": "AI & Technology",
+            "Description": "YouTube has updated its Erase Song tool for creators, incorporating an AI algorithm to detect and remove copyrighted music from videos without affecting other audio.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1809560174417649960"
             ]
         },
         {
-            "Title": "Google Considered Limiting AI Overviews to Own Apps, Report Says",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "The idea was dangling AI overviews out there to get more iOS users to use Google directly versus Safari -> To lessen its reliance on Safari for iOS, Google considered limiting AI Overviews to its own mobile apps, but ultimately decided against such a move",
+            "Title": "Google's Antitrust Trial and Potential Impact on Mobile Search",
+            "Category": "Business & Technology",
+            "Description": "If Google loses the ongoing Department of Justice antitrust trial, it could lose access to a significant portion of mobile searches conducted on iPhones, potentially impacting its market share.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1809555896433012815"
+            ]
+        },
+        {
+            "Title": "Google Considered Limiting AI Overviews to Own Apps",
+            "Category": "Business & Technology",
+            "Description": "To reduce reliance on Safari for iOS, Google contemplated restricting AI Overviews to its own mobile apps but ultimately decided against it.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1809555393078763898"
             ]
+        },
+        {
+            "Title": "Can Employers See Bing Searches from Work Accounts?",
+            "Category": "Privacy & Security",
+            "Description": "A recent article explores whether employers can access Bing search history when employees use their work email addresses and Microsoft 365 accounts.",
+            "Links": [
+                "https://www.slashgear.com/1613107/microsoft-search-engine-can-employer-see-bing-results-how-works/"
+            ]
+        },
+        {
+            "Title": "Microsoft Rewards Program: Get Paid to Use Bing",
+            "Category": "Business & Technology",
+            "Description": "Microsoft offers incentives to users who switch from Google to its Bing search engine through the Microsoft Rewards Program.",
+            "Links": [
+                "https://www.mysmartprice.com/gear/internet/internet-features/did-you-know-microsoft-pays-you-to-ditch-google/"
+            ]
         }
     ],
-    "date": "2024-07-06"
+    "date": "2024-07-07"
 }

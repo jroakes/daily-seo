@@ -17798,3 +17798,62 @@ Error occurred at 2024-07-05 20:03:54.160979:
 RESPONSE: 
 {"stories": [{"Title": "Google Search Console Performance Report Delays", "Category": "Search Engine Optimization (SEO)", "Description": "Google Search Console performance reports experienced significant delays, surpassing 75 hours, raising concerns among SEOs. Google acknowledged the issue, attributing it to data reprocessing, and assured users that the reports were not related to any algorithm updates. The delays impacted various properties and industries, with \"Fresh Data\" showing discrepancies. After several days, Google confirmed that the performance reports were fixed and caught up.", "Links": ["https://twitter.com/rustybrick/status/1808440980875411797", "https://twitter.com/glenngabe/status/1808410433897779435", "https://twitter.com/rustybrick/status/1809237297004675384"]}, {"Title": "Reddit's Robots.txt and SEO Impact", "Category": "Search Engine Optimization (SEO)", "Description": "SEOs observed discrepancies in Reddit's robots.txt file, suggesting potential changes in the platform's approach to crawling and indexing. Speculation arose about Reddit blocking Google Search, but industry experts clarified that this was not the case. The discrepancies, including different information potentially served to Googlebot, sparked discussions about Reddit's SEO strategy and its impact on content visibility in search results.", "Links": ["https://twitter.com/rustybrick/status/1808871889370054770", "https://www.seroundtable.com/reddit-it-not-blocking-google-search-37671.html", "https://twitter.com/aleyda/status/1808811354347716719"]}, {"Title": "Google's AI Overviews and Search Behavior", "Category": "Search Engine Optimization (SEO)", "Description": "Google's AI Overviews, which provide summarized information directly on search results pages, have been a topic of discussion among SEOs. A study revealed that the introduction of AI Overviews coincided with a decline in mobile search volume, suggesting a potential impact on user behavior. The study analyzed 8,000 keywords, examining the characteristics and prevalence of AI Overviews, including their average length and the factors influencing their appearance.", "Links": ["https://www.searchenginejournal.com/googles-ai-overviews-coincide-with-drop-in-mobile-searches/521303/", "https://twitter.com/aleyda/status/1808127949792567519", "https://twitter.com/aleyda/status/1808125827319517317"]}, {"Title": "Zero-Click Searches Continue to Rise", "Category": "Search Engine Optimization (SEO)", "Description": "A new study by SparkToro reveals that zero-click searches, where users find information directly on the search results page without clicking through to a website, continue to increase. The study found that only 374 out of 1,000 Google searches in the US lead to clicks on the open web, highlighting the growing challenge for website owners in attracting organic traffic.", "Links": ["https://twitter.com/rustybrick/status/1808465964188754215", "https://twitter.com/aleyda/status/1808141221409313152", "https://searchengineland.com/google-search-zero-click-study-2024-443869"]}, {"Title": "Cloudflare Introduces AI Crawler Blocking Tool", "Category": "Artificial Intelligence (AI)", "Description": "Cloudflare has launched a new feature that allows users to block AI crawlers from accessing their websites with a single click. This tool aims to address concerns about AI crawlers scraping web content for training data without consent, providing website owners with more control over how their content is used.", "Links": ["https://twitter.com/rustybrick/status/1808623814714032504", "https://twitter.com/carlhendy/status/1808662706364559469", "https://twitter.com/glenngabe/status/1809191746766565624"]}, {"Title": "OpenAI Updates ChatGPT App with Encryption", "Category": "Artificial Intelligence (AI)", "Description": "OpenAI has updated its ChatGPT macOS app to encrypt locally stored conversations after a security vulnerability was discovered. The update addresses concerns about user privacy and data security, ensuring that conversations are protected from unauthorized access.", "Links": ["https://twitter.com/glenngabe/status/1808830437072003144"]}, {"Title": "Google Ads Updates Brand Exclusion Controls", "Category": "Digital Advertising", "Description": "Google Ads has introduced new brand exclusion controls, giving advertisers more control over which brands their ads appear alongside. However, the new controls are not yet fully effective in preventing ads from displaying for unrelated firms, raising concerns about brand safety and ad relevance.", "Links": ["https://twitter.com/rustybrick/status/1808557819354100058", "https://twitter.com/rustybrick/status/1808458414609072157"]}, {"Title": "Google Merchant Center Updates Conversion Data Usage Policy", "Category": "Ecommerce", "Description": "Google Merchant Center has updated its conversion data usage policy, outlining how Google collects and uses conversion data shared by merchants. The changes may impact reporting and Google Search experiences, prompting merchants to review the updated policy.", "Links": ["https://twitter.com/rustybrick/status/1808135033728778593", "https://www.seroundtable.com/google-merchant-center-conversion-data-usage-37654.html"]}, {"Title": "TikTok Developing AI Chatbot \"Genie\"", "Category": "Artificial Intelligence (AI)", "Description": "TikTok is developing a new AI chatbot called \"Genie\" to enhance user experience. The chatbot aims to provide in-stream question answering and potentially incorporate generative AI search capabilities, further integrating AI into the platform's features.", "Links": ["https://twitter.com/glenngabe/status/1808114230484193377"]}, {"Title": "YouTube Updates Policy on AI-Generated Content", "Category": "Artificial Intelligence (AI)", "Description": "YouTube has updated its policy to allow individuals to request the removal of AI-generated content that simulates their face or voice. This policy change addresses concerns related to privacy and consent in the age of synthetic media, providing individuals with more control over their digital likeness.", "Links": ["https://twitter.com/glenngabe/status/1808032636033503490"]}]}
 
+Error occurred at 2024-07-07 00:10:26.458683:
+PROMPT: 
+Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
+
+Filter out:
+* Self-promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+IMPORTANT: Only use the FULL provided Source as the link for each item.  DO NOT use any other links
+
+Content for review:
+How Aston Martin's F1 team drives awareness for its carmaker parent brand
+2024-07-04
+At Silverstone this weekend, Aston Martin looks to TikTok to connect sports fans with its luxury proposition.
+Source: https://digiday.com/marketing/how-aston-martins-f1-team-drives-awareness-for-its-carmaker-parent-brand/
+--------------------
+Research Briefing: NBCU and Warner Bros. Discovery pursue programmatic ad dollars at the Olympics
+2024-07-04
+In this edition of the Digiday+ Research Briefing, we examine how programmatic advertising is opening up the Olympics to more advertisers, why some social platforms are distancing themselves from the social media label, and how Walmart and Target are gaining ground in retail media, as seen in recent data from Digiday+ Research.
+Source: https://digiday.com/marketing/research-briefing-nbcu-and-warner-bros-discovery-pursue-programmatic-ad-dollars-at-the-olympics/
+--------------------
+Fintech SEO Trends to Look Out for in 2024
+2024-07-04
+Did you know that 82% of smartphone users consult their phones before making financial decisions? This staggering statistic highlights just how crucial ...
+Source: https://www.ilounge.com/articles/fintech-seo-trends-to-look-out-for-in-2024
+--------------------
+@rustybrick: Hit 90 hours - wonder when Google Search Console will show fewer hours
+2024-07-04
+
+Source: https://twitter.com/rustybrick/status/1808667402759979050
+--------------------
+@carlhendy: RT by @aleyda: Cloudflare has launched a new feature to block AI bots, scrapers, and crawlers with a single click, and it's free. As AI crawlers continue to swallow up web content, this tool helps protect your content from being used without consent. Many AI crawlers ignore robots txt…
+2024-07-04
+
+Source: https://twitter.com/carlhendy/status/1808662706364559469
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value. The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article. Escape any quotes in title value.
+- Description (string): Description of the article. Escape any quotes in description value.
+- Link (string): Link to the content. Only use provided links; do not guess or infer URLs.
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error. Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-07-07 00:10:26.459108:
+RESPONSE: 
+[{"Title": "Research Briefing: NBCU and Warner Bros. Discovery pursue programmatic ad dollars at the Olympics", "Description": "In this edition of the Digiday+ Research Briefing, we examine how programmatic advertising is opening up the Olympics to more advertisers, why some social platforms are distancing themselves from the social media label, and how Walmart and Target are gaining ground in retail media, as seen in recent data from Digiday+ Research.", "Link": "https://digiday.com/marketing/research-briefing-nbcu-and-warner-bros-discovery-pursue-programmatic-ad-dollars-at-the-olympics/"}, {"Title": "Cloudflare has launched a new feature to block AI bots, scrapers, and crawlers with a single click, and it\u2019s free. As AI crawlers continue to swallow up web content, this tool helps protect your content from being used without consent. Many AI crawlers ignore robots txt\u2026", "Description": "Retweet from \@aleyda: Cloudflare has launched a new feature to block AI bots, scrapers, and crawlers with a single click, and it\u2019s free. As AI crawlers continue to swallow up web content, this tool helps protect your content from being used without consent. Many AI crawlers ignore robots txt\u2026", "Link": "https://twitter.com/carlhendy/status/1808662706364559469"}]
+
