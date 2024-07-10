@@ -1,89 +1,83 @@
 {
     "data": [
         {
-            "Title": "Google Search Experiencing Indexing Issues and Volatility",
+            "Title": "Google Search Experiences Indexing Issues and Other Bugs",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search is encountering issues with indexing new content, leading to significant ranking volatility.  The issue appears to be a recurring bug, with similar incidents reported in the past.",
+            "Description": "Google Search has been hit with a series of bugs, including one that prevented new content from being indexed for an hour. Other issues include repetitive \"new owner\" email notifications sent through Google Search Console and weekend ranking volatility.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810438660959137901",
-                "https://twitter.com/rustybrick/status/1810285956953461194",
+                "https://twitter.com/rustybrick/status/1810381083529326802",
                 "https://www.seroundtable.com/july-4th-weekend-google-search-ranking-volatility-37687.html"
             ]
         },
         {
-            "Title": "Google Updates URL Best Practices and Search Console Experiences Bugs",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has revised its URL best practices documentation, advising against using fragments to alter page content.  Additionally, Search Console users have reported bugs, including repetitive \"new owner\" email notifications.",
+            "Title": "Ad Agency Criticized for Unethical SEO Practices on Revived TUAW Domain",
+            "Category": "Artificial Intelligence",
+            "Description": "Web Orange, an ad agency, has resurrected the popular tech blog TUAW but is facing backlash for using AI-generated content and stolen bylines in an attempt to manipulate search engine rankings.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810381083529326802",
+                "https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play"
+            ]
+        },
+        {
+            "Title": "Google Updates Guidelines for URLs and Content Ambiguity",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has updated its URL best practices, advising against using fragments to change page content. Additionally, the search giant suggests that content creators address ambiguity in their work if they are ranking for irrelevant keywords, although it claims this doesn't negatively impact rankings.",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1810377308747841823",
-                "https://twitter.com/rustybrick/status/1810277903781024222"
+                "https://twitter.com/rustybrick/status/1810275387295068204",
+                "https://twitter.com/rustybrick/status/1810270353845014944"
             ]
         },
         {
-            "Title": "Google Maps Introduces \"Add Stop\" Advertisements",
-            "Category": "Advertising & Marketing",
-            "Description": "Google Maps is now featuring \"Add Stop\" advertisements within its driving directions, allowing businesses to target users en route.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1810397281671328220",
-                "https://twitter.com/rustybrick/status/1810373534046421223",
-                "https://twitter.com/rustybrick/status/1810272870318149859"
-            ]
-        },
-        {
-            "Title": "YouTube's Impact on Organic Search Traffic and SEO Insights",
-            "Category": "Search Engine Optimization",
-            "Description": "YouTube is emerging as a dominant force in organic search, attracting significant traffic across various industries and search terms.  Experts highlight the platform's growing influence on search engine results pages (SERPs).",
-            "Links": [
-                "https://twitter.com/aleyda/status/1810314964202041695",
-                "https://twitter.com/rustybrick/status/1810384858319041000",
-                "https://www.seroundtable.com/youtube-seo-traffic-sources-37685.html"
-            ]
-        },
-        {
-            "Title": "Microsoft's Bing Search Engine Testing Nutritional Labels for Images",
+            "Title": "Bing Search Explores Nutritional Details in Image Results",
             "Category": "Search Engines",
-            "Description": "Bing Search is experimenting with a new feature that adds nutritional details to images in search results, providing users with additional information about food products.",
+            "Description": "Bing is experimenting with a new feature that would display nutritional information on images of food products in its search results. Labels such as \"high calcium,\" \"lean protein,\" and \"anti-inflammatory\" are being tested.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810637774988496994",
-                "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html"
+                "https://twitter.com/rustybrick/status/1810679298724159948",
+                "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html",
+                "https://twitter.com/rustybrick/status/1810637774988496994"
             ]
         },
         {
-            "Title": "Google Ads Pauses Policy Update on Opioid Painkiller Advertisements",
-            "Category": "Advertising & Marketing",
-            "Description": "Google has reversed its decision to allow search ads for opioid painkillers, indefinitely pausing the policy update.",
+            "Title": "Google Ads Pauses Policy Update on Opioid Painkiller Ads",
+            "Category": "Advertising Platforms",
+            "Description": "Google has reversed its decision to allow search ads for opioid painkillers. The policy update, which was initially announced but met with criticism, has been put on hold indefinitely.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1810683073417158987",
                 "https://twitter.com/rustybrick/status/1810640291654951159",
-                "https://twitter.com/rustybrick/status/1810683073417158987"
+                "https://twitter.com/rustybrick/status/1810743471491227822"
             ]
         },
         {
-            "Title": "Google Search Testing Country Labels in Search Result Snippets",
+            "Title": "Google Tests Country Labels in Search Result Snippets",
             "Category": "Search Engines",
-            "Description": "Google is conducting tests to incorporate country labels (flags) within search result snippets, potentially enhancing the user experience by providing geographical context.",
+            "Description": "Google is running tests to include country labels, represented by flags, within the snippets of search results. This experiment aims to provide users with more context about the origin of the search result.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1810671749052403975",
                 "https://twitter.com/rustybrick/status/1810632741823639825",
-                "https://twitter.com/rustybrick/status/1810671749052403975"
+                "https://twitter.com/rustybrick/status/1810732146912538720"
             ]
         },
         {
-            "Title": "Google Ads and Merchant Center to Implement New Feed Label Functionality",
-            "Category": "Advertising & Marketing",
-            "Description": "Google Ads and Merchant Center will transition from the \"Country of Sale\" attribute to a new Feed label functionality in August 2024, prompting advertisers to adapt their campaigns.",
+            "Title": "Google Ads and Merchant Center Transitioning to New Feed Label Functionality",
+            "Category": "Advertising Platforms",
+            "Description": "Google Ads and Merchant Center will be migrating from the \"Country of Sale\" attribute to a new Feed label functionality. The transition is scheduled to begin next month and will be automatically implemented in August 2024.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810686848378769666",
-                "https://twitter.com/rustybrick/status/1810642808132534422"
+                "https://twitter.com/rustybrick/status/1810642808132534422",
+                "https://twitter.com/rustybrick/status/1810747246423798188"
             ]
         },
         {
-            "Title": "Etsy Implements AI-Generated Item Guidelines in Seller Policy",
-            "Category": "Ecommerce",
-            "Description": "Etsy has updated its seller policy to include guidelines for AI-generated products, requiring sellers to disclose the level of AI involvement in their listings.",
+            "Title": "YouTube SEO: Traffic Sources Explained",
+            "Category": "Search Engine Optimization",
+            "Description": "A YouTube Liaison has clarified how traffic sources impact recommendations on the platform. Home page recommendations are influenced by views originating from the home page itself, while external views do not have the same effect.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1810652179004366886"
+                "https://twitter.com/rustybrick/status/1810280420308906269",
+                "https://www.seroundtable.com/youtube-seo-traffic-sources-37685.html",
+                "https://twitter.com/rustybrick/status/1810324460463087627"
             ]
         }
     ],
-    "date": "2024-07-09"
+    "date": "2024-07-10"
 }
