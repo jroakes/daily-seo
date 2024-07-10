@@ -1,21 +1,31 @@
 {
     "data": [
         {
-            "Title": "Google Search Experiencing Indexing Issues and Bugs",
-            "Category": "Search Engines",
-            "Description": "Google Search is reportedly experiencing bugs that are preventing new content from being indexed and sending multiple \"new owner\" email notifications through Google Search Console.",
+            "Title": "Google Search Experiencing Indexing Issues and Volatility",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is reportedly experiencing a bug that is preventing new content from being indexed. This follows reports of weekend ranking volatility, reminiscent of a bug Google had late last year into early this year.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810438660959137901",
-                "https://twitter.com/rustybrick/status/1810381083529326802"
+                "https://twitter.com/rustybrick/status/1809937544945205315",
+                "https://www.seroundtable.com/july-4th-weekend-google-search-ranking-volatility-37687.html"
             ]
         },
         {
-            "Title": "Google Updates URL Best Practices and Discusses Ranking for Unrelated Keywords",
-            "Category": "SEO",
-            "Description": "Google updated its URL best practices, adding a recommendation to avoid using fragments for changing page content. Additionally, Google advises content creators to remove ambiguity from their content if they are ranking for irrelevant keywords.",
+            "Title": "Google Updates URL Best Practices and Algorithm Insights",
+            "Category": "Search Engine Optimization",
+            "Description": "Google updated its URL best practices, adding a recommendation to avoid using fragments for changing page content. Additionally, the company introduced \"Mouse brain,\" a new term in the context of search algorithms, alongside existing terms like Rankbrain and Spambrain.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810377308747841823",
-                "https://twitter.com/rustybrick/status/1810369758984024224"
+                "https://twitter.com/rustybrick/status/1810360252879221211"
+            ]
+        },
+        {
+            "Title": "Google Search Console Bug Sends Multiple \"New Owner\" Notifications",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console experienced a bug that sent multiple and repeated \"new owner\" email notifications over the past few days. Google is aware of the issue and is working on a resolution.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810381083529326802",
+                "https://twitter.com/rustybrick/status/1810277903781024222"
             ]
         },
         {
@@ -29,39 +39,31 @@
             ]
         },
         {
-            "Title": "Etsy Adds AI-Generated Item Guidelines to Seller Policy",
-            "Category": "Ecommerce",
-            "Description": "After an influx of AI-generated products (and backlash), Etsy updates its seller policy. The new set of 'Creativity Standards' requires sellers to classify the over 100 million items in its marketplace as either \"designed by human\" or \"designed using AI.\"",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810652179004366886"
-            ]
-        },
-        {
-            "Title": "Ad Agency Criticized for Using AI and Recycled Bylines on Revived TUAW Domain",
-            "Category": "Artificial Intelligence",
-            "Description": "The Unofficial Apple Weblog is back, but ad agency Web Orange has turned it into a nightmare plagiarism farm with AI-generated copy, and worse, stolen bylines from writers long since moved on.",
-            "Links": [
-                "https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play"
-            ]
-        },
-        {
-            "Title": "Google Ads Updates: Opioid Ad Policy Paused, Merchant Center Migration, and Country of Sale Changes",
+            "Title": "Google Ads to Migrate from Country of Sale to Feed Labels",
             "Category": "Advertising",
-            "Description": "Google Ads has indefinitely paused its policy update that would have allowed ads for Opioid painkillers. Additionally, Google Ads and Merchant Center will auto migrate from Country of Sale to new Feed label functionality in August 2024.",
+            "Description": "Google Ads and Merchant Center will transition from the \"Country of Sale\" attribute to a new Feed label functionality in August 2024. This change aims to provide more flexibility and granularity in targeting options for advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810747246423798188",
+                "https://twitter.com/rustybrick/status/1810686848378769666",
+                "https://twitter.com/rustybrick/status/1810642808132534422"
+            ]
+        },
+        {
+            "Title": "Google Ads Reverses Policy on Opioid Painkiller Ads",
+            "Category": "Advertising",
+            "Description": "After initially announcing that it would allow ads for Opioid painkillers, Google Ads has indefinitely paused this policy update. The decision comes after receiving feedback and concerns from various stakeholders.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810743471491227822",
                 "https://twitter.com/rustybrick/status/1810683073417158987",
-                "https://twitter.com/rustybrick/status/1810642808132534422",
                 "https://twitter.com/rustybrick/status/1810640291654951159"
             ]
         },
         {
-            "Title": "YouTube SEO: Traffic Sources Impact Explained",
-            "Category": "SEO",
-            "Description": "YouTube's home page recommendations are affected by viewers watching videos from the home page and not affected by external views. Traffic sources influence the same traffic sources as other platforms, not distinct ones.",
+            "Title": "TUAW Domain Revived for AI-Generated Content Farm",
+            "Category": "Artificial Intelligence",
+            "Description": "The Unofficial Apple Weblog (TUAW) domain is back, but ad agency Web Orange has turned it into a content farm using AI-generated copy and stolen bylines from former writers.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810280420308906269",
-                "https://www.seroundtable.com/youtube-seo-traffic-sources-37685.html"
+                "https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play"
             ]
         }
     ],
