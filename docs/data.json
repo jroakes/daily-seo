@@ -1,28 +1,104 @@
 {
     "data": [
         {
-            "Title": "Google Search Experiences Indexing Issues",
-            "Category": "Search",
-            "Description": "Google Search reportedly experienced a bug preventing new content from being indexed, causing significant ranking volatility over a weekend. This follows a pattern of weekend ranking fluctuations reminiscent of a previous Google bug.",
+            "Title": "Google Search Ranking Concerns",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller addressed concerns about why anonymous Reddit content sometimes outranks expert advice from credible websites in search results.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810438660959137901",
-                "https://twitter.com/rustybrick/status/1809937544945205315",
-                "https://www.seroundtable.com/july-4th-weekend-google-search-ranking-volatility-37687.html"
+                "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/"
             ]
         },
         {
-            "Title": "Google Updates URL Best Practices and Search Console Experiences Bug",
-            "Category": "Search",
-            "Description": "Google updated its URL best practices, recommending against using fragments to change page content. Meanwhile, Google Search Console encountered a bug sending repeated \"new owner\" email notifications.",
+            "Title": "Google Search Indexing Issue",
+            "Category": "Search Engine Bugs",
+            "Description": "Google Search experienced a significant bug that prevented the indexing of new content for a period of time.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810381083529326802",
-                "https://twitter.com/rustybrick/status/1810377308747841823"
+                "https://twitter.com/rustybrick/status/1810438660959137901"
             ]
         },
         {
-            "Title": "Bing Search Enhances Image Results with Nutritional Details",
-            "Category": "Search",
-            "Description": "Bing Search is testing a new feature that labels images with nutritional information, such as \"high calcium\" or \"lean protein.\" This aims to provide users with more context and information directly within image search results.",
+            "Title": "Google Search Console Email Bug",
+            "Category": "Search Engine Bugs",
+            "Description": "A bug in Google Search Console led to users receiving a barrage of repetitive \"new owner\" email notifications.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810381083529326802"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Accessibility Issue",
+            "Category": "Search Engine Bugs",
+            "Description": "Google Merchant Center encountered an accessibility problem that was later resolved.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811110661692248259"
+            ]
+        },
+        {
+            "Title": "NextDoor's AI-Generated Pages See Traffic Surge",
+            "Category": "Artificial Intelligence",
+            "Description": "NextDoor's AI-generated pages have experienced a significant increase in search traffic one year after their launch.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1811068843843809749"
+            ]
+        },
+        {
+            "Title": "Etsy Implements AI-Generated Item Guidelines",
+            "Category": "Artificial Intelligence",
+            "Description": "Etsy updated its seller policies to include guidelines for AI-generated products, requiring sellers to clearly label such items.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1810652179004366886"
+            ]
+        },
+        {
+            "Title": "Google DeepMind CEO Claims Current AIs Have Cat-Level IQ",
+            "Category": "Artificial Intelligence",
+            "Description": "Google DeepMind CEO asserts that current artificial intelligence systems possess an IQ comparable to that of a cat.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810735569082650738"
+            ]
+        },
+        {
+            "Title": "Google Ads Enables Broad Match by Default",
+            "Category": "Search Advertising",
+            "Description": "Google Ads has made broad match the default setting for new search ad campaigns.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811045461480067386",
+                "https://twitter.com/rustybrick/status/1811002679575138766"
+            ]
+        },
+        {
+            "Title": "Google Ads Pauses Policy Update on Opioid Treatment Ads",
+            "Category": "Search Advertising",
+            "Description": "Google has indefinitely postponed its policy change that would have allowed search ads for opioid treatment providers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810743471491227822",
+                "https://twitter.com/rustybrick/status/1810683073417158987",
+                "https://twitter.com/rustybrick/status/1810640291654951159"
+            ]
+        },
+        {
+            "Title": "Google Ads and Merchant Center Transitioning to Feed Label Functionality",
+            "Category": "Search Advertising",
+            "Description": "Google Ads and Merchant Center will replace the \"Country of Sale\" attribute with new Feed label functionality in August 2024.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810747246423798188",
+                "https://twitter.com/rustybrick/status/1810686848378769666",
+                "https://twitter.com/rustybrick/status/1810642808132534422"
+            ]
+        },
+        {
+            "Title": "Bing Search Introduces Coupons in Explore Menu",
+            "Category": "Search Engine Features",
+            "Description": "Bing Search now displays coupons within its search results interface, accessible through the Explore menu icon.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811102084256718873",
+                "https://twitter.com/rustybrick/status/1811041686530969972",
+                "https://www.seroundtable.com/bing-search-coupons-explore-menu-37697.html"
+            ]
+        },
+        {
+            "Title": "Bing Search Experiments with Nutritional Labels on Images",
+            "Category": "Search Engine Features",
+            "Description": "Bing Search is testing the inclusion of nutritional information labels on images within its search results.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810739696487510392",
                 "https://twitter.com/rustybrick/status/1810679298724159948",
@@ -30,51 +106,43 @@
             ]
         },
         {
-            "Title": "Google Search Testing Country Labels in Snippets",
-            "Category": "Search",
-            "Description": "Google is experimenting with country labels (flags) within search result snippets. This test appears limited to specific South African sites, with no clear indication of the criteria for displaying these labels.",
+            "Title": "Google Search Tests Country Labels in Snippets",
+            "Category": "Search Engine Features",
+            "Description": "Google is experimenting with displaying country labels, represented by flags, within search result snippets.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810732146912538720",
                 "https://twitter.com/rustybrick/status/1810671749052403975",
-                "https://twitter.com/rustybrick/status/1810999999859454082"
+                "https://twitter.com/rustybrick/status/1810632741823639825"
             ]
         },
         {
-            "Title": "Ad Agency Revives TUAW Domain with AI-Generated Content",
-            "Category": "Artificial Intelligence",
-            "Description": "Web Orange, an ad agency, has resurrected The Unofficial Apple Weblog (TUAW) domain, but with a controversial approach. The agency is using AI to generate content and has even resorted to using bylines from former TUAW writers, raising concerns about plagiarism and ethical implications.",
+            "Title": "Google Search Tests Moving Logo to the Right",
+            "Category": "Search Engine Features",
+            "Description": "Google is conducting tests to reposition the Google logo further to the right within the search results interface.",
             "Links": [
-                "https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play"
+                "https://twitter.com/rustybrick/status/1811098309848674603",
+                "https://twitter.com/rustybrick/status/1811037912177488057",
+                "https://twitter.com/rustybrick/status/1810997646376513839"
             ]
         },
         {
-            "Title": "Google Ads Updates: Opioid Ad Policy Reversal and Merchant Center Migration",
-            "Category": "Advertising",
-            "Description": "Google Ads reversed its decision to allow ads for opioid painkillers, indefinitely pausing the policy update. Additionally, Google Ads and Merchant Center will transition from \"Country of Sale\" to a new Feed label functionality in August 2024.",
+            "Title": "Google Search Updates URL Best Practices",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has revised its URL best practices, advising against the use of fragments for altering page content.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810743471491227822",
-                "https://twitter.com/rustybrick/status/1810683073417158987",
-                "https://twitter.com/rustybrick/status/1810642808132534422"
+                "https://twitter.com/rustybrick/status/1810377308747841823"
             ]
         },
         {
-            "Title": "Google Search Adds Support for Labeling AI-Generated Images",
-            "Category": "Artificial Intelligence",
-            "Description": "Google Search now supports labeling images as \"AI-generated\" or \"AI-manipulated.\" This update to their documentation reflects Google's commitment to transparency and helping users identify synthetic or altered images.",
+            "Title": "Google Search Volatility Observed on July 9th",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search volatility tracking tools indicated fluctuations in search rankings on July 9th.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810635258527969728",
-                "https://www.searchenginejournal.com/google-search-now-supports-labeling-ai-generated-or-manipulated-images/521675/"
-            ]
-        },
-        {
-            "Title": "YouTube SEO: Traffic Sources Impact Explained",
-            "Category": "SEO",
-            "Description": "YouTube's home page recommendations are influenced by viewers watching videos directly from the home page, rather than external views. This clarification from YouTube Liaison highlights the importance of driving traffic directly to the platform for improved recommendations.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1810280420308906269",
-                "https://www.seroundtable.com/youtube-seo-traffic-sources-37685.html"
+                "https://twitter.com/rustybrick/status/1811109634167689444",
+                "https://twitter.com/rustybrick/status/1811049236252746030",
+                "https://twitter.com/rustybrick/status/1811005196140695671"
             ]
         }
     ],
-    "date": "2024-07-10"
+    "date": "2024-07-11"
 }
