@@ -1,65 +1,83 @@
 {
     "data": [
         {
-            "Title": "Google Search Experiencing Indexing Issues and Bugs",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search has been reported to be experiencing various issues, including a bug preventing new content from being indexed and a separate bug in Google Search Console sending repetitive \"new owner\" email notifications.",
+            "Title": "Google Search Ranking Concerns",
+            "Category": "Search",
+            "Description": "Google's John Mueller addressed concerns about anonymous Reddit content outranking expert advice from credible websites.  Additionally, Google Search volatility tracking tools showed movement on July 9th, but the SEO community chatter was relatively limited.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810438660959137901",
-                "https://twitter.com/rustybrick/status/1810381083529326802"
+                "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/",
+                "https://twitter.com/rustybrick/status/1811109634167689444",
+                "https://twitter.com/rustybrick/status/1811049236252746030"
             ]
         },
         {
-            "Title": "Google's Response to Expert Content Outranked by Reddit",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller addressed concerns about anonymous Reddit content outranking expert advice from credible websites, acknowledging the issue and the challenges in evaluating expertise.",
+            "Title": "Google Search Indexing Issue",
+            "Category": "Search",
+            "Description": "Google Search experienced a significant bug that prevented new content from being indexed. The issue was widely reported and acknowledged by Google.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/"
+                "https://twitter.com/rustybrick/status/1810438660959137901"
             ]
         },
         {
-            "Title": "Google Updates URL Best Practices and AI Training Techniques",
-            "Category": "Search Engine Optimization",
-            "Description": "Google updated its URL best practices, recommending against using fragments to change page content. Additionally, Google's DeepMind introduced JEST, a new AI training technique that significantly improves speed and power efficiency.",
+            "Title": "Google Search UI Experiments",
+            "Category": "Search",
+            "Description": "Google is experimenting with several changes to the search results interface, including moving the Google logo to the right, testing a scrollable overlay for \"from sources across the web,\" and adding country labels (flags) to snippets.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810377308747841823",
-                "https://twitter.com/glenngabe/status/1810282987646324871"
+                "https://twitter.com/rustybrick/status/1811102084256718873",
+                "https://twitter.com/rustybrick/status/1811098309848674603",
+                "https://twitter.com/rustybrick/status/1811094534706618837",
+                "https://twitter.com/rustybrick/status/1811045461480067386",
+                "https://twitter.com/rustybrick/status/1811041686530969972",
+                "https://twitter.com/rustybrick/status/1811037912177488057",
+                "https://twitter.com/rustybrick/status/1811034136829923712",
+                "https://twitter.com/rustybrick/status/1811005196140695671",
+                "https://twitter.com/rustybrick/status/1811002679575138766",
+                "https://twitter.com/rustybrick/status/1811000163051229345",
+                "https://twitter.com/rustybrick/status/1810997646376513839",
+                "https://twitter.com/rustybrick/status/1810995129819484305",
+                "https://twitter.com/rustybrick/status/1810671749052403975",
+                "https://twitter.com/rustybrick/status/1810632741823639825"
             ]
         },
         {
-            "Title": "Bing Search Introduces Coupons in Explore Menu and Tests Nutritional Labels for Images",
-            "Category": "Search Engines",
-            "Description": "Bing Search now displays coupons within its Explore menu and is experimenting with adding nutritional information labels to images in search results.",
+            "Title": "Bing Search Features Coupons and Nutrition Labels",
+            "Category": "Search",
+            "Description": "Bing Search is introducing new features, including displaying coupons within the explore menu and testing nutritional information labels on images in search results.",
             "Links": [
                 "https://www.seroundtable.com/bing-search-coupons-explore-menu-37697.html",
+                "https://twitter.com/glenngabe/status/1811010678670389724",
                 "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html"
             ]
         },
         {
-            "Title": "Google Ads Updates: Broad Match Default, Opioid Ad Policy Paused, and Merchant API Beta",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads is enabling broad match by default for new search campaigns, pausing its policy update on allowing ads for opioid treatment providers, and announcing the beta release of its Merchant API for Shopping.",
+            "Title": "Google Merchant Center Accessibility Issue",
+            "Category": "News",
+            "Description": "Google Merchant Center experienced an accessibility issue that was later resolved. The issue was announced and updated through the Google Merchant Center status page.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811045461480067386",
+                "https://twitter.com/rustybrick/status/1811110661692248259"
+            ]
+        },
+        {
+            "Title": "Google Ads Updates",
+            "Category": "Marketing",
+            "Description": "Google Ads is making changes, including enabling broad match by default for new search campaigns and migrating from Country of Sale to new Feed label functionality next month. Additionally, Google Ads will not allow ads for Opioid painkillers after initially saying it would.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811105859533164688",
+                "https://twitter.com/rustybrick/status/1810747246423798188",
+                "https://twitter.com/rustybrick/status/1810743471491227822",
+                "https://twitter.com/rustybrick/status/1810686848378769666",
                 "https://twitter.com/rustybrick/status/1810683073417158987",
-                "https://twitter.com/aleyda/status/1810322295115686196"
+                "https://twitter.com/rustybrick/status/1810642808132534422",
+                "https://twitter.com/rustybrick/status/1810640291654951159"
             ]
         },
         {
-            "Title": "Instagram Algorithm Prioritizes \"Sends\" Metric",
-            "Category": "Social Media Marketing",
-            "Description": "The Instagram algorithm is shifting its focus to the \"Sends\" metric, indicating the growing importance of shareable content for increased reach and engagement.",
+            "Title": "AI Chatbots Raise Concerns for Children",
+            "Category": "Technology",
+            "Description": "A study revealed that AI chatbots like Alexa, Bing, and My AI often exhibit an \"empathy gap,\" potentially posing risks to young users. The research emphasizes the need for \"child-safe AI\" and responsible development practices.",
             "Links": [
-                "https://twitter.com/aleyda/status/1810322295115686196"
-            ]
-        },
-        {
-            "Title": "YouTube Traffic Sources and SEO Insights",
-            "Category": "Video Marketing",
-            "Description": "YouTube's traffic sources operate within similar ecosystems, with views from one source influencing recommendations from comparable sources. Watch time remains a crucial metric for YouTube SEO, encompassing click-through rates and audience retention.",
-            "Links": [
-                "https://www.seroundtable.com/youtube-seo-traffic-sources-37685.html",
-                "https://twitter.com/glenngabe/status/1810287076773863564"
+                "https://www.latestly.com/quickly/technology/alexa-bing-my-ai-chatbots-frequently-show-empathy-gaps-may-harm-children-study-6102103.html",
+                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
             ]
         }
     ],
