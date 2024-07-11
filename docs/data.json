@@ -3,55 +3,67 @@
         {
             "Title": "Google Search Ranking and Algorithm Updates",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google acknowledges feedback on the March core update, Reddit content outranking expert websites, and Google testing thin video search snippets.",
+            "Description": "Google acknowledges that feedback on the March 2024 core update was helpful and has been reviewed by search quality and ranking teams.  There is speculation about whether this feedback will be implemented in the next core update. Separately, Google's John Mueller addresses concerns about why anonymous Reddit content sometimes outranks expert advice from credible websites.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/",
-                "https://twitter.com/rustybrick/status/1811360034288550153",
-                "https://twitter.com/rustybrick/status/1811357517454164111"
+                "https://twitter.com/glenngabe/status/1811085695408296052",
+                "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html"
             ]
         },
         {
             "Title": "Google Search User Interface Changes",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is experimenting with various user interface changes, including moving the Google logo, testing a scrollable overlay for \"from sources across the web,\" and adding country labels to search result snippets.",
+            "Description": "Google is experimenting with several changes to the search results interface, including moving the Google logo to the right, testing a new scrollable overlay for \"from sources across the web,\" adding country labels (flags) to snippets, and testing thin video snippets.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811098309848674603",
                 "https://twitter.com/rustybrick/status/1811094534706618837",
-                "https://twitter.com/rustybrick/status/1810632741823639825"
+                "https://twitter.com/rustybrick/status/1810632741823639825",
+                "https://twitter.com/rustybrick/status/1811400299795403025"
             ]
         },
         {
             "Title": "Google Search Indexing Issues",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search experienced indexing issues, with reports of new content not being indexed and a bug causing repetitive \"new owner\" email notifications in Google Search Console.",
+            "Description": "Google Search experienced a significant bug that prevented new content from being indexed. The issue appears to have been resolved, but it caused concern among website owners and SEOs.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1810438660959137901",
-                "https://twitter.com/rustybrick/status/1810381083529326802"
+                "https://twitter.com/rustybrick/status/1811049236252746030"
             ]
         },
         {
-            "Title": "Bing Search Updates and Features",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Bing is introducing new features, including displaying coupons within the explore menu and testing nutritional details labels on images in search results.",
+            "Title": "Google Ads Updates",
+            "Category": "Paid Search Advertising",
+            "Description": "Google Ads is making broad match the default setting for new search ad campaigns. Additionally, the platform is testing new features such as \"people also browsed\" in search ads and a double-row carousel for shopping ads.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1811045461480067386",
+                "https://twitter.com/rustybrick/status/1811367583922397272",
+                "https://twitter.com/rustybrick/status/1811407849563836846"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center and Shopping Updates",
+            "Category": "Ecommerce and Shopping",
+            "Description": "Google Merchant Center experienced accessibility issues that have since been resolved.  Google Ads and Merchant Center will transition from the \"Country of Sale\" attribute to a new Feed label functionality in August 2024.  Additionally, Google Search Console now allows users to manage Merchant Center shipping and return policies.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811110661692248259",
+                "https://twitter.com/rustybrick/status/1810747246423798188",
+                "https://twitter.com/rustybrick/status/1811392940557607281"
+            ]
+        },
+        {
+            "Title": "Bing Search Features and Updates",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Bing Search is introducing new features, including displaying coupons within the explore menu and testing nutritional details labels on images in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811102084256718873",
                 "https://www.seroundtable.com/bing-search-coupons-explore-menu-37697.html",
                 "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html"
             ]
         },
         {
-            "Title": "AI-Generated Content and SEO",
+            "Title": "AI Chatbots Raise Concerns for Children",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Etsy adds AI-generated item guidelines, Google Search supports labeling AI-generated images, and discussions on navigating SEO in the age of AI.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810652179004366886",
-                "https://www.searchenginejournal.com/google-search-now-supports-labeling-ai-generated-or-manipulated-images/521675/",
-                "https://searchengineland.com/win-generative-engine-optimization-seo-443965"
-            ]
-        },
-        {
-            "Title": "AI Chatbots and Ethical Concerns",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "A study reveals that AI chatbots like Alexa, Bing, and My AI exhibit \"empathy gaps\" that could potentially harm children, raising concerns about child safety in AI interactions.",
+            "Description": "A study reveals that popular AI chatbots like Alexa, My AI, and Bing exhibit an \"empathy gap,\" potentially posing risks to young users. The research emphasizes the need for child-safe AI design and development.",
             "Links": [
                 "https://www.latestly.com/quickly/technology/alexa-bing-my-ai-chatbots-frequently-show-empathy-gaps-may-harm-children-study-6102103.html",
                 "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977",
@@ -59,21 +71,13 @@
             ]
         },
         {
-            "Title": "Google Ads Policy Updates",
-            "Category": "Digital Marketing",
-            "Description": "Google Ads is making changes to its policies, including enabling broad match by default for new search campaigns, migrating from Country of Sale to Feed label functionality, and reversing its decision to allow ads for opioid painkillers.",
+            "Title": "AI-Generated Content and SEO",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Etsy updates its seller policy to include guidelines for AI-generated products, requiring transparency and authenticity.  A resurrected Apple blog, TUAW, sparks controversy by using AI-generated content and recycled bylines, raising ethical concerns about AI in content creation.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811045461480067386",
-                "https://twitter.com/rustybrick/status/1810747246423798188",
-                "https://twitter.com/rustybrick/status/1810743471491227822"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Accessibility Issue",
-            "Category": "Digital Marketing",
-            "Description": "Google Merchant Center experienced an accessibility issue that has since been resolved.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811110661692248259"
+                "https://twitter.com/glenngabe/status/1810652179004366886",
+                "https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play",
+                "https://twitter.com/glenngabe/status/1811368907308929227"
             ]
         }
     ],
