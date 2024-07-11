@@ -1,83 +1,79 @@
 {
     "data": [
         {
-            "Title": "Google Search Ranking Concerns",
-            "Category": "Search",
-            "Description": "Google's John Mueller addressed concerns about anonymous Reddit content outranking expert advice from credible websites.  Additionally, Google Search volatility tracking tools showed movement on July 9th, but the SEO community chatter was relatively limited.",
+            "Title": "Google Search Ranking and Algorithm Updates",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google acknowledges feedback on the March core update, Reddit content outranking expert websites, and Google testing thin video search snippets.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/",
-                "https://twitter.com/rustybrick/status/1811109634167689444",
-                "https://twitter.com/rustybrick/status/1811049236252746030"
+                "https://twitter.com/rustybrick/status/1811360034288550153",
+                "https://twitter.com/rustybrick/status/1811357517454164111"
             ]
         },
         {
-            "Title": "Google Search Indexing Issue",
-            "Category": "Search",
-            "Description": "Google Search experienced a significant bug that prevented new content from being indexed. The issue was widely reported and acknowledged by Google.",
+            "Title": "Google Search User Interface Changes",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google is experimenting with various user interface changes, including moving the Google logo, testing a scrollable overlay for \"from sources across the web,\" and adding country labels to search result snippets.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1810438660959137901"
-            ]
-        },
-        {
-            "Title": "Google Search UI Experiments",
-            "Category": "Search",
-            "Description": "Google is experimenting with several changes to the search results interface, including moving the Google logo to the right, testing a scrollable overlay for \"from sources across the web,\" and adding country labels (flags) to snippets.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811102084256718873",
                 "https://twitter.com/rustybrick/status/1811098309848674603",
                 "https://twitter.com/rustybrick/status/1811094534706618837",
-                "https://twitter.com/rustybrick/status/1811045461480067386",
-                "https://twitter.com/rustybrick/status/1811041686530969972",
-                "https://twitter.com/rustybrick/status/1811037912177488057",
-                "https://twitter.com/rustybrick/status/1811034136829923712",
-                "https://twitter.com/rustybrick/status/1811005196140695671",
-                "https://twitter.com/rustybrick/status/1811002679575138766",
-                "https://twitter.com/rustybrick/status/1811000163051229345",
-                "https://twitter.com/rustybrick/status/1810997646376513839",
-                "https://twitter.com/rustybrick/status/1810995129819484305",
-                "https://twitter.com/rustybrick/status/1810671749052403975",
                 "https://twitter.com/rustybrick/status/1810632741823639825"
             ]
         },
         {
-            "Title": "Bing Search Features Coupons and Nutrition Labels",
-            "Category": "Search",
-            "Description": "Bing Search is introducing new features, including displaying coupons within the explore menu and testing nutritional information labels on images in search results.",
+            "Title": "Google Search Indexing Issues",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search experienced indexing issues, with reports of new content not being indexed and a bug causing repetitive \"new owner\" email notifications in Google Search Console.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1810438660959137901",
+                "https://twitter.com/rustybrick/status/1810381083529326802"
+            ]
+        },
+        {
+            "Title": "Bing Search Updates and Features",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Bing is introducing new features, including displaying coupons within the explore menu and testing nutritional details labels on images in search results.",
             "Links": [
                 "https://www.seroundtable.com/bing-search-coupons-explore-menu-37697.html",
-                "https://twitter.com/glenngabe/status/1811010678670389724",
                 "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html"
             ]
         },
         {
-            "Title": "Google Merchant Center Accessibility Issue",
-            "Category": "News",
-            "Description": "Google Merchant Center experienced an accessibility issue that was later resolved. The issue was announced and updated through the Google Merchant Center status page.",
+            "Title": "AI-Generated Content and SEO",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Etsy adds AI-generated item guidelines, Google Search supports labeling AI-generated images, and discussions on navigating SEO in the age of AI.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811110661692248259"
+                "https://twitter.com/glenngabe/status/1810652179004366886",
+                "https://www.searchenginejournal.com/google-search-now-supports-labeling-ai-generated-or-manipulated-images/521675/",
+                "https://searchengineland.com/win-generative-engine-optimization-seo-443965"
             ]
         },
         {
-            "Title": "Google Ads Updates",
-            "Category": "Marketing",
-            "Description": "Google Ads is making changes, including enabling broad match by default for new search campaigns and migrating from Country of Sale to new Feed label functionality next month. Additionally, Google Ads will not allow ads for Opioid painkillers after initially saying it would.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811105859533164688",
-                "https://twitter.com/rustybrick/status/1810747246423798188",
-                "https://twitter.com/rustybrick/status/1810743471491227822",
-                "https://twitter.com/rustybrick/status/1810686848378769666",
-                "https://twitter.com/rustybrick/status/1810683073417158987",
-                "https://twitter.com/rustybrick/status/1810642808132534422",
-                "https://twitter.com/rustybrick/status/1810640291654951159"
-            ]
-        },
-        {
-            "Title": "AI Chatbots Raise Concerns for Children",
-            "Category": "Technology",
-            "Description": "A study revealed that AI chatbots like Alexa, Bing, and My AI often exhibit an \"empathy gap,\" potentially posing risks to young users. The research emphasizes the need for \"child-safe AI\" and responsible development practices.",
+            "Title": "AI Chatbots and Ethical Concerns",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "A study reveals that AI chatbots like Alexa, Bing, and My AI exhibit \"empathy gaps\" that could potentially harm children, raising concerns about child safety in AI interactions.",
             "Links": [
                 "https://www.latestly.com/quickly/technology/alexa-bing-my-ai-chatbots-frequently-show-empathy-gaps-may-harm-children-study-6102103.html",
-                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
+                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977",
+                "https://in.investing.com/news/general-news/ai-chatbots-alexa-myai-bing-come-with-empathy-gap-may-harm-children-4303068"
+            ]
+        },
+        {
+            "Title": "Google Ads Policy Updates",
+            "Category": "Digital Marketing",
+            "Description": "Google Ads is making changes to its policies, including enabling broad match by default for new search campaigns, migrating from Country of Sale to Feed label functionality, and reversing its decision to allow ads for opioid painkillers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811045461480067386",
+                "https://twitter.com/rustybrick/status/1810747246423798188",
+                "https://twitter.com/rustybrick/status/1810743471491227822"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Accessibility Issue",
+            "Category": "Digital Marketing",
+            "Description": "Google Merchant Center experienced an accessibility issue that has since been resolved.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811110661692248259"
             ]
         }
     ],
