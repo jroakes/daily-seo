@@ -1,227 +1,65 @@
 {
     "data": [
         {
-            "Title": "YouTube Enhances Shorts with New Features",
+            "Title": "Google Search Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is rolling out a series of updates to its search engine, including testing thin video snippets, expanding language support for translated search results, and allowing businesses to set shipping and return policies in Search Console.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811400299795403025",
+                "https://twitter.com/rustybrick/status/1811393756404367799",
+                "https://twitter.com/rustybrick/status/1811392940557607281"
+            ]
+        },
+        {
+            "Title": "Google Ads Changes",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads is undergoing several changes, including altering its design, enabling broad match by default for new search campaigns, and testing a \"people also browsed\" feature.",
+            "Links": [
+                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments",
+                "https://twitter.com/rustybrick/status/1811411624080609381",
+                "https://twitter.com/rustybrick/status/1811045461480067386"
+            ]
+        },
+        {
+            "Title": "YouTube Shorts Adds New Features",
             "Category": "Social Media",
-            "Description": "Using Shorts? -> YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects blog.youtube/news-and-event\u2026",
+            "Description": "YouTube is introducing new features to its Shorts platform, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and Minecraft effects.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811477096604266813"
             ]
         },
         {
-            "Title": "Google Search Updates: Ads, UI, and Algorithm",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is rolling out a series of updates to its search engine, including tests of a \"people also browsed\" feature in ads, a new layout with the Google logo on the right, and a scrollable overlay for \"from sources across the web.\" The company also acknowledged the feedback on the March core update, stating that it has been \"really helpful in evaluations and discussions.\"",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811411624080609381",
-                "https://twitter.com/rustybrick/status/1811037912177488057",
-                "https://twitter.com/rustybrick/status/1810995129819484305",
-                "https://twitter.com/glenngabe/status/1811085695408296052"
-            ]
-        },
-        {
-            "Title": "Google Ads Introduces Broad Match by Default",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads will now default to broad match for new search campaigns, potentially impacting ad targeting and performance.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811045461480067386",
-                "https://twitter.com/rustybrick/status/1811002679575138766"
-            ]
-        },
-        {
             "Title": "Microsoft Discontinues Cashback Feature in Start",
             "Category": "Technology",
-            "Description": "You will no longer be able to scan receipts in the Bing and Start apps to earn cash back.",
+            "Description": "Microsoft is removing the cashback feature from its Start app, which allowed users to earn rewards by scanning receipts.",
             "Links": [
                 "https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"
             ]
         },
         {
-            "Title": "Google Expands Language Support for Translated Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google announced they're translating search results into 8 more languages, giving publishers an opportunity to increase traffic globally",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811393756404367799",
-                "https://www.searchenginejournal.com/googles-now-translating-serps-into-more-languages/521843/"
-            ]
-        },
-        {
-            "Title": "Google Search Console Simplifies Shipping and Return Policies",
+            "Title": "Etsy Updates Seller Policy for AI-Generated Products",
             "Category": "Ecommerce",
-            "Description": "Google introduces Search Console feature for online stores to easily manage shipping and return policies.",
+            "Description": "Etsy has revised its seller policy to include guidelines for AI-generated products, following a surge in such items and subsequent criticism.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811392940557607281",
-                "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/"
+                "https://twitter.com/glenngabe/status/1810652179004366886"
             ]
         },
         {
-            "Title": "Influencer Marketing Firm CreatorIQ Appoints New CEO",
-            "Category": "Marketing",
-            "Description": "Influencer marketing company CreatorIQ has hired marketing software and web analytics executive Chris Harrington as its CEO as the organization pushes the next phase of growth.",
-            "Links": [
-                "https://digiday.com/media-buying/prioritizing-growth-influencer-marketing-firm-creatoriq-taps-a-software-exec-to-be-its-next-ceo/"
-            ]
-        },
-        {
-            "Title": "AI Chatbots Raise Concerns Over Empathy and Potential Harm to Children",
+            "Title": "AI Chatbots Raise Concerns About Potential Harm to Children",
             "Category": "Artificial Intelligence",
-            "Description": "A new study suggests that AI chatbots like Alexa, Bing, and My AI may exhibit an \"empathy gap,\" potentially putting young users at risk of distress or harm. The research calls for prioritizing child-safe AI design.",
+            "Description": "A study suggests that AI chatbots like Alexa, Bing, and My AI may pose risks to children due to their lack of empathy and potential for causing distress.",
             "Links": [
                 "https://www.latestly.com/quickly/technology/alexa-bing-my-ai-chatbots-frequently-show-empathy-gaps-may-harm-children-study-6102103.html",
                 "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
             ]
         },
         {
-            "Title": "Teads Explores Sale Options Amidst Ad Tech Consolidation",
-            "Category": "Advertising Technology",
-            "Description": "Sources state the Altice-owned stalwart of outstream video has recently held talks with private equity and strategic players.",
-            "Links": [
-                "https://digiday.com/media/teads-is-exploring-sale-options-as-ma-in-ad-tech-heats-up/"
-            ]
-        },
-        {
-            "Title": "Publishers Navigate Uncertain Ad Revenue Landscape in 2024",
-            "Category": "Publishing",
-            "Description": "Some publishers say ad revenue is pacing 15% up year over year while others are still managing their expectations for how 2024 will shake out.",
-            "Links": [
-                "https://digiday.com/media/media-briefing-publishers-reflect-on-ad-revenue-midway-through-2024/"
-            ]
-        },
-        {
-            "Title": "LinkedIn Rolls Out AI-Powered Campaign Tool",
-            "Category": "Marketing",
-            "Description": "LinkedIn is officially rolling out its own AI-campaign tool, providing advertisers with new ways to target, optimize, and measure their campaigns.",
-            "Links": [
-                "https://digiday.com/marketing/linkedin-is-officially-rolling-out-its-own-ai-campaign-tool/"
-            ]
-        },
-        {
-            "Title": "Google Addresses Concerns Over Reddit Content Outranking Experts",
+            "Title": "Bing Search Tests New Features",
             "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller responded to questions about why anonymous Reddit content can sometimes outrank expert advice from credible websites, sparking a discussion about search ranking factors and the role of user-generated content.",
+            "Description": "Bing is experimenting with new features, including labeling images with nutritional information and integrating coupon codes directly within search results.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-response-to-experts-outranked-by-redditors/521801/"
-            ]
-        },
-        {
-            "Title": "Google's \"Circle to Search\" Feature Expands to Math and Barcodes",
-            "Category": "Search Engine Optimization",
-            "Description": "Google expands its \"Circle to Search\" feature to encompass math problems and barcode/QR code scanning.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811072286662721632"
-            ]
-        },
-        {
-            "Title": "Nextdoor's AI-Generated Pages Drive Record Search Traffic",
-            "Category": "Artificial Intelligence",
-            "Description": "Nextdoor's AI-generated pages have achieved record search traffic one year after launch, demonstrating the impact of AI on content and SEO.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1811068843843809749"
-            ]
-        },
-        {
-            "Title": "Bing Search Integrates Coupon Codes Directly in Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing integrates coupon codes directly within its search results, enhancing user experience and potentially impacting e-commerce strategies.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811041686530969972",
-                "https://www.seroundtable.com/bing-search-coupons-explore-menu-37697.html"
-            ]
-        },
-        {
-            "Title": "Spotify Enhances Podcast Engagement with New Comment Feature",
-            "Category": "Podcasting",
-            "Description": "Spotify introduces comments for podcasts, allowing user engagement beyond polls and Q&As. Comments are private by default, requiring creator approval.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810707165302149335"
-            ]
-        },
-        {
-            "Title": "Brands and Agencies Navigate Political Advertising Landscape for 2024 Elections",
-            "Category": "Marketing",
-            "Description": "With a significant election cycle approaching, brands and agencies are strategizing their approach to political advertising in a highly contested landscape.",
-            "Links": [
-                "https://digiday.com/sponsored/how-brands-and-agencies-are-navigating-the-political-ad-war-for-2024s-elections/"
-            ]
-        },
-        {
-            "Title": "The New York Times's AI Experimentation Raises Questions Amidst OpenAI Lawsuit",
-            "Category": "Artificial Intelligence",
-            "Description": "Despite suing OpenAI for copyright infringement, The New York Times was experimenting with ChatGPT for newsroom tasks, including headline generation.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810659446760022407"
-            ]
-        },
-        {
-            "Title": "CNBC Launches Sports Vertical Focused on Business Insights",
-            "Category": "Media",
-            "Description": "CNBC launches a sports vertical focusing on the business aspects of the industry, providing insights and analysis for sports business executives.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810657515148919218"
-            ]
-        },
-        {
-            "Title": "Etsy Updates Seller Policy with AI-Generated Product Guidelines",
-            "Category": "Ecommerce",
-            "Description": "Etsy updates its seller policy to include guidelines for AI-generated products following an influx of such items and subsequent backlash.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810652179004366886"
-            ]
-        },
-        {
-            "Title": "Quora's Poe Introduces Previews for Building Web Apps with LLMs",
-            "Category": "Artificial Intelligence",
-            "Description": "Quora's Poe introduces Previews, enabling users to create web applications such as data visualizations and games using multiple LLMs like Llama 3 and GPT-4o.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810644725591925024"
-            ]
-        },
-        {
-            "Title": "Sam Altman and Arianna Huffington Launch Thrive AI Health",
-            "Category": "Artificial Intelligence",
-            "Description": "Sam Altman and Arianna Huffington launch Thrive AI Health, a startup developing a personalized AI health coach with backing from OpenAI and Thrive Global.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810641853059879303"
-            ]
-        },
-        {
-            "Title": "Bing Search Experiments with Nutritional Information Labels on Images",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is experimenting with adding nutritional information labels to images in its search results, providing details like \"high calcium\" and \"lean protein.\"",
-            "Links": [
-                "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html"
-            ]
-        },
-        {
-            "Title": "IntentIQ's Post-Cookie ID Solution Shows Promise in Testing",
-            "Category": "Advertising Technology",
-            "Description": "IntentIQ used an approach that blended cookie-based and cookie-less solutions in a partnership with independent full-service agency Involved Media for a campaign executed for an education client.",
-            "Links": [
-                "https://digiday.com/media-buying/intentiqs-post-cookie-alternative-id-test-shows-promise/"
-            ]
-        },
-        {
-            "Title": "Shapermint Leverages AI for Influencer Content Creation",
-            "Category": "Marketing",
-            "Description": "The fashion brand is using generative AI to script and storyboard influencer content.",
-            "Links": [
-                "https://digiday.com/marketing/dtc-company-shapermints-ai-influencer-engine-highlights-how-marketers-are-actually-using-the-tech/"
-            ]
-        },
-        {
-            "Title": "Bad Hiring Practices Damage Employer Brands and Shrink Talent Pools",
-            "Category": "Human Resources",
-            "Description": "On Glassdoor and Indeed, job seekers who had poor hiring experiences are dropping \"Yelp-like feedback\" about certain companies.",
-            "Links": [
-                "https://digiday.com/marketing/bad-hiring-practices-are-harming-employer-brands-shrinking-talent-pools/"
-            ]
-        },
-        {
-            "Title": "Google Search Supports Labeling AI-Generated and Manipulated Images",
-            "Category": "Search Engine Optimization",
-            "Description": "Google updated their documentation to reflect full support for an \"AI-generated\" label and identifying AI-manipulated images",
-            "Links": [
-                "https://www.searchenginejournal.com/google-search-now-supports-labeling-ai-generated-or-manipulated-images/521675/"
+                "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html",
+                "https://twitter.com/rustybrick/status/1811041686530969972"
             ]
         }
     ],
