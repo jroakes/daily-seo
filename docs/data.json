@@ -2,66 +2,94 @@
     "data": [
         {
             "Title": "Google Search Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is rolling out a series of updates to its search engine, including testing thin video snippets, expanding language support for translated search results, and allowing businesses to set shipping and return policies in Search Console.",
+            "Category": "Search",
+            "Description": "Google Search has seen several updates including new settings for shipping and return information in Google Search Console, tests of auto-playing video thumbnails in search results, and confirmation that ads can now appear below organic featured snippets. Google also experienced two periods of volatility and a brief indexing bug.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811400299795403025",
-                "https://twitter.com/rustybrick/status/1811393756404367799",
-                "https://twitter.com/rustybrick/status/1811392940557607281"
+                "https://twitter.com/rustybrick/status/1811830635197251812",
+                "https://twitter.com/rustybrick/status/1811826860289880319",
+                "https://twitter.com/rustybrick/status/1811819310593245587"
             ]
         },
         {
-            "Title": "Google Ads Changes",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads is undergoing several changes, including altering its design, enabling broad match by default for new search campaigns, and testing a \"people also browsed\" feature.",
+            "Title": "Bing Search Tests Voting Feature",
+            "Category": "Search",
+            "Description": "Bing Search is experimenting with a new feature that allows users to vote on the relevance of search results. The feature displays the percentage of up-votes and down-votes for each result.",
             "Links": [
-                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments",
+                "https://twitter.com/rustybrick/status/1811762687711592494",
+                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
+            ]
+        },
+        {
+            "Title": "Majestic to Discontinue Disavow Links Feature",
+            "Category": "SEO",
+            "Description": "Majestic has announced that it will be discontinuing its disavow links feature. The company stated that its tool does not effectively identify toxic links and that it never encouraged customers to use the feature.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811797065946616018"
+            ]
+        },
+        {
+            "Title": "Google Simplifies Shipping and Return Policies for Online Stores",
+            "Category": "SEO",
+            "Description": "Google Search Console now allows online stores to manage their shipping and return policies directly within the platform. These policies will then be automatically reflected in Google Merchant Center.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811770237240664229",
+                "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/",
+                "https://twitter.com/glenngabe/status/1811385892902158846"
+            ]
+        },
+        {
+            "Title": "Google Ads Updates",
+            "Category": "Advertising",
+            "Description": "Google Ads has introduced several updates, including a test of a \"people also browsed\" feature, a carousel format with two rows of shopping ad units, and a potential change to the default campaign setting from broad match to a different option.",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1811411624080609381",
-                "https://twitter.com/rustybrick/status/1811045461480067386"
+                "https://twitter.com/rustybrick/status/1811407849563836846",
+                "https://twitter.com/rustybrick/status/1811699463733346435"
             ]
         },
         {
-            "Title": "YouTube Shorts Adds New Features",
+            "Title": "Amazon Launches AI Shopping Assistant Rufus",
+            "Category": "AI",
+            "Description": "Amazon has released its AI shopping assistant, Rufus, to all US customers through its mobile app. Rufus is an AI chatbot trained on Amazon's product catalog, providing users with information and assistance during their shopping experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811795595255861718"
+            ]
+        },
+        {
+            "Title": "OpenAI Exploring Search Product Development",
+            "Category": "AI",
+            "Description": "OpenAI, the company behind ChatGPT, has confirmed that it is in the process of developing a search product. While details are limited, this move could have significant implications for the future of search.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811734656263369055"
+            ]
+        },
+        {
+            "Title": "Study Finds AI Chatbots Lack Empathy, Potentially Harming Children",
+            "Category": "AI",
+            "Description": "A new study has revealed that popular AI chatbots, including Alexa, Bing, and My AI, often exhibit an \"empathy gap,\" potentially putting young users at risk of distress or harm. The study highlights the need for child-safe AI design.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811368907308929227",
+                "https://in.investing.com/news/general-news/ai-chatbots-alexa-myai-bing-come-with-empathy-gap-may-harm-children-4303068",
+                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
+            ]
+        },
+        {
+            "Title": "YouTube Introduces New Shorts Features",
             "Category": "Social Media",
-            "Description": "YouTube is introducing new features to its Shorts platform, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and Minecraft effects.",
+            "Description": "YouTube has announced new features for its Shorts platform, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects. These additions aim to enhance the creative possibilities and accessibility of Shorts.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811477096604266813"
             ]
         },
         {
-            "Title": "Microsoft Discontinues Cashback Feature in Start",
-            "Category": "Technology",
-            "Description": "Microsoft is removing the cashback feature from its Start app, which allowed users to earn rewards by scanning receipts.",
+            "Title": "Thumbtack Automatically Adding Booking Links to Google Business Profiles",
+            "Category": "Business",
+            "Description": "Businesses are reporting that Thumbtack is automatically adding booking links to their Google Business Profiles without their consent. Instructions on how to remove these links have been shared.",
             "Links": [
-                "https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"
-            ]
-        },
-        {
-            "Title": "Etsy Updates Seller Policy for AI-Generated Products",
-            "Category": "Ecommerce",
-            "Description": "Etsy has revised its seller policy to include guidelines for AI-generated products, following a surge in such items and subsequent criticism.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1810652179004366886"
-            ]
-        },
-        {
-            "Title": "AI Chatbots Raise Concerns About Potential Harm to Children",
-            "Category": "Artificial Intelligence",
-            "Description": "A study suggests that AI chatbots like Alexa, Bing, and My AI may pose risks to children due to their lack of empathy and potential for causing distress.",
-            "Links": [
-                "https://www.latestly.com/quickly/technology/alexa-bing-my-ai-chatbots-frequently-show-empathy-gaps-may-harm-children-study-6102103.html",
-                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
-            ]
-        },
-        {
-            "Title": "Bing Search Tests New Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is experimenting with new features, including labeling images with nutritional information and integrating coupon codes directly within search results.",
-            "Links": [
-                "https://www.seroundtable.com/bing-search-tests-labeling-images-with-nutrition-details-37677.html",
-                "https://twitter.com/rustybrick/status/1811041686530969972"
+                "https://twitter.com/rustybrick/status/1811774012034515062",
+                "https://twitter.com/rustybrick/status/1811729972022903133"
             ]
         }
     ],
-    "date": "2024-07-12"
+    "date": "2024-07-13"
 }
