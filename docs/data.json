@@ -3,72 +3,95 @@
         {
             "Title": "Google Search Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google has been experiencing volatility in its search results, with fluctuations occurring over the weekend and mid-week. Additionally, there was a brief indexing bug that lasted for about an hour. In more positive news, Google Search Console now allows users to input shipping and return policies directly in the settings, simplifying management for online stores. The platform also introduced a new feature enabling users to manage Merchant Center account-level shipping and return policies, which are automatically reflected in Merchant Center.",
+            "Description": "Google has rolled out several search updates, including new settings for shipping and return information in Google Search Console, testing of auto-playing video thumbnails in search results, and confirmation that ads can now appear below organic featured snippets. Google also acknowledged an indexing bug that temporarily affected search results. Additionally, Google emphasized the importance of user feedback on core updates and highlighted the value of clear shipping and return policies for online stores.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811777788015251745",
+                "https://twitter.com/rustybrick/status/1811830635197251812",
+                "https://twitter.com/rustybrick/status/1811766462253518867",
+                "https://twitter.com/rustybrick/status/1811758912552464433",
                 "https://www.seroundtable.com/video-07-12-2024-37721.html",
                 "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/"
             ]
         },
         {
-            "Title": "Google Tests New Features in Search Results",
+            "Title": "Bing Search Tests Voting Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with auto-playing video thumbnails in search results, potentially enhancing the visual appeal of video content. The company is also testing a \"thin video snippet\" format, which could offer a more streamlined presentation of video results. Additionally, Google is exploring the placement of ads below organic featured snippets as part of its \"dynamic ad placement evolution.\" This move aims to optimize ad visibility and potentially increase revenue.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811766462253518867",
-                "https://twitter.com/rustybrick/status/1811360034288550153",
-                "https://twitter.com/rustybrick/status/1811758912552464433"
-            ]
-        },
-        {
-            "Title": "Bing Search Introduces Voting Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing Search is testing a new feature that allows users to vote on the relevance of search results. Users can upvote or downvote specific results, and the platform displays the voting distribution as percentages. This feature aims to enhance the accuracy and user satisfaction with search results by incorporating direct feedback.",
+            "Description": "Bing Search is experimenting with a new feature that allows users to vote on the relevance of search results. The feature displays the percentage of up-votes and down-votes for each result, potentially influencing how Bing ranks websites in the future.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811762687711592494",
-                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html",
-                "https://twitter.com/rustybrick/status/1811722422124708129"
+                "https://twitter.com/rustybrick/status/1811722422124708129",
+                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
             ]
         },
         {
-            "Title": "Majestic to Discontinue Disavow Links Feature",
+            "Title": "Majestic Discontinues Disavow Links Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Majestic, a prominent SEO tool provider, has decided to discontinue its disavow links feature. The company stated that its tool doesn't effectively identify toxic links requiring disavowal. This decision reflects the evolving understanding of link building and the diminishing importance of disavowing links in modern SEO practices.",
+            "Description": "Majestic, a popular SEO tool, has removed its disavow links feature. The company stated that it never encouraged its use and believes that identifying toxic links without significant manual review is unreliable.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811797065946616018"
             ]
         },
         {
-            "Title": "Google Ads Updates Design, Broad Match, and Payments",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads has implemented three significant updates. The platform has undergone a design refresh, potentially impacting user experience and campaign management. Additionally, Google Ads is reportedly defaulting to broad match for search campaigns, potentially expanding reach but requiring careful monitoring for relevance. Lastly, there have been unspecified changes to the payments system, which could affect billing processes and payment options for advertisers.",
-            "Links": [
-                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments"
-            ]
-        },
-        {
             "Title": "Amazon Launches AI Shopping Assistant Rufus",
             "Category": "Ecommerce",
-            "Description": "Amazon has released its AI-powered shopping assistant, Rufus, to all US customers through its mobile app. Rufus, trained on Amazon's extensive product catalog, assists shoppers in finding products, comparing prices, and making informed purchase decisions. This launch signifies Amazon's commitment to integrating AI into its platform to enhance the shopping experience.",
+            "Description": "Amazon has released Rufus, an AI-powered shopping assistant, to all US customers through its mobile app. Rufus, trained on Amazon's extensive product catalog, aims to enhance the shopping experience by providing personalized recommendations and answering product-related queries.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811795595255861718"
             ]
         },
         {
-            "Title": "Google Emphasizes 'Creators' Over 'Webmasters'",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is shifting away from the term \"webmasters\" and embracing \"creators\" to be more inclusive of the diverse range of individuals and professionals involved in creating online content and experiences. This change reflects the evolving landscape of the internet and Google's recognition of the broader community contributing to its search ecosystem.",
+            "Title": "Google Ads Updates",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads has introduced several updates, including a potential shift to broad match as the default setting for search campaigns, tests of a \"people also browsed\" feature in search ads, and the appearance of carousels with two rows of shopping ad units. These changes aim to enhance campaign reach and performance while providing advertisers with more options for product visibility.",
             "Links": [
-                "https://twitter.com/searchliaison/status/1811810529444528544"
+                "https://twitter.com/rustybrick/status/1811699463733346435",
+                "https://twitter.com/rustybrick/status/1811411624080609381",
+                "https://twitter.com/rustybrick/status/1811407849563836846",
+                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments"
             ]
         },
         {
-            "Title": "Thumbtack Automatically Adding Booking Links to Google Business Profiles",
-            "Category": "Local Search",
-            "Description": "Thumbtack, a local services platform, has been automatically adding booking links to Google Business Profiles without explicit consent from businesses. This practice has raised concerns among business owners who may not want or need this integration. It highlights the importance of regularly reviewing and managing third-party integrations for online business listings.",
+            "Title": "Thumbtack Booking Links on Google Business Profiles",
+            "Category": "Local SEO",
+            "Description": "Businesses are advised to check their Google Business Profiles and remove any unauthorized booking or appointment links added by Thumbtack. The service may be implementing this without businesses' consent, potentially causing confusion or misrepresenting available services.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811774012034515062",
-                "https://twitter.com/rustybrick/status/1811729972022903133"
+                "https://twitter.com/rustybrick/status/1811834409965822391",
+                "https://twitter.com/rustybrick/status/1811774012034515062"
+            ]
+        },
+        {
+            "Title": "Ugly Ads Perform Best",
+            "Category": "Paid Advertising",
+            "Description": "Marketing expert Barry Hott suggests that unconventional and attention-grabbing \"ugly\" ads can outperform aesthetically pleasing ones. He argues that initial reactions to ads significantly impact their effectiveness, and ads that stand out are less likely to be ignored.",
+            "Links": [
+                "https://www.practicalecommerce.com/ugly-ads-perform-best-marketer-says"
+            ]
+        },
+        {
+            "Title": "OpenAI's Search Ambitions",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI, the company behind ChatGPT, has confirmed its plans to develop a search product. While details remain limited, this move could challenge established search engines like Google and Bing, potentially reshaping how users find information online.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811737413384839189",
+                "https://twitter.com/glenngabe/status/1811734656263369055"
+            ]
+        },
+        {
+            "Title": "YouTube Enhances Shorts with New Features",
+            "Category": "Social Media",
+            "Description": "YouTube is introducing new features to its Shorts platform, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and Minecraft-themed effects. These additions aim to enhance content creation and engagement on the platform, further competing with TikTok in the short-form video market.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811477096604266813"
+            ]
+        },
+        {
+            "Title": "AI Chatbots Raise Concerns About Empathy and Child Safety",
+            "Category": "Artificial Intelligence",
+            "Description": "A study has highlighted concerns about the \"empathy gap\" in AI chatbots like Alexa, MyAI, and Bing, suggesting they may not respond appropriately to children's emotional needs. The research calls for greater consideration of child safety in AI design and development.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811368907308929227",
+                "https://in.investing.com/news/general-news/ai-chatbots-alexa-myai-bing-come-with-empathy-gap-may-harm-children-4303068",
+                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977",
+                "\u26a1Alexa, Bing, My AI Chatbots Frequently Show \u2018Empathy Gaps\u2019, May Harm Children: Study"
             ]
         }
     ],
