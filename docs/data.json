@@ -1,96 +1,106 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates",
+            "Title": "Google Search Updates and Features",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has been busy with several updates to its search engine, including testing auto-playing video thumbnails in search results, confirming ads can appear below organic featured snippets, and expanding language support for translated search results. Google also introduced a new Search Console feature for online stores to manage shipping and return policies and acknowledged the helpful feedback received on the March 2024 core update.",
+            "Description": "Google has been busy with several updates and tests related to search, including new Search Console settings for shipping and return information, potential auto-playing video thumbnails in search results, and confirmation that ads can now appear below organic featured snippets. The company also acknowledged the helpful feedback received on the March 2024 core update and expanded language support for translated search results.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1811830635197251812",
                 "https://twitter.com/rustybrick/status/1811766462253518867",
                 "https://twitter.com/rustybrick/status/1811758912552464433",
-                "https://twitter.com/rustybrick/status/1811393756404367799",
-                "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/",
-                "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html"
+                "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html",
+                "https://www.searchenginejournal.com/googles-now-translating-serps-into-more-languages/521843/"
             ]
         },
         {
-            "Title": "Bing Search Tests Voting Feature",
+            "Title": "Bing Search Engine Developments",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Bing is testing a new feature that allows users to vote on the relevance of search results. The feature displays the percentage of up-votes and down-votes for each result, potentially influencing how Bing ranks websites.",
+            "Description": "Bing is testing out new features, including a voting system for search results and the discontinuation of its cashback feature in the Start app.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811762687711592494",
-                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
+                "https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"
             ]
         },
         {
-            "Title": "Google Ads Updates",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads has introduced several updates, including testing a \"people also browsed\" feature, a new carousel format with two rows of shopping ad units, and potentially defaulting to broad match for new search campaigns. Advertisers should be aware of these changes and adapt their strategies accordingly.",
+            "Title": "OpenAI's Advancements in AI",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "OpenAI is making strides in AI, reportedly working on a project code-named \"Strawberry\" to improve AI reasoning capabilities and a five-level system to track progress towards Artificial General Intelligence (AGI). There is also speculation about OpenAI developing its own search product.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811411624080609381",
-                "https://twitter.com/rustybrick/status/1811407849563836846",
-                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments"
+                "https://twitter.com/glenngabe/status/1812104709068501475",
+                "https://twitter.com/glenngabe/status/1811729962665132531",
+                "https://twitter.com/rustybrick/status/1811737413384839189"
             ]
         },
         {
-            "Title": "Majestic to Discontinue Disavow Links Feature",
+            "Title": "Amazon Launches AI Shopping Assistant",
+            "Category": "Ecommerce",
+            "Description": "Amazon has officially launched its AI shopping assistant, Rufus, in the Amazon mobile app for all US customers. Rufus is designed to help shoppers with product recommendations and information.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811795595255861718"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews in Search Results",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Majestic, a popular SEO tool, has announced it will discontinue its disavow links feature. The company stated it never encouraged its use and believes identifying toxic links without significant manual review is unreliable.",
+            "Description": "There are conflicting reports about the prevalence of Google's AI overviews in search results, with some sources claiming a decrease to 7% while others observe a consistent 14% presence.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1812108902005342256",
+                "https://twitter.com/glenngabe/status/1811741087532482999"
+            ]
+        },
+        {
+            "Title": "Majestic Discontinues Disavow Links Feature",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Majestic has decided to discontinue its disavow links feature, emphasizing the importance of focusing on positive SEO practices rather than trying to identify and disavow toxic links.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811797065946616018"
             ]
         },
         {
-            "Title": "OpenAI's Search Ambitions",
+            "Title": "COPIED Act Aims to Protect Content from AI Misuse",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "OpenAI, the company behind ChatGPT, has confirmed it is developing a search product. While details are scarce, this move could challenge established search engines like Google and Bing.",
+            "Description": "The COPIED Act, a new Senate bill, seeks to protect artists and journalists' content from unauthorized use by AI, addressing concerns about copyright infringement and the creation of deepfakes.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811734656263369055"
+                "https://twitter.com/glenngabe/status/1812106752978022572",
+                "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
             ]
         },
         {
-            "Title": "AI Chatbots Raise Concerns About Empathy and Child Safety",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "A new study suggests that AI chatbots like Alexa, MyAI, and Bing may lack empathy and potentially harm children. The research highlights the need for \"child-safe AI\" and responsible development practices.",
+            "Title": "Google Ads Updates and Tests",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads has rolled out several updates, including a potential default to broad match for search campaigns, a new design, and tests for features like \"people also browsed\" and carousels with two rows of shopping ad units.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811368907308929227",
-                "https://in.investing.com/news/general-news/ai-chatbots-alexa-myai-bing-come-with-empathy-gap-may-harm-children-4303068",
-                "https://www.zeebiz.com/technology/news-artificial-intelligence-ai-chatbots-alexa-snapchat-myai-microsoft-bing-come-with-empathy-gap-may-harm-children-300977"
+                "https://twitter.com/rustybrick/status/1811699463733346435",
+                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments",
+                "https://twitter.com/rustybrick/status/1811472022083711061",
+                "https://twitter.com/rustybrick/status/1811468247277142022"
             ]
         },
         {
-            "Title": "Google Business Profile Updates",
+            "Title": "JavaScript Rendering and SEO",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "A Search Off the Record podcast episode featuring SEO experts discusses the impact of JavaScript rendering on SEO, covering topics like the cost of rendering and Google's ability to handle JavaScript.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1812119592371630503"
+            ]
+        },
+        {
+            "Title": "Google My Business Updates",
             "Category": "Local SEO",
-            "Description": "Google has updated its Google Business Profiles with new consumer alerts and a method for businesses to remove unwanted Thumbtack booking links. Businesses should review these updates to ensure their profiles are accurate and optimized.",
+            "Description": "Google My Business (GMB) has new consumer alert features and businesses are advised to remove unwanted Thumbtack booking links from their profiles.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811774012034515062",
-                "https://twitter.com/rustybrick/status/1811362550900310118",
-                "https://twitter.com/glenngabe/status/1811736245120180499"
+                "https://twitter.com/rustybrick/status/1811834409965822391",
+                "https://twitter.com/rustybrick/status/1811464472222973967"
             ]
         },
         {
-            "Title": "YouTube Announces New Shorts Features",
-            "Category": "Social Media",
-            "Description": "YouTube is introducing new features for its Shorts platform, including text-to-speech video narration, in-app auto-generated captions, and Minecraft effects. These updates aim to enhance the user experience and compete with platforms like TikTok.",
+            "Title": "YouTube New Features for Shorts",
+            "Category": "Video Marketing",
+            "Description": "YouTube is rolling out new features for Shorts, including text-to-speech video narration, in-app auto-generated captions, and Minecraft effects.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811477096604266813"
             ]
-        },
-        {
-            "Title": "The Chum King and AI-Generated Content",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "The Verge exposes the story of a man who has flooded the internet with AI-generated content filled with affiliate links. This practice raises concerns about the spread of low-quality content and the ethics of AI-generated content for profit.",
-            "Links": [
-                "https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo"
-            ]
-        },
-        {
-            "Title": "Google Shifts Terminology from \"Webmaster\" to \"Creator\"",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is moving away from the term \"webmaster\" and adopting \"creator\" to be more inclusive of the diverse range of people involved in creating online content. This shift reflects the evolving landscape of the internet and content creation.",
-            "Links": [
-                "https://twitter.com/searchliaison/status/1811810529444528544"
-            ]
         }
     ],
-    "date": "2024-07-13"
+    "date": "2024-07-14"
 }
