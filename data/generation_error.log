@@ -22137,3 +22137,395 @@ RESPONSE:
 }
 ]
 }
+Error occurred at 2024-07-14 20:03:36.500074:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Interested in JavaScript rendering? Good SOTR podcast with Zoe Clifford, JohnMu, and g33konaut covering all things JS rendering and SEO Including: *How rendering is very expensive, but ALL pages are rendered, even pages that don't require JS. *Google can pick up structured\u2026",
+    "Description": "Tweet thread discussing a Search Off the Record podcast episode about JavaScript rendering and SEO, featuring Zoe Clifford, John Mueller, and Martin Splitt. The episode covers topics such as the cost of rendering, Google's ability to handle JavaScript, and structured data.",
+    "Link": "https://twitter.com/glenngabe/status/1812119592371630503"
+  },
+  {
+    "Title": "Good post from richsangerSEO about why content that's not ranking well for a query could be in AI overviews. This is similar to what RyanJones covered at SMX Advanced -> How Google AI Overview Selects and Links to Sources \"The AI Overview process for selecting documents\u2026",
+    "Description": "Tweet thread highlighting a blog post by Rich Sanger about why content that doesn't rank well for a query might still appear in Google's AI overviews. The thread also mentions a presentation by Ryan Jones at SMX Advanced on the same topic.",
+    "Link": "https://twitter.com/glenngabe/status/1812108902005342256"
+  },
+  {
+    "Title": "COPIED Act -> New Senate bill seeks to protect artists\u2019 and journalists\u2019 content from AI use. Stands for \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\" \"The bill is designed to give content owners, such as journalists, newspapers, artists,\u2026",
+    "Description": "Tweet thread announcing the introduction of the COPIED Act, a new Senate bill aimed at protecting the content of artists and journalists from unauthorized use by AI. The bill would give content owners more control over how their work is used and prevent the creation of deepfakes.",
+    "Link": "https://twitter.com/glenngabe/status/1812106752978022572"
+  },
+  {
+    "Title": "\"Navigate the internet autonomously and reliably to perform deep research\" -> OpenAI is working on a project code named 'Strawberry', formerly known as Q*, which aims to improve AI model reasoning capabilities \"The document describes a project that uses Strawberry models with\u2026",
+    "Description": "Tweet thread reporting on OpenAI's project 'Strawberry,' which aims to enhance the reasoning abilities of AI models. The project focuses on enabling AI to navigate the internet independently for research purposes.",
+    "Link": "https://twitter.com/glenngabe/status/1812104709068501475"
+  },
+  {
+    "Title": "Excellent to see dannysullivan / searchliaison meeting with iambrandonsalt and understanding more the perspective from creators. Coincidentally, I\u2019m at TBEXevents, an event for travel creators, where I yesterday gave a talk about how to grow your site organic search presence;\u2026",
+    "Description": "Tweet expressing appreciation for Danny Sullivan's meeting with Brandon Salt to discuss the perspective of content creators. The tweet also mentions the TBEXevents event for travel creators and the importance of organic search for website growth.",
+    "Link": "https://twitter.com/aleyda/status/1812088266868285675"
+  },
+  {
+    "Title": "I met with Google to talk about the current state of Search. My blog post about it \ud83d\udc49 https://t\u2026",
+    "Description": "Tweet announcing a blog post by Brandon Salt about his meeting with Google to discuss the current state of search. The tweet includes a shortened link to the blog post.",
+    "Link": "https://twitter.com/iambrandonsalt/status/1811479649290948631"
+  },
+  {
+    "Title": "ICYMI: SEO Video recap covering more Google volatility x2, another Google indexing bug, Google Ads defaulting to broad match and YouTube SEO tips",
+    "Description": "Tweet promoting a video recap of recent SEO news, including Google search volatility, an indexing bug, Google Ads defaulting to broad match, and YouTube SEO tips.",
+    "Link": "https://twitter.com/rustybrick/status/1811838185262944705"
+  },
+  {
+    "Title": "ICYMI: Remove Thumbstack booking / appointment links on your Google Business Profile",
+    "Description": "Tweet advising businesses to remove Thumbtack booking links from their Google Business Profiles.",
+    "Link": "https://twitter.com/rustybrick/status/1811834409965822391"
+  },
+  {
+    "Title": "ICYMI: New Google Search Console settings for shipping and return information",
+    "Description": "Tweet announcing new settings in Google Search Console related to shipping and return information for businesses.",
+    "Link": "https://twitter.com/rustybrick/status/1811830635197251812"
+  },
+  {
+    "Title": "ICYMI: Google testing auto-playing video thumbnails in the search results?",
+    "Description": "Tweet reporting on Google's potential testing of auto-playing video thumbnails in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1811826860289880319"
+  },
+  {
+    "Title": "ICYMI: Bing Search tests voting on search results",
+    "Description": "Tweet sharing news about Bing Search testing a feature that allows users to vote on search results.",
+    "Link": "https://twitter.com/rustybrick/status/1811823085580124191"
+  },
+  {
+    "Title": "ICYMI: Google confirms ads can show up below organic featured snippets as part of its new \"dynamic ad placement evolution\"",
+    "Description": "Tweet highlighting Google's confirmation that ads can now appear below organic featured snippets in search results as part of a new ad placement strategy.",
+    "Link": "https://twitter.com/rustybrick/status/1811819310593245587"
+  },
+  {
+    "Title": "Brandon met with Danny to discuss the current state of search, to provide feedback to Google from a creator's perspective, and more. Brandon runs retrododo.com, which has been heavily impacted by the September HCU(X). You can read the post to learn more about what\u2026",
+    "Description": "Tweet summarizing Brandon Salt's meeting with Danny Sullivan to discuss the impact of Google's search updates on content creators, particularly those affected by the September HCU(X) update.",
+    "Link": "https://twitter.com/glenngabe/status/1811816637907275984"
+  },
+  {
+    "Title": "I love this. You should too -> Majestic to discontinue its disavow links feature (which they never encouraged customers to use anyway) \"The Majestic tool does not highlight or report on Toxic Links. We don\u2019t pretend to be able to identify links to disavow without significant\u2026",
+    "Description": "Tweet expressing approval for Majestic's decision to discontinue its disavow links feature. The tweet highlights Majestic's stance on not identifying toxic links and emphasizes the importance of focusing on positive SEO practices.",
+    "Link": "https://twitter.com/glenngabe/status/1811797065946616018"
+  },
+  {
+    "Title": "Release The Rufus :) -> Amazon says its AI shopping assistant Rufus is live in the Amazon mobile app for all US customers, after launching in beta for select customers in February 2024 \"First announced in February, the AI chatbot has been trained on Amazon\u2019s product catalog,\u2026",
+    "Description": "Tweet announcing the official launch of Amazon's AI shopping assistant, Rufus, in the Amazon mobile app for all US customers. The tweet highlights Rufus's ability to assist shoppers with product recommendations and information.",
+    "Link": "https://twitter.com/glenngabe/status/1811795595255861718"
+  },
+  {
+    "Title": "Cracking Open The Local SEO Bucket: 5 Finger-lickin' Strategies For 2024",
+    "Description": "Webinar exploring five key strategies for local SEO success in 2024, focusing on discovery, relevance, experience, engagement, and conversions.",
+    "Link": "https://www.searchenginejournal.com/webinar-lp-cracking-open-the-local-seo-bucket-5-finger-lickin-strategies-for-2024/"
+  },
+  {
+    "Title": "SEO Video recap: Google volatility x2, another Google indexing bug, Google Ads defaulting to broad match and YouTube SEO tips",
+    "Description": "Tweet promoting a video recap of recent SEO news, including Google search volatility, an indexing bug, Google Ads defaulting to broad match, and YouTube SEO tips.",
+    "Link": "https://twitter.com/rustybrick/status/1811777788015251745"
+  },
+  {
+    "Title": "Focus on ecommerce? Seems like 3D/AR objects in the SERPs is finally expanding to more retailers that weren't part of the beta! I have some clients that have been waiting a long time for this to happen, they set up 3D objects a long time ago, have those in their merchant feeds,\u2026",
+    "Description": "Google is expanding the availability of 3D/AR objects in search results to more retailers.",
+    "Link": "https://twitter.com/glenngabe/status/1811772822944952515"
+  },
+  {
+    "Title": "New Google Search Console settings for shipping and return information",
+    "Description": "Google Search Console now allows users to enter shipping and return policies in the settings.",
+    "Link": "https://twitter.com/rustybrick/status/1811770237240664229"
+  },
+  {
+    "Title": "Google testing auto-playing video thumbnails in the search results?",
+    "Description": "Google is testing auto-playing video thumbnails in the search results.",
+    "Link": "https://twitter.com/rustybrick/status/1811766462253518867"
+  },
+  {
+    "Title": "Bing Search tests voting on search results",
+    "Description": "Bing is testing a feature that allows users to vote on the relevance of search results.",
+    "Link": "https://twitter.com/rustybrick/status/1811762687711592494"
+  },
+  {
+    "Title": "Google confirms ads can show up below organic featured snippets as part of its new \"dynamic ad placement evolution\"",
+    "Description": "Google has confirmed that ads can now appear below organic featured snippets as part of its dynamic ad placement evolution.",
+    "Link": "https://twitter.com/rustybrick/status/1811758912552464433"
+  },
+  {
+    "Title": "Google making more use of the right sidebar on desktop, and overlays in general on mobile. Similar to clicking a merchant listing.",
+    "Description": "Google is increasingly using the right sidebar on desktop and overlays on mobile for displaying information, similar to merchant listings.",
+    "Link": "https://twitter.com/glenngabe/status/1811754908829335700"
+  },
+  {
+    "Title": "Ugly Ads Perform Best, Marketer Says",
+    "Description": "Marketer Barry Hott suggests that \"ugly\" ads, those designed to grab attention and avoid being skipped, can be more effective. He emphasizes the importance of first impressions in ad performance.",
+    "Link": "https://www.practicalecommerce.com/ugly-ads-perform-best-marketer-says"
+  },
+  {
+    "Title": "Just totaled the percentage of AI overviews based on the projects I'm tracking (across companies and queries). It's 14%, which is close to the 15% I documented when I first started tracking them. So not sure this has dropped to just 7% like BrightEdge says (which would be a huge\u2026",
+    "Description": "Analysis of AI overviews in search results indicates a prevalence of 14%, contradicting a reported drop to 7%.",
+    "Link": "https://twitter.com/glenngabe/status/1811741087532482999"
+  },
+  {
+    "Title": "OpenAI search coming?",
+    "Description": "Speculation arises about OpenAI developing its own search product.",
+    "Link": "https://twitter.com/rustybrick/status/1811737413384839189"
+  },
+  {
+    "Title": "\"They have said that they\u2019re going to build a search product.\" Whoa, super interesting nugget about OpenAI's Search ambitions in this interview with the CEO of The Atlantic on their deal with OpenAI Yep, they are working on a search product -> \"Third part is this very\u2026",
+    "Description": "Confirmation that OpenAI is actively working on a search product, as revealed in an interview with The Atlantic's CEO.",
+    "Link": "https://twitter.com/glenngabe/status/1811734656263369055"
+  },
+  {
+    "Title": "Video: Google Volatility, Indexing Bugs, Google Ads Broad Match Default & YouTube SEO Tips",
+    "Description": "This week's SEO news includes Google search volatility, indexing bugs, Google Ads defaulting to broad match, and YouTube SEO tips.",
+    "Link": "https://www.seroundtable.com/video-07-12-2024-37721.html"
+  },
+  {
+    "Title": "How to remove Thumbtack booking / appointment links on your Google Business Profile when the service is doing it without you asking for it",
+    "Description": "Instructions on how to remove unwanted Thumbtack booking links from Google Business Profiles.",
+    "Link": "https://twitter.com/rustybrick/status/1811729972022903133"
+  },
+  {
+    "Title": "The path towards Jarvis -> OpenAI creates five levels to track its progress toward AGI: Chatbots, Reasoners, Agents, Innovators, and Organizations, and says it's nearly at level two",
+    "Description": "OpenAI has established a five-level system to track its progress towards Artificial General Intelligence (AGI), with the company reporting it is nearing level two.",
+    "Link": "https://twitter.com/glenngabe/status/1811729962665132531"
+  },
+  {
+    "Title": "Google Search Console now lets you enter your shipping and return information directly in the settings section",
+    "Description": "Google Search Console has introduced a new feature allowing users to input shipping and return details directly within the settings section.",
+    "Link": "https://twitter.com/rustybrick/status/1811727455188812280"
+  },
+  {
+    "Title": "Google Search may be testing auto-playing video thumbnails in the search results",
+    "Description": "Google is potentially experimenting with auto-playing video thumbnails within its search results.",
+    "Link": "https://twitter.com/rustybrick/status/1811724938836897963"
+  },
+  {
+    "Title": "Bing Search Testing Voting Feature",
+    "Description": "Bing is currently testing a voting feature in its search results, allowing users to upvote or downvote results and see the voting distribution.",
+    "Link": "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
+  },
+  {
+    "Title": "Bing Search testing voting on search results, with showing voting distributions  via @shemiadhikarath",
+    "Description": "Bing is experimenting with a voting system for search results, displaying voting percentages to users.",
+    "Link": "https://twitter.com/rustybrick/status/1811722422124708129"
+  },
+  {
+    "Title": "Google's @adsliaison confirms ads can show up below organic featured snippets as part of its new \"dynamic ad placement evolution\"  via @LidiaInfanteM @seostrategaEN @kevin_indig and more",
+    "Description": "Google's Ads Liaison has officially confirmed that advertisements can now appear below organic featured snippets, attributing this change to the ongoing evolution of dynamic ad placement.",
+    "Link": "https://twitter.com/rustybrick/status/1811719905563005206"
+  },
+  {
+    "Title": "Maybe Google Ads is not using broad match for the default for all search campaigns after all?",
+    "Description": "Uncertainty arises regarding Google Ads' use of broad match as the default setting for all search campaigns.",
+    "Link": "https://twitter.com/rustybrick/status/1811699463733346435"
+  },
+  {
+    "Title": "AI Briefing: Senators propose new regulations for privacy, transparency and copyright protections",
+    "Description": "Senators in the US have put forward a new bill, the COPIED Act, aiming to implement transparency standards for AI. The bill seeks to protect intellectual property, address copyright concerns, and combat AI-generated misinformation.",
+    "Link": "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
+  },
+  {
+    "Title": "YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects",
+    "Description": "Using Shorts? -> YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects",
+    "Link": "https://twitter.com/glenngabe/status/1811477096604266813"
+  },
+  {
+    "Title": "What is Parasite SEO?",
+    "Description": "Learn more about parasite SEO including what it entails, how it's leveraged, and the potential risks associated with this strategy.",
+    "Link": "https://neilpatel.com/blog/parasite-seo/"
+  },
+  {
+    "Title": "Google Search Ads tests people also browsed",
+    "Description": "ICYMI: Google Search Ads tests people also browsed seroundtable.com/google-ads-peo\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1811472022083711061"
+  },
+  {
+    "Title": "Google Ads carousel with two rows of shopping ad units",
+    "Description": "ICYMI: Google Ads carousel with two rows of shopping ad units seroundtable.com/double-row-car\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1811468247277142022"
+  },
+  {
+    "Title": "Google Business Profiles consumer alerts",
+    "Description": "ICYMI: Google Business Profiles consumer alerts",
+    "Link": "https://twitter.com/rustybrick/status/1811464472222973967"
+  },
+  {
+    "Title": "Google Search tests thin video snippets",
+    "Description": "ICYMI: Google Search tests thin video snippets",
+    "Link": "https://twitter.com/rustybrick/status/1811460697630687303"
+  },
+  {
+    "Title": "Google found the feedback on the March core update really helpful but is it too late for many businesses?",
+    "Description": "ICYMI: Google found the feedback on the March core update really helpful but is it too late for many businesses?",
+    "Link": "https://twitter.com/rustybrick/status/1811456922555490608"
+  },
+  {
+    "Title": "Google expands languages support for translated search results",
+    "Description": "ICYMI: Google expands languages support for translated search results",
+    "Link": "https://twitter.com/rustybrick/status/1811454154520535163"
+  },
+  {
+    "Title": "Google AI Overviews only show for 7% of queries, a new low",
+    "Description": "RT @sengineland: Google AI Overviews only show for 7% of queries, a new low via @MrDannyGoodwin  \u2026",
+    "Link": "https://twitter.com/sengineland/status/1811430663771283709"
+  },
+  {
+    "Title": "Microsoft will put a stop to this cashback feature in Start",
+    "Description": "You will no longer be able to scan receipts in the Bing and Start apps to earn cash back.",
+    "Link": "https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"
+  },
+  {
+    "Title": "Google Search Ads tests people also browsed",
+    "Description": "Google Search Ads tests people also browsed seroundtable.com/google-ads-peo\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1811411624080609381"
+  },
+  {
+    "Title": "PPC folks - are you using Merchant Center Next? Are you happy with it? If you're having issues - let me know through this form for a @sengineland article",
+    "Description": "RT by @rustybrick: #PPC folks - are you using Merchant Center Next? Are you happy with it? If you're having issues - let me know through this form for a @sengineland article",
+    "Link": "https://twitter.com/TheMarketingAnu/status/1811409959034188000"
+  },
+  {
+    "Title": "Google Ads carousel with two rows of shopping ad units",
+    "Description": "Google Ads carousel with two rows of shopping ad units seroundtable.com/double-row-car\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1811407849563836846"
+  },
+  {
+    "Title": "Google Business Profiles consumer alerts",
+    "Description": "Google Business Profiles consumer alerts",
+    "Link": "https://twitter.com/rustybrick/status/1811404074291544536"
+  },
+  {
+    "Title": "Google Search tests thin video snippets",
+    "Description": "Google Search tests thin video snippets",
+    "Link": "https://twitter.com/rustybrick/status/1811400299795403025"
+  },
+  {
+    "Title": "The chum king behind those AI articles",
+    "Description": "One man has left a trail of chaos and affiliate links all across the media.",
+    "Link": "https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo"
+  },
+  {
+    "Title": "Google found the feedback on the March core update really helpful but is it too late for many businesses?",
+    "Description": "Google found the feedback on the March core update really helpful but is it too late for many businesses?",
+    "Link": "https://twitter.com/rustybrick/status/1811396524720677353"
+  },
+  {
+    "Title": "Google expands languages support for translated search results",
+    "Description": "Google expands languages support for translated search results",
+    "Link": "https://twitter.com/rustybrick/status/1811393756404367799"
+  },
+  {
+    "Title": "Google Search Console now lets you set your shipping and return policies",
+    "Description": "Google Search Console now lets you set your shipping and return policies",
+    "Link": "https://twitter.com/rustybrick/status/1811392940557607281"
+  },
+  {
+    "Title": "Google Ads Alters Design, Broad Match, Payments",
+    "Description": "Three recent Google Ads updates have received little notice but impact most advertisers.",
+    "Link": "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments"
+  },
+  {
+    "Title": "Google Says Feedback On The Last Core Update Was Really Helpful",
+    "Description": "Google's John Mueller said in a video he posted yesterday that the feedback submitted and Google collected around the March 2024 core update has \"been really helpful in evaluations and discussions.\"  He added the Google teams have \"been reviewing with the search quality and ranking teams.\"",
+    "Link": "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html"
+  },
+  {
+    "Title": "Google's @JohnMu says Google found the feedback on the March core update really helpful and has \"been reviewing with the search quality and ranking teams\"",
+    "Description": "Google's @JohnMu says Google found the feedback on the March core update really helpful and has \"been reviewing with the search quality and ranking teams\" seroundtable.com/google-feedbac\u2026 hat tip @glenngabe",
+    "Link": "https://twitter.com/rustybrick/status/1811357517454164111"
+  },
+  {
+    "Title": "Google expands languages support for translated search results, which is why more like @ahmtaic are seeing it now",
+    "Description": "Google expands languages support for translated search results, which is why more like @ahmtaic are seeing it now seroundtable.com/google-expands\u2026 hat tip @KorayGubur",
+    "Link": "https://twitter.com/rustybrick/status/1811356008112865696"
+  },
+  {
+    "Title": "Double row Google Ads for shopping search results in a carousel so they all scroll together",
+    "Description": "Double row Google Ads for shopping search results in a carousel so they all scroll together seroundtable.com/double-row-car\u2026 via @SaadAlikhan1994",
+    "Link": "https://twitter.com/rustybrick/status/1811365067243274498"
+  },
+  {
+    "Title": "New Google Business Profiles consumer alerts document",
+    "Description": "New Google Business Profiles consumer alerts document seroundtable.com/google-busines\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1811362550900310118"
+  },
+  {
+    "Title": "Google is testing thin video search snippets",
+    "Description": "Google is testing thin video search snippets seroundtable.com/google-thin-vi\u2026 via @MordyOberstein (but do not ask him to fix your car engine)",
+    "Link": "https://twitter.com/rustybrick/status/1811360034288550153"
+  },
+  {
+    "Title": "Prioritizing growth, influencer marketing firm CreatorIQ taps a software exec to be its next CEO",
+    "Description": "Influencer marketing company CreatorIQ has hired marketing software and web analytics executive Chris Harrington as its CEO as the organization pushes the next phase of growth.",
+    "Link": "https://digiday.com/media-buying/prioritizing-growth-influencer-marketing-firm-creatoriq-taps-a-software-exec-to-be-its-next-ceo/"
+  },
+  {
+    "Title": "START Planning Steps To Develop Your Digital Marketing Success Plan",
+    "Description": "Find out how to achieve ROI and business outcomes with a documented digital marketing success plan. Get tips from Corey Morris' new book.",
+    "Link": "https://www.searchenginejournal.com/start-planning-steps-to-develop-your-digital-marketing-success-plan-s-for-strategy/520626/"
+  },
+  {
+    "Title": "Google's Now Translating SERPs Into More Languages",
+    "Description": "Google announced they're translating search results into 8 more languages, giving publishers an opportunity to increase traffic globally",
+    "Link": "https://www.searchenginejournal.com/googles-now-translating-serps-into-more-languages/521843/"
+  },
+  {
+    "Title": "15 Ways to Use ChatGPT to Boost Your SEO Strategy",
+    "Description": "Improve your SEO strategy using ChatGPT. Start with these 15 convenient ways to harness the power of AI to boost your SEO efforts.",
+    "Link": "https://influencermarketinghub.com/seo-agency/chatgpt-seo/"
+  },
+  {
+    "Title": "Teads is exploring sale options as M&A in ad tech heats up",
+    "Description": "Sources state the Altice-owned stalwart of outstream video has recently held talks with private equity and strategic players.",
+    "Link": "https://digiday.com/media/teads-is-exploring-sale-options-as-ma-in-ad-tech-heats-up/"
+  },
+  {
+    "Title": "Media Briefing: Publishers reflect on ad revenue midway through 2024",
+    "Description": "Some publishers say ad revenue is pacing 15% up year over year while others are still managing their expectations for how 2024 will shake out.",
+    "Link": "https://digiday.com/media/media-briefing-publishers-reflect-on-ad-revenue-midway-through-2024/"
+  },
+  {
+    "Title": "LinkedIn is officially rolling out its own AI-campaign tool",
+    "Description": "A spokesperson for the professional networking app confirmed to Digiday that the team expects to make it \u201cglobally available to all advertisers by early fall,\u201d though did not confirm a specific date.",
+    "Link": "https://digiday.com/marketing/linkedin-is-officially-rolling-out-its-own-ai-campaign-tool/"
+  },
+  {
+    "Title": "The 11 Best Digital Marketing Courses Free & Paid (2024)",
+    "Description": "Discover the best digital marketing courses, both free and paid, to kickstart your career in SEO and online marketing.",
+    "Link": "https://www.searchenginejournal.com/best-digital-marketing-courses-free-paid/516639/"
+  },
+  {
+    "Title": "Google Simplifies Adding Shipping & Return Policies For Online Stores",
+    "Description": "Google introduces Search Console feature for online stores to easily manage shipping and return policies.",
+    "Link": "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/"
+  },
+  {
+    "Title": "With a big surge in visibility with Google's 'Hidden Gems' update in fall of 2023 :) -> A look at MetaFilter, which turns 25 on July 14; owner Jessamyn West, who helped stabilize it after its near death, doesn't plan to license its archives to AI",
+    "Description": "Glenn Gabe highlights the increased visibility of MetaFilter following Google's 'Hidden Gems' update in 2023 and discusses owner Jessamyn West's decision not to license its archives for AI use.",
+    "Link": "https://twitter.com/glenngabe/status/1812459470854783274"
+  },
+  {
+    "Title": "It's an unusually calm weekend in terms of Google ranking volatility - is this a conspiracy of sorts? (too soon?)",
+    "Description": "RustyBrick observes an unusual lack of volatility in Google search rankings and ponders the reason behind it.",
+    "Link": "https://twitter.com/rustybrick/status/1812457312310771862"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-07-14 20:03:36.500472:
+RESPONSE: 
+{"stories": [{"Title": "Google Search Updates and Features", "Category": "Search Engine Optimization (SEO)", "Description": "Google has been busy with several updates and tests for its search engine, including new settings for shipping and return information in Google Search Console, potential testing of auto-playing video thumbnails in search results, and confirmation that ads can now appear below organic featured snippets. The company also acknowledged the helpful feedback received on the March 2024 core update and expanded language support for translated search results.", "Links": ["https://twitter.com/rustybrick/status/1811838185262944705", "https://twitter.com/rustybrick/status/1811830635197251812", "https://twitter.com/rustybrick/status/1811826860289880319", "https://twitter.com/rustybrick/status/1811819310593245587", "https://twitter.com/rustybrick/status/1811770237240664229", "https://twitter.com/rustybrick/status/1811766462253518867", "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html", "https://twitter.com/rustybrick/status/1811357517454164111", "https://twitter.com/rustybrick/status/1811356008112865696", "https://www.searchenginejournal.com/googles-now-translating-serps-into-more-languages/521843/", "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/"]}, {"Title": "Bing Search Testing Voting Feature", "Category": "Search Engine Optimization (SEO)", "Description": "Bing is experimenting with a new feature that allows users to vote on the relevance of search results. The voting distribution is displayed to users, potentially influencing their perception of search result quality.", "Links": ["https://twitter.com/rustybrick/status/1811823085580124191", "https://twitter.com/rustybrick/status/1811762687711592494", "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html", "https://twitter.com/rustybrick/status/1811722422124708129"]}, {"Title": "Google Ads Updates and Tests", "Category": "Paid Advertising", "Description": "Google Ads has rolled out several updates, including a potential default to broad match for search campaigns, a new ad placement strategy allowing ads below organic featured snippets, and tests of new features like \"people also browsed\" and double-row carousels for shopping ads.", "Links": ["https://twitter.com/rustybrick/status/1811819310593245587", "https://twitter.com/rustybrick/status/1811699463733346435", "https://twitter.com/rustybrick/status/1811472022083711061", "https://twitter.com/rustybrick/status/1811468247277142022", "https://twitter.com/rustybrick/status/1811411624080609381", "https://twitter.com/rustybrick/status/1811407849563836846", "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments", "https://twitter.com/rustybrick/status/1811719905563005206"]}, {"Title": "OpenAI's Search Ambitions and AI Development", "Category": "Artificial Intelligence (AI)", "Description": "OpenAI is reportedly developing its own search product and has created a five-level system to track its progress toward Artificial General Intelligence (AGI). The company claims to be nearing level two, indicating significant advancements in AI capabilities.", "Links": ["https://twitter.com/rustybrick/status/1811737413384839189", "https://twitter.com/glenngabe/status/1811734656263369055", "https://twitter.com/glenngabe/status/1811729962665132531"]}, {"Title": "Amazon Launches AI Shopping Assistant Rufus", "Category": "Ecommerce", "Description": "Amazon has officially launched its AI shopping assistant, Rufus, in the Amazon mobile app for all US customers. Rufus is designed to enhance the shopping experience by providing product recommendations and information based on user preferences and Amazon's product catalog.", "Links": ["https://twitter.com/glenngabe/status/1811795595255861718"]}, {"Title": "Majestic Discontinues Disavow Links Feature", "Category": "Search Engine Optimization (SEO)", "Description": "Majestic has decided to discontinue its disavow links feature, emphasizing its stance on not identifying toxic links and encouraging a focus on positive SEO practices rather than disavowal.", "Links": ["https://twitter.com/glenngabe/status/1811797065946616018"]}, {"Title": "COPIED Act Aims to Protect Content from AI Misuse", "Category": "Artificial Intelligence (AI)", "Description": "The US Senate is considering the COPIED Act, a new bill designed to protect the content of artists and journalists from unauthorized use by AI. The bill seeks to give content owners more control over their work, prevent the creation of deepfakes, and address copyright concerns related to AI-generated content.", "Links": ["https://twitter.com/glenngabe/status/1812106752978022572", "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"]}, {"Title": "JavaScript Rendering and SEO", "Category": "Search Engine Optimization (SEO)", "Description": "A Search Off the Record podcast episode featuring SEO experts discussed the intricacies of JavaScript rendering and its impact on SEO. The episode covered topics such as the cost of rendering, Google's ability to handle JavaScript, and the importance of structured data for websites using JavaScript.", "Links": ["https://twitter.com/glenngabe/status/1812119592371630503"]}, {"Title": "Understanding Google's AI Overviews", "Category": "Search Engine Optimization (SEO)", "Description": "Recent discussions and analyses have focused on Google's AI overviews in search results, exploring why content that doesn't rank well for a specific query might still appear in these overviews. The prevalence of AI overviews has also been a topic of debate, with conflicting reports on their frequency in search results.", "Links": ["https://twitter.com/glenngabe/status/1812108902005342256", "https://twitter.com/glenngabe/status/1811741087532482999", "https://twitter.com/sengineland/status/1811430663771283709"]}, {"Title": "Google's 'Hidden Gems' Update and MetaFilter", "Category": "Search Engine Optimization (SEO)", "Description": "MetaFilter, a long-standing online community, experienced a surge in visibility following Google's 'Hidden Gems' update in the fall of 2023. The update aimed to highlight lesser-known but high-quality websites, benefiting platforms like MetaFilter.", "Links": ["https://twitter.com/glenngabe/status/1812459470854783274"]}, {"Title": "YouTube Enhances Shorts with New Features", "Category": "Social Media Marketing", "Description": "YouTube has introduced new features for its Shorts platform, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects. These additions aim to enhance the creative possibilities and engagement on YouTube Shorts.", "Links": ["https://twitter.com/glenngabe/status/1811477096604266813"]}, {"Title": "Microsoft Discontinues Cashback Feature in Start", "Category": "Technology", "Description": "Microsoft is discontinuing its cashback feature in the Start menu and Bing app, which allowed users to earn rewards by scanning receipts. The move signals a shift in Microsoft's strategy for its rewards program and integrated features.", "Links": ["https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"]}, {"Title": "Ugly Ads Can Be Effective", "Category": "Paid Advertising", "Description": "Marketer Barry Hott argues that unconventional and attention-grabbing ads, often perceived as \"ugly,\" can outperform aesthetically pleasing ones. He emphasizes the importance of capturing attention quickly in a crowded advertising landscape.", "Links": ["https://www.practicalecommerce.com/ugly-ads-perform-best-marketer-says"]}, {"Title": "Remove Thumbtack Links from Google Business Profile", "Category": "Local SEO", "Description": "Businesses are advised to check their Google Business Profiles and remove any unauthorized Thumbtack booking links. Instructions on how to remove these unwanted links have been shared to help businesses maintain control over their online presence.", "Links": ["https://twitter.com/rustybrick/status/1811834409965822391", "https://twitter.com/rustybrick/status/1811729972022903133"]}, {"Title": "Google Business Profile Consumer Alerts", "Category": "Local SEO", "Description": "Google has released a new document outlining consumer alerts related to Google Business Profiles. The document likely provides information on how businesses can address and manage alerts to maintain a positive reputation.", "Links": ["https://twitter.com/rustybrick/status/1811464472222973967", "https://twitter.com/rustybrick/status/1811404074291544536", "https://twitter.com/rustybrick/status/1811362550900310118"]}]}
+
