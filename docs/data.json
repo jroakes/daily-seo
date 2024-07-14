@@ -1,79 +1,109 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates and Features",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has been busy with several updates and tests, including new Search Console settings for shipping and return information, potential auto-playing video thumbnails in search results, and confirmation that ads can now appear below organic featured snippets. The company also acknowledged the helpful feedback received on the March 2024 core update and expanded language support for translated search results.",
+            "Title": "Google Search Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has been busy with several search updates including algorithm volatility, an indexing bug, testing auto-playing video thumbnails in search results, and confirming that ads can now appear below organic featured snippets. Google has also simplified the process for online stores to add shipping and return policies in Search Console.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811838185262944705",
                 "https://twitter.com/rustybrick/status/1811830635197251812",
                 "https://twitter.com/rustybrick/status/1811826860289880319",
                 "https://twitter.com/rustybrick/status/1811819310593245587",
-                "https://twitter.com/rustybrick/status/1811357517454164111",
-                "https://twitter.com/rustybrick/status/1811356008112865696"
+                "https://www.searchenginejournal.com/google-simplifies-adding-shipping-return-policies-for-online-stores/521923/"
             ]
         },
         {
-            "Title": "Bing Search Tests Voting Feature",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Bing is experimenting with a new feature that allows users to vote on the relevance of search results. The voting distribution is displayed to users, potentially influencing their perception of search result quality.",
+            "Title": "Google Ads Updates",
+            "Category": "Paid Search Advertising",
+            "Description": "Google Ads has undergone some changes, including a potential default to broad match for search campaigns, testing a \"people also browsed\" feature, and displaying shopping ads in a double-row carousel. There are also reports of uncertainty regarding whether broad match is now the default setting for all search campaigns.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811838185262944705",
+                "https://twitter.com/rustybrick/status/1811699463733346435",
+                "https://twitter.com/rustybrick/status/1811472022083711061",
+                "https://twitter.com/rustybrick/status/1811468247277142022",
+                "https://www.practicalecommerce.com/google-ads-alters-design-broad-match-payments"
+            ]
+        },
+        {
+            "Title": "Bing Search Engine Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing is testing out a new feature that allows users to vote on the relevance of search results. The search engine is also discontinuing its cashback feature, which allowed users to earn rewards by scanning receipts.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811823085580124191",
-                "https://twitter.com/rustybrick/status/1811762687711592494",
-                "https://twitter.com/rustybrick/status/1811722422124708129",
-                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
+                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html",
+                "https://www.windowscentral.com/software-apps/bing/microsoft-will-put-a-stop-to-this-cashback-feature-in-start"
             ]
         },
         {
-            "Title": "OpenAI's Search Ambitions and AGI Progress",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "OpenAI is reportedly developing its own search product, according to an interview with The Atlantic's CEO. The company has also created a five-level system to track its progress towards Artificial General Intelligence (AGI) and claims to be nearing level two.",
+            "Title": "AI in Search & Content",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI is reportedly working on its own search product and has defined a five-level system to track its progress toward Artificial General Intelligence (AGI).  There is discussion about the prevalence of AI-generated content in Google's search results, with some analysis contradicting reports of a decline in AI overviews.  Additionally, Amazon has launched its AI shopping assistant, Rufus, for all US customers.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811734656263369055",
-                "https://twitter.com/glenngabe/status/1811729962665132531"
+                "https://twitter.com/glenngabe/status/1812108902005342256",
+                "https://twitter.com/glenngabe/status/1811795595255861718",
+                "https://twitter.com/glenngabe/status/1811741087532482999",
+                "https://twitter.com/rustybrick/status/1811737413384839189",
+                "https://twitter.com/glenngabe/status/1811734656263369055"
             ]
         },
         {
-            "Title": "Amazon Launches AI Shopping Assistant Rufus",
-            "Category": "Ecommerce",
-            "Description": "Amazon has officially launched its AI-powered shopping assistant, Rufus, in the Amazon mobile app for all US customers. Rufus is designed to enhance the shopping experience by providing product recommendations and information.",
+            "Title": "JavaScript Rendering and SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "A recent Search Off the Record podcast episode featuring Google's Martin Splitt discussed the impact of JavaScript rendering on SEO. The episode covered the cost of rendering, Google's ability to handle JavaScript, and the importance of structured data.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811795595255861718"
+                "https://twitter.com/glenngabe/status/1812119592371630503"
             ]
         },
         {
-            "Title": "COPIED Act Aims to Protect Content Creators from AI",
-            "Category": "AI Regulation",
-            "Description": "The US Senate is considering a new bill, the COPIED Act, which seeks to protect the content of artists and journalists from unauthorized use by AI. The bill aims to give content owners more control over their work and prevent the creation of deepfakes.",
+            "Title": "COPIED Act Seeks to Protect Content Creators from AI",
+            "Category": "Artificial Intelligence",
+            "Description": "The US Senate is considering a new bill, the COPIED Act, designed to protect the content of artists and journalists from unauthorized use by AI. The bill aims to give content owners more control over their work and prevent the creation of deepfakes.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572",
                 "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
             ]
         },
         {
-            "Title": "Google Discusses Search with Content Creator Brandon Salt",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Danny Sullivan, Google's Search Liaison, met with content creator Brandon Salt to discuss the impact of recent search updates, particularly the September HCU(X) update, on creators and their websites.",
+            "Title": "Google My Business Updates",
+            "Category": "Local Search Optimization",
+            "Description": "Google My Business (now Google Business Profile) has new consumer alerts and businesses are advised to remove Thumbtack booking links from their profiles if they were added without consent.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811816637907275984",
-                "https://twitter.com/iambrandonsalt/status/1811479649290948631",
-                "https://twitter.com/aleyda/status/1812088266868285675"
+                "https://twitter.com/rustybrick/status/1811834409965822391",
+                "https://twitter.com/rustybrick/status/1811464472222973967",
+                "https://twitter.com/rustybrick/status/1811729972022903133"
             ]
         },
         {
             "Title": "Majestic Discontinues Disavow Links Feature",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Majestic has decided to discontinue its disavow links feature, emphasizing the importance of focusing on positive SEO practices rather than trying to identify and disavow potentially harmful links.",
+            "Category": "Search Engine Optimization",
+            "Description": "Majestic has decided to discontinue its disavow links feature, stating that they do not identify or report on toxic links and encourage a focus on positive SEO practices.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811797065946616018"
             ]
         },
         {
-            "Title": "Google Expands 3D/AR Objects in Search Results",
-            "Category": "Ecommerce",
-            "Description": "Google is expanding the availability of 3D/AR objects in search results to more retailers, enhancing the shopping experience for consumers and providing new opportunities for businesses to showcase their products.",
+            "Title": "Google's March 2024 Core Update Feedback",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller has stated that the feedback received on the March 2024 core update has been valuable for their evaluations and discussions, suggesting that it has been shared with the search quality and ranking teams.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811456922555490608",
+                "https://www.seroundtable.com/google-feedback-core-update-really-helpful-37715.html"
+            ]
+        },
+        {
+            "Title": "3D/AR Objects in Google Search Results",
+            "Category": "Ecommerce & Search",
+            "Description": "Google is expanding the availability of 3D/AR objects in search results to more retailers beyond those who participated in the initial beta test.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811772822944952515"
+            ]
+        },
+        {
+            "Title": "Ugly Ads Can Be Effective",
+            "Category": "Paid Search Advertising",
+            "Description": "Marketer Barry Hott argues that unconventional and attention-grabbing ads, often perceived as \"ugly,\" can outperform more polished designs by avoiding ad skipping and making a strong first impression.",
+            "Links": [
+                "https://www.practicalecommerce.com/ugly-ads-perform-best-marketer-says"
             ]
         }
     ],
