@@ -3,68 +3,104 @@
         {
             "Title": "Google Search Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google has been busy with several updates to its search engine, including testing auto-playing video thumbnails in search results, confirming that ads can show up below organic featured snippets, and making more use of the right sidebar on desktop and overlays on mobile.",
+            "Description": "Google has been actively updating its search features and algorithms. This includes testing auto-playing video thumbnails in search results, confirming that ads can appear below organic featured snippets, and making more use of the right sidebar on desktop and overlays on mobile. They are also hosting more meetings with creators to discuss the impacts of recent updates like the helpful content update.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811766462253518867",
                 "https://twitter.com/rustybrick/status/1811758912552464433",
-                "https://twitter.com/glenngabe/status/1811754908829335700"
+                "https://twitter.com/glenngabe/status/1811754908829335700",
+                "https://twitter.com/rustybrick/status/1812817135426519293"
             ]
         },
         {
-            "Title": "Bing Tests Voting on Search Results",
-            "Category": "Search Engines",
-            "Description": "Bing is testing a new feature that allows users to vote on search results, with the percentage of up vs. down votes displayed.",
+            "Title": "Bing Search Tests Voting Feature",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing is testing a new feature that allows users to vote on search results, displaying the percentage of up-votes and down-votes.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811762687711592494",
-                "https://twitter.com/rustybrick/status/1811722422124708129",
                 "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
             ]
         },
         {
-            "Title": "Google Search Console Enhancements",
+            "Title": "Google Search Console Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has introduced new settings for businesses to provide shipping and return policy information.",
+            "Description": "Google Search Console has introduced new settings for businesses to provide shipping and return policy information. Additionally, there was a temporary bug with new owner notifications.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811830635197251812",
-                "https://twitter.com/rustybrick/status/1811770237240664229",
-                "https://twitter.com/rustybrick/status/1811727455188812280"
+                "https://twitter.com/rustybrick/status/1811770237240664229"
             ]
         },
         {
-            "Title": "Google My Business Removes Thumbtack Links",
-            "Category": "Local SEO",
-            "Description": "Google My Business is removing Thumbtack booking and appointment links from business profiles.",
+            "Title": "Google Disavow Tool",
+            "Category": "Search Engine Optimization",
+            "Description": "There are discussions about the relevance and impact of Google's disavow tool, particularly regarding large disavow files. John Mueller from Google stated that webmasters should not worry about having or removing large disavow files.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811774012034515062",
-                "https://twitter.com/rustybrick/status/1811729972022903133"
+                "https://twitter.com/glenngabe/status/1811797065946616018",
+                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html",
+                "https://twitter.com/rustybrick/status/1812846075885002780"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews",
+            "Category": "Artificial Intelligence",
+            "Description": "Google's AI-generated overviews in search results are evolving. Reports indicate a decrease in citations from platforms like Reddit and Quora within these overviews. Additionally, there are discussions about how Google selects content for AI overviews, even if it doesn't rank well for the specific query.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1812108902005342256",
+                "https://twitter.com/rustybrick/status/1812812102496895269",
+                "https://twitter.com/glenngabe/status/1811741087532482999"
             ]
         },
         {
             "Title": "OpenAI Developments",
             "Category": "Artificial Intelligence",
-            "Description": "OpenAI is reportedly developing a search product and working on a project code-named \"Strawberry\" to enhance AI model reasoning capabilities.",
+            "Description": "OpenAI is reportedly developing its own search product and working on a project codenamed \"Strawberry\" to enhance AI model reasoning capabilities. The \"Strawberry\" project aims to enable AI models to navigate the internet autonomously for in-depth research.",
             "Links": [
+                "https://twitter.com/glenngabe/status/1812104709068501475",
                 "https://twitter.com/rustybrick/status/1811737413384839189",
-                "https://twitter.com/glenngabe/status/1811734656263369055",
-                "https://twitter.com/glenngabe/status/1812104709068501475"
+                "https://twitter.com/glenngabe/status/1811734656263369055"
             ]
         },
         {
-            "Title": "COPIED Act Targets AI Content Use",
+            "Title": "COPIED Act: Protecting Content from AI",
             "Category": "Artificial Intelligence",
-            "Description": "The COPIED Act, a new Senate bill, seeks to protect artists and journalists' content from unauthorized AI use by giving content owners more control over how their work is used.",
+            "Description": "The US Senate is considering a new bill, the \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\" (COPIED Act), to safeguard artists and journalists' content from unauthorized AI use. The bill aims to provide content owners with legal tools to control the use of their work in AI applications.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572",
                 "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
             ]
         },
         {
+            "Title": "3D/AR Objects in Google Search",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is expanding the availability of 3D and augmented reality (AR) objects in search results to more retailers. This feature, previously in beta, enhances the visual shopping experience for users.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811772822944952515",
+                "https://twitter.com/rustybrick/status/1812849851131949130",
+                "https://twitter.com/glenngabe/status/1812820028984631721"
+            ]
+        },
+        {
+            "Title": "Google My Business Removes Thumbtack Links",
+            "Category": "Local Business",
+            "Description": "Google My Business is removing booking and appointment links from Thumbtack from business profiles.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811774012034515062",
+                "https://twitter.com/rustybrick/status/1811729972022903133"
+            ]
+        },
+        {
+            "Title": "Amazon Launches AI Shopping Assistant Rufus",
+            "Category": "Ecommerce",
+            "Description": "Amazon has released its AI-powered shopping assistant, Rufus, to all US customers using the Amazon mobile app. Rufus, trained on Amazon's vast product catalog, aims to enhance the shopping experience by providing personalized recommendations and assistance.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811795595255861718"
+            ]
+        },
+        {
             "Title": "Majestic Discontinues Disavow Links Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Majestic will no longer offer its disavow links feature, stating that it was never encouraged and is not an effective method for identifying toxic links.",
+            "Description": "Majestic, a popular SEO tool, has discontinued its disavow links feature. The company stated that it never actively encouraged its use and believes it's not an effective method for identifying harmful links.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811797065946616018",
-                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
+                "https://twitter.com/glenngabe/status/1811797065946616018"
             ]
         }
     ],
