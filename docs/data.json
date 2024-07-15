@@ -3,48 +3,28 @@
         {
             "Title": "Google Search Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google has made several updates to its search engine, including testing auto-playing video thumbnails in search results, confirming that ads can show up below organic featured snippets, and making more use of the right sidebar on desktop and overlays on mobile.",
+            "Description": "Google has made several updates to its search engine, including testing auto-playing video thumbnails in search results, confirming that ads can show up below organic featured snippets, and adding new settings for shipping and return information in Google Search Console.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1811830635197251812",
                 "https://twitter.com/rustybrick/status/1811826860289880319",
-                "https://twitter.com/rustybrick/status/1811758912552464433",
-                "https://twitter.com/glenngabe/status/1811754908829335700"
+                "https://twitter.com/rustybrick/status/1811819310593245587"
             ]
         },
         {
             "Title": "Bing Tests Voting on Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is testing a new feature that allows users to vote on search results, with the percentage of votes for each result displayed.",
+            "Category": "Search Engines",
+            "Description": "Bing is testing a new feature that allows users to vote on search results. The feature shows the percentage of votes for those who voted up or down on a particular result.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811823085580124191",
-                "https://twitter.com/rustybrick/status/1811762687711592494",
+                "https://twitter.com/rustybrick/status/1811722422124708129",
                 "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
             ]
         },
         {
-            "Title": "Google Search Console Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has new settings for businesses to enter their shipping and return policies. It also now lets you enter your shipping and return information directly in the settings section.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811830635197251812",
-                "https://twitter.com/rustybrick/status/1811770237240664229",
-                "https://twitter.com/rustybrick/status/1811727455188812280"
-            ]
-        },
-        {
-            "Title": "Google My Business Removes Thumbtack Links",
-            "Category": "Local SEO",
-            "Description": "Google My Business is removing Thumbtack booking and appointment links from business profiles.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1811774012034515062",
-                "https://twitter.com/rustybrick/status/1811729972022903133"
-            ]
-        },
-        {
-            "Title": "OpenAI Developments",
+            "Title": "OpenAI Developing Search Product",
             "Category": "Artificial Intelligence",
-            "Description": "OpenAI is reportedly working on a search product and a project code-named \"Strawberry\" to improve AI model reasoning capabilities.",
+            "Description": "OpenAI is reportedly working on a search product as part of a larger deal with The Atlantic. This news comes amidst growing interest in AI's potential to disrupt the search market.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812104709068501475",
                 "https://twitter.com/rustybrick/status/1811737413384839189",
                 "https://twitter.com/glenngabe/status/1811734656263369055"
             ]
@@ -52,42 +32,75 @@
         {
             "Title": "COPIED Act Seeks to Protect Content from AI Use",
             "Category": "Artificial Intelligence",
-            "Description": "The COPIED Act is a new Senate bill that aims to protect artists' and journalists' content from being used without permission by AI systems.",
+            "Description": "The COPIED Act, a new Senate bill, aims to protect artists and journalists' content from unauthorized AI use. The bill proposes transparency standards to safeguard intellectual property and combat AI-generated misinformation.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572",
                 "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
             ]
         },
         {
-            "Title": "Amazon's AI Shopping Assistant Rufus Launches",
-            "Category": "Ecommerce",
-            "Description": "Amazon's AI shopping assistant, Rufus, is now available to all US customers in the Amazon mobile app.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811795595255861718"
-            ]
-        },
-        {
-            "Title": "Majestic to Discontinue Disavow Links Feature",
+            "Title": "Majestic Discontinues Disavow Links Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Majestic will discontinue its disavow links feature, stating that it is not an effective way to identify toxic links.",
+            "Description": "Majestic has announced the discontinuation of its disavow links feature. The company believes the feature is not an effective method for identifying toxic links and has never actively encouraged its use.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811797065946616018"
             ]
         },
         {
+            "Title": "Google My Business Removes Thumbtack Links",
+            "Category": "Local Search",
+            "Description": "Google My Business is removing Thumbtack booking and appointment links from business profiles. Instructions on how to manually remove these links are circulating online.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811774012034515062",
+                "https://twitter.com/rustybrick/status/1811729972022903133"
+            ]
+        },
+        {
             "Title": "3D/AR Objects Expand in Google Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "3D/AR objects are appearing in Google Search results for more retailers.",
+            "Description": "3D/AR objects are becoming more prevalent in Google Search results, expanding beyond the initial beta phase to encompass a wider range of retailers.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811772822944952515"
             ]
         },
         {
+            "Title": "Google Emphasizes Forums in Search",
+            "Category": "Search Engine Optimization",
+            "Description": "Discussion boards are experiencing a resurgence in popularity, with Google now prioritizing them in search results. This shift highlights the importance of fostering community and engagement on niche websites.",
+            "Links": [
+                "https://searchengineland.com/forums-google-adapt-444065"
+            ]
+        },
+        {
+            "Title": "Amazon Launches AI Shopping Assistant Rufus",
+            "Category": "Ecommerce",
+            "Description": "Amazon has released its AI shopping assistant, Rufus, to all US customers through its mobile app. Rufus, trained on Amazon's extensive product catalog, aims to enhance the shopping experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1811795595255861718"
+            ]
+        },
+        {
             "Title": "Samsung Revamps Bixby with AI Focus",
             "Category": "Artificial Intelligence",
-            "Description": "Samsung is revamping its Bixby voice assistant with a focus on AI to compete with Google Assistant and Apple's Siri.",
+            "Description": "Samsung is giving its Bixby voice assistant an AI-powered makeover, aiming to enhance its competitiveness against rivals like Google Assistant and Apple's Siri.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1811730885831475428"
+            ]
+        },
+        {
+            "Title": "MetaFilter Remains Independent, Resists AI Licensing",
+            "Category": "Technology",
+            "Description": "As MetaFilter celebrates its 25th anniversary, owner Jessamyn West has affirmed her commitment to keeping the platform's archives free from AI licensing agreements.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1812459470854783274"
+            ]
+        },
+        {
+            "Title": "OpenAI's 'Strawberry' Project Aims to Improve AI Reasoning",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI is working on a project codenamed 'Strawberry,' which aims to enhance the reasoning capabilities of AI models, enabling them to perform deep research and navigate the internet autonomously.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1812104709068501475"
             ]
         }
     ],
