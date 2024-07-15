@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Bing Search Tests Voting Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is testing a new feature that allows users to vote on search results, with the voting distribution displayed.",
+            "Title": "Bing Tests Voting on Search Results",
+            "Category": "Search Engines",
+            "Description": "Bing is testing a new feature that allows users to vote on search results, with the percentage of up vs. down votes displayed.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811762687711592494",
                 "https://twitter.com/rustybrick/status/1811722422124708129",
@@ -21,19 +21,28 @@
             ]
         },
         {
-            "Title": "Google Search Console Updates",
+            "Title": "Google Search Console Enhancements",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has rolled out new settings for businesses to provide shipping and return policy information, while also removing Thumbtack booking and appointment links from business profiles.",
+            "Description": "Google Search Console has introduced new settings for businesses to provide shipping and return policy information.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811830635197251812",
                 "https://twitter.com/rustybrick/status/1811770237240664229",
-                "https://twitter.com/rustybrick/status/1811774012034515062"
+                "https://twitter.com/rustybrick/status/1811727455188812280"
+            ]
+        },
+        {
+            "Title": "Google My Business Removes Thumbtack Links",
+            "Category": "Local SEO",
+            "Description": "Google My Business is removing Thumbtack booking and appointment links from business profiles.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1811774012034515062",
+                "https://twitter.com/rustybrick/status/1811729972022903133"
             ]
         },
         {
             "Title": "OpenAI Developments",
             "Category": "Artificial Intelligence",
-            "Description": "OpenAI is reportedly developing a search product and working on a project codenamed \"Strawberry\" to enhance AI model reasoning capabilities.",
+            "Description": "OpenAI is reportedly developing a search product and working on a project code-named \"Strawberry\" to enhance AI model reasoning capabilities.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1811737413384839189",
                 "https://twitter.com/glenngabe/status/1811734656263369055",
@@ -43,50 +52,19 @@
         {
             "Title": "COPIED Act Targets AI Content Use",
             "Category": "Artificial Intelligence",
-            "Description": "The COPIED Act, a new Senate bill, seeks to protect artists and journalists' content from unauthorized AI use by establishing content ownership and integrity standards.",
+            "Description": "The COPIED Act, a new Senate bill, seeks to protect artists and journalists' content from unauthorized AI use by giving content owners more control over how their work is used.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572",
                 "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
             ]
         },
         {
-            "Title": "Majestic to Discontinue Disavow Links Feature",
+            "Title": "Majestic Discontinues Disavow Links Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Majestic announced the discontinuation of its disavow links feature, citing its ineffectiveness in identifying toxic links.",
+            "Description": "Majestic will no longer offer its disavow links feature, stating that it was never encouraged and is not an effective method for identifying toxic links.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811797065946616018"
-            ]
-        },
-        {
-            "Title": "Amazon Launches AI Shopping Assistant Rufus",
-            "Category": "Ecommerce",
-            "Description": "Amazon's AI-powered shopping assistant, Rufus, is now available to all US customers through the Amazon mobile app.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811795595255861718"
-            ]
-        },
-        {
-            "Title": "3D/AR Objects Expand in Google Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is expanding the availability of 3D/AR objects in search results to more retailers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811772822944952515"
-            ]
-        },
-        {
-            "Title": "Samsung Revamps Bixby with AI Focus",
-            "Category": "Artificial Intelligence",
-            "Description": "Samsung is giving its Bixby voice assistant an AI-powered makeover to enhance its competitiveness with Google Assistant and Apple's Siri.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811730885831475428"
-            ]
-        },
-        {
-            "Title": "The Rise of Forums in SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Discussion boards are regaining popularity, with Google now prioritizing them in search results. Learn how to leverage forums for community building and engagement on your website.",
-            "Links": [
-                "https://searchengineland.com/forums-google-adapt-444065"
+                "https://twitter.com/glenngabe/status/1811797065946616018",
+                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
             ]
         }
     ],
