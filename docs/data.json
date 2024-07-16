@@ -9,7 +9,7 @@
             ]
         },
         {
-            "Title": "Google Renders All Pages, Including JavaScript-Heavy Sites, for Search",
+            "Title": "Google Renders All Pages, Including JavaScript-Heavy Sites",
             "Category": "SEO",
             "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing.",
             "Links": [
@@ -18,9 +18,9 @@
             ]
         },
         {
-            "Title": "The Importance of the Bing Index in the Age of AI",
+            "Title": "Bing's Index: Crucial for the Future of SEO",
             "Category": "SEO",
-            "Description": "Bing's index is becoming increasingly important for SEO as it now powers ChatGPT, Apple's Siri, Meta AI, LinkedIn AI, and Microsoft Copilot.",
+            "Description": "Bing's index is becoming increasingly important for SEO as it now powers ChatGPT, Meta AI, LinkedIn AI, and Microsoft Copilot.",
             "Links": [
                 "https://twitter.com/jes_scholz/status/1812693442558087653"
             ]
@@ -35,49 +35,73 @@
             ]
         },
         {
-            "Title": "Google to Increase Communication with Content Creators",
-            "Category": "SEO",
-            "Description": "Google is increasing its efforts to communicate with content creators, with recent meetings and plans for more in the future.",
-            "Links": [
-                "https://www.seroundtable.com/google-creator-meetings-37727.html"
-            ]
-        },
-        {
-            "Title": "Schema.org Gets a Fresh New Look",
-            "Category": "SEO",
-            "Description": "Schema.org has undergone a design refresh, with a new look for both the website and validator.",
-            "Links": [
-                "https://www.seroundtable.com/schema-org-design-update-37710.html"
-            ]
-        },
-        {
-            "Title": "Google's Privacy Sandbox Outage Raises Concerns Among Ad Execs",
-            "Category": "Advertising & Privacy",
+            "Title": "Google's Privacy Sandbox Outage Raises Contractual Concerns",
+            "Category": "Privacy",
             "Description": "Google's Privacy Sandbox outage sparks contractual concerns since its terms of service leave users footing the bill even when it doesn't work.",
             "Links": [
                 "https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/"
             ]
         },
         {
+            "Title": "Schema.org Gets a Design Refresh",
+            "Category": "SEO",
+            "Description": "Schema.org has a new design, it seems like the design went live this week. The Schema.org validator also looks fresh and new.",
+            "Links": [
+                "https://www.seroundtable.com/schema-org-design-update-37710.html"
+            ]
+        },
+        {
+            "Title": "Google to Increase Engagement with Content Creators",
+            "Category": "Content Creation",
+            "Description": "Google is increasing its engagement with content creators, with recent meetings and plans for more in the future.",
+            "Links": [
+                "https://www.seroundtable.com/google-creator-meetings-37727.html"
+            ]
+        },
+        {
             "Title": "The Rise of Longer Videos on YouTube",
-            "Category": "Digital Media",
+            "Category": "Content Creation",
             "Description": "Short-form videos may have surged in popularity over the past several years, but the long-form video format is on the comeback trail.",
             "Links": [
                 "https://digiday.com/future-of-tv/why-longer-videos-are-becoming-more-commonplace-on-youtube/"
             ]
         },
         {
-            "Title": "OpenAI Developing 'Strawberry' Project to Enhance AI Reasoning",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI is working on a project code named 'Strawberry', formerly known as Q*, which aims to improve AI model reasoning capabilities",
+            "Title": "The Challenges of Working with Founder-Influencers",
+            "Category": "Marketing",
+            "Description": "A DTC investor shares insights on the difficulties of navigating the relationship with founder-influencers.",
+            "Links": [
+                "https://digiday.com/marketing/confessions-of-a-dtc-investor-on-the-difficulty-of-dealing-with-the-increasingly-common-founder-influencer/"
+            ]
+        },
+        {
+            "Title": "Retail Media: A Full-Funnel Play for Media Agencies",
+            "Category": "Marketing",
+            "Description": "Media agencies are increasingly leveraging retail media as a full-funnel marketing solution.",
+            "Links": [
+                "https://digiday.com/media-buying/media-buying-briefing-retail-media-has-become-a-full-funnel-play-for-media-agencies/"
+            ]
+        },
+        {
+            "Title": "Navigating Data Security, Stability, and Fairness in the Age of AI",
+            "Category": "AI",
+            "Description": "Agencies are grappling with the challenges of data security, stability, and fairness as AI tools become increasingly prevalent.",
+            "Links": [
+                "https://digiday.com/marketing/everything-is-ai-now-amid-ai-boom-agencies-navigate-data-security-stability-and-fairness/"
+            ]
+        },
+        {
+            "Title": "OpenAI's 'Strawberry' Project Aims to Enhance AI Reasoning",
+            "Category": "AI",
+            "Description": "OpenAI is developing 'Strawberry,' a project focused on improving the reasoning capabilities of AI models.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812104709068501475"
             ]
         },
         {
-            "Title": "COPIED Act Aims to Protect Artists and Journalists from AI Content Scraping",
-            "Category": "Artificial Intelligence",
-            "Description": "New Senate bill seeks to protect artists\u2019 and journalists\u2019 content from AI use. Stands for \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\"",
+            "Title": "COPIED Act: Protecting Artists and Journalists from AI Content Use",
+            "Category": "AI",
+            "Description": "The COPIED Act seeks to safeguard the content of artists and journalists from unauthorized use by AI systems.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572"
             ]
