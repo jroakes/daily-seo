@@ -1,77 +1,87 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has been busy with several updates to its search engine, including testing auto-playing video thumbnails in search results, confirming that ads can now appear below organic featured snippets, and making more use of the right sidebar on desktop and overlays on mobile search results. Google Search Console also has new settings for businesses to enter their shipping and return policies.",
+            "Title": "Google Discover Offers No Content Blocking Options",
+            "Category": "SEO",
+            "Description": "Google confirms no option to block content from Discover, unlike News, highlighting limitations in crawling control.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811766462253518867",
-                "https://twitter.com/rustybrick/status/1811758912552464433",
-                "https://twitter.com/glenngabe/status/1811754908829335700",
-                "https://twitter.com/rustybrick/status/1811770237240664229"
+                "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/"
             ]
         },
         {
-            "Title": "Bing Tests Voting on Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is testing a new feature that allows users to vote on search results, with the percentage of votes for those who voted it up versus voted it down displayed.",
+            "Title": "Google Renders All Pages, Including JavaScript-Heavy Sites, for Search",
+            "Category": "SEO",
+            "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811762687711592494",
-                "https://twitter.com/rustybrick/status/1811722422124708129",
-                "https://www.seroundtable.com/bing-search-testing-voting-feature-37719.html"
+                "https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/",
+                "https://twitter.com/glenngabe/status/1812119592371630503"
             ]
         },
         {
-            "Title": "Google's AI Overviews",
+            "Title": "The Importance of the Bing Index in the Age of AI",
+            "Category": "SEO",
+            "Description": "Bing's index is becoming increasingly important for SEO as it now powers ChatGPT, Apple's Siri, Meta AI, LinkedIn AI, and Microsoft Copilot.",
+            "Links": [
+                "https://twitter.com/jes_scholz/status/1812693442558087653"
+            ]
+        },
+        {
+            "Title": "Google's Disavow Tool: Should You Use It?",
+            "Category": "SEO",
+            "Description": "There's one possible reason to disavow inbound links in circa 2024.",
+            "Links": [
+                "https://www.practicalecommerce.com/why-use-googles-disavow-tool",
+                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
+            ]
+        },
+        {
+            "Title": "Google to Increase Communication with Content Creators",
+            "Category": "SEO",
+            "Description": "Google is increasing its efforts to communicate with content creators, with recent meetings and plans for more in the future.",
+            "Links": [
+                "https://www.seroundtable.com/google-creator-meetings-37727.html"
+            ]
+        },
+        {
+            "Title": "Schema.org Gets a Fresh New Look",
+            "Category": "SEO",
+            "Description": "Schema.org has undergone a design refresh, with a new look for both the website and validator.",
+            "Links": [
+                "https://www.seroundtable.com/schema-org-design-update-37710.html"
+            ]
+        },
+        {
+            "Title": "Google's Privacy Sandbox Outage Raises Concerns Among Ad Execs",
+            "Category": "Advertising & Privacy",
+            "Description": "Google's Privacy Sandbox outage sparks contractual concerns since its terms of service leave users footing the bill even when it doesn't work.",
+            "Links": [
+                "https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/"
+            ]
+        },
+        {
+            "Title": "The Rise of Longer Videos on YouTube",
+            "Category": "Digital Media",
+            "Description": "Short-form videos may have surged in popularity over the past several years, but the long-form video format is on the comeback trail.",
+            "Links": [
+                "https://digiday.com/future-of-tv/why-longer-videos-are-becoming-more-commonplace-on-youtube/"
+            ]
+        },
+        {
+            "Title": "OpenAI Developing 'Strawberry' Project to Enhance AI Reasoning",
             "Category": "Artificial Intelligence",
-            "Description": "Google's AI overviews in search results have not dropped to 7%, as previously reported. Tracking shows that they still make up around 14% of search results. However, Reddit and Quora citations in Google AI Overviews have significantly decreased.",
+            "Description": "OpenAI is working on a project code named 'Strawberry', formerly known as Q*, which aims to improve AI model reasoning capabilities",
             "Links": [
-                "https://twitter.com/glenngabe/status/1811741087532482999",
-                "https://twitter.com/rustybrick/status/1812812102496895269"
+                "https://twitter.com/glenngabe/status/1812104709068501475"
             ]
         },
         {
-            "Title": "OpenAI's Search Engine",
+            "Title": "COPIED Act Aims to Protect Artists and Journalists from AI Content Scraping",
             "Category": "Artificial Intelligence",
-            "Description": "OpenAI is reportedly working on a search product as part of a larger deal with The Atlantic.",
+            "Description": "New Senate bill seeks to protect artists\u2019 and journalists\u2019 content from AI use. Stands for \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1811737413384839189",
-                "https://twitter.com/glenngabe/status/1811734656263369055"
-            ]
-        },
-        {
-            "Title": "Majestic Discontinues Disavow Links Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Majestic will discontinue its disavow links feature, stating that the company never encouraged its use and does not believe it is an effective way to identify toxic links.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811797065946616018"
-            ]
-        },
-        {
-            "Title": "Google and 3D/AR Images in Search",
-            "Category": "Search Engine Optimization",
-            "Description": "3D/AR objects are appearing in Google Search results for more retailers. This feature, previously in beta, is now rolling out more broadly.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1811772822944952515"
-            ]
-        },
-        {
-            "Title": "COPIED Act: Protecting Content from AI",
-            "Category": "Artificial Intelligence",
-            "Description": "The COPIED Act, a new Senate bill, seeks to protect artists' and journalists' content from unauthorized AI use. The bill aims to give content owners more control over how their work is used and prevent AI-generated misinformation.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1812106752978022572",
-                "https://digiday.com/media/ai-briefing-senators-propose-new-regulations-for-privacy-transparency-and-copyright-protections/"
-            ]
-        },
-        {
-            "Title": "Google's Focus on Forums",
-            "Category": "Search Engine Optimization",
-            "Description": "Discussion boards are gaining traction in Google's search results. Google now prioritizes forums, making it crucial for websites to foster community and engagement to improve their search rankings.",
-            "Links": [
-                "https://searchengineland.com/forums-google-adapt-444065"
+                "https://twitter.com/glenngabe/status/1812106752978022572"
             ]
         }
     ],
-    "date": "2024-07-15"
+    "date": "2024-07-16"
 }
