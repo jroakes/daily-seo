@@ -1,71 +1,175 @@
 {
     "data": [
         {
-            "Title": "Google Core Update Expected in Coming Weeks",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has announced that the next core update is expected to roll out in the coming weeks.",
+            "Title": "Google Core Update Coming Soon",
+            "Category": "Search Engines",
+            "Description": "Google has announced that the next core update to its search ranking algorithm is expected to roll out in the coming weeks.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813227338840350738",
-                "https://twitter.com/rustybrick/status/1813182040298385605"
+                "https://twitter.com/rustybrick/status/1813287736356577746",
+                "https://twitter.com/rustybrick/status/1813182040298385605",
+                "https://twitter.com/rustybrick/status/1813227338840350738"
             ]
         },
         {
             "Title": "Google Discover May Offer Content Exclusion for Publishers",
-            "Category": "Search Engine Optimization",
+            "Category": "Search Engines",
             "Description": "Google may give publishers a way to exclude some of their content from Google Discover in the future.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813174490240852218",
-                "https://twitter.com/rustybrick/status/1813216013762388338"
+                "https://twitter.com/rustybrick/status/1813216013762388338",
+                "https://twitter.com/rustybrick/status/1813174490240852218"
             ]
         },
         {
-            "Title": "Google Search Testing New UI Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is testing highlighting words in blue in the search results and using light background colors as well. Additionally, they are testing a \"back to AI Overview\" button after users scroll past the AI Overview.",
+            "Title": "Google Tests Site-Level AI Content Classification Score",
+            "Category": "Search Engines",
+            "Description": "Google may have a site-level AGC artificially generated AI classification score",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813171973477830656",
-                "https://twitter.com/rustybrick/status/1813169456828289080",
-                "https://twitter.com/rustybrick/status/1813212239157207064",
-                "https://twitter.com/rustybrick/status/1813208463918702660"
+                "https://twitter.com/rustybrick/status/1813219788534985042",
+                "https://twitter.com/rustybrick/status/1813177006529397147"
             ]
         },
         {
-            "Title": "Google Business Profiles Chat Feature Discontinued",
-            "Category": "Local Search",
-            "Description": "Google Business Profiles chat feature no longer lets you start new chats. Users are advised to download their chat history.",
+            "Title": "Google's Indifference to Site Publishers Explained",
+            "Category": "Search Engines",
+            "Description": "Google inadvertently reveals reasons that explain their seeming indifference to publishers hurt by algorithm updates",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813179523380486641",
-                "https://twitter.com/rustybrick/status/1813223563450851762"
+                "https://www.searchenginejournal.com/googles-indifference-to-site-publishers-explained/522143/"
             ]
         },
         {
-            "Title": "Google May Use Site-Level AI Content Score",
-            "Category": "Artificial Intelligence",
-            "Description": "Google may have a site-level AGC (artificially generated content) classification score.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813177006529397147",
-                "https://twitter.com/rustybrick/status/1813219788534985042"
-            ]
-        },
-        {
-            "Title": "Google's Handling of JavaScript-Heavy Sites for SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing. This was discussed in a Search Off the Record podcast with Zoe Clifford, John Mueller, and Martin Splitt.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/",
-                "https://twitter.com/glenngabe/status/1812119592371630503"
-            ]
-        },
-        {
-            "Title": "Google's Discover Feed Lacks Content Blocking Options",
-            "Category": "Search Engine Optimization",
+            "Title": "Google Confirms No Option to Block Content from Discover Feed",
+            "Category": "Search Engines",
             "Description": "Google confirms no option to block content from Discover, unlike News, highlighting limitations in crawling control.",
             "Links": [
                 "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/"
             ]
         },
         {
-            "Title": "Understanding Google's Disavow Tool in 2024",
+            "Title": "Google Renders All Pages for Search, Including JavaScript-Heavy Sites",
+            "Category": "Search Engines",
+            "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/"
+            ]
+        },
+        {
+            "Title": "Google to Host More Creator Meetings",
+            "Category": "Search Engines",
+            "Description": "Danny Sullivan from Google says he will be hosting more meetings with creators after a recent meeting with Brandon Saltalamacchia, the founder of Retro Dodo.",
+            "Links": [
+                "https://www.seroundtable.com/google-creator-meetings-37727.html"
+            ]
+        },
+        {
+            "Title": "Google Says Large Disavow Lists Shouldn't Worry Site Owners",
+            "Category": "Search Engines",
+            "Description": "John Mueller from Google was asked if you should worry that massive link disavow lists can hurt you negatively and also if you remove the list that it might also hurt you.  John said you should not be worried at all, when he was asked how worried should you be, he said \"zero.\"",
+            "Links": [
+                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
+            ]
+        },
+        {
+            "Title": "Google Search Tests Highlighting Words in Blue and Using Light Background Colors",
+            "Category": "Search Engines",
+            "Description": "Google Search continues testing highlighting words in blue in the search results and using light background colors as well",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813208463918702660",
+                "https://twitter.com/rustybrick/status/1813169456828289080"
+            ]
+        },
+        {
+            "Title": "Google Search Tests \"Back to AI Overview\" Button",
+            "Category": "Search Engines",
+            "Description": "After you scroll past the AI Overview, Google really wants you to go back to it",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813212239157207064",
+                "https://twitter.com/rustybrick/status/1813171973477830656"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Chat Feature Discontinued",
+            "Category": "Search Engines",
+            "Description": "Google Business Profiles new chat feature no longer works. Make sure to download your chat history.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813223563450851762",
+                "https://twitter.com/rustybrick/status/1813179523380486641"
+            ]
+        },
+        {
+            "Title": "Google Ending \"Notes on Search\" Experiment",
+            "Category": "Search Engines",
+            "Description": "Google is discontinuing its \"Notes on Search\" experiment, which allowed users to add personal notes to search results. The feature was part of Google Search Labs but did not gain enough traction to warrant a full launch.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813255489284718750"
+            ]
+        },
+        {
+            "Title": "June 2024 Core Web Vitals Data Shows Performance Gains, Impacting Page Experience Ranking",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's June 2024 Core Web Vitals (CWV) data shows performance gains across websites, which are expected to influence the Page Experience Ranking Factor in search results.",
+            "Links": [
+                "https://www.searchenginejournal.com/cwv-google-page-experience-ranking-factor-updated/522279/"
+            ]
+        },
+        {
+            "Title": "Assessing Organic Search Ranking Drops: Key Questions and Tools",
+            "Category": "Search Engine Optimization",
+            "Description": "7 Key Questions and Tools to Assess Your Site Organic Search Rankings Drops",
+            "Links": [
+                "https://twitter.com/mjcachon/status/1813109138173710519",
+                "https://twitter.com/aleyda/status/1812957258440929659"
+            ]
+        },
+        {
+            "Title": "The Impact of AI on SEO and Search",
+            "Category": "Search Engine Optimization",
+            "Description": "AI has significantly changed how search engines work and, as a result, how SEO is done. From keyword research to content creation, AI is playing an increasingly important role in the search landscape.",
+            "Links": [
+                "https://www.searchenginejournal.com/ai-has-changed-how-search-works/521724/"
+            ]
+        },
+        {
+            "Title": "Building a Successful SEO Program in the Age of AI",
+            "Category": "Search Engine Optimization",
+            "Description": "A guide on how to build a successful SEO program from the ground up in the age of artificial intelligence, emphasizing the importance of brand authority, high-quality content, and adaptability.",
+            "Links": [
+                "https://searchengineland.com/start-seo-program-ai-age-444112"
+            ]
+        },
+        {
+            "Title": "The Importance of Human-Centric Content in the Age of AI",
+            "Category": "Content Marketing",
+            "Description": "Richard George takes on the debate about the role of humans in content creation.",
+            "Links": [
+                "https://www.prolificnorth.co.uk/feature/developing-a-killer-seo-content-strategy-dont-forget-the-humans-in-the-wake-of-ai/"
+            ]
+        },
+        {
+            "Title": "Content Mapping for Customer Journeys",
+            "Category": "Content Marketing",
+            "Description": "Aligning content with each phase of a buying journey helps drive shoppers to a purchase.",
+            "Links": [
+                "https://www.practicalecommerce.com/content-mapping-for-customer-journeys"
+            ]
+        },
+        {
+            "Title": "Web Image Optimization: Best Practices for Speed and SEO in 2024",
+            "Category": "Web Development",
+            "Description": "Discover essential web image optimization techniques for 2024. Learn best practices for image compression, responsive images, lazy loading, and serving images.",
+            "Links": [
+                "https://hackernoon.com/web-image-optimization-best-practices-for-speed-and-seo-in-2024"
+            ]
+        },
+        {
+            "Title": "Schema.org Gets a Design Refresh",
+            "Category": "Web Development",
+            "Description": "Schema.org has a new design, it seems like the design went live this week. The Schema.org validator also looks fresh and new. It is unclear if there were any other changes made, outside of the design update.",
+            "Links": [
+                "https://www.seroundtable.com/schema-org-design-update-37710.html"
+            ]
+        },
+        {
+            "Title": "Why Use Google's Disavow Tool?",
             "Category": "Search Engine Optimization",
             "Description": "There's one possible reason to disavow inbound links in circa 2024.",
             "Links": [
@@ -73,51 +177,83 @@
             ]
         },
         {
-            "Title": "Google's Stance on Large Disavow Lists",
+            "Title": "Expert Link Building Tips for 2024",
             "Category": "Search Engine Optimization",
-            "Description": "John Mueller from Google says that you should not worry about having massive link disavow lists or removing them, stating that the impact is \"zero.\"",
+            "Description": "The onslaught of artificial intelligence has wreaked havoc on the way content is created and perceived. Optimizing for search engines has undergone many changes but one of the factors that remain critical to optimization is backlinking. SERP ratings are highly impacted by backlinks as per 58.1% SEOs. With quality link building, this is achievable.",
             "Links": [
-                "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
+                "https://thegww.com/winning-at-seo-expert-link-building-tips-for-2024/"
             ]
         },
         {
-            "Title": "Schema.org Gets a Fresh New Look",
+            "Title": "Rogue SEO Specialists Defrauding High DA Publishers",
             "Category": "Search Engine Optimization",
-            "Description": "Schema.org has undergone a design refresh, with both the main site and validator sporting a new look.",
+            "Description": "In the intricate world of digital marketing, Search Engine Optimization (SEO) stands as a cornerstone for enhancing online visibility and driving organic traffic to websites. However, this crucial aspect of online success is increasingly being exploited by unscrupulous individuals posing as SEO specialists.",
             "Links": [
-                "https://www.seroundtable.com/schema-org-design-update-37710.html"
+                "https://bronx.com/rogue-seo-specialists-defraud-high-da-publishers-a-growing-concern/"
             ]
         },
         {
-            "Title": "The Importance of Bing's Index in the Age of AI",
+            "Title": "Ahrefs vs Semrush: Which SEO Tool Is a Better Choice?",
             "Category": "Search Engine Optimization",
-            "Description": "Bing's index is becoming increasingly important for SEO as it now powers ChatGPT, and soon Apple's Siri, Meta AI, LinkedIn AI, and Microsoft Copilot.",
+            "Description": "Here's our comprehensive Ahrefs vs Semrush duel. Which SEO tool to pick, Semrush or Ahrefs? Find out in our first-hand comparison.",
             "Links": [
-                "https://twitter.com/jes_scholz/status/1812693442558087653"
+                "https://gizmodo.com/seo/best-tools/ahrefs-vs-semrush"
             ]
         },
         {
-            "Title": "Google's AI Overviews: Selection and Linking to Sources",
-            "Category": "Artificial Intelligence",
-            "Description": "Rich Sanger SEO and Ryan Jones discuss how Google's AI Overview selects and links to sources, highlighting the potential impact on content ranking.",
+            "Title": "SE Ranking Review 2024: Is this Affordable SEO Tool Any Good?",
+            "Category": "Search Engine Optimization",
+            "Description": "Here's our in-depth review of SE Ranking. After thorough testing, let's see how feature-rich this SEO tool is and whether you should use it.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812108902005342256"
+                "https://gizmodo.com/seo/best-tools/se-ranking"
             ]
         },
         {
-            "Title": "COPIED Act Aims to Protect Content from AI Use",
-            "Category": "Artificial Intelligence",
-            "Description": "The \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\" seeks to protect artists and journalists' content from unauthorized AI use.",
+            "Title": "Best SEO services in 2024",
+            "Category": "Search Engine Optimization",
+            "Description": "Explore the best SEO services to keep your website optimized and generating leads or sales.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812106752978022572"
+                "https://www.cnn.com/cnn-underscored/money/best-seo-services"
             ]
         },
         {
-            "Title": "OpenAI's 'Strawberry' Project: Enhancing AI Reasoning",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI is working on a project code-named 'Strawberry', aiming to improve AI model reasoning capabilities for autonomous internet navigation and research.",
+            "Title": "How Advisors Can Fix Holes in Their Digital Marketing and Do SEO Right",
+            "Category": "Search Engine Optimization",
+            "Description": "Snappy Kraken CEO Robert Sofia reveals advisors' biggest mistakes and the best way to drive referrals, according to research.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812104709068501475"
+                "https://www.thinkadvisor.com/2024/06/20/how-to-fix-holes-in-your-digital-marketing-and-do-seo-the-right-way/"
+            ]
+        },
+        {
+            "Title": "Ranking for keywords and phrases using SEO and digital PR: Conscious Solutions and Hayes Connor",
+            "Category": "Search Engine Optimization",
+            "Description": "At Conscious Solutions, we have been helping law firms become more successful online for over 20 years. In that time, we have worked with all sizes of law firms with different budgets over different time frames",
+            "Links": [
+                "https://www.legalfutures.co.uk/associate-news/ranking-for-keywords-and-phrases-using-seo-and-digital-pr-conscious-solutions-and-hayes-connor"
+            ]
+        },
+        {
+            "Title": "Exa Raises $22MM to Build the Search Engine for AI",
+            "Category": "Artificial Intelligence",
+            "Description": "Exa, a company developing a search engine specifically designed for artificial intelligence, has raised $22 million in funding to further its mission of revolutionizing how users find and interact with AI models and data.",
+            "Links": [
+                "https://www.businesswire.com/news/home/20240716151157/en/Exa-Raises-22MM-to-Build-the-Search-Engine-for-AI"
+            ]
+        },
+        {
+            "Title": "Thrasio Slims Down in Comeback Attempt",
+            "Category": "Ecommerce",
+            "Description": "The Amazon aggregator averaged one acquisition per week during the pandemic. Then it filed for bankruptcy.",
+            "Links": [
+                "https://www.practicalecommerce.com/thrasio-slims-down-in-comeback-attempt"
+            ]
+        },
+        {
+            "Title": "'Digital PR World Offering Guarantee SEO Ranking Services'",
+            "Category": "Search Engine Optimization",
+            "Description": "'Digital PR World Offering Guarantee SEO Ranking Services'",
+            "Links": [
+                "https://www.ahmedabadmirror.com/digital-pr-world-offering-guarantee-seo-ranking-services/81871660.html"
             ]
         }
     ],
