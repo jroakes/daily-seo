@@ -1,114 +1,123 @@
 {
     "data": [
         {
-            "Title": "Google Discover Offers No Content Blocking Options",
-            "Category": "SEO",
-            "Description": "Google confirms no option to block content from Discover, unlike News, highlighting limitations in crawling control.",
+            "Title": "Google Core Update Expected in Coming Weeks",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced that the next core update is expected to roll out in the coming weeks.",
             "Links": [
-                "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/",
-                "https://twitter.com/rustybrick/status/1813174490240852218/"
+                "https://twitter.com/rustybrick/status/1813227338840350738",
+                "https://twitter.com/rustybrick/status/1813182040298385605"
             ]
         },
         {
-            "Title": "Google's Handling of Publisher Concerns Raises Questions",
-            "Category": "SEO",
-            "Description": "Google inadvertently reveals reasons that explain their seeming indifference to publishers hurt by algorithm updates",
+            "Title": "Google Discover May Offer Content Exclusion for Publishers",
+            "Category": "Search Engine Optimization",
+            "Description": "Google may give publishers a way to exclude some of their content from Google Discover in the future.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-indifference-to-site-publishers-explained/522143/"
+                "https://twitter.com/rustybrick/status/1813174490240852218",
+                "https://twitter.com/rustybrick/status/1813216013762388338"
             ]
         },
         {
-            "Title": "Google Emphasizes Full Page Rendering for Search",
-            "Category": "SEO",
-            "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing.",
+            "Title": "Google Search Testing New UI Features",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is testing highlighting words in blue in the search results and using light background colors as well. Additionally, they are testing a \"back to AI Overview\" button after users scroll past the AI Overview.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813171973477830656",
+                "https://twitter.com/rustybrick/status/1813169456828289080",
+                "https://twitter.com/rustybrick/status/1813212239157207064",
+                "https://twitter.com/rustybrick/status/1813208463918702660"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Chat Feature Discontinued",
+            "Category": "Local Search",
+            "Description": "Google Business Profiles chat feature no longer lets you start new chats. Users are advised to download their chat history.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813179523380486641",
+                "https://twitter.com/rustybrick/status/1813223563450851762"
+            ]
+        },
+        {
+            "Title": "Google May Use Site-Level AI Content Score",
+            "Category": "Artificial Intelligence",
+            "Description": "Google may have a site-level AGC (artificially generated content) classification score.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813177006529397147",
+                "https://twitter.com/rustybrick/status/1813219788534985042"
+            ]
+        },
+        {
+            "Title": "Google's Handling of JavaScript-Heavy Sites for SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Google renders all webpages, including JavaScript-heavy sites, for search indexing. This was discussed in a Search Off the Record podcast with Zoe Clifford, John Mueller, and Martin Splitt.",
             "Links": [
                 "https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/",
-                "https://twitter.com/glenngabe/status/1812119592371630503/"
+                "https://twitter.com/glenngabe/status/1812119592371630503"
             ]
         },
         {
-            "Title": "Experts Debate the Role of Humans in Content Creation Amidst AI Rise",
-            "Category": "SEO",
-            "Description": "Richard George takes on the debate about the role of humans in content creation.",
+            "Title": "Google's Discover Feed Lacks Content Blocking Options",
+            "Category": "Search Engine Optimization",
+            "Description": "Google confirms no option to block content from Discover, unlike News, highlighting limitations in crawling control.",
             "Links": [
-                "https://www.prolificnorth.co.uk/feature/developing-a-killer-seo-content-strategy-dont-forget-the-humans-in-the-wake-of-ai/"
+                "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/"
             ]
         },
         {
-            "Title": "The Importance of Backlinking in the Age of AI",
-            "Category": "SEO",
-            "Description": "The onslaught of artificial intelligence has wreaked havoc on the way content is created and perceived. Optimizing for search engines has undergone many changes but one of the factors that remain critical to optimization is backlinking. SERP ratings are highly impacted by backlinks as per 58.1% SEOs. With quality link building, this is achievable.",
-            "Links": [
-                "https://thegww.com/winning-at-seo-expert-link-building-tips-for-2024/"
-            ]
-        },
-        {
-            "Title": "Google's Disavow Tool: Is It Still Relevant in 2024?",
-            "Category": "SEO",
+            "Title": "Understanding Google's Disavow Tool in 2024",
+            "Category": "Search Engine Optimization",
             "Description": "There's one possible reason to disavow inbound links in circa 2024.",
             "Links": [
-                "https://www.practicalecommerce.com/why-use-googles-disavow-tool/",
+                "https://www.practicalecommerce.com/why-use-googles-disavow-tool"
+            ]
+        },
+        {
+            "Title": "Google's Stance on Large Disavow Lists",
+            "Category": "Search Engine Optimization",
+            "Description": "John Mueller from Google says that you should not worry about having massive link disavow lists or removing them, stating that the impact is \"zero.\"",
+            "Links": [
                 "https://www.seroundtable.com/massive-google-disavow-lists-37726.html"
             ]
         },
         {
-            "Title": "Schema.org Unveils a Fresh New Look",
-            "Category": "SEO",
-            "Description": "Schema.org has a new design, it seems like the design went live this week. The Schema.org validator also looks fresh and new. It is unclear if there were any other changes made, outside of the design update.",
+            "Title": "Schema.org Gets a Fresh New Look",
+            "Category": "Search Engine Optimization",
+            "Description": "Schema.org has undergone a design refresh, with both the main site and validator sporting a new look.",
             "Links": [
                 "https://www.seroundtable.com/schema-org-design-update-37710.html"
             ]
         },
         {
-            "Title": "Google Experiments with AI-Generated Content Labels",
-            "Category": "AI",
-            "Description": "@aleyda: \ud83e\uddf5 I can't believe I am about to write this but... the Bing index is crucial in the future of SEO. Why? It's not about Bing the search engine. Bing's index now also powers ChatGPT (and thus, soon Apple's Siri), Meta AI, LinkedIn AI and Microsoft Copilot.",
+            "Title": "The Importance of Bing's Index in the Age of AI",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing's index is becoming increasingly important for SEO as it now powers ChatGPT, and soon Apple's Siri, Meta AI, LinkedIn AI, and Microsoft Copilot.",
             "Links": [
-                "https://twitter.com/jes_scholz/status/1812693442558087653",
-                "https://twitter.com/aleyda/status/1812577624981701034",
-                "https://twitter.com/rustybrick/status/1813177006529397147"
+                "https://twitter.com/jes_scholz/status/1812693442558087653"
             ]
         },
         {
-            "Title": "Google Search Testing New Features: AI Overview Button, Highlighted Words, and Background Colors",
-            "Category": "AI",
-            "Description": "Google Search tests back to AI Overview button - after you scroll past the AI Overview, Google really wants you to go back to it",
+            "Title": "Google's AI Overviews: Selection and Linking to Sources",
+            "Category": "Artificial Intelligence",
+            "Description": "Rich Sanger SEO and Ryan Jones discuss how Google's AI Overview selects and links to sources, highlighting the potential impact on content ranking.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813171973477830656",
-                "https://twitter.com/rustybrick/status/1813169456828289080",
                 "https://twitter.com/glenngabe/status/1812108902005342256"
             ]
         },
         {
-            "Title": "OpenAI Develops 'Strawberry' Project to Enhance AI Reasoning Abilities",
-            "Category": "AI",
-            "Description": "\"Navigate the internet autonomously and reliably to perform deep research\" -> OpenAI is working on a project code named 'Strawberry', formerly known as Q*, which aims to improve AI model reasoning capabilities \"The document describes a project that uses Strawberry models with",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1812104709068501475"
-            ]
-        },
-        {
-            "Title": "New Senate Bill Aims to Protect Artists and Journalists from AI Content Use",
-            "Category": "AI",
-            "Description": "COPIED Act -> New Senate bill seeks to protect artists\u2019 and journalists\u2019 content from AI use. Stands for \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\" \"The bill is designed to give content owners, such as journalists, newspapers, artists,",
+            "Title": "COPIED Act Aims to Protect Content from AI Use",
+            "Category": "Artificial Intelligence",
+            "Description": "The \"Content Origin Protection and Integrity from Edited and Deepfaked Media Act\" seeks to protect artists and journalists' content from unauthorized AI use.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1812106752978022572"
             ]
         },
         {
-            "Title": "Google Business Profiles Chat Feature Discontinued",
-            "Category": "Google Updates",
-            "Description": "Google Business Profiles chat feature no longer lets you start new chats - make sure to download your chat history.",
+            "Title": "OpenAI's 'Strawberry' Project: Enhancing AI Reasoning",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI is working on a project code-named 'Strawberry', aiming to improve AI model reasoning capabilities for autonomous internet navigation and research.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813179523380486641"
-            ]
-        },
-        {
-            "Title": "Google to Increase Engagement with Content Creators",
-            "Category": "Google Updates",
-            "Description": "Brandon Saltalamacchia, the founder of Retro Dodo, covered his meeting he had with Danny Sullivan at Google - he covered it under the title A Brief Meeting With Google After The Apocalypse. Danny Sullivan said later that this was the second time he recently had such a meeting and he is working on setting up the third one soon.",
-            "Links": [
-                "https://www.seroundtable.com/google-creator-meetings-37727.html"
+                "https://twitter.com/glenngabe/status/1812104709068501475"
             ]
         }
     ],
