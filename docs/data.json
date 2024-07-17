@@ -1,17 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google's Web Crawler Simulates \"Idle\" to Improve JavaScript Rendering",
+            "Title": "Google Core Update Expected in Coming Weeks",
             "Category": "Search Engine Optimization",
-            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, leading to improved indexing of deferred content on webpages.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
-            ]
-        },
-        {
-            "Title": "Google's Next Core Update Expected in Coming Weeks",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has announced that its next core update is anticipated to be released in the coming weeks.",
+            "Description": "Google has announced that the next core update to its search algorithms is expected to roll out in the coming weeks.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813287736356577746",
                 "https://twitter.com/glenngabe/status/1813186458838085963",
@@ -19,45 +11,57 @@
             ]
         },
         {
-            "Title": "Google Business Profiles Chat Feature Disabled",
+            "Title": "Google Improves JavaScript Rendering for Search Indexing",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, leading to improved indexing of deferred content.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/",
+                "https://www.searchenginejournal.com/google-renders-all-pages-for-search-including-javascript-heavy-sites/522103/"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Chat Feature Discontinued",
             "Category": "Local Search",
-            "Description": "The new chat feature within Google Business Profiles has ceased to function. Users are advised to download their chat history as a precaution.",
+            "Description": "Google has removed the chat feature from Google Business Profiles. Users are advised to download their chat history as it will no longer be accessible.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813283961277169947",
-                "https://twitter.com/rustybrick/status/1813179523380486641"
+                "https://twitter.com/rustybrick/status/1813179523380486641",
+                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
             ]
         },
         {
             "Title": "Google May Implement Site-Level AI Content Classification",
             "Category": "Artificial Intelligence",
-            "Description": "There are indications that Google might be developing a site-level AGC (Artificially Generated Content) classification score, potentially utilizing AI to assess the extent of AI-generated content on websites.",
+            "Description": "There are indications that Google may be developing a site-level score (AGC) to classify websites based on the extent of artificially generated content.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813280186596749574",
-                "https://twitter.com/rustybrick/status/1813177006529397147"
+                "https://twitter.com/rustybrick/status/1813177006529397147",
+                "https://twitter.com/glenngabe/status/1813185568433410501"
             ]
         },
         {
             "Title": "Google Discover May Offer Content Exclusion for Publishers",
-            "Category": "Content Publishing",
-            "Description": "Google is exploring the possibility of allowing publishers to exclude specific content from appearing in Google Discover, providing greater control over content distribution.",
+            "Category": "Content Discovery",
+            "Description": "Google is exploring the possibility of allowing publishers to exclude specific content from appearing in Google Discover feeds.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813276411681251469",
-                "https://twitter.com/rustybrick/status/1813174490240852218"
+                "https://twitter.com/rustybrick/status/1813174490240852218",
+                "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/"
             ]
         },
         {
-            "Title": "Google Search Tests Return of \"AI Overview\" Button",
+            "Title": "Google Search Tests \"Back to AI Overview\" Button",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search is conducting tests to reintroduce the \"AI Overview\" button, aiming to enhance user engagement with AI-generated summaries in search results.",
+            "Description": "Google is A/B testing a new button in search results that allows users to easily return to the AI-powered overview section after scrolling.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813272637000589774",
                 "https://twitter.com/rustybrick/status/1813171973477830656"
             ]
         },
         {
-            "Title": "Google Search Experiments with Blue Highlighting and Background Colors",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is experimenting with visual changes in search results, including highlighting keywords in blue and incorporating light background colors to potentially improve readability and user experience.",
+            "Title": "Google Search Experiments with Highlighted Words and Background Colors",
+            "Category": "User Interface",
+            "Description": "Google is experimenting with visual changes to its search results pages, including highlighting keywords in blue and using light background colors.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813268861841514989",
                 "https://twitter.com/rustybrick/status/1813169456828289080"
@@ -66,7 +70,7 @@
         {
             "Title": "Google Discontinues \"Notes on Search\" Experiment",
             "Category": "Search Engine Optimization",
-            "Description": "Google has officially ended its \"Notes on Search\" experiment, acknowledging that the feature did not meet user expectations for diverse perspectives in search results.",
+            "Description": "Google has officially ended its \"Notes on Search\" experiment, which allowed users to add notes to search results. The feature is no longer available.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813255489284718750",
                 "https://twitter.com/glenngabe/status/1813251820266946923",
@@ -76,7 +80,7 @@
         {
             "Title": "Taboola Partners with Apple for Native Advertising",
             "Category": "Advertising Technology",
-            "Description": "Taboola's CEO has revealed a partnership with Apple to power native advertising within Apple News and Apple Stocks apps, signaling a significant expansion for the content recommendation platform.",
+            "Description": "Taboola has secured a deal with Apple to power native advertising within the Apple News and Apple Stocks applications.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1813250779970510949"
             ]
@@ -84,43 +88,45 @@
         {
             "Title": "AI Training Datasets Raise Copyright Concerns",
             "Category": "Artificial Intelligence",
-            "Description": "An investigation has uncovered that AI models from companies like Apple, Nvidia, and Anthropic were trained on a dataset containing YouTube video transcripts, including content from sources like The Wall Street Journal, MrBeast, and MIT, raising concerns about copyright infringement and data privacy.",
+            "Description": "An investigation reveals that AI models from companies like Apple, Nvidia, and Anthropic were trained on datasets containing copyrighted material, including YouTube video transcripts.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1813238110890651694"
             ]
         },
         {
-            "Title": "Reddit and Quora Citations Decline in Google AI Overviews",
+            "Title": "Google AI Overviews Show Fewer Citations from Reddit and Quora",
             "Category": "Search Engine Optimization",
-            "Description": "A recent report from BrightEdge indicates a significant decrease in the number of citations from Reddit and Quora appearing in Google's AI Overviews, suggesting a potential shift in Google's algorithm or content preferences.",
+            "Description": "A recent report suggests that Google's AI-powered Overviews feature is displaying fewer citations from sources like Reddit and Quora.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812914023865659573",
-                "https://twitter.com/rustybrick/status/1812853625838043277"
+                "https://twitter.com/rustybrick/status/1812853625838043277",
+                "https://twitter.com/rustybrick/status/1812812102496895269"
             ]
         },
         {
-            "Title": "Google Hosts Meeting with Creators on Search Quality",
-            "Category": "Search Engine Optimization",
-            "Description": "Google held a meeting with creators, including HouseFresh and RetroDodo, to gather feedback on search quality and the impact of recent algorithm updates. The meeting was attended by approximately 50 Google employees and aimed to foster direct communication between creators and the search team.",
+            "Title": "Google Tests AI-Organized Local Search Results",
+            "Category": "Local Search",
+            "Description": "Following similar tests for shopping results, Google is now experimenting with using artificial intelligence to organize local search results.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812916335812485340",
-                "https://twitter.com/rustybrick/status/1812912543566041270"
+                "https://twitter.com/rustybrick/status/1812917798739280346",
+                "https://twitter.com/rustybrick/status/1812857400774320165",
+                "https://twitter.com/rustybrick/status/1812814618852827544"
             ]
         },
         {
-            "Title": "Google Expands Rollout of 3D/AR Images in Search",
-            "Category": "Search Engine Optimization",
-            "Description": "Google appears to be expanding the availability of 3D/AR images in search results to websites that were not part of the initial pilot program, potentially enhancing the visual appeal and interactivity of product listings.",
+            "Title": "Google 3D/AR Images May Roll Out to More Websites",
+            "Category": "Augmented Reality",
+            "Description": "Google appears to be expanding the availability of its 3D and augmented reality image feature to websites that were not part of the initial pilot program.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812910249210192367",
                 "https://twitter.com/rustybrick/status/1812849851131949130",
-                "https://twitter.com/glenngabe/status/1812820028984631721"
+                "https://twitter.com/rustybrick/status/1812809585633505525"
             ]
         },
         {
-            "Title": "Google Downplays Impact of Large Disavow Files",
+            "Title": "Google Downplays Importance of Disavow Files",
             "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller has reassured website owners that having large disavow files or removing them should not have a negative impact on search rankings, suggesting that Google's algorithms are capable of effectively handling link spam without relying heavily on disavowals.",
+            "Description": "Google's John Mueller has stated that website owners should not be overly concerned about having large disavow files or removing them, as they are unlikely to significantly impact rankings.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812906474365981158",
                 "https://twitter.com/rustybrick/status/1812846075885002780",
@@ -128,31 +134,88 @@
             ]
         },
         {
-            "Title": "Schema.org Receives Design Refresh",
-            "Category": "Search Engine Optimization",
-            "Description": "Schema.org, the collaborative initiative for structured data markup, has undergone a design update, including an improved validator to help webmasters implement schema correctly and enhance search engine understanding of website content.",
+            "Title": "Schema.org Receives Design Update",
+            "Category": "Structured Data",
+            "Description": "The Schema.org website has undergone a design refresh, which includes an updated validator tool.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812843307891835264",
                 "https://www.seroundtable.com/schema-org-design-update-37710.html"
             ]
         },
         {
-            "Title": "Google Tests AI-Organized Local Search Results",
-            "Category": "Local Search",
-            "Description": "Following earlier tests for shopping results, Google is now experimenting with AI-powered organization for local search results, potentially leveraging AI to deliver more relevant and personalized results based on user intent and context.",
+            "Title": "Google Search to Support AI-Generated Image Labeling",
+            "Category": "Artificial Intelligence",
+            "Description": "Google Search will soon allow users to label images that have been generated or manipulated using artificial intelligence.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1812857400774320165",
-                "https://twitter.com/rustybrick/status/1812814618852827544"
+                "https://twitter.com/aleyda/status/1812577624981701034"
             ]
         },
         {
-            "Title": "Google to Increase Engagement with Content Creators",
-            "Category": "Content Creation",
-            "Description": "Google has announced plans to host more meetings and engage more actively with content creators, aiming to gather feedback and address concerns related to algorithm updates and the evolving search landscape.",
+            "Title": "Google Search Console Adds Shipping and Returns Configuration",
+            "Category": "Ecommerce",
+            "Description": "Website owners can now configure their shipping and returns settings directly within Google Search Console.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1812921573340270920",
-                "https://twitter.com/rustybrick/status/1812861175773659222",
-                "https://www.seroundtable.com/google-creator-meetings-37727.html"
+                "https://twitter.com/aleyda/status/1812577624981701034"
+            ]
+        },
+        {
+            "Title": "Google Knowledge Panels Now Display Store Ratings",
+            "Category": "Local Search",
+            "Description": "Google has started showing store ratings within knowledge panels, providing users with additional information about businesses.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813539394499830240",
+                "https://twitter.com/rustybrick/status/1813582176572547451"
+            ]
+        },
+        {
+            "Title": "Google Tests Renaming \"Short Videos\" to \"Quick Takes\"",
+            "Category": "User Interface",
+            "Description": "Google is A/B testing a change in terminology within its search results, potentially renaming \"short videos\" to \"quick takes.\"",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813536877959315795",
+                "https://twitter.com/rustybrick/status/1813578401678348639"
+            ]
+        },
+        {
+            "Title": "Google Ads Renames \"Broad Match\" to \"Intent Match\" in Japan",
+            "Category": "Paid Search Advertising",
+            "Description": "Google has renamed its \"broad match\" keyword targeting option to \"intent match\" within Google Ads in Japan.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813534361200857128",
+                "https://twitter.com/rustybrick/status/1813574627198927089"
+            ]
+        },
+        {
+            "Title": "Google Tests Query Refinements for Ad Carousels",
+            "Category": "Paid Search Advertising",
+            "Description": "Google is implementing changes to how query refinements function for ad carousels within search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813531844690014459",
+                "https://twitter.com/rustybrick/status/1813570851742040250"
+            ]
+        },
+        {
+            "Title": "Chrome Updates Core Web Vitals Measurement",
+            "Category": "Web Development",
+            "Description": "The Chrome team has made adjustments to how Interaction to Next Paint (INP) is measured, potentially influencing Core Web Vitals (CWV) data.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813557930664378841"
+            ]
+        },
+        {
+            "Title": "YouTube Explores Thumbnail Customization for Shorts",
+            "Category": "Short-Form Video",
+            "Description": "YouTube is developing a feature that would allow creators to customize the thumbnail frame of their Shorts clips after uploading, including adding text and filters.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813551203235553591"
+            ]
+        },
+        {
+            "Title": "Google Launches Project Oscar for AI-Powered Bug Monitoring",
+            "Category": "Artificial Intelligence",
+            "Description": "Google has introduced Project Oscar, an open-source platform designed to assist product teams in monitoring and resolving software issues and bugs using AI agents.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813544683055816869"
             ]
         }
     ],
