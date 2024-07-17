@@ -11,102 +11,81 @@
             ]
         },
         {
+            "Title": "Google Tests AI-Powered Features for Search and Local Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is experimenting with several new AI-driven features for search, including AI-organized local search results and a return of the \"AI Overview\" button.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813272637000589774",
+                "https://twitter.com/rustybrick/status/1812857400774320165",
+                "https://twitter.com/rustybrick/status/1813171973477830656"
+            ]
+        },
+        {
+            "Title": "Google's Web Crawler Simulates \"Idle\" to Improve JavaScript Rendering",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, potentially improving the indexing of deferred content.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
+            ]
+        },
+        {
             "Title": "Google Business Profiles Chat Feature Disabled",
-            "Category": "Local Business Marketing",
-            "Description": "The new chat feature within Google Business Profiles has stopped working, with users no longer able to initiate new chats. Google recommends downloading chat history.",
+            "Category": "Local Search",
+            "Description": "Google has disabled the new chat feature within Google Business Profiles. Users are advised to download their chat history.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813283961277169947",
                 "https://twitter.com/rustybrick/status/1813179523380486641"
             ]
         },
         {
-            "Title": "Google Tests AI-Powered Features for Search",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with several new AI-driven features for search, including simulating \"idle\" states for better JavaScript rendering, testing an \"AI Overview\" button, highlighting search result words in blue with light backgrounds, and piloting AI-organized local search results.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/",
-                "https://twitter.com/rustybrick/status/1813272637000589774",
-                "https://twitter.com/rustybrick/status/1813268861841514989",
-                "https://twitter.com/rustybrick/status/1812857400774320165"
-            ]
-        },
-        {
-            "Title": "Google Notes on Search Experiment Ends",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has officially ended its \"Notes on Search\" experiment, which allowed users to add notes to search results. The company stated that research indicated people prefer hearing from others like themselves.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813255489284718750",
-                "https://twitter.com/glenngabe/status/1813251820266946923"
-            ]
-        },
-        {
-            "Title": "Google Explores Site-Level AI Content Classification",
-            "Category": "Search Engine Optimization",
-            "Description": "There are indications that Google may be developing a site-level score to classify the extent of artificially generated content.  Industry experts express a desire for Google to improve its detection of sites heavily reliant on AI-generated content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813280186596749574",
-                "https://twitter.com/rustybrick/status/1813177006529397147",
-                "https://twitter.com/glenngabe/status/1813185568433410501"
-            ]
-        },
-        {
-            "Title": "Google Discover Content Exclusion for Publishers Considered",
-            "Category": "Content Marketing",
-            "Description": "Google is exploring the possibility of allowing publishers to exclude specific content from appearing in Google Discover feeds.",
+            "Title": "Google May Offer Publishers More Control Over Discover Feed Content",
+            "Category": "Content Discovery",
+            "Description": "Google is considering giving publishers the ability to exclude specific content from appearing in the Google Discover feed.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813276411681251469",
                 "https://twitter.com/rustybrick/status/1813174490240852218"
             ]
         },
         {
-            "Title": "Taboola Partners with Apple for Native Advertising",
-            "Category": "Advertising & Marketing",
-            "Description": "Taboola has secured a deal with Apple to power native advertising within the Apple News and Apple Stocks apps, leading to a surge in Taboola's stock price.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813250779970510949"
-            ]
-        },
-        {
-            "Title": "AI Training Datasets Raise Copyright Concerns",
-            "Category": "Artificial Intelligence",
-            "Description": "An investigation reveals that AI models from companies like Apple, Nvidia, and Anthropic were trained on datasets containing YouTube video transcripts, including content from sources like the Wall Street Journal, MrBeast, and MIT, raising concerns about copyright and data usage.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813238110890651694"
-            ]
-        },
-        {
-            "Title": "Reddit and Quora Citations Decline in Google AI Overviews",
+            "Title": "Google Notes on Search Experiment Ends",
             "Category": "Search Engine Optimization",
-            "Description": "A new report from BrightEdge indicates a significant decrease in the number of citations from Reddit and Quora appearing in Google's AI Overviews feature.",
+            "Description": "Google has officially ended its \"Notes on Search\" experiment, which allowed users to add notes to search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813255489284718750",
+                "https://twitter.com/glenngabe/status/1813251820266946923"
+            ]
+        },
+        {
+            "Title": "Google's Handling of AI-Generated Content Questioned",
+            "Category": "Artificial Intelligence",
+            "Description": "Concerns are being raised about Google's ability to effectively detect and handle websites that heavily rely on AI-generated content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813185568433410501"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Feature Shows Decline in Reddit and Quora Citations",
+            "Category": "Artificial Intelligence",
+            "Description": "A new report suggests that Google's AI Overviews are displaying fewer citations from sources like Reddit and Quora.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812914023865659573",
-                "https://twitter.com/rustybrick/status/1812853625838043277"
+                "https://twitter.com/rustybrick/status/1812812102496895269"
             ]
         },
         {
-            "Title": "Google Engages with Creators on Search Algorithm Impacts",
+            "Title": "Google May Be Expanding Rollout of 3D/AR Images in Search",
             "Category": "Search Engine Optimization",
-            "Description": "Google held a meeting with creators, including HouseFresh and RetroDodo, to discuss the effects of recent search algorithm updates. The meeting was attended by Google's Search Quality team.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1812912543566041270",
-                "https://twitter.com/glenngabe/status/1812916335812485340",
-                "https://www.seroundtable.com/google-creator-meetings-37727.html"
-            ]
-        },
-        {
-            "Title": "Google Expands 3D/AR Image Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Google appears to be rolling out its 3D/AR image feature to a wider range of websites, beyond those initially included in the pilot program.",
+            "Description": "There are indications that Google is expanding the availability of 3D/AR images in search results beyond the initial beta program.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812910249210192367",
-                "https://twitter.com/rustybrick/status/1812849851131949130",
+                "https://twitter.com/rustybrick/status/1812809585633505525",
                 "https://twitter.com/glenngabe/status/1812820028984631721"
             ]
         },
         {
-            "Title": "Google Downplays Importance of Disavow Files",
+            "Title": "Google Downplays Importance of Disavow Tool",
             "Category": "Search Engine Optimization",
-            "Description": "John Mueller of Google has stated that website owners should not be overly concerned about having large disavow files or removing them, suggesting they have minimal impact on search rankings.",
+            "Description": "Google's John Mueller has stated that website owners should not be overly concerned about having large disavow files or removing them.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812906474365981158",
                 "https://twitter.com/rustybrick/status/1812846075885002780",
@@ -115,27 +94,43 @@
         },
         {
             "Title": "Schema.org Receives Design Update",
-            "Category": "Web Development",
-            "Description": "The Schema.org website has been redesigned, featuring an updated validator and a refreshed visual style.",
+            "Category": "Search Engine Optimization",
+            "Description": "The Schema.org website has been updated with a new design and an updated validator tool.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1812843307891835264",
                 "https://www.seroundtable.com/schema-org-design-update-37710.html"
             ]
         },
         {
-            "Title": "Majestic Removes Disavow Links Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Majestic, an SEO tool provider, has removed its disavow links feature, following a trend also seen with Bing. This move reflects a decreasing emphasis on disavowing links within the SEO community.",
+            "Title": "Taboola Partners with Apple to Power Native Advertising",
+            "Category": "Advertising",
+            "Description": "Taboola has announced a deal with Apple to provide native advertising within the Apple News and Apple Stocks apps.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1812822212031697084"
+                "https://twitter.com/glenngabe/status/1813250779970510949"
             ]
         },
         {
-            "Title": "Google Updates URL Best Practices",
-            "Category": "Web Development",
-            "Description": "Google has updated its URL best practices documentation, advising against using fragments (the part of a URL after the '#') to change page content.",
+            "Title": "AI Used to Analyze Payment Processing Statements",
+            "Category": "Artificial Intelligence",
+            "Description": "AI tools are being developed to help businesses decipher and analyze complex credit card processing statements.",
             "Links": [
-                "https://twitter.com/aleyda/status/1812819942913302765"
+                "https://www.practicalecommerce.com/?p=1539839"
+            ]
+        },
+        {
+            "Title": "Agencies Grapple with Data Security and Fairness in the Age of AI",
+            "Category": "Artificial Intelligence",
+            "Description": "Marketing agencies are navigating the challenges of data security, stability, and fairness as they increasingly adopt AI tools.",
+            "Links": [
+                "https://digiday.com/marketing/everything-is-ai-now-amid-ai-boom-agencies-navigate-data-security-stability-and-fairness/"
+            ]
+        },
+        {
+            "Title": "Concerns Raised Over Google Privacy Sandbox Terms of Service",
+            "Category": "Advertising",
+            "Description": "Advertising executives are expressing concerns about Google's Privacy Sandbox terms of service, particularly regarding potential liability for advertisers during outages.",
+            "Links": [
+                "https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/"
             ]
         }
     ],
