@@ -1,83 +1,87 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has announced a new core update is expected in the coming weeks. The last core update was the March 2024 core update, and many sites are still waiting since September 2023 to see helpful content recoveries.",
+            "Title": "Google Search Notes Feature Discontinued",
+            "Category": "Search Engine Updates",
+            "Description": "Google has officially ended its experiment with the Search Notes feature, which allowed users to add notes to search results. The feature was part of Google Search Labs and was designed to explore how people engage with information from others. Google's research indicated that users prefer to hear from similar individuals, and Notes was an exploration into that concept.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1813585951433847155",
+                "https://twitter.com/rustybrick/status/1813541911149625619",
+                "https://twitter.com/rustybrick/status/1813255489284718750"
+            ]
+        },
+        {
+            "Title": "Google to Release New Core Update in Coming Weeks",
+            "Category": "Search Engine Updates",
+            "Description": "Google has announced a new core update scheduled for release in the coming weeks. This update follows the March 2024 core update, and many websites are still awaiting recoveries from the September 2023 helpful content update. ",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813287736356577746",
                 "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/rustybrick/status/1813227338840350738",
-                "https://twitter.com/rustybrick/status/1813182040298385605"
+                "https://twitter.com/rustybrick/status/1813227338840350738"
             ]
         },
         {
-            "Title": "Google Search Notes Discontinued",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is ending its experiment with Notes on Search. The feature, which was part of Google Search Labs, allowed users to add notes to search results. Google says that it has seen in its research that people want to hear from others like them and Notes was an exploration into that.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813255489284718750",
-                "https://twitter.com/rustybrick/status/1813646349197320525",
-                "https://twitter.com/rustybrick/status/1813585951433847155"
-            ]
-        },
-        {
-            "Title": "Google Testing AI Overviews on Workspace Accounts",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
+            "Title": "Google Tests AI Overviews on Workspace Accounts",
+            "Category": "Search Engine Updates",
+            "Description": "Google is expanding its testing of AI Overviews to include Workspace accounts. This expansion has been observed in various regions, including the UK.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813901782596325651",
                 "https://twitter.com/rustybrick/status/1813944565071753697"
             ]
         },
         {
-            "Title": "Google Business Profiles Chat Feature Discontinued",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Business Profiles' new chat feature is no longer working. Users are reporting that they are unable to start new chats. Google has not yet commented on the issue.",
+            "Title": "Google Merchant Center Next Rolls Out to All Merchants",
+            "Category": "Ecommerce and Shopping",
+            "Description": "Google has begun rolling out the new Google Merchant Center Next to all merchants. The updated platform features a redesigned user interface, enhanced features, and new functionalities.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1813896749338988617",
+                "https://twitter.com/rustybrick/status/1813937014758142343",
+                "https://twitter.com/glenngabe/status/1813979736126947389"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Chat Feature Discontinued",
+            "Category": "Business Profile Updates",
+            "Description": "Google has removed the chat feature from Google Business Profiles. Users are no longer able to initiate new chats, and Google advises downloading chat history before the feature is entirely phased out.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813283961277169947",
                 "https://twitter.com/rustybrick/status/1813223563450851762",
-                "https://twitter.com/rustybrick/status/1813179523380486641",
                 "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Rollout",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
+            "Title": "Google Explores Renaming \"Short Videos\" to \"Quick Takes\"",
+            "Category": "Search Engine Updates",
+            "Description": "Google is experimenting with a change in terminology for short-form video content, potentially renaming \"short videos\" to \"quick takes.\"",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
-                "https://twitter.com/rustybrick/status/1813937014758142343"
+                "https://twitter.com/rustybrick/status/1813578401678348639",
+                "https://twitter.com/rustybrick/status/1813536877959315795"
             ]
         },
         {
-            "Title": "Google's Privacy Sandbox Raises Concerns",
-            "Category": "Digital Marketing",
-            "Description": "Google's Privacy Sandbox outage sparks contractual concerns since its terms of service leave users footing the bill even when it doesn't work.",
+            "Title": "Google Ads Tests Query Refinements for Ad Carousels",
+            "Category": "Online Advertising",
+            "Description": "Google is conducting tests on query refinements specifically for ad carousel placements within its advertising platform.",
             "Links": [
-                "https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/"
+                "https://twitter.com/rustybrick/status/1813631249908641833",
+                "https://twitter.com/rustybrick/status/1813570851742040250",
+                "https://twitter.com/rustybrick/status/1813531844690014459"
             ]
         },
         {
-            "Title": "Taboola Partners with Apple News",
-            "Category": "Digital Marketing",
-            "Description": "Taboola has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps. Taboola's CEO says the deal is a \"major milestone\" for the company.",
+            "Title": "Anthropic Releases Claude App for Android",
+            "Category": "Artificial Intelligence",
+            "Description": "Anthropic has launched an Android app for its AI chatbot, Claude. The app allows users to synchronize conversations across devices, upload images and files for real-time analysis, and interact with the AI assistant on the go.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813293444426817935"
+            ]
+        },
+        {
+            "Title": "Taboola Partners with Apple for Native Advertising",
+            "Category": "Online Advertising",
+            "Description": "Taboola has secured a deal with Apple to provide native advertising within the Apple News and Apple Stocks apps. This partnership marks a significant step for Taboola in expanding its reach within Apple's ecosystem.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1813250779970510949"
-            ]
-        },
-        {
-            "Title": "AI's Impact on SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "This article explores how AI has transformed search engine algorithms and SEO practices, including its impact on keyword research and content creation.",
-            "Links": [
-                "https://www.searchenginejournal.com/ai-has-changed-how-search-works/521724/"
-            ]
-        },
-        {
-            "Title": "Bing's Index Crucial for Future SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing's index is crucial in the future of SEO, not because of Bing the search engine, but because Bing's index now also powers ChatGPT (and thus, soon Apple's Siri), Meta AI, LinkedIn AI and Microsoft Copilot.",
-            "Links": [
-                "https://twitter.com/jes_scholz/status/1812693442558087653"
             ]
         }
     ],
