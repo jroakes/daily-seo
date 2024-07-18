@@ -1,137 +1,83 @@
 {
     "data": [
         {
-            "Title": "Google Ends Notes Search and Discover Labs Experiment",
-            "Category": "Search Engine Updates",
+            "Title": "Google Search Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced a new core update is expected in the coming weeks. The last core update was the March 2024 core update, and many sites are still waiting since September 2023 to see helpful content recoveries.",
+            "Links": [
+                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
+                "https://twitter.com/rustybrick/status/1813227338840350738",
+                "https://twitter.com/rustybrick/status/1813182040298385605"
+            ]
+        },
+        {
+            "Title": "Google Search Notes Discontinued",
+            "Category": "Search Engine Optimization",
             "Description": "Google is ending its experiment with Notes on Search. The feature, which was part of Google Search Labs, allowed users to add notes to search results. Google says that it has seen in its research that people want to hear from others like them and Notes was an exploration into that.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813585951433847155",
-                "https://twitter.com/rustybrick/status/1813541911149625619",
-                "https://twitter.com/rustybrick/status/1813255489284718750"
+                "https://twitter.com/rustybrick/status/1813255489284718750",
+                "https://twitter.com/rustybrick/status/1813646349197320525",
+                "https://twitter.com/rustybrick/status/1813585951433847155"
             ]
         },
         {
-            "Title": "Google Knowledge Panels Now Display Store Ratings",
-            "Category": "Search Engine Updates",
-            "Description": "Google knowledge panels with store ratings (not local stars).",
+            "Title": "Google Testing AI Overviews on Workspace Accounts",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813582176572547451",
-                "https://twitter.com/rustybrick/status/1813539394499830240"
+                "https://twitter.com/rustybrick/status/1813901782596325651",
+                "https://twitter.com/rustybrick/status/1813944565071753697"
             ]
         },
         {
-            "Title": "Google Tests Renaming \"Short Videos\" to \"Quick Takes\"",
-            "Category": "Search Engine Updates",
-            "Description": "Google testing renaming \"short videos\" to \"quick takes\".",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813578401678348639",
-                "https://twitter.com/rustybrick/status/1813536877959315795"
-            ]
-        },
-        {
-            "Title": "Google Ads Japan Renames Broad Match to Intent Match",
-            "Category": "Advertising Platform Updates",
-            "Description": "Google Ads renamed broad match to intent match only in Japan.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813574627198927089",
-                "https://twitter.com/rustybrick/status/1813534361200857128"
-            ]
-        },
-        {
-            "Title": "Google Ads Tests Query Refinements for Ad Carousels",
-            "Category": "Advertising Platform Updates",
-            "Description": "Google testing query refinements for ad carousel placements.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813570851742040250",
-                "https://twitter.com/rustybrick/status/1813531844690014459"
-            ]
-        },
-        {
-            "Title": "New Google Core Update Expected in Coming Weeks",
-            "Category": "Search Engine Updates",
-            "Description": "Google has announced that a new core update will be coming in the coming weeks. The last core update was the March 2024 core update, and many sites are still waiting since September 2023 to see helpful content recoveries.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813287736356577746",
-                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/rustybrick/status/1813227338840350738"
-            ]
-        },
-        {
-            "Title": "Google Business Profiles Chat Feature Disabled",
-            "Category": "Business Profile Updates",
+            "Title": "Google Business Profiles Chat Feature Discontinued",
+            "Category": "Search Engine Optimization",
             "Description": "Google Business Profiles' new chat feature is no longer working. Users are reporting that they are unable to start new chats. Google has not yet commented on the issue.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813283961277169947",
-                "https://twitter.com/rustybrick/status/1813223563450851762"
-            ]
-        },
-        {
-            "Title": "Google May Implement Site-Level AI Content Classification Score",
-            "Category": "Search Engine Updates",
-            "Description": "Google may have a site-level AGC (auto-generated content) artificially generated AI classification score. This score could be used to identify and potentially penalize sites that are using AI to generate content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813280186596749574",
-                "https://twitter.com/rustybrick/status/1813219788534985042"
-            ]
-        },
-        {
-            "Title": "Google May Allow Publishers to Exclude Content from Discover",
-            "Category": "Content Platform Updates",
-            "Description": "Google may give publishers a way to exclude some of their content from Google Discover. This would give publishers more control over how their content is surfaced in Discover.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813276411681251469",
-                "https://twitter.com/rustybrick/status/1813216013762388338"
-            ]
-        },
-        {
-            "Title": "Google Search Tests Return of AI Overview Button",
-            "Category": "Search Engine Updates",
-            "Description": "Google Search is testing bringing back the AI Overview button. The button, which was previously removed, provides users with an AI-generated overview of a search result.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813272637000589774",
-                "https://twitter.com/rustybrick/status/1813212239157207064"
-            ]
-        },
-        {
-            "Title": "Google Search Experiments with Blue Highlighted Words and Light Backgrounds",
-            "Category": "Search Engine Updates",
-            "Description": "Google Search is testing highlighting words in blue in the search results and using light background colors. This is likely part of Google's ongoing efforts to improve the visual presentation of search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813268861841514989",
-                "https://twitter.com/rustybrick/status/1813208463918702660"
-            ]
-        },
-        {
-            "Title": "Google Business Profiles Chat to be Completely Removed, Call History to Follow",
-            "Category": "Business Profile Updates",
-            "Description": "Google Business Profiles' chat feature is no longer allowing users to start new chats. Google recommends that users download their chat history before the feature is completely removed.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1813223563450851762",
                 "https://twitter.com/rustybrick/status/1813179523380486641",
                 "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
             ]
         },
         {
-            "Title": "YouTube Music Tests AI-Generated Conversational Radio",
-            "Category": "Music Platform Updates",
-            "Description": "YouTube Music is testing a new feature called \"AI-generated conversational radio\" in the US. The feature uses AI to create personalized radio stations based on users' listening habits and preferences.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813179284980203981"
-            ]
-        },
-        {
-            "Title": "Google Tests AI Overviews on Workspace Accounts",
-            "Category": "Workspace Updates",
-            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813901782596325651"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Next Rolls Out to All Merchants",
-            "Category": "Ecommerce Platform Updates",
+            "Title": "Google Merchant Center Next Rollout",
+            "Category": "Ecommerce",
             "Description": "Google Merchant Center Next now rolling out to all merchants this month",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617"
+                "https://twitter.com/rustybrick/status/1813896749338988617",
+                "https://twitter.com/rustybrick/status/1813937014758142343"
+            ]
+        },
+        {
+            "Title": "Google's Privacy Sandbox Raises Concerns",
+            "Category": "Digital Marketing",
+            "Description": "Google's Privacy Sandbox outage sparks contractual concerns since its terms of service leave users footing the bill even when it doesn't work.",
+            "Links": [
+                "https://digiday.com/marketing/ad-execs-sound-the-alarm-over-googles-risky-privacy-sandbox-terms/"
+            ]
+        },
+        {
+            "Title": "Taboola Partners with Apple News",
+            "Category": "Digital Marketing",
+            "Description": "Taboola has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps. Taboola's CEO says the deal is a \"major milestone\" for the company.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813250779970510949"
+            ]
+        },
+        {
+            "Title": "AI's Impact on SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "This article explores how AI has transformed search engine algorithms and SEO practices, including its impact on keyword research and content creation.",
+            "Links": [
+                "https://www.searchenginejournal.com/ai-has-changed-how-search-works/521724/"
+            ]
+        },
+        {
+            "Title": "Bing's Index Crucial for Future SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing's index is crucial in the future of SEO, not because of Bing the search engine, but because Bing's index now also powers ChatGPT (and thus, soon Apple's Siri), Meta AI, LinkedIn AI and Microsoft Copilot.",
+            "Links": [
+                "https://twitter.com/jes_scholz/status/1812693442558087653"
             ]
         }
     ],
