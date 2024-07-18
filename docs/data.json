@@ -1,9 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Search Notes Experiment Ends",
-            "Category": "Search Engine Updates",
-            "Description": "Google has discontinued its Search Labs experiment, Notes on Search, which allowed users to add notes to search results. The feature aimed to incorporate user perspectives into search but ultimately did not meet expectations.",
+            "Title": "Google to Release New Core Update in Coming Weeks",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced that a new core update will be coming in the coming weeks. The last core update was the March 2024 core update, and many sites are still waiting since September 2023 to see helpful content recoveries.",
+            "Links": [
+                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
+                "https://twitter.com/rustybrick/status/1813227338840350738",
+                "https://twitter.com/rustybrick/status/1813182040298385605"
+            ]
+        },
+        {
+            "Title": "Google Search Notes Feature Discontinued",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is ending its experiment with Notes on Search. The feature, which was part of Google Search Labs, allowed users to add notes to search results. Google says that it has seen in its research that people want to hear from others like them and Notes was an exploration into that.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813585951433847155",
                 "https://twitter.com/rustybrick/status/1813541911149625619",
@@ -11,118 +21,135 @@
             ]
         },
         {
-            "Title": "Google Knowledge Panels Now Feature Store Ratings",
-            "Category": "Search Engine Updates",
-            "Description": "Google is now displaying store ratings within knowledge panels, providing users with additional information about businesses directly within search results. These ratings are distinct from local star ratings.",
+            "Title": "Google Testing New Search Results Page Design",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search is testing highlighting words in blue in the search results and using light background colors. This is likely part of Google's ongoing efforts to improve the visual presentation of search results.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813582176572547451",
-                "https://twitter.com/rustybrick/status/1813539394499830240"
+                "https://twitter.com/rustybrick/status/1813268861841514989",
+                "https://twitter.com/rustybrick/status/1813208463918702660",
+                "https://twitter.com/rustybrick/status/1813169456828289080"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Discontinues Chat Feature",
+            "Category": "Local Search",
+            "Description": "Google Business Profiles' new chat feature is no longer working. Users are reporting that they are unable to start new chats. Google has not yet commented on the issue.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813283961277169947",
+                "https://twitter.com/rustybrick/status/1813223563450851762",
+                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
+            ]
+        },
+        {
+            "Title": "Google May Allow Publishers to Exclude Content from Discover",
+            "Category": "Content Discovery",
+            "Description": "Google may give publishers a way to exclude some of their content from Google Discover. This would give publishers more control over how their content is surfaced in Discover.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813276411681251469",
+                "https://twitter.com/rustybrick/status/1813216013762388338",
+                "https://twitter.com/rustybrick/status/1813174490240852218"
+            ]
+        },
+        {
+            "Title": "Google's Project Astra: A Universal AI Agent Coming Soon?",
+            "Category": "Artificial Intelligence",
+            "Description": "Google's Project Astra (a universal AI agent) could arrive by the end of the year.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813542996014518520"
+            ]
+        },
+        {
+            "Title": "Anthropic Releases Claude App for Android",
+            "Category": "Artificial Intelligence",
+            "Description": "Anthropic releases Claude app for Android. Users will be able to sync their conversations with Claude across devices and upload photos or files to the app for real-time image analysis.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813293444426817935"
+            ]
+        },
+        {
+            "Title": "YouTube Music Tests AI-Generated Conversational Radio",
+            "Category": "Artificial Intelligence",
+            "Description": "YouTube Music is testing a new feature called \"AI-generated conversational radio\" in the US. The feature uses AI to create personalized radio stations based on users' listening habits and preferences.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813179284980203981"
+            ]
+        },
+        {
+            "Title": "SpreadsheetLLM: A New LLM for Spreadsheet Analysis",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft researchers have unveiled SpreadsheetLLM, an encoding method designed to enable LLMs (large language models) to efficiently understand and analyze complex spreadsheet data.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813178249402273854"
+            ]
+        },
+        {
+            "Title": "Google's Web Crawler Simulates \"Idle\" States for Better JavaScript Rendering",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's web crawler simulates \"idle\" states to better render JavaScript-heavy sites, improving indexing of deferred content on webpages.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
+            ]
+        },
+        {
+            "Title": "Google Confirms No Way to Block Content from Discover Feed",
+            "Category": "Content Discovery",
+            "Description": "Google has confirmed that, unlike the Google News feed, there is currently no method for website owners to block specific content from appearing in the Google Discover feed.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-says-theres-no-way-to-block-content-from-discover-feed/522148/"
+            ]
+        },
+        {
+            "Title": "Google's June 2024 CrUX Data Shows Performance Gains",
+            "Category": "Web Performance",
+            "Description": "Google's June 2024 CrUX data shows performance gains which are expected to inform the Page Experience Ranking Factor",
+            "Links": [
+                "https://www.searchenginejournal.com/cwv-google-page-experience-ranking-factor-updated/522279/"
             ]
         },
         {
             "Title": "Google Tests Renaming \"Short Videos\" to \"Quick Takes\"",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with a change in terminology within its search results, potentially renaming \"short videos\" to \"quick takes.\" This subtle adjustment may reflect Google's evolving approach to video content categorization.",
+            "Category": "Search Engine Optimization",
+            "Description": "Google testing renaming \"short videos\" to \"quick takes\".",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813578401678348639",
                 "https://twitter.com/rustybrick/status/1813536877959315795"
             ]
         },
         {
-            "Title": "Google Ads Japan Replaces Broad Match with Intent Match",
-            "Category": "Advertising Platform Updates",
-            "Description": "Google Ads in Japan has replaced the \"broad match\" keyword targeting option with \"intent match.\" This change suggests a greater emphasis on aligning ads with user intent rather than simply matching keywords.",
+            "Title": "Google Ads Renames Broad Match to Intent Match in Japan",
+            "Category": "Paid Search Advertising",
+            "Description": "Google Ads renamed broad match to intent match only in Japan.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813574627198927089",
                 "https://twitter.com/rustybrick/status/1813534361200857128"
             ]
         },
         {
-            "Title": "Google Ads Introduces Query Refinements for Ad Carousels",
-            "Category": "Advertising Platform Updates",
-            "Description": "Google Ads is testing query refinements for ad carousels, aiming to enhance the relevance of ads displayed within these interactive ad formats. This update could lead to a more tailored ad experience for users.",
+            "Title": "Google Tests Query Refinements for Ad Carousel Placements",
+            "Category": "Paid Search Advertising",
+            "Description": "Google testing query refinements for ad carousel placements.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813570851742040250",
                 "https://twitter.com/rustybrick/status/1813531844690014459"
             ]
         },
         {
-            "Title": "Google's Next Core Update Expected Soon",
-            "Category": "Search Engine Updates",
-            "Description": "Google has announced that its next core update is anticipated in the coming weeks. This update follows the March 2024 core update and may bring significant ranking fluctuations for websites.",
+            "Title": "Google Knowledge Panels Now Display Store Ratings",
+            "Category": "Local Search",
+            "Description": "Google knowledge panels with store ratings (not local stars).",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813287736356577746",
-                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/rustybrick/status/1813227338840350738"
+                "https://twitter.com/rustybrick/status/1813582176572547451",
+                "https://twitter.com/rustybrick/status/1813539394499830240"
             ]
         },
         {
-            "Title": "Google Business Profiles Chat Feature Malfunctions",
-            "Category": "Business Tool Updates",
-            "Description": "The new chat feature within Google Business Profiles is experiencing issues, with users unable to initiate new chats. Google has not yet provided an official statement on the cause or resolution of the problem.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813283961277169947",
-                "https://twitter.com/rustybrick/status/1813223563450851762"
-            ]
-        },
-        {
-            "Title": "Google May Implement Site-Level AI Content Score",
-            "Category": "Search Engine Updates",
-            "Description": "Speculation suggests that Google might be developing a site-level score to assess the extent of artificially generated content (AGC). This score could potentially impact search rankings for websites relying heavily on AI-generated content.",
+            "Title": "Google May Have Site-Level AI Content Classification Score",
+            "Category": "Artificial Intelligence",
+            "Description": "Google may have a site-level AGC (auto-generated content) artificially generated AI classification score. This score could be used to identify and potentially penalize sites that are using AI to generate content.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813280186596749574",
-                "https://twitter.com/rustybrick/status/1813219788534985042"
-            ]
-        },
-        {
-            "Title": "Google Discover May Offer Content Exclusion for Publishers",
-            "Category": "Content Distribution Updates",
-            "Description": "Google is considering providing publishers with the ability to exclude specific content from appearing in Google Discover. This potential update would grant publishers greater control over their content distribution within the platform.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813276411681251469",
-                "https://twitter.com/rustybrick/status/1813216013762388338"
-            ]
-        },
-        {
-            "Title": "Google Search Tests Return of AI Overview Button",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with the reintroduction of the AI Overview button in search results. This button, previously removed, aims to provide users with a concise, AI-generated summary of a search result.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813272637000589774",
-                "https://twitter.com/rustybrick/status/1813212239157207064"
-            ]
-        },
-        {
-            "Title": "Google Search Explores Blue Highlighting and Light Backgrounds",
-            "Category": "Search Engine Updates",
-            "Description": "Google is testing visual enhancements for its search results, including highlighting words in blue and incorporating light background colors. These changes suggest an ongoing effort to improve the readability and visual appeal of search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813268861841514989",
-                "https://twitter.com/rustybrick/status/1813208463918702660"
-            ]
-        },
-        {
-            "Title": "YouTube Music Tests AI-Powered Conversational Radio",
-            "Category": "Music Streaming Updates",
-            "Description": "YouTube Music is piloting a new feature in the US called \"AI-generated conversational radio.\" This feature leverages AI to curate personalized radio stations based on user listening history and preferences.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813179284980203981"
-            ]
-        },
-        {
-            "Title": "Anthropic Releases Claude App for Android",
-            "Category": "AI Chatbot Updates",
-            "Description": "Anthropic has launched its Claude AI chatbot app for Android devices. The app allows users to engage in conversations with Claude, sync conversations across devices, and upload images for real-time analysis.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813293444426817935"
-            ]
-        },
-        {
-            "Title": "Taboola Partners with Apple for Native Advertising",
-            "Category": "Advertising Platform Updates",
-            "Description": "Taboola has secured a partnership with Apple to power native advertising within Apple News and Apple Stocks apps. This collaboration marks a significant step for Taboola in expanding its reach within Apple's ecosystem.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813250779970510949"
+                "https://twitter.com/rustybrick/status/1813219788534985042",
+                "https://twitter.com/rustybrick/status/1813177006529397147"
             ]
         }
     ],
