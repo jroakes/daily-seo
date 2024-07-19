@@ -1,116 +1,255 @@
 {
     "data": [
         {
-            "Title": "Google Confirms Ranking Boost For Country Code Domains",
-            "Category": "SEO",
-            "Description": "Google has confirmed that using country code top-level domains (ccTLDs) can provide a ranking advantage in search results.  Google's Gary Illyes explained that ccTLDs help Google understand the site's target audience and deliver more relevant results to users.  However, he emphasized that using a ccTLD alone is not enough to guarantee high rankings. Websites must also have high-quality content, a good user experience, and other relevant ranking factors.",
+            "Title": "Google Search Algorithm Updates & Volatility",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish) - what are you all noticing?",
             "Links": [
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
-                "https://twitter.com/rustybrick/status/1814264170235486419"
+                "https://twitter.com/rustybrick/status/1813904299182928114",
+                "https://twitter.com/rustybrick/status/1814274236753514801",
+                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202"
             ]
         },
         {
-            "Title": "Google Clarifies H1-H6 Headings For SEO",
-            "Category": "SEO",
-            "Description": "Google's Gary Illyes provided clarification on the use of heading elements (H1-H6) for SEO.  He emphasized that using headings in a semantically correct and hierarchical manner helps Google understand the structure and content of a webpage.  While using multiple H1 tags on a page won't directly harm SEO, it's generally recommended to stick to one H1 tag per page and use other heading tags (H2-H6) to structure subheadings appropriately.",
+            "Title": "Google Clarifies Heading Elements (H1-H6) For SEO",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's Gary Illyes answered a question about heading elements (H1, H2, etc.) and the best way to use them for SEO",
             "Links": [
                 "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
             ]
         },
         {
-            "Title": "How to Evaluate Your SEO Agency's Performance",
-            "Category": "SEO",
-            "Description": "Google's John Mueller offered insights on how to assess the effectiveness of an SEO agency.  He suggested reviewing the agency's communication, reporting, and transparency in explaining their strategies and actions.  Mueller also recommended checking for tangible results, such as improved rankings, traffic, and conversions, rather than solely focusing on vanity metrics.",
+            "Title": "How to Verify an SEO Agency's Work",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's John Mueller shares tips on checking if the SEO company you hired is actually doing the work they promised.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/",
-                "https://twitter.com/rustybrick/status/1814261653997023592"
+                "https://twitter.com/rustybrick/status/1814261653997023592",
+                "https://twitter.com/rustybrick/status/1814303177287909779"
             ]
         },
         {
-            "Title": "Upcoming Google Core Update Expected Soon",
-            "Category": "SEO",
-            "Description": "Google has announced that a new core search algorithm update is expected to be released in the coming weeks.  This update follows the March 2024 core update and is anticipated to bring significant ranking fluctuations.  Many websites are still recovering from previous updates, particularly the September 2023 update, which had a notable impact on helpful content rankings.",
+            "Title": "SEO Trends to Watch in 2024",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Navigate the future of search engine optimization to elevate your online presence and drive meaningful engagement.",
             "Links": [
-                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/rustybrick/status/1813287736356577746",
-                "https://twitter.com/glenngabe/status/1813186458838085963"
+                "https://www.entrepreneur.com/growing-a-business/seo-trends-you-need-to-be-aware-of-right-now/476935"
             ]
         },
         {
-            "Title": "Google Search Notes Feature Discontinued",
-            "Category": "Search Engine Updates",
-            "Description": "Google has officially discontinued the Search Notes feature, which was launched as a Labs experiment eight months ago.  The feature allowed users to add notes to their search results, but it ultimately failed to gain widespread adoption.  Google's decision to retire Search Notes highlights the company's ongoing experimentation and refinement of its search features.",
+            "Title": "5 Steps to Improve Your Website's SEO in 2024",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "These steps will help you to stay ahead of the competition and improve your search engine rankings.",
             "Links": [
-                "https://searchengineland.com/google-ending-notes-on-search-today-444212",
-                "https://twitter.com/rustybrick/status/1813585951433847155",
-                "https://twitter.com/rustybrick/status/1813541911149625619"
+                "https://www.techloy.com/5-steps-to-improve-your-websites-seo-in-2024/"
             ]
         },
         {
-            "Title": "Google Tests AI Overviews and Other Search Features",
-            "Category": "Search Engine Updates",
-            "Description": "Google is actively testing several new features for its search engine, including the return of the \"AI Overview\" button, highlighting words in blue within search results, and using light background colors for certain elements.  These tests indicate Google's ongoing efforts to enhance the search experience and provide users with more informative and visually appealing results.  The company's experimentation with AI Overviews suggests its continued investment in AI-powered search features.",
+            "Title": "Baidu vs. Google: SEO in 2024",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Learn the similarities and differences between Baidu and Google SEO and how to boost your presence in the Chinese search landscape.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813272637000589774",
-                "https://twitter.com/rustybrick/status/1813268861841514989"
+                "https://searchengineland.com/baidu-vs-google-seo-444242"
             ]
         },
         {
-            "Title": "Google's Web Crawler Simulates \"Idle\" States for JavaScript Rendering",
-            "Category": "Search Engine Updates",
-            "Description": "Google's web crawler has been updated to improve its handling of JavaScript-heavy websites.  The crawler now simulates \"idle\" states, allowing it to render content that loads asynchronously after the initial page load.  This enhancement aims to ensure that Google indexes all relevant content on a webpage, even if it relies on JavaScript for rendering.",
+            "Title": "Google Confirms Ranking Boost for Country Code Domains",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's Gary Illyes confirmed that country code domain names perform better in search results because Google gives an edge to local sites",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814264170235486419",
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
+                "https://twitter.com/rustybrick/status/1814306952324809187"
+            ]
+        },
+        {
+            "Title": "The Impact of the EU Digital Markets Act on SEO",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "This tweet shares an article discussing the impact of the EU Digital Markets Act on SEO, including Google's response and research findings.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1813298599607832801"
+            ]
+        },
+        {
+            "Title": "How to start an SEO program from scratch in the AI age",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Find out how to launch a cutting-edge SEO program, focusing on brand authority, content quality and adaptability in this evolving landscape.",
+            "Links": [
+                "https://searchengineland.com/start-seo-program-ai-age-444112"
+            ]
+        },
+        {
+            "Title": "SEO for Higher Education: Best Practices",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "This article provides SEO best practices for higher education institutions to enhance online visibility, increase brand recognition, attract prospective students, and boost enrollment.",
+            "Links": [
+                "https://www.searchenginejournal.com/seo-for-higher-education/519354/"
+            ]
+        },
+        {
+            "Title": "Google's Web Crawler Fakes Being \"Idle\" To Render JavaScript",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, improving the indexing of content that loads after initial page rendering.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Rolls Out with New Features",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next is now available to all merchants, bringing with it several new features and improvements.  One notable addition is the support for supplemental feeds, allowing merchants to provide additional product data and enhance their product listings.  The rollout of Merchant Center Next aims to simplify campaign management and improve the shopping experience for both merchants and consumers.",
+            "Title": "Evolving your SEO strategy for Google's upcoming AI search experience",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "This article discusses the need for adapting SEO strategies in light of Google's upcoming AI-powered search experience, particularly the AI Overviews (AIO) feature.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
-                "https://twitter.com/rustybrick/status/1814259137183670452"
+                "https://www.marketingmag.com.au/featured/evolving-your-seo-strategy-for-googles-upcoming-ai-search-experience/"
             ]
         },
         {
-            "Title": "Google Business Profile Chat Feature Discontinued",
-            "Category": "Business Updates",
-            "Description": "Google has removed the recently introduced chat feature from Google Business Profiles.  The feature, which allowed businesses to communicate with customers directly through their profiles, has been discontinued due to low adoption rates.  Google is also phasing out the call history feature, which allowed businesses to track calls generated from their profiles.",
+            "Title": "5 ways to incorporate trends into your SEO content strategy",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Learn how to integrate trends into your SEO content strategy for improved brand awareness and search performance.",
             "Links": [
-                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199",
-                "https://twitter.com/rustybrick/status/1813283961277169947"
+                "https://searchengineland.com/incorporate-trends-seo-content-strategy-444215"
             ]
         },
         {
-            "Title": "Anthropic Releases Claude AI Chatbot App for Android",
-            "Category": "Artificial Intelligence",
-            "Description": "Anthropic has launched an Android app for its AI chatbot, Claude, intensifying the competition with OpenAI's ChatGPT.  The app allows users to sync conversations across devices, upload images for analysis, and interact with Claude through a mobile interface.  Anthropic's move highlights the growing demand for AI-powered chatbots and their increasing accessibility on mobile platforms.",
+            "Title": "What SEO Should Know About Brand Marketing",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Learn how building a strong brand online prepares SEO professionals for a future driven by brand-first strategies.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813293444426817935"
+                "https://www.searchenginejournal.com/what-seo-should-know-about-brand-marketing-with-mordy-oberstein/522083/"
             ]
         },
         {
-            "Title": "Exa Secures $22 Million to Develop AI-Focused Search Engine",
-            "Category": "Artificial Intelligence",
-            "Description": "Exa, an AI research lab, has raised $22 million in funding to create a search engine specifically designed for the AI era.  The company aims to address the limitations of traditional search engines in handling the complexities of AI-generated content and queries.  Exa's initiative reflects the evolving landscape of search and the need for specialized tools to navigate the growing volume of AI-driven information.",
+            "Title": "Google AI Overviews:  Keyword Trends & Testing",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Data-backed analysis of Google AIO keyword triggers supports patterns observed by digital search marketers",
+            "Links": [
+                "https://www.searchenginejournal.com/research-confirms-google-aio-keyword-trends/522365/",
+                "https://twitter.com/rustybrick/status/1813272637000589774"
+            ]
+        },
+        {
+            "Title": "Google is Testing AI Overviews on Workspace Accounts",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813901782596325651"
+            ]
+        },
+        {
+            "Title": "Exa Raises $22MM to Build the Search Engine for AI",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Exa, an AI research lab, has raised $22 million in funding to develop a search engine specifically designed for the AI age.",
             "Links": [
                 "https://www.martechcube.com/exa-raises-22mm-to-build-the-search-engine-for-ai/"
             ]
         },
         {
-            "Title": "YouTube Music Tests AI-Powered \"Conversational Radio\"",
-            "Category": "Artificial Intelligence",
-            "Description": "YouTube Music is experimenting with an AI-powered \"conversational radio\" feature, allowing users to interact with the platform and personalize their listening experience through voice commands.  The feature, currently being tested in the US, enables users to request specific songs, artists, or genres, as well as provide feedback on the music selection.  YouTube Music's foray into AI-driven radio highlights the growing integration of AI in music streaming services.",
+            "Title": "Anthropic Releases Claude App for Android",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Anthropic has released an Android app for its AI chatbot, Claude, in a move seen as an attempt to compete with ChatGPT.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813179284980203981"
+                "https://twitter.com/glenngabe/status/1813293444426817935"
             ]
         },
         {
-            "Title": "Microsoft Unveils SpreadsheetLLM for AI-Powered Spreadsheet Analysis",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft researchers have introduced SpreadsheetLLM, an encoding method designed to enhance the ability of large language models (LLMs) to understand and analyze complex spreadsheet data.  SpreadsheetLLM aims to bridge the gap between unstructured text and structured data, enabling LLMs to extract insights, automate tasks, and generate reports from spreadsheets more effectively.",
+            "Title": "Google's Project Astra: A Universal AI Agent",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google's Project Astra, a universal AI agent, could be released by the end of the year, according to DeepMind leader Demis Hassabis.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813178249402273854"
+                "https://twitter.com/glenngabe/status/1813542996014518520"
+            ]
+        },
+        {
+            "Title": "Google Search Notes is Dead",
+            "Category": "Search Engines",
+            "Description": "Google launched Notes in Search 8 months ago as a labs experiment - that experiment ends today.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813646349197320525",
+                "https://twitter.com/rustybrick/status/1813585951433847155",
+                "https://searchengineland.com/google-ending-notes-on-search-today-444212"
+            ]
+        },
+        {
+            "Title": "Google Testing New Search Results Features",
+            "Category": "Search Engines",
+            "Description": "Google is testing several new features in its search results, including highlighting words in blue, using light background colors, and renaming \"short videos\" to \"quick takes\".",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813638799395811694",
+                "https://twitter.com/rustybrick/status/1813578401678348639",
+                "https://twitter.com/rustybrick/status/1813536877959315795"
+            ]
+        },
+        {
+            "Title": "Google Knowledge Panels Now Show Store Ratings",
+            "Category": "Search Engines",
+            "Description": "Google is now showing store ratings in knowledge panels, separate from local star ratings.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813642574583984585",
+                "https://twitter.com/rustybrick/status/1813582176572547451",
+                "https://twitter.com/rustybrick/status/1813539394499830240"
+            ]
+        },
+        {
+            "Title": "Google Ads Updates: Intent Match, Query Refinements & More",
+            "Category": "Online Advertising",
+            "Description": "Google Ads has made several updates, including renaming \"broad match\" to \"intent match\" in Japan and testing query refinements for ad carousels.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813635024719368252",
+                "https://twitter.com/rustybrick/status/1813534361200857128",
+                "https://twitter.com/rustybrick/status/1813631249908641833",
+                "https://twitter.com/rustybrick/status/1813570851742040250",
+                "https://twitter.com/rustybrick/status/1813531844690014459"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Rolling Out This Month",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813896749338988617"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next now finally supports supplemental feed/source support",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814259137183670452",
+                "https://twitter.com/rustybrick/status/1814299402841776234"
+            ]
+        },
+        {
+            "Title": "New Ecommerce Tools: July 18, 2024",
+            "Category": "Ecommerce",
+            "Description": "This week: AI-powered shopping assistants, crowdfunding, social commerce, big data, livestream shopping, subscriptions, app development, and cross-border payments.",
+            "Links": [
+                "https://www.practicalecommerce.com/new-ecommerce-tools-july-18-2024"
+            ]
+        },
+        {
+            "Title": "Amazon Prime Day Recap: Shoppers Prioritize Household Items",
+            "Category": "Ecommerce",
+            "Description": "Market research firm Numerator said the average order size on Prime Day so far is $59.78, according to data culled from nearly 7,500 Amazon orders by more than 4,000 households.",
+            "Links": [
+                "https://digiday.com/marketing/amazon-prime-day-recap-shoppers-buy-household-items-over-pricey-splurges-on-first-day/"
+            ]
+        },
+        {
+            "Title": "Google URL Shortener Links to Stop Working in 2025",
+            "Category": "Google Products",
+            "Description": "Google URL Shortener links will no longer be available: \"Links built with the Google URL Shortener in the form goo.gl* will be impacted, and these URLs will no longer return a response after August 25th, 2025.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814266687002493000",
+                "https://twitter.com/aleyda/status/1814272473396850859"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Chat Discontinued",
+            "Category": "Google Products",
+            "Description": "This is just a reminder that Google has discontinued Google Business Profile chat yesterday and call history is going away.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813283961277169947",
+                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
             ]
         }
     ],
