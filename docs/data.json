@@ -1,18 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Search Algorithm Update Expected Soon",
+            "Title": "Google Core Algorithm Update Expected Soon",
             "Category": "Search Engines",
-            "Description": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish). The last core update was the March 2024 core update, any many sites are still waiting since September 2023 to see helpful content recoveries.",
+            "Description": "Google has announced that the next core search algorithm update is expected to roll out in the coming weeks. The last core update was the March 2024 core update, and many sites are still waiting since September 2023 to see helpful content recoveries.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813904299182928114",
+                "https://twitter.com/rustybrick/status/1813287736356577746",
                 "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202"
             ]
         },
         {
             "Title": "Google Clarifies Heading Element Best Practices for SEO",
             "Category": "SEO",
-            "Description": "Google's Gary Illyes answered a question about heading elements (H1, H2, etc.) and the best way to use them for SEO",
+            "Description": "Google's Gary Illyes has provided clarification on the optimal utilization of heading elements (H1, H2, etc.) to enhance SEO performance.",
             "Links": [
                 "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
             ]
@@ -20,23 +21,15 @@
         {
             "Title": "How to Verify Your SEO Agency's Work",
             "Category": "SEO",
-            "Description": "Google's John Mueller shares tips on checking if the SEO company you hired is actually doing the work they promised.",
+            "Description": "Google's John Mueller offers advice on how to determine if your SEO agency is fulfilling its commitments.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
             ]
         },
         {
-            "Title": "Google's Web Crawler Simulates \"Idle\" State to Improve JavaScript Rendering",
+            "Title": "Google Search Notes Feature Discontinued",
             "Category": "Search Engines",
-            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, improving the indexing of content that loads after initial page rendering.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
-            ]
-        },
-        {
-            "Title": "Google Search Notes Experiment Ends",
-            "Category": "Search Engines",
-            "Description": "Google has discontinued its Notes Search and Discover labs experiment. Google launched Notes in Search 8 months ago as a labs experiment - that experiment ends today.",
+            "Description": "Google has officially discontinued its Search Notes experiment, which was launched eight months ago as a labs feature.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813646349197320525",
                 "https://twitter.com/rustybrick/status/1813585951433847155",
@@ -44,45 +37,9 @@
             ]
         },
         {
-            "Title": "Google Testing Store Ratings in Knowledge Panels",
+            "Title": "Google Testing AI Overviews in Workspace Accounts",
             "Category": "Search Engines",
-            "Description": "Google is now showing store ratings in knowledge panels. Google is displaying store ratings, separate from local star ratings, in knowledge panels.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813642574583984585",
-                "https://twitter.com/rustybrick/status/1813582176572547451"
-            ]
-        },
-        {
-            "Title": "Google Experiments with Renaming \"Short Videos\" to \"Quick Takes\"",
-            "Category": "Search Engines",
-            "Description": "Google is testing renaming \"short videos\" to \"quick takes\" in its search results. Google is testing renaming \"short videos\" to \"quick takes\".",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813638799395811694",
-                "https://twitter.com/rustybrick/status/1813578401678348639"
-            ]
-        },
-        {
-            "Title": "Google Ads Japan Renames \"Broad Match\" to \"Intent Match\"",
-            "Category": "Advertising",
-            "Description": "Google Ads Japan has renamed broad match to intent match. Google Ads has renamed \"broad match\" to \"intent match\" in Japan.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813635024719368252",
-                "https://twitter.com/rustybrick/status/1813534361200857128"
-            ]
-        },
-        {
-            "Title": "Google Ads Tests Query Refinements for Ad Carousels",
-            "Category": "Advertising",
-            "Description": "Google Ads is now showing query refinements for ad carousels. Google Ads now shows query refinements for ad carousels.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813631249908641833",
-                "https://twitter.com/rustybrick/status/1813570851742040250"
-            ]
-        },
-        {
-            "Title": "Google Testing AI Overviews on Workspace Accounts",
-            "Category": "Software & Technology",
-            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
+            "Description": "Google is currently testing AI Overviews within Workspace accounts, expanding the reach of this AI-powered search feature.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813901782596325651"
             ]
@@ -90,9 +47,113 @@
         {
             "Title": "Google Merchant Center Next Rolls Out This Month",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
+            "Description": "Google Merchant Center Next is being rolled out to all merchants this month, introducing new features and improvements for managing online stores.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813896749338988617"
+            ]
+        },
+        {
+            "Title": "Google Tests Renaming \"Short Videos\" to \"Quick Takes\"",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with a change in terminology within its search results, potentially renaming \"short videos\" to \"quick takes\".",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813638799395811694",
+                "https://twitter.com/rustybrick/status/1813578401678348639",
+                "https://twitter.com/rustybrick/status/1813536877959315795"
+            ]
+        },
+        {
+            "Title": "Google Ads Japan Renames \"Broad Match\" to \"Intent Match\"",
+            "Category": "Advertising",
+            "Description": "In a region-specific update, Google Ads Japan has replaced the term \"broad match\" with \"intent match\" for its advertising targeting options.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813635024719368252",
+                "https://twitter.com/rustybrick/status/1813534361200857128"
+            ]
+        },
+        {
+            "Title": "Google Tests Query Refinements for Ad Carousels",
+            "Category": "Advertising",
+            "Description": "Google is experimenting with the display of query refinements specifically for ad carousels within search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813631249908641833",
+                "https://twitter.com/rustybrick/status/1813570851742040250",
+                "https://twitter.com/rustybrick/status/1813531844690014459"
+            ]
+        },
+        {
+            "Title": "Google Knowledge Panels Now Display Store Ratings",
+            "Category": "Search Engines",
+            "Description": "Google has introduced store ratings within knowledge panels, providing users with additional information about businesses directly in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813642574583984585",
+                "https://twitter.com/rustybrick/status/1813582176572547451",
+                "https://twitter.com/rustybrick/status/1813539394499830240"
+            ]
+        },
+        {
+            "Title": "Google's Web Crawler Simulates \"Idle\" State for JavaScript Rendering",
+            "Category": "Search Engines",
+            "Description": "Google's web crawler has been enhanced to simulate \"idle\" states, enabling it to more effectively render JavaScript-heavy websites and index dynamically loaded content.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Chat Feature Removed",
+            "Category": "Business",
+            "Description": "Google has removed the recently introduced chat feature from Google Business Profiles, discontinuing this communication channel for businesses.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813283961277169947",
+                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
+            ]
+        },
+        {
+            "Title": "Google Implements Site-Level AI Content Classification Score",
+            "Category": "Search Engines",
+            "Description": "Google is utilizing a site-level AGC (artificially generated content) score to assess websites based on the probability of containing AI-generated content.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813280186596749574"
+            ]
+        },
+        {
+            "Title": "Google May Allow Publishers to Exclude Content from Discover",
+            "Category": "Search Engines",
+            "Description": "Google is exploring the possibility of granting publishers the ability to prevent specific content from appearing in Google Discover.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813276411681251469"
+            ]
+        },
+        {
+            "Title": "Google Tests Return of \"AI Overview\" Button in Search",
+            "Category": "Search Engines",
+            "Description": "Google is conducting tests to potentially reintroduce the \"AI Overview\" button within search results, providing users with an option to access AI-generated summaries.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813272637000589774"
+            ]
+        },
+        {
+            "Title": "Google Experiments with Blue Highlighting and Background Colors in Search",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with visual enhancements in search results, including highlighting words in blue and incorporating light background colors.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813268861841514989"
+            ]
+        },
+        {
+            "Title": "Anthropic Releases Claude AI Chatbot App for Android",
+            "Category": "Artificial Intelligence",
+            "Description": "Anthropic has launched an Android app for its AI chatbot, Claude, aiming to compete with ChatGPT by offering features like conversation syncing and image analysis.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813293444426817935"
+            ]
+        },
+        {
+            "Title": "Exa Secures $22 Million to Develop AI-Focused Search Engine",
+            "Category": "Artificial Intelligence",
+            "Description": "Exa, an AI research lab, has raised $22 million in funding to create a search engine specifically designed for the AI era.",
+            "Links": [
+                "https://www.martechcube.com/exa-raises-22mm-to-build-the-search-engine-for-ai/"
             ]
         }
     ],
