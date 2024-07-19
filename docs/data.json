@@ -1,89 +1,100 @@
 {
     "data": [
         {
-            "Title": "Google Search Notes Feature Discontinued",
-            "Category": "Search Engine Updates",
-            "Description": "Google has officially ended its experiment with the Search Notes feature, which allowed users to add notes to search results. The feature was part of Google Search Labs and was designed to explore how people engage with information from others. Google's research indicated that users prefer to hear from similar individuals, and Notes was an exploration into that concept.",
+            "Title": "Google Search Algorithm Update Expected Soon",
+            "Category": "Search Engines",
+            "Description": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish). The last core update was the March 2024 core update, any many sites are still waiting since September 2023 to see helpful content recoveries.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1813904299182928114",
+                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202"
+            ]
+        },
+        {
+            "Title": "Google Clarifies Heading Element Best Practices for SEO",
+            "Category": "SEO",
+            "Description": "Google's Gary Illyes answered a question about heading elements (H1, H2, etc.) and the best way to use them for SEO",
+            "Links": [
+                "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
+            ]
+        },
+        {
+            "Title": "How to Verify Your SEO Agency's Work",
+            "Category": "SEO",
+            "Description": "Google's John Mueller shares tips on checking if the SEO company you hired is actually doing the work they promised.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
+            ]
+        },
+        {
+            "Title": "Google's Web Crawler Simulates \"Idle\" State to Improve JavaScript Rendering",
+            "Category": "Search Engines",
+            "Description": "Google's web crawler now simulates \"idle\" states to better render JavaScript-heavy websites, improving the indexing of content that loads after initial page rendering.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
+            ]
+        },
+        {
+            "Title": "Google Search Notes Experiment Ends",
+            "Category": "Search Engines",
+            "Description": "Google has discontinued its Notes Search and Discover labs experiment. Google launched Notes in Search 8 months ago as a labs experiment - that experiment ends today.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813646349197320525",
                 "https://twitter.com/rustybrick/status/1813585951433847155",
-                "https://twitter.com/rustybrick/status/1813541911149625619",
-                "https://twitter.com/rustybrick/status/1813255489284718750"
+                "https://searchengineland.com/google-ending-notes-on-search-today-444212"
             ]
         },
         {
-            "Title": "Google to Release New Core Update in Coming Weeks",
-            "Category": "Search Engine Updates",
-            "Description": "Google has announced a new core update scheduled for release in the coming weeks. This update follows the March 2024 core update, and many websites are still awaiting recoveries from the September 2023 helpful content update. ",
+            "Title": "Google Testing Store Ratings in Knowledge Panels",
+            "Category": "Search Engines",
+            "Description": "Google is now showing store ratings in knowledge panels. Google is displaying store ratings, separate from local star ratings, in knowledge panels.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813287736356577746",
-                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/rustybrick/status/1813227338840350738"
+                "https://twitter.com/rustybrick/status/1813642574583984585",
+                "https://twitter.com/rustybrick/status/1813582176572547451"
             ]
         },
         {
-            "Title": "Google Tests AI Overviews on Workspace Accounts",
-            "Category": "Search Engine Updates",
-            "Description": "Google is expanding its testing of AI Overviews to include Workspace accounts. This expansion has been observed in various regions, including the UK.",
+            "Title": "Google Experiments with Renaming \"Short Videos\" to \"Quick Takes\"",
+            "Category": "Search Engines",
+            "Description": "Google is testing renaming \"short videos\" to \"quick takes\" in its search results. Google is testing renaming \"short videos\" to \"quick takes\".",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813901782596325651",
-                "https://twitter.com/rustybrick/status/1813944565071753697"
+                "https://twitter.com/rustybrick/status/1813638799395811694",
+                "https://twitter.com/rustybrick/status/1813578401678348639"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Rolls Out to All Merchants",
-            "Category": "Ecommerce and Shopping",
-            "Description": "Google has begun rolling out the new Google Merchant Center Next to all merchants. The updated platform features a redesigned user interface, enhanced features, and new functionalities.",
+            "Title": "Google Ads Japan Renames \"Broad Match\" to \"Intent Match\"",
+            "Category": "Advertising",
+            "Description": "Google Ads Japan has renamed broad match to intent match. Google Ads has renamed \"broad match\" to \"intent match\" in Japan.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
-                "https://twitter.com/rustybrick/status/1813937014758142343",
-                "https://twitter.com/glenngabe/status/1813979736126947389"
-            ]
-        },
-        {
-            "Title": "Google Business Profiles Chat Feature Discontinued",
-            "Category": "Business Profile Updates",
-            "Description": "Google has removed the chat feature from Google Business Profiles. Users are no longer able to initiate new chats, and Google advises downloading chat history before the feature is entirely phased out.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813283961277169947",
-                "https://twitter.com/rustybrick/status/1813223563450851762",
-                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
-            ]
-        },
-        {
-            "Title": "Google Explores Renaming \"Short Videos\" to \"Quick Takes\"",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with a change in terminology for short-form video content, potentially renaming \"short videos\" to \"quick takes.\"",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813578401678348639",
-                "https://twitter.com/rustybrick/status/1813536877959315795"
+                "https://twitter.com/rustybrick/status/1813635024719368252",
+                "https://twitter.com/rustybrick/status/1813534361200857128"
             ]
         },
         {
             "Title": "Google Ads Tests Query Refinements for Ad Carousels",
-            "Category": "Online Advertising",
-            "Description": "Google is conducting tests on query refinements specifically for ad carousel placements within its advertising platform.",
+            "Category": "Advertising",
+            "Description": "Google Ads is now showing query refinements for ad carousels. Google Ads now shows query refinements for ad carousels.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1813631249908641833",
-                "https://twitter.com/rustybrick/status/1813570851742040250",
-                "https://twitter.com/rustybrick/status/1813531844690014459"
+                "https://twitter.com/rustybrick/status/1813570851742040250"
             ]
         },
         {
-            "Title": "Anthropic Releases Claude App for Android",
-            "Category": "Artificial Intelligence",
-            "Description": "Anthropic has launched an Android app for its AI chatbot, Claude. The app allows users to synchronize conversations across devices, upload images and files for real-time analysis, and interact with the AI assistant on the go.",
+            "Title": "Google Testing AI Overviews on Workspace Accounts",
+            "Category": "Software & Technology",
+            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813293444426817935"
+                "https://twitter.com/rustybrick/status/1813901782596325651"
             ]
         },
         {
-            "Title": "Taboola Partners with Apple for Native Advertising",
-            "Category": "Online Advertising",
-            "Description": "Taboola has secured a deal with Apple to provide native advertising within the Apple News and Apple Stocks apps. This partnership marks a significant step for Taboola in expanding its reach within Apple's ecosystem.",
+            "Title": "Google Merchant Center Next Rolls Out This Month",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813250779970510949"
+                "https://twitter.com/rustybrick/status/1813896749338988617"
             ]
         }
     ],
-    "date": "2024-07-18"
+    "date": "2024-07-19"
 }
