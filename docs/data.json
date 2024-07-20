@@ -3,31 +3,38 @@
         {
             "Title": "Google Search Ranking Volatility Remains High",
             "Category": "SEO",
-            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend.",
+            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend. There has been so much volatility since early May (AFTER the March core update completed), with a number of reversals, that it is not recommended to make huge changes based on that volatility until the next core update rolls out.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814274236753514801",
-                "https://twitter.com/rustybrick/status/1813948339387236598",
-                "https://twitter.com/rustybrick/status/1813904299182928114"
+                "https://twitter.com/glenngabe/status/1813913290910691411"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Title": "Google Merchant Center Next Rolling Out to All Merchants",
             "Category": "Ecommerce",
-            "Description": "RustyBrick announces that Google Merchant Center Next now supports supplemental feeds, a significant update for e-commerce businesses using the platform.",
+            "Description": "Google Merchant Center Next now supports supplemental feeds, a significant update for e-commerce businesses using the platform. Starting this July, it is finally coming to all merchant accounts, with a refreshed user interface, reinvented complex features &amp; new experiences.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814259137183670452",
-                "https://twitter.com/rustybrick/status/1814359800571965522",
-                "https://twitter.com/rustybrick/status/1814299402841776234"
+                "https://twitter.com/glenngabe/status/1813979736126947389"
             ]
         },
         {
             "Title": "Google Confirms Ranking Boost for Country Code Domains",
-            "Category": "International SEO",
-            "Description": "This article reports on Google's confirmation that country code domain names receive a ranking advantage in localized search results, emphasizing the importance of ccTLDs for international SEO.",
+            "Category": "SEO",
+            "Description": "Google confirms that using a country code top-level domain (ccTLD) helps you rank better in a regional version of Google, but it helps even more to use that localized language on your page. This emphasizes the importance of ccTLDs for international SEO.",
             "Links": [
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
-                "https://twitter.com/rustybrick/status/1814367350394929504",
-                "https://twitter.com/rustybrick/status/1814306952324809187"
+                "https://twitter.com/rustybrick/status/1814264170235486419",
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
+            ]
+        },
+        {
+            "Title": "How to Evaluate Your SEO Team's Performance",
+            "Category": "SEO",
+            "Description": "This article summarizes Google's John Mueller's advice on evaluating the effectiveness of an SEO team, emphasizing transparency and measurable results. Google's John Mueller shares tips on checking if the SEO company you hired is actually doing the work they promised.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814303177287909779",
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
+                "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
             ]
         },
         {
@@ -39,37 +46,44 @@
             ]
         },
         {
-            "Title": "Google Chrome May Introduce AI-Powered Product Comparisons",
+            "Title": "Billions of Redirects to Stop Working",
             "Category": "SEO",
-            "Description": "Glenngabe points to potential changes in product review and comparison SEO with Google Chrome exploring an AI-powered feature to simplify product research.",
+            "Description": "Billions of redirects to stop working",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814269405561299257"
+                "https://twitter.com/rustybrick/status/1814310727286652970"
             ]
         },
         {
-            "Title": "How to Evaluate Your SEO Team's Performance",
-            "Category": "SEO",
-            "Description": "This article summarizes Google's John Mueller's advice on evaluating the effectiveness of an SEO team, emphasizing transparency and measurable results.",
-            "Links": [
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
-                "https://twitter.com/rustybrick/status/1814363575395426798",
-                "https://twitter.com/rustybrick/status/1814303177287909779"
-            ]
-        },
-        {
-            "Title": "Google Ends Notes Search and Discover Labs Experiment",
-            "Category": "Google",
-            "Description": "No description available.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813646349197320525"
-            ]
-        },
-        {
-            "Title": "Website Accessibility: Essential for SEO and Legal Compliance",
+            "Title": "Website Accessibility Crucial for Search Ranking and Legal Compliance",
             "Category": "SEO",
             "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
             "Links": [
                 "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
+            ]
+        },
+        {
+            "Title": "Google Search Notes Feature Discontinued",
+            "Category": "SEO",
+            "Description": "Google ends its Notes Search and Discover labs experiment. With Google Notes going away, people are trying to archive them.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813646349197320525",
+                "https://twitter.com/glenngabe/status/1813993617813307739"
+            ]
+        },
+        {
+            "Title": "Teads and Outbrain Rumored to Merge in Ad Tech Deal",
+            "Category": "Advertising",
+            "Description": "The latest installment of ad tech M&A activity is leaving some industry folks surprised.",
+            "Links": [
+                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+            ]
+        },
+        {
+            "Title": "OpenAI Releases GPT-4o Mini",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI launches GPT-4o mini, a smaller, cheaper offshoot of GPT-4o, replacing GPT-3.5 Turbo, with support for all multimodal inputs and outputs coming soon",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813980640968356003"
             ]
         }
     ],
