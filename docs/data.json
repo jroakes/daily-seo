@@ -3,96 +3,92 @@
         {
             "Title": "Google Search Ranking Volatility Remains High",
             "Category": "SEO",
-            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend.",
+            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend. There has been so much volatility since early May, with a number of reversals, that it is not recommended to make huge changes based on that volatility until the next core update rolls out.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814274236753514801",
-                "https://twitter.com/rustybrick/status/1813948339387236598",
                 "https://twitter.com/glenngabe/status/1813913290910691411"
             ]
         },
         {
-            "Title": "Upcoming Google Core Update Expected Soon",
+            "Title": "Upcoming Google Core Update and SEO News Recap",
             "Category": "SEO",
-            "Description": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish) - what are you all noticing?",
+            "Description": "RustyBrick shares a video recap covering major SEO news including an upcoming Google core update, ranking volatility, Search Notes removal, AI Overviews tests, and search ads.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813904299182928114",
-                "https://twitter.com/glenngabe/status/1813910842267570389"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Next Rolls Out to All Merchants",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
-                "https://twitter.com/glenngabe/status/1813979736126947389",
-                "https://twitter.com/rustybrick/status/1814259137183670452"
-            ]
-        },
-        {
-            "Title": "Google Ends Notes Search and Discover Labs Experiment",
-            "Category": "Google",
-            "Description": "ICYMI: Google ends its Notes Search and Discover labs experiment",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813646349197320525"
+                "https://twitter.com/rustybrick/status/1814269180415201353"
             ]
         },
         {
             "Title": "Google Confirms Ranking Boost for Country Code Domains",
             "Category": "SEO",
-            "Description": "This article reports on Google's confirmation that country code domain names receive a ranking advantage in localized search results, emphasizing the importance of ccTLDs for international SEO.",
+            "Description": "This article reports on Google's confirmation that country code domain names receive a ranking advantage in localized search results, emphasizing the importance of ccTLDs for international SEO. Google's advice is that using a ccTLD helps a little to rank better in a regional version of Google, but it helps even more to use that localized language on your page.",
             "Links": [
                 "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
                 "https://twitter.com/rustybrick/status/1814264170235486419"
             ]
         },
         {
-            "Title": "Google's John Mueller Offers Advice on Evaluating SEO Agencies",
+            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next now supports supplemental feeds, a significant update for e-commerce businesses using the platform.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814259137183670452"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Rolling Out to All Merchants",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next is coming to all merchant accounts this month, with a refreshed user interface, reinvented complex features & new experiences.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813896749338988617",
+                "https://twitter.com/glenngabe/status/1813979736126947389"
+            ]
+        },
+        {
+            "Title": "Google to End Support for goo.gl Shortener Links in 2025",
+            "Category": "SEO",
+            "Description": "Aleyda highlights Google's announcement that goo.gl shortener links will stop working after August 25, 2025, potentially impacting existing links.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1814272473396850859"
+            ]
+        },
+        {
+            "Title": "How to Evaluate Your SEO Team's Performance",
             "Category": "SEO",
             "Description": "This article summarizes Google's John Mueller's advice on evaluating the effectiveness of an SEO team, emphasizing transparency and measurable results.",
             "Links": [
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
-                "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
             ]
         },
         {
             "Title": "Google Chrome May Simplify Product Comparisons with AI",
-            "Category": "AI",
+            "Category": "SEO",
             "Description": "Glenngabe points to potential changes in product review and comparison SEO with Google Chrome exploring an AI-powered feature to simplify product research.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Google is Automatically Translating Pages in Search Results",
-            "Category": "Google",
-            "Description": "Google is automatically translating pages in search results for some users, including the title link and snippet. When those users click through to your site, the page is also translated.",
+            "Title": "Google Ends Notes Search and Discover Labs Experiment",
+            "Category": "Search",
+            "Description": "Google has ended its Notes Search and Discover labs experiment.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814656173749998003"
+                "https://twitter.com/rustybrick/status/1813646349197320525"
             ]
         },
         {
-            "Title": "Google's \"GoogleOther\" Crawler Explained",
+            "Title": "Google Testing AI Overviews on Workspace Accounts",
+            "Category": "Search",
+            "Description": "Google is testing AI Overviews on Workspace accounts, including in the UK.  It is unclear if this is related to the AI Overviews being tested in the main search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813901782596325651"
+            ]
+        },
+        {
+            "Title": "Website Accessibility: Essential for SEO and Legal Compliance",
             "Category": "SEO",
-            "Description": "GoogleOther is a generic crawler that may be used by various product teams for fetching publicly accessible content from sites. For example, it may be used for Google Search, Discover, and Assistant.",
+            "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814653981097939261"
-            ]
-        },
-        {
-            "Title": "Chrome to Display Full-Page Warnings for \"Risky\" Downloads",
-            "Category": "Browsers",
-            "Description": "Chrome will start showing full-page warnings for \"risky\" downloads soon. The new full-page \"download warning\" introduced in recent Chrome builds gives users a chance to restore the aborted download process, although Google is asking for a reason.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814646228950319605"
-            ]
-        },
-        {
-            "Title": "Teads and Outbrain Rumored to Merge",
-            "Category": "Advertising",
-            "Description": "The latest installment of ad tech M&A activity is leaving some industry folks surprised.",
-            "Links": [
-                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
             ]
         }
     ],
