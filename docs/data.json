@@ -1,240 +1,77 @@
 {
     "data": [
         {
-            "Title": "Google Confirms Ranking Boost For Country Code Domains",
-            "Category": "SEO",
-            "Description": "Google has confirmed that using a country code domain name (ccTLD) can provide a ranking boost in regional search results.  Google's Gary Illyes explained that ccTLDs help Google understand the site's target audience, giving an edge to local sites. However, it's essential to note that building a ccTLD requires the same effort as any other website, and simply having a ccTLD doesn't guarantee high rankings. Using localized language on the website further enhances its visibility in regional searches.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814264170235486419",
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
-                "https://twitter.com/glenngabe/status/1814274237340713423",
-                "https://twitter.com/rustybrick/status/1814306952324809187",
-                "https://twitter.com/rustybrick/status/1814367350394929504"
-            ]
-        },
-        {
-            "Title": "Google Clarifies Heading Element Usage For SEO",
-            "Category": "SEO",
-            "Description": "Google's Gary Illyes has provided clarification on the use of heading elements (H1-H6) for SEO. While the specific question and answer weren't detailed, this response emphasizes the importance of proper heading structure for website optimization.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
-            ]
-        },
-        {
-            "Title": "How to Evaluate Your SEO Team's Performance: Tips from Google",
-            "Category": "SEO",
-            "Description": "Google's John Mueller offers advice on assessing the effectiveness of your SEO team. While trust is crucial, Mueller suggests actively monitoring their work. This includes reviewing their reports, understanding their strategies, and tracking key metrics like rankings, traffic, and conversions. By staying informed and engaged, you can ensure your SEO team is delivering on their promises.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/",
-                "https://twitter.com/rustybrick/status/1814261653997023592",
-                "https://twitter.com/rustybrick/status/1814303177287909779",
-                "https://twitter.com/rustybrick/status/1814363575395426798",
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
-            ]
-        },
-        {
-            "Title": "Upcoming Google Core Update Expected in Coming Weeks",
-            "Category": "SEO",
-            "Description": "Google has announced an upcoming core search algorithm update expected to roll out in the coming weeks. This update follows the March 2024 core update, and many sites are still awaiting potential recoveries from the September 2023 update. The announcement has sparked anticipation and analysis within the SEO community.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813287736356577746",
-                "https://searchengineland.com/new-google-core-update-coming-in-weeks-444202",
-                "https://twitter.com/glenngabe/status/1813186458838085963"
-            ]
-        },
-        {
             "Title": "Google Search Ranking Volatility Remains High",
             "Category": "SEO",
-            "Description": "Google's search ranking volatility remains elevated, with ongoing fluctuations observed in various search results.  SEO professionals and website owners are advised to monitor their rankings and traffic closely during this period.",
+            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813904299182928114",
-                "https://twitter.com/rustybrick/status/1814274236753514801"
-            ]
-        },
-        {
-            "Title": "Google Search Notes Feature Discontinued",
-            "Category": "Search Engine Updates",
-            "Description": "Google has officially discontinued its Search Notes experiment, which allowed users to add notes to search results. Launched eight months ago as a labs feature, Search Notes is no longer available.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813646349197320525",
-                "https://twitter.com/rustybrick/status/1813585951433847155",
-                "https://twitter.com/rustybrick/status/1813541911149625619",
-                "https://searchengineland.com/google-ending-notes-on-search-today-444212"
-            ]
-        },
-        {
-            "Title": "Google Tests AI-Powered Product Comparisons in Chrome",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with an AI-powered feature for its Chrome browser that aims to simplify product comparisons. The feature, called \"Product Specs,\" leverages Google's AI to extract and summarize product specifications from web pages, making it easier for users to compare different options.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814269405561299257"
-            ]
-        },
-        {
-            "Title": "Google Testing Renaming \"Short Videos\" to \"Quick Takes\"",
-            "Category": "Search Engine Updates",
-            "Description": "Google is conducting tests to potentially rename the \"short videos\" label in its search results to \"quick takes.\" This change suggests a possible shift in terminology for short-form video content within Google Search.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813638799395811694",
-                "https://twitter.com/rustybrick/status/1813578401678348639",
-                "https://twitter.com/rustybrick/status/1813536877959315795"
-            ]
-        },
-        {
-            "Title": "Google Tests Highlighting Words in Blue and Using Light Background Colors in Search Results",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with visual changes to its search results pages, including highlighting specific words in blue and using light background colors. These tests aim to enhance the visual presentation and readability of search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813268861841514989"
-            ]
-        },
-        {
-            "Title": "Google Tests Return of \"AI Overview\" Button in Search Results",
-            "Category": "Search Engine Updates",
-            "Description": "Google is testing the reintroduction of the \"AI Overview\" button in its search results. This button, when present, provides users with AI-generated summaries of relevant information related to their search queries.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813272637000589774"
-            ]
-        },
-        {
-            "Title": "Google to Display Store Ratings in Knowledge Panels",
-            "Category": "Search Engine Updates",
-            "Description": "Google is now incorporating store ratings into its knowledge panels, providing users with insights into the reputation and customer satisfaction of businesses. These ratings are separate from local star ratings and offer a broader perspective on businesses.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813642574583984585",
-                "https://twitter.com/rustybrick/status/1813582176572547451",
-                "https://twitter.com/rustybrick/status/1813539394499830240"
-            ]
-        },
-        {
-            "Title": "Google's Web Crawler Simulates \"Idle\" States for Improved JavaScript Rendering",
-            "Category": "Search Engine Updates",
-            "Description": "Google's web crawler has been enhanced to simulate \"idle\" states, allowing it to better render JavaScript-heavy websites. This improvement enables Google to index content that loads dynamically after the initial page rendering, ensuring more comprehensive search results.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-web-crawler-fakes-being-idle-to-render-javascript/522305/"
-            ]
-        },
-        {
-            "Title": "Google to Potentially Allow Publishers to Exclude Content from Google Discover",
-            "Category": "Search Engine Updates",
-            "Description": "Google is exploring the possibility of giving publishers more control over their content's appearance in Google Discover. This feature, if implemented, would allow publishers to selectively exclude specific content from appearing in Discover feeds.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813276411681251469"
-            ]
-        },
-        {
-            "Title": "Google Tests Query Refinements for Ad Carousel Placements",
-            "Category": "Search Engine Updates",
-            "Description": "Google is experimenting with query refinements for ad carousels in search results. This means that users may see suggested refinements or related searches specifically tailored to the ads displayed in the carousel format.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813631249908641833",
-                "https://twitter.com/rustybrick/status/1813570851742040250",
-                "https://twitter.com/rustybrick/status/1813531844690014459"
-            ]
-        },
-        {
-            "Title": "Google Using Site-Level AGC Score to Classify AI-Generated Content",
-            "Category": "Search Engine Updates",
-            "Description": "Google is utilizing a site-level AGC (Artificially Generated Content) score to assess websites based on the likelihood of containing AI-generated content. This score helps Google identify and potentially flag websites that heavily rely on AI for content creation.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813280186596749574"
-            ]
-        },
-        {
-            "Title": "Google Ads Renames \"Broad Match\" to \"Intent Match\" in Japan",
-            "Category": "Search Engine Updates",
-            "Description": "Google Ads has implemented a terminology change specifically in Japan, renaming the \"broad match\" keyword targeting option to \"intent match.\" This change reflects Google's focus on aligning ad targeting with user intent.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813635024719368252",
-                "https://twitter.com/rustybrick/status/1813534361200857128"
-            ]
-        },
-        {
-            "Title": "Google Business Profile Chat Feature Discontinued",
-            "Category": "Google Business Profile Updates",
-            "Description": "Google has removed the recently introduced chat feature from Google Business Profiles. The feature, which allowed businesses to communicate directly with customers through their profiles, is no longer functional.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813283961277169947",
-                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
-            ]
-        },
-        {
-            "Title": "Google Business Profile Call History Feature to Be Removed",
-            "Category": "Google Business Profile Updates",
-            "Description": "Google has announced the upcoming removal of the call history feature from Google Business Profiles. This feature, which allowed businesses to track calls generated through their profiles, will soon be discontinued.",
-            "Links": [
-                "https://searchengineland.com/google-business-profile-chat-is-gone-and-call-history-going-away-444199"
+                "https://twitter.com/rustybrick/status/1814274236753514801",
+                "https://twitter.com/rustybrick/status/1813948339387236598",
+                "https://twitter.com/rustybrick/status/1813904299182928114"
             ]
         },
         {
             "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next has rolled out support for supplemental feeds, providing merchants with more flexibility and control over their product data. This feature allows businesses to enhance their primary product feeds with additional information, improving the accuracy and completeness of their product listings.",
+            "Description": "RustyBrick announces that Google Merchant Center Next now supports supplemental feeds, a significant update for e-commerce businesses using the platform.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
                 "https://twitter.com/rustybrick/status/1814259137183670452",
-                "https://twitter.com/rustybrick/status/1814299402841776234",
-                "https://twitter.com/rustybrick/status/1814359800571965522"
+                "https://twitter.com/rustybrick/status/1814359800571965522",
+                "https://twitter.com/rustybrick/status/1814299402841776234"
             ]
         },
         {
-            "Title": "Google URL Shortener Links to Stop Working in August 2025",
-            "Category": "Google Products & Services",
-            "Description": "Google has announced that its URL shortener service, which uses the \"goo.gl\" domain, will be discontinued in August 2025. After this date, links created using the Google URL Shortener will no longer function.",
+            "Title": "Google Confirms Ranking Boost for Country Code Domains",
+            "Category": "International SEO",
+            "Description": "This article reports on Google's confirmation that country code domain names receive a ranking advantage in localized search results, emphasizing the importance of ccTLDs for international SEO.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814266687002493000",
-                "https://twitter.com/aleyda/status/1814272473396850859",
-                "https://twitter.com/rustybrick/status/1814371124802626024"
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
+                "https://twitter.com/rustybrick/status/1814367350394929504",
+                "https://twitter.com/rustybrick/status/1814306952324809187"
             ]
         },
         {
-            "Title": "Anthropic Releases Claude AI Chatbot App for Android",
-            "Category": "Artificial Intelligence",
-            "Description": "Anthropic has launched an Android app for its AI chatbot, Claude, aiming to compete with ChatGPT. The app allows users to sync conversations across devices, upload images for analysis, and interact with Claude on the go.",
+            "Title": "Google to End Support for goo.gl Shortener Links in 2025",
+            "Category": "SEO",
+            "Description": "Aleyda highlights Google's announcement that goo.gl shortener links will stop working after August 25, 2025, potentially impacting existing links.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813293444426817935"
+                "https://twitter.com/aleyda/status/1814272473396850859"
             ]
         },
         {
-            "Title": "Exa Raises $22 Million to Develop AI-Focused Search Engine",
-            "Category": "Artificial Intelligence",
-            "Description": "Exa, an AI research lab, has secured $22 million in funding to build a search engine specifically designed for the AI era. The search engine aims to cater to the unique demands of searching and retrieving information in an AI-driven world.",
+            "Title": "Google Chrome May Introduce AI-Powered Product Comparisons",
+            "Category": "SEO",
+            "Description": "Glenngabe points to potential changes in product review and comparison SEO with Google Chrome exploring an AI-powered feature to simplify product research.",
             "Links": [
-                "https://www.martechcube.com/exa-raises-22mm-to-build-the-search-engine-for-ai/"
+                "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Google's Project Astra: Universal AI Agent Expected by Year-End",
-            "Category": "Artificial Intelligence",
-            "Description": "Google's Project Astra, a universal AI agent, is anticipated to be released by the end of the year, according to DeepMind leader Demis Hassabis. This ambitious project aims to create a highly versatile AI agent capable of performing a wide range of tasks.",
+            "Title": "How to Evaluate Your SEO Team's Performance",
+            "Category": "SEO",
+            "Description": "This article summarizes Google's John Mueller's advice on evaluating the effectiveness of an SEO team, emphasizing transparency and measurable results.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813542996014518520"
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
+                "https://twitter.com/rustybrick/status/1814363575395426798",
+                "https://twitter.com/rustybrick/status/1814303177287909779"
             ]
         },
         {
-            "Title": "Microsoft Unveils SpreadsheetLLM for Enhanced Spreadsheet Data Analysis",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft researchers have introduced SpreadsheetLLM, an encoding method designed to enable Large Language Models (LLMs) to effectively understand and analyze complex spreadsheet data. This innovation has the potential to revolutionize spreadsheet-based tasks, from automating data analysis to generating insights.",
+            "Title": "Google Ends Notes Search and Discover Labs Experiment",
+            "Category": "Google",
+            "Description": "No description available.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1813178249402273854"
+                "https://twitter.com/rustybrick/status/1813646349197320525"
             ]
         },
         {
-            "Title": "Study Highlights Concerns About Data Accessibility for AI Training",
-            "Category": "Artificial Intelligence",
-            "Description": "A recent study has raised concerns about the decreasing accessibility of data used for training AI models. The study found that a significant portion of data from popular AI training datasets has become restricted, potentially hindering the development and advancement of AI technologies.",
+            "Title": "Website Accessibility: Essential for SEO and Legal Compliance",
+            "Category": "SEO",
+            "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814345965769502873"
-            ]
-        },
-        {
-            "Title": "YouTube Music Tests AI-Powered \"Conversational Radio\"",
-            "Category": "Artificial Intelligence",
-            "Description": "YouTube Music is currently testing an AI-generated \"conversational radio\" feature in the United States. This feature aims to provide users with a more interactive and personalized radio listening experience, leveraging AI to curate music selections based on user preferences and real-time interactions.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813179284980203981"
+                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
             ]
         }
     ],
-    "date": "2024-07-19"
+    "date": "2024-07-20"
 }
