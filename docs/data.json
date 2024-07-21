@@ -3,57 +3,76 @@
         {
             "Title": "Google Search Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search is experiencing ongoing ranking volatility and a core update is expected soon. The company also confirmed that using a country code top-level domain (ccTLD) can improve regional ranking, but using localized language is even more beneficial. Additionally, Google is testing AI Overviews on Workspace accounts and bolding search queries in the search box.",
+            "Description": "Google Search is experiencing increased ranking volatility as a core update is expected soon. Google has also confirmed that using a country code top-level domain (ccTLD) can improve regional ranking, but using localized language on the page is even more beneficial.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814274236753514801",
-                "https://twitter.com/rustybrick/status/1814306952324809187",
                 "https://twitter.com/glenngabe/status/1814274237340713423",
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
+                "https://twitter.com/rustybrick/status/1814264170235486419"
             ]
         },
         {
-            "Title": "Google URL Shortener Discontinuation",
-            "Category": "Technology",
-            "Description": "Google is discontinuing its URL shortening service, goo.gl, rendering billions of redirects inoperable. Users are advised to transition to alternative services.",
+            "Title": "Google Chrome New Features",
+            "Category": "Web Browsers",
+            "Description": "Google Chrome will soon display full-page warnings for downloads deemed \"risky.\" The new warning allows users to restore aborted downloads but prompts them to explain why they want to proceed. Google aims to gather user feedback on download behaviors.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814310727286652970",
-                "https://twitter.com/rustybrick/status/1814266687002493000",
-                "https://twitter.com/aleyda/status/1814272473396850859",
-                "https://twitter.com/glenngabe/status/1814020367700082730"
+                "https://twitter.com/glenngabe/status/1814646228950319605",
+                "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Updates",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next is introducing support for supplemental feeds, enabling advertisers to update product data more efficiently. This feature simplifies inventory management and enhances campaign accuracy. The platform is also rolling out to all merchants this month.",
+            "Title": "Google AI Developments",
+            "Category": "Artificial Intelligence",
+            "Description": "Google has reportedly approached EssilorLuxottica, a leading eyewear company, about integrating its Gemini AI assistant into future smart glasses. This move could be a response to Meta's investment in EssilorLuxottica for its own AI-powered glasses.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814299402841776234",
-                "https://twitter.com/rustybrick/status/1814259137183670452",
-                "https://twitter.com/glenngabe/status/1813979736126947389"
+                "https://twitter.com/glenngabe/status/1814640990159872464",
+                "https://twitter.com/glenngabe/status/1814347469729263985"
             ]
         },
         {
-            "Title": "Google Search Console Update",
+            "Title": "Google Search Console Updates",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search Console users can now bulk export translated results by country using the GSC API and Analytics Edge. This method bypasses the 1K row limit in GSC and provides additional data.",
+            "Description": "Google is automatically translating web pages in search results for some users, including the title link and snippet. When users click through to the site, the page is also translated. Google recently expanded the number of languages it supports for this feature.",
             "Links": [
+                "https://twitter.com/glenngabe/status/1814656173749998003",
+                "https://twitter.com/glenngabe/status/1814349853981311221",
                 "https://twitter.com/glenngabe/status/1814265219289334060"
             ]
         },
         {
-            "Title": "Google's Gemini AI Integration with Smart Glasses",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has reportedly approached EssilorLuxottica to integrate its Gemini AI assistant into future smart glasses. This move could be a response to Meta's investment in EssilorLuxottica for its own AI-powered glasses.",
+            "Title": "Google Discontinues URL Shortener",
+            "Category": "Internet Services",
+            "Description": "Billions of goo.gl redirects will cease to function, as Google discontinues support for the URL shortening service. Users are advised to transition to alternative services.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814640990159872464"
+                "https://twitter.com/rustybrick/status/1814371124802626024",
+                "https://twitter.com/rustybrick/status/1814310727286652970",
+                "https://twitter.com/glenngabe/status/1814020367700082730"
             ]
         },
         {
-            "Title": "Google Chrome's AI-Powered Product Comparisons",
+            "Title": "Google Merchant Center Next Enhancements",
             "Category": "Ecommerce",
-            "Description": "Google Chrome is rumored to be developing an AI-powered feature that would simplify product comparisons for users. The feature would use AI to identify and pull specifications from different retailers, making it easier for consumers to make informed purchasing decisions.",
+            "Description": "Google Merchant Center Next introduces support for supplemental feeds, allowing advertisers to update product data more efficiently. This feature simplifies inventory management and enhances campaign accuracy.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814269405561299257"
+                "https://twitter.com/rustybrick/status/1814359800571965522",
+                "https://twitter.com/rustybrick/status/1814299402841776234",
+                "https://twitter.com/glenngabe/status/1813979736126947389"
+            ]
+        },
+        {
+            "Title": "Google Local Pack Integrates Visual Search",
+            "Category": "Local Search",
+            "Description": "Google's local pack now includes a \"search products with camera\" feature, enabling users to visually search for products available in nearby stores. This integration of visual search enhances local shopping experiences.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814356025375371634",
+                "https://twitter.com/rustybrick/status/1814295627440038072"
+            ]
+        },
+        {
+            "Title": "Website Accessibility Impacts Search Ranking and Legal Compliance",
+            "Category": "Web Development",
+            "Description": "A study highlights that a majority of websites fail to comply with Web Content Accessibility Guidelines (WCAG). Neglecting website accessibility can negatively impact search engine rankings and potentially result in legal consequences.",
+            "Links": [
+                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
             ]
         },
         {
@@ -61,47 +80,13 @@
             "Category": "Search Engine Optimization",
             "Description": "Google's John Mueller provides insights on assessing the effectiveness of an SEO team, emphasizing the importance of aligning efforts with business goals and focusing on meaningful metrics.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1814363575395426798",
                 "https://twitter.com/rustybrick/status/1814303177287909779",
-                "https://twitter.com/rustybrick/status/1814261653997023592",
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
-                "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
             ]
         },
         {
-            "Title": "Google Local Pack's New Camera Search Feature",
-            "Category": "Local Search",
-            "Description": "Google's local pack now includes a \"search products with camera\" feature, enabling users to visually search for products available in nearby stores. This integration of visual search enhances local shopping experiences.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814295627440038072",
-                "https://twitter.com/rustybrick/status/1814356025375371634"
-            ]
-        },
-        {
-            "Title": "Website Accessibility and Search Ranking",
-            "Category": "Web Development",
-            "Description": "Neglecting website accessibility can negatively impact search engine rankings and potentially result in legal consequences. A study highlights that a majority of websites fail to comply with Web Content Accessibility Guidelines (WCAG).",
-            "Links": [
-                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
-            ]
-        },
-        {
-            "Title": "Google's New Download Warnings in Chrome",
-            "Category": "Technology",
-            "Description": "Chrome will soon display full-page warnings for downloads deemed \"risky.\" The new warning allows users to restore aborted downloads but prompts them to explain why they want to proceed. Google aims to gather user feedback on download behaviors.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814646228950319605"
-            ]
-        },
-        {
-            "Title": "Google's Patent for Robot Control System",
-            "Category": "Robotics",
-            "Description": "Google has filed a patent for a system that uses \"scene memory data\" to control robotic agents. The technology leverages neural networks to enhance robots' decision-making abilities by processing historical data and real-time visual information.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814347469729263985"
-            ]
-        },
-        {
-            "Title": "Disappearing AI Training Data",
+            "Title": "Data Used for AI Training Disappearing from the Web",
             "Category": "Artificial Intelligence",
             "Description": "A study reveals that a significant portion of data used to train AI models is becoming inaccessible. The research analyzed 14,000 web domains and found that 5% of all data and 25% of high-quality data has been restricted, potentially impacting AI development.",
             "Links": [
@@ -109,79 +94,19 @@
             ]
         },
         {
-            "Title": "Google's Automatic Translation in Search Results",
-            "Category": "Technology",
-            "Description": "Google is automatically translating web pages in search results for some users, including the title link and snippet. When users click through to the site, the page is also translated. Google recently expanded the number of languages it supports for this feature.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814656173749998003",
-                "https://twitter.com/glenngabe/status/1814349853981311221"
-            ]
-        },
-        {
-            "Title": "Teads and Outbrain Merger Rumors",
-            "Category": "Advertising Technology",
-            "Description": "Rumors are circulating about a potential merger between ad tech companies Teads and Outbrain. The deal, if confirmed, would significantly reshape the advertising technology landscape.",
-            "Links": [
-                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
-            ]
-        },
-        {
-            "Title": "OpenAI Launches GPT-4o Mini",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has launched GPT-4o mini, a smaller and more affordable version of GPT-4o, replacing GPT-3.5 Turbo. Support for all multimodal inputs and outputs is expected soon.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813980640968356003"
-            ]
-        },
-        {
-            "Title": "Amazon Prime Day 2024",
-            "Category": "Ecommerce",
-            "Description": "Adobe reports that US shoppers spent $14.2 billion during Amazon's 48-hour Prime Day sale, an 11% increase year-over-year. Numerator data indicates that the average household spent approximately $152.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1813978834997563679",
-                "https://digiday.com/marketing/amazon-prime-day-recap-shoppers-buy-household-items-over-pricey-splurges-on-first-day/"
-            ]
-        },
-        {
-            "Title": "Gaming Affiliate Impacted by Google Policy",
-            "Category": "Gaming Industry",
-            "Description": "A publicly traded gaming affiliate has reduced its financial revenue forecast due to Google's site reputation abuse policy. However, the policy's impact did not affect the company's stock price.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813993637841400208",
-                "https://twitter.com/rustybrick/status/1813933239641268285",
-                "https://twitter.com/rustybrick/status/1813894232706552313"
-            ]
-        },
-        {
             "Title": "Instagram Expands Notes Feature",
             "Category": "Social Media",
-            "Description": "Instagram is expanding its Notes feature, allowing users to leave temporary, semi-private comments on Reels and grid posts.",
+            "Description": "Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814019216271368567"
             ]
         },
         {
-            "Title": "Google Notes Data Export Deadline",
-            "Category": "Technology",
-            "Description": "Google is reminding users of the final opportunity to download their Notes on Search data before the service is discontinued.",
+            "Title": "OpenAI Releases GPT-4o Mini",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI launches GPT-4o mini, a smaller, cheaper offshoot of GPT-4o, replacing GPT-3.5 Turbo, with support for all multimodal inputs and outputs coming soon.",
             "Links": [
-                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
-            ]
-        },
-        {
-            "Title": "Google Clarifies Heading Element Usage for SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Gary Illyes provided guidance on the optimal use of heading elements (H1, H2, etc.) for SEO purposes.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
-            ]
-        },
-        {
-            "Title": "Agencies SEO Services Market Growth Analysis",
-            "Category": "Marketing",
-            "Description": "The Business Research Company\u2019s Agencies SEO Services Global Market Report 2024 \u2013 Market Size, Trends, And Global Forecast 2024-2033",
-            "Links": [
-                "https://www.einnews.com/pr_news/728828407/agencies-seo-services-market-growth-analysis-with-investment-opportunities-for-2024-2033"
+                "https://twitter.com/glenngabe/status/1813980640968356003"
             ]
         }
     ],
