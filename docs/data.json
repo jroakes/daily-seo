@@ -1,96 +1,139 @@
 {
     "data": [
         {
-            "Title": "Google Search Ranking Volatility Remains High",
-            "Category": "SEO",
-            "Description": "RustyBrick observes ongoing high volatility in Google Search rankings and provides updated charts illustrating the trend. There has been so much volatility since early May, with a number of reversals, that it is not recommended to make huge changes based on that volatility until the next core update rolls out.",
+            "Title": "Google Search Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is rolling out a core update soon, resulting in increased ranking volatility. The company also confirmed that using a country code top-level domain (ccTLD) can improve regional ranking, but using localized language on the page is even more beneficial.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814274236753514801",
-                "https://twitter.com/glenngabe/status/1813913290910691411"
+                "https://twitter.com/rustybrick/status/1814374900116672743",
+                "https://twitter.com/rustybrick/status/1814306952324809187",
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
             ]
         },
         {
-            "Title": "Upcoming Google Core Update and SEO News Recap",
-            "Category": "SEO",
-            "Description": "RustyBrick shares a video recap covering major SEO news including an upcoming Google core update, ranking volatility, Search Notes removal, AI Overviews tests, and search ads.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814269180415201353"
-            ]
-        },
-        {
-            "Title": "Google Confirms Ranking Boost for Country Code Domains",
-            "Category": "SEO",
-            "Description": "This article reports on Google's confirmation that country code domain names receive a ranking advantage in localized search results, emphasizing the importance of ccTLDs for international SEO. Google's advice is that using a ccTLD helps a little to rank better in a regional version of Google, but it helps even more to use that localized language on your page.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
-                "https://twitter.com/rustybrick/status/1814264170235486419"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Title": "Google Merchant Center Next Enhancements",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now supports supplemental feeds, a significant update for e-commerce businesses using the platform.",
+            "Description": "Google Merchant Center Next now supports supplemental feeds, allowing advertisers to update product data more efficiently. The platform is also rolling out to all merchants this month with a refreshed user interface and new features.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1814359800571965522",
+                "https://twitter.com/rustybrick/status/1814299402841776234",
                 "https://twitter.com/rustybrick/status/1814259137183670452"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Rolling Out to All Merchants",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next is coming to all merchant accounts this month, with a refreshed user interface, reinvented complex features & new experiences.",
+            "Title": "Google Discontinues URL Shortener",
+            "Category": "Technology",
+            "Description": "Billions of goo.gl redirects will cease to function as Google discontinues support for its URL shortening service. Users are advised to transition to alternative services.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1813896749338988617",
-                "https://twitter.com/glenngabe/status/1813979736126947389"
-            ]
-        },
-        {
-            "Title": "Google to End Support for goo.gl Shortener Links in 2025",
-            "Category": "SEO",
-            "Description": "Aleyda highlights Google's announcement that goo.gl shortener links will stop working after August 25, 2025, potentially impacting existing links.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1814371124802626024",
+                "https://twitter.com/rustybrick/status/1814310727286652970",
                 "https://twitter.com/aleyda/status/1814272473396850859"
             ]
         },
         {
-            "Title": "How to Evaluate Your SEO Team's Performance",
-            "Category": "SEO",
-            "Description": "This article summarizes Google's John Mueller's advice on evaluating the effectiveness of an SEO team, emphasizing transparency and measurable results.",
+            "Title": "Google's AI Initiatives",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is testing AI Overviews on Workspace accounts, potentially expanding its AI-powered features. The company is also rumored to be integrating its Gemini AI assistant into future smart glasses in partnership with EssilorLuxottica.",
             "Links": [
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+                "https://twitter.com/glenngabe/status/1814640990159872464",
+                "https://twitter.com/rustybrick/status/1814314502386852003",
+                "https://twitter.com/rustybrick/status/1814004962734842006"
             ]
         },
         {
-            "Title": "Google Chrome May Simplify Product Comparisons with AI",
-            "Category": "SEO",
-            "Description": "Glenngabe points to potential changes in product review and comparison SEO with Google Chrome exploring an AI-powered feature to simplify product research.",
+            "Title": "Google Chrome Updates",
+            "Category": "Technology",
+            "Description": "Chrome will soon display full-page warnings for downloads deemed \"risky.\" Google is also testing an AI-powered feature for desktop Chrome that would simplify product comparisons for users.",
             "Links": [
+                "https://twitter.com/glenngabe/status/1814646228950319605",
                 "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Google Ends Notes Search and Discover Labs Experiment",
-            "Category": "Search",
-            "Description": "Google has ended its Notes Search and Discover labs experiment.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813646349197320525"
-            ]
-        },
-        {
-            "Title": "Google Testing AI Overviews on Workspace Accounts",
-            "Category": "Search",
-            "Description": "Google is testing AI Overviews on Workspace accounts, including in the UK.  It is unclear if this is related to the AI Overviews being tested in the main search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1813901782596325651"
-            ]
-        },
-        {
-            "Title": "Website Accessibility: Essential for SEO and Legal Compliance",
-            "Category": "SEO",
-            "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
+            "Title": "Website Accessibility Concerns",
+            "Category": "Digital Marketing",
+            "Description": "A study highlights that a majority of websites fail to comply with Web Content Accessibility Guidelines (WCAG), potentially impacting search engine rankings and leading to legal consequences.",
             "Links": [
                 "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
             ]
+        },
+        {
+            "Title": "Evaluating SEO Team Performance",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller provides insights on assessing the effectiveness of an SEO team, emphasizing the importance of aligning efforts with business goals and focusing on meaningful metrics.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814363575395426798",
+                "https://twitter.com/rustybrick/status/1814303177287909779",
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+            ]
+        },
+        {
+            "Title": "Google's Local Pack Enhancements",
+            "Category": "Local Search",
+            "Description": "Google's local pack now includes a \"search products with camera\" feature, enabling users to visually search for products available in nearby stores.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814356025375371634",
+                "https://twitter.com/rustybrick/status/1814295627440038072"
+            ]
+        },
+        {
+            "Title": "Google Translates Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is automatically translating web pages in search results for some users, including the title link and snippet. The company has also expanded the number of languages it supports for this feature.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814656173749998003",
+                "https://twitter.com/glenngabe/status/1814349853981311221"
+            ]
+        },
+        {
+            "Title": "Data Disappearance Impacts AI Development",
+            "Category": "Artificial Intelligence",
+            "Description": "A study reveals that a significant portion of data used to train AI models is becoming inaccessible, potentially impacting AI development.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814345965769502873"
+            ]
+        },
+        {
+            "Title": "Teads and Outbrain Merger Rumors",
+            "Category": "Advertising Technology",
+            "Description": "Rumors are circulating about a potential merger between ad tech companies Teads and Outbrain, which could significantly reshape the advertising technology landscape.",
+            "Links": [
+                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+            ]
+        },
+        {
+            "Title": "Gaming Affiliate Impacted by Google Policy",
+            "Category": "Gaming Industry",
+            "Description": "A publicly traded gaming affiliate reduced its financial revenue forecast due to Google's site reputation abuse policy.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1813993637841400208",
+                "https://twitter.com/rustybrick/status/1813933239641268285"
+            ]
+        },
+        {
+            "Title": "OpenAI Launches GPT-4o Mini",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI launches GPT-4o mini, a smaller, cheaper offshoot of GPT-4o, replacing GPT-3.5 Turbo, with support for all multimodal inputs and outputs coming soon.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813980640968356003"
+            ]
+        },
+        {
+            "Title": "Amazon Prime Day 2024",
+            "Category": "Ecommerce",
+            "Description": "US shoppers spent $14.2 billion during Amazon's 48-hour Prime Day sale, up 11% year-over-year. The average household spent about $152.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1813978834997563679"
+            ]
+        },
+        {
+            "Title": "SEO Trends in 2024",
+            "Category": "Search Engine Optimization",
+            "Description": "SEO has been changing rapidly, requiring a new mindset approach for professionals to survive. Brand marketing is becoming increasingly important for SEO success.",
+            "Links": [
+                "https://twitter.com/theshelleywalsh/status/1813851983125631036"
+            ]
         }
     ],
-    "date": "2024-07-20"
+    "date": "2024-07-21"
 }

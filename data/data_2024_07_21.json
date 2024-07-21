@@ -1,0 +1,517 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Google is automatically translating pages in search results",
+            "Description": "Google is automatically translating web pages in search results for some users, including the title link and snippet. When users click through to the site, the page is also translated. Google recently expanded the number of languages it supports for this feature.",
+            "Link": "https://twitter.com/glenngabe/status/1814656173749998003"
+        },
+        {
+            "Title": "Chrome to show full-page warnings for \"risky\" downloads",
+            "Description": "Chrome will soon display full-page warnings for downloads deemed \"risky.\" The new warning allows users to restore aborted downloads but prompts them to explain why they want to proceed. Google aims to gather user feedback on download behaviors.",
+            "Link": "https://twitter.com/glenngabe/status/1814646228950319605"
+        },
+        {
+            "Title": "Google's Gemini AI assistant may be integrated into future smart glasses",
+            "Description": "Google has reportedly approached EssilorLuxottica, a leading eyewear company, about integrating its Gemini AI assistant into future smart glasses. This move could be a response to Meta's investment in EssilorLuxottica for its own AI-powered glasses.",
+            "Link": "https://twitter.com/glenngabe/status/1814640990159872464"
+        },
+        {
+            "Title": "SEO Video Recap: Google core update, ranking volatility, Search Notes, AI Overviews tests, and more",
+            "Description": "A recap of recent SEO news, including the upcoming Google core update, increased ranking volatility, the discontinuation of Search Notes, AI Overviews tests, and updates on search ads.",
+            "Link": "https://twitter.com/rustybrick/status/1814374900116672743"
+        },
+        {
+            "Title": "Billions of goo.gl redirects to stop working",
+            "Description": "Billions of goo.gl redirects will cease to function, as Google discontinues support for the URL shortening service. Users are advised to transition to alternative services.",
+            "Link": "https://twitter.com/rustybrick/status/1814371124802626024"
+        },
+        {
+            "Title": "Using a ccTLD and localized language improves regional Google ranking",
+            "Description": "Using a country code top-level domain (ccTLD) can enhance search ranking in a specific region's Google search results. However, using localized language on the website further improves ranking potential.",
+            "Link": "https://twitter.com/rustybrick/status/1814367350394929504"
+        },
+        {
+            "Title": "Google's JohnMu on evaluating SEO team performance",
+            "Description": "Google's John Mueller provides insights on assessing the effectiveness of an SEO team, emphasizing the importance of aligning efforts with business goals and focusing on meaningful metrics.",
+            "Link": "https://twitter.com/rustybrick/status/1814363575395426798"
+        },
+        {
+            "Title": "Google Merchant Center Next now supports supplemental feeds",
+            "Description": "Google Merchant Center Next introduces support for supplemental feeds, allowing advertisers to update product data more efficiently. This feature simplifies inventory management and enhances campaign accuracy.",
+            "Link": "https://twitter.com/rustybrick/status/1814359800571965522"
+        },
+        {
+            "Title": "Google local pack features \"search products with camera\"",
+            "Description": "Google's local pack now includes a \"search products with camera\" feature, enabling users to visually search for products available in nearby stores. This integration of visual search enhances local shopping experiences.",
+            "Link": "https://twitter.com/rustybrick/status/1814356025375371634"
+        },
+        {
+            "Title": "Google expands language support for translated search results",
+            "Description": "Google has increased the number of languages supported for translated search results, allowing users to access information in their preferred language. This expansion aims to improve search accessibility and user experience.",
+            "Link": "https://twitter.com/glenngabe/status/1814349853981311221"
+        },
+        {
+            "Title": "Google patents system for controlling robots with \"scene memory data\"",
+            "Description": "Google has filed a patent for a system that uses \"scene memory data\" to control robotic agents. The technology leverages neural networks to enhance robots' decision-making abilities by processing historical data and real-time visual information.",
+            "Link": "https://twitter.com/glenngabe/status/1814347469729263985"
+        },
+        {
+            "Title": "Study finds data powering AI is disappearing from the web",
+            "Description": "A study reveals that a significant portion of data used to train AI models is becoming inaccessible. The research analyzed 14,000 web domains and found that 5% of all data and 25% of high-quality data has been restricted, potentially impacting AI development.",
+            "Link": "https://twitter.com/glenngabe/status/1814345965769502873"
+        },
+        {
+            "Title": "Ignoring Website Accessibility Can Hurt Search Ranking and Lead to Legal Issues",
+            "Description": "A study highlights that a majority of websites fail to comply with Web Content Accessibility Guidelines (WCAG). Neglecting website accessibility can negatively impact search engine rankings and potentially result in legal consequences.",
+            "Link": "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
+        },
+        {
+            "Title": "Teads and Outbrain rumored to merge in ad tech deal",
+            "Description": "Rumors are circulating about a potential merger between ad tech companies Teads and Outbrain. The deal, if confirmed, would significantly reshape the advertising technology landscape.",
+            "Link": "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+        },
+        {
+            "Title": "SEO Video Recap: Google core update, ranking volatility, Search Notes, AI Overviews tests, and more",
+            "Description": "A video recap covering recent developments in the SEO world, including the upcoming Google core update, ongoing ranking volatility, the retirement of Search Notes, experiments with AI Overviews, and updates related to search ads.",
+            "Link": "https://twitter.com/rustybrick/status/1814314502386852003"
+        },
+        {
+            "Title": "Billions of goo.gl redirects to stop working",
+            "Description": "Google's URL shortening service, goo.gl, is being discontinued, rendering billions of redirects inoperable. Users relying on goo.gl are advised to switch to alternative URL shortening solutions.",
+            "Link": "https://twitter.com/rustybrick/status/1814310727286652970"
+        },
+        {
+            "Title": "Using a ccTLD and localized language improves regional Google ranking",
+            "Description": "Implementing a country code top-level domain (ccTLD) can enhance a website's visibility in a specific region's Google search results. Furthermore, utilizing localized language on the website amplifies this positive impact on search ranking.",
+            "Link": "https://twitter.com/rustybrick/status/1814306952324809187"
+        },
+        {
+            "Title": "Google's JohnMu on evaluating SEO team performance",
+            "Description": "John Mueller from Google offers guidance on assessing the effectiveness of an SEO team. He emphasizes the significance of aligning SEO strategies with overall business objectives and prioritizing meaningful metrics for evaluation.",
+            "Link": "https://twitter.com/rustybrick/status/1814303177287909779"
+        },
+        {
+            "Title": "Google Merchant Center Next now supports supplemental feeds",
+            "Description": "Google Merchant Center Next introduces support for supplemental feeds, providing advertisers with a more efficient method to update product data. This enhancement streamlines inventory management and improves the accuracy of advertising campaigns.",
+            "Link": "https://twitter.com/rustybrick/status/1814299402841776234"
+        },
+        {
+            "Title": "Google local pack features \"search products with camera\"",
+            "Description": "Google's local pack now incorporates a \"search products with camera\" functionality, allowing users to conduct visual searches for products offered by nearby businesses. This integration of visual search enhances the local shopping experience.",
+            "Link": "https://twitter.com/rustybrick/status/1814295627440038072"
+        },
+        {
+            "Title": "Google \"monetization\" vest",
+            "Description": "Image of a Google \"monetization\" vest found at a thrift store.",
+            "Link": "https://twitter.com/rustybrick/status/1814291852797026550"
+        },
+        {
+            "Title": "Agencies SEO Services Market Growth Analysis With Investment Opportunities For 2024-2033",
+            "Description": "The Business Research Company\u2019s Agencies SEO Services Global Market Report 2024 \u2013 Market Size, Trends, And Global Forecast 2024-2033",
+            "Link": "https://www.einnews.com/pr_news/728828407/agencies-seo-services-market-growth-analysis-with-investment-opportunities-for-2024-2033"
+        },
+        {
+            "Title": "Google Search ranking volatility still pretty heated - I updated a bunch of the charts in my story",
+            "Description": "Commentary on the volatility of Google Search rankings, noting that it is \"still pretty heated.\"",
+            "Link": "https://twitter.com/rustybrick/status/1814274236753514801"
+        },
+        {
+            "Title": "Yep, Google has always explained that a ccTLD can provide a boost when Google understands that someone is searching for something locally. But building up a ccTLD is like building any other new site, so don't think it's super easy to rank just b/c you have a ccTLD. Many\u2026",
+            "Description": "Glenn Gabe comments on the use of country code top-level domains (ccTLDs) for SEO, noting that while they can provide a boost in local search results, they are not a guaranteed ranking factor.",
+            "Link": "https://twitter.com/glenngabe/status/1814274237340713423"
+        },
+        {
+            "Title": "Google URL Shortener links will no longer be available: \"Links built with the Google URL Shortener in the form",
+            "Description": "Aleyda Solis shares that Google URL Shortener links will no longer be available.",
+            "Link": "https://twitter.com/aleyda/status/1814272473396850859"
+        },
+        {
+            "Title": "Focus on product reviews and comparisons? Oh boy -> Google Chrome could make product comparisons easier with an AI-powered feature for desktop \"Product Specs should simplify research by using the summarization prowess of Google\u2019s AI to identify and pull the specifications from\u2026",
+            "Description": "Glenn Gabe highlights a potential upcoming feature in Google Chrome that would use AI to simplify product comparisons for users.",
+            "Link": "https://twitter.com/glenngabe/status/1814269405561299257"
+        },
+        {
+            "Title": "SEO Video Recap covering the upcoming Google core update, more ranking volatility, Search Notes going away, AI Overviews tests, search ads and more",
+            "Description": "Barry Schwartz shares a video recap of recent SEO news, including an upcoming Google core update, ranking volatility, the removal of Search Notes, AI Overviews tests, and search ads.",
+            "Link": "https://twitter.com/rustybrick/status/1814269180415201353"
+        },
+        {
+            "Title": "Focus on advertising? Pay attention to Netflix's new ad platform (not released yet) -> Netflix says its ad tier now accounts for over 45% of all signups in the markets where it's available, and ad tier memberships grew 34% QoQ in Q2 \"Netflix noted that the ad tier is scaling\u2026",
+            "Description": "Glenn Gabe discusses Netflix's upcoming ad platform and the growth of their ad-supported tier.",
+            "Link": "https://twitter.com/glenngabe/status/1814268343269937501"
+        },
+        {
+            "Title": "Billions of Google URL shortener links",
+            "Description": "Barry Schwartz notes that there are \"billions\" of Google URL shortener links.",
+            "Link": "https://twitter.com/rustybrick/status/1814266687002493000"
+        },
+        {
+            "Title": "Really scary to see how one faulty update can do something like this. Banks, airlines, etc. -> CrowdStrike reports widespread \u201cBSODs on Windows hosts\u201d, impacting thousands of PCs and taking banks, airlines, and more offline; Microsoft is aware",
+            "Description": "Glenn Gabe shares a concerning report from CrowdStrike about a faulty Windows update causing widespread system crashes, impacting banks, airlines, and other organizations.",
+            "Link": "https://twitter.com/glenngabe/status/1814266412048728168"
+        },
+        {
+            "Title": "Based on Google expanding the languages it supports for translated results. My latest post -> How to bulk export translated results from Google Search Console by country via the GSC API and Analytics Edge Don't settle for the 1K row limit in GSC, PLUS you get *country* when\u2026",
+            "Description": "Glenn Gabe shares his latest blog post about how to bulk export translated results from Google Search Console by country using the GSC API and Analytics Edge.",
+            "Link": "https://twitter.com/glenngabe/status/1814265219289334060"
+        },
+        {
+            "Title": "RT by @rustybrick: Based on Google expanding the languages it supports for translated results. My latest post -> How to bulk export translated results from Google Search Console by country via the GSC API and Analytics Edge Don't settle for the 1K row limit in GSC, PLUS you get *country* when\u2026",
+            "Description": "Glenn Gabe retweets Barry Schwartz, who is sharing Glenn's latest blog post about how to bulk export translated results from Google Search Console.",
+            "Link": "https://twitter.com/glenngabe/status/1814265219289334060"
+        },
+        {
+            "Title": "Google's @methode said it helps a little to use a ccTLD to rank better in a regional version of Google, but it helps even more to use that localized language on your page",
+            "Description": "Barry Schwartz reports that Google's John Mueller has confirmed that using a country code top-level domain (ccTLD) can help with regional ranking, but using localized language on the page is even more beneficial.",
+            "Link": "https://twitter.com/rustybrick/status/1814264170235486419"
+        },
+        {
+            "Title": "Google's advice on knowing if your SEO team is doing the right job",
+            "Description": "Barry Schwartz shares Google's advice on how to determine if your SEO team is doing their job effectively.",
+            "Link": "https://twitter.com/rustybrick/status/1814261653997023592"
+        },
+        {
+            "Title": "Google's Advice On Understanding If Your SEO Team Is Doing Their Job",
+            "Description": "This article summarizes Google's John Mueller's advice on how to assess the effectiveness of your SEO team, including setting clear expectations, tracking progress, and communicating effectively.",
+            "Link": "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+        },
+        {
+            "Title": "Google Merchant Center Next now finally supports supplemental feed/source support",
+            "Description": "Barry Schwartz announces that Google Merchant Center Next now supports supplemental feeds.",
+            "Link": "https://twitter.com/rustybrick/status/1814259137183670452"
+        },
+        {
+            "Title": "Google local pack / business profiles with \"search products with camera\"",
+            "Description": "Barry Schwartz shares a screenshot of Google's local pack/business profiles with a \"search products with camera\" feature.",
+            "Link": "https://twitter.com/rustybrick/status/1814256620681204110"
+        },
+        {
+            "Title": "Manchester City uses Fortnite to expand its global audience",
+            "Description": "This article explores how Manchester City is leveraging the popular video game Fortnite to expand its global audience and engage with fans in new and innovative ways.",
+            "Link": "https://digiday.com/marketing/manchester-city-uses-fortnite-to-expand-its-global-audience/"
+        },
+        {
+            "Title": "Google Confirms Ranking Boost For Country Code Domains",
+            "Description": "This article reports on Google's confirmation that country code domain names (ccTLDs) receive a ranking boost in search results, giving an advantage to local websites.",
+            "Link": "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
+        },
+        {
+            "Title": "AI Briefing: Why eBay is adding more AI advertising tools for sellers",
+            "Description": "This article discusses eBay's introduction of new AI-powered advertising tools for sellers on its platform, allowing them to leverage marketplace trends and search terms for campaign creation.",
+            "Link": "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/"
+        },
+        {
+            "Title": "Some ad tech vendors are pulling back from Google's Privacy Sandbox amid uncertainty",
+            "Description": "This article highlights the uncertainty surrounding Google's Privacy Sandbox, leading some ad tech vendors to withdraw their support due to concerns about its future and potential impact on the industry.",
+            "Link": "https://digiday.com/marketing/some-ad-tech-vendors-are-pulling-back-from-googles-privacy-sandbox-amid-uncertainty/"
+        },
+        {
+            "Title": "How Revolut\u2019s creator strategy is benefitting from YouTube\u2019s long-form swing",
+            "Description": "This article examines how challenger bank Revolut is capitalizing on YouTube's shift towards long-form content by partnering with creators to reach consumers and build brand awareness.",
+            "Link": "https://digiday.com/marketing/how-revoluts-creator-strategy-is-benefitting-from-youtubes-long-form-swing/"
+        },
+        {
+            "Title": "How Chipotle's fighting-game-focused esports strategy is paying off at Evo 2024",
+            "Description": "This article analyzes the success of Chipotle's esports strategy, which focuses on the fighting game community, and how it has led to increased brand awareness and purchase intent among target demographics.",
+            "Link": "https://digiday.com/marketing/how-chipotles-fighting-game-focused-esports-strategy-is-paying-off-at-evo-2024/"
+        },
+        {
+            "Title": "Google URL Shortener links will no longer be available \"Note that the interstitial page may cause disruptions in the current  flow of your  links. For example, if you are using other 302 redirects, the interstitial page may\u2026",
+            "Description": "Google URL Shortener links will no longer be available. Note that the interstitial page may cause disruptions in the current flow of your links. For example, if you are using other 302 redirects, the interstitial page may\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1814020367700082730"
+        },
+        {
+            "Title": "Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private \"Users will now be able to leave Notes on Reels and grid posts, where\u2026",
+            "Description": "Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private. Users will now be able to leave Notes on Reels and grid posts, where\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1814019216271368567"
+        },
+        {
+            "Title": "Google Clarifies H1-H6 Headings For SEO",
+            "Description": "Google's Gary Illyes answered a question about heading elements (H1, H2, etc.) and the best way to use them for SEO",
+            "Link": "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/"
+        },
+        {
+            "Title": "Google Search ranking algorithm volatility",
+            "Description": "Google Search ranking algorithm volatility",
+            "Link": "https://twitter.com/rustybrick/status/1814008737277087809"
+        },
+        {
+            "Title": "Google AI Overviews on Workspace accounts (also in the UK) - is this a test...",
+            "Description": "Google AI Overviews on Workspace accounts (also in the UK) - is this a test...",
+            "Link": "https://twitter.com/rustybrick/status/1814004962734842006"
+        },
+        {
+            "Title": "Google bolding query in search box",
+            "Description": "Google bolding query in search box",
+            "Link": "https://twitter.com/rustybrick/status/1814001187194028462"
+        },
+        {
+            "Title": "Google Merchant Center Next rolling out to all merchants",
+            "Description": "Google Merchant Center Next rolling out to all merchants",
+            "Link": "https://twitter.com/rustybrick/status/1813997412605645035"
+        },
+        {
+            "Title": "Gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy",
+            "Description": "Gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy",
+            "Link": "https://twitter.com/rustybrick/status/1813993637841400208"
+        },
+        {
+            "Title": "With Google Notes going away, I've had an uptick in readers for my post about how to find Notes for a website (people are trying to archive them). One reader just emailed me and explained that Notes are mostly indexed in a different location now, so those site queries in my post\u2026",
+            "Description": "With Google Notes going away, I've had an uptick in readers for my post about how to find Notes for a website (people are trying to archive them). One reader just emailed me and explained that Notes are mostly indexed in a different location now, so those site queries in my post\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1813993617813307739"
+        },
+        {
+            "Title": "Google's John Mueller On How To Verify An SEO Agency's Work",
+            "Description": "Google's John Mueller shares tips on checking if the SEO company you hired is actually doing the work they promised.",
+            "Link": "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/"
+        },
+        {
+            "Title": "SEO Trends You Need to Be Aware of Right Now, According to a Seasoned Pro",
+            "Description": "Navigate the future of search engine optimization to elevate your online presence and drive meaningful engagement.",
+            "Link": "https://www.entrepreneur.com/growing-a-business/seo-trends-you-need-to-be-aware-of-right-now/476935"
+        },
+        {
+            "Title": "OpenAI launches GPT-4o mini, a smaller, cheaper offshoot of GPT-4o, replacing GPT-3.5 Turbo, with support for all multimodal inputs and outputs coming soon",
+            "Description": "OpenAI launches GPT-4o mini, a smaller, cheaper offshoot of GPT-4o, replacing GPT-3.5 Turbo, with support for all multimodal inputs and outputs coming soon",
+            "Link": "https://twitter.com/glenngabe/status/1813980640968356003"
+        },
+        {
+            "Title": "Google Merchant Center Next Coming To All Merchants This Month \"Starting this July, it is finally coming to all merchant accounts, with a refreshed user interface, reinvented complex features & new experiences.\"",
+            "Description": "Google Merchant Center Next Coming To All Merchants This Month. Starting this July, it is finally coming to all merchant accounts, with a refreshed user interface, reinvented complex features & new experiences.",
+            "Link": "https://twitter.com/glenngabe/status/1813979736126947389"
+        },
+        {
+            "Title": "Adobe: US shoppers spent $14.2B during Amazon's 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152",
+            "Description": "Adobe: US shoppers spent $14.2B during Amazon's 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152",
+            "Link": "https://twitter.com/glenngabe/status/1813978834997563679"
+        },
+        {
+            "Title": "Google Search ranking algorithm volatility",
+            "Description": "Google Search ranking algorithm volatility",
+            "Link": "https://twitter.com/rustybrick/status/1813948339387236598"
+        },
+        {
+            "Title": "Google AI Overviews on Workspace accounts (also in the UK) - is this a test...",
+            "Description": "Google AI Overviews on Workspace accounts (also in the UK) - is this a test...",
+            "Link": "https://twitter.com/rustybrick/status/1813944565071753697"
+        },
+        {
+            "Title": "Google bolding query in search box",
+            "Description": "Google bolding query in search box",
+            "Link": "https://twitter.com/rustybrick/status/1813940789690691840"
+        },
+        {
+            "Title": "It's New- July 18 - Google Volatility, AI Overviews Expands, Merchant Center Next & Earnings Impact",
+            "Description": "It's New- July 18 - Google Volatility, AI Overviews Expands, Merchant Center Next & Earnings Impact",
+            "Link": "https://twitter.com/rustybrick/status/1813937158111056329"
+        },
+        {
+            "Title": "Google Merchant Center Next rolling out to all merchants",
+            "Description": "Google Merchant Center Next rolling out to all merchants",
+            "Link": "https://twitter.com/rustybrick/status/1813937014758142343"
+        },
+        {
+            "Title": "Gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy",
+            "Description": "Gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy",
+            "Link": "https://twitter.com/rustybrick/status/1813933239641268285"
+        },
+        {
+            "Title": "3 ways to add a human touch to AI-generated content",
+            "Description": "Find out how to add a personal touch, maintain your brand voice and incorporate human expertise into AI-generated content.",
+            "Link": "https://searchengineland.com/ai-generated-content-human-touch-444231"
+        },
+        {
+            "Title": "The tension between news publishers and AI companies expands to Japan -> Japan newspaper association calls on government for legal reform to curb AI search",
+            "Description": "The tension between news publishers and AI companies expands to Japan. Japan newspaper association calls on government for legal reform to curb AI search",
+            "Link": "https://twitter.com/glenngabe/status/1813920495089401910"
+        },
+        {
+            "Title": "The Apple News deal with Taboola is shocking and off-brand, calling into question Apple's commitment to good customer experience, including privacy",
+            "Description": "The Apple News deal with Taboola is shocking and off-brand, calling into question Apple's commitment to good customer experience, including privacy",
+            "Link": "https://twitter.com/glenngabe/status/1813918235005518247"
+        },
+        {
+            "Title": "Baidu vs. Google: Navigating the SEO landscape in 2024",
+            "Description": "Learn the similarities and differences between Baidu and Google SEO and how to boost your presence in the Chinese search landscape.",
+            "Link": "https://searchengineland.com/baidu-vs-google-seo-444242"
+        },
+        {
+            "Title": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish) - what are you all noticing?",
+            "Description": "Google Search ranking algorithm update and volatility heating up and we are expecting a core update soon(ish) - what are you all noticing?",
+            "Link": "https://twitter.com/rustybrick/status/1813904299182928114"
+        },
+        {
+            "Title": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
+            "Description": "Google is testing AI Overviews on Workspace accounts (also in the UK)",
+            "Link": "https://twitter.com/rustybrick/status/1813901782596325651"
+        },
+        {
+            "Title": "Google bolding query in search box when cursor is outside the search box - this is a weird one",
+            "Description": "Google bolding query in search box when cursor is outside the search box - this is a weird one",
+            "Link": "https://twitter.com/rustybrick/status/1813899265841774939"
+        },
+        {
+            "Title": "Google Merchant Center Next now rolling out to all merchants this month",
+            "Description": "Google Merchant Center Next now rolling out to all merchants this month",
+            "Link": "https://twitter.com/rustybrick/status/1813896749338988617"
+        },
+        {
+            "Title": "Publicly traded gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy but it had no impact on the stock price...",
+            "Description": "Publicly traded gaming affiliate reduced financial revenue forecast due to Google's site reputation abuse policy but it had no impact on the stock price...",
+            "Link": "https://twitter.com/rustybrick/status/1813894232706552313"
+        },
+        {
+            "Title": "In the last 18 months, SEO has been changing faster than in the last 25 years of Google. And to survive SEO needs a new mindset approach \u2013 this could be a challenge for some traditional SEOs I spoke to @MordyOberstein about what SEOs need to know about brand marketing",
+            "Description": "In the last 18 months, SEO has been changing faster than in the last 25 years of Google. And to survive SEO needs a new mindset approach \u2013 this could be a challenge for some traditional SEOs I spoke to @MordyOberstein about what SEOs need to know about brand marketing",
+            "Link": "https://twitter.com/theshelleywalsh/status/1813851983125631036"
+        },
+        {
+            "Title": "How partnerships between athletes and brands are beginning to resemble influencer deals",
+            "Description": "Relationships between brands and athletes are getting shorter, as the line between influencer and athlete blurs.",
+            "Link": "https://digiday.com/marketing/how-partnerships-between-athletes-and-brands-are-beginning-to-resemble-influencer-deals/"
+        },
+        {
+            "Title": "Media Briefing: Publishers say private programmatic revenue is up - but open is a mixed bag",
+            "Description": "Publishers check in on their programmatic businesses.",
+            "Link": "https://digiday.com/media/media-briefing-publishers-say-private-programmatic-revenue-is-up-but-open-is-a-mixed-bag/"
+        },
+        {
+            "Title": "Advertisers don't seem too tempted by Meta putting ads on Threads",
+            "Description": "Sure, there's interest, but it's tempered by the fact that advertisers still don't really know why they should be on the app in the first place.",
+            "Link": "https://digiday.com/marketing/advertisers-dont-seem-too-tempted-by-meta-putting-ads-on-threads/"
+        },
+        {
+            "Title": "Amazon Prime Day recap: Shoppers buy household items over pricey splurges on first day",
+            "Description": "Market research firm Numerator said the average order size on Prime Day so far is $59.78, according to\u00a0data\u00a0culled from nearly 7,500 Amazon orders by more than 4,000 households.",
+            "Link": "https://digiday.com/marketing/amazon-prime-day-recap-shoppers-buy-household-items-over-pricey-splurges-on-first-day/"
+        },
+        {
+            "Title": "Exclusive: Daum falls behind as Bing and rivals leverage AI for market gains",
+            "Description": "Exclusive: Daum falls behind as Bing and rivals leverage AI for market gains",
+            "Link": "https://www.chosun.com/english/industry-en/2024/07/18/5CLWMPHINZG2NLB47UICC2MI5U/"
+        }
+    ],
+    "reviewed_urls": [
+        "https://twitter.com/aleyda/status/1814738250202030522",
+        "https://twitter.com/glenngabe/status/1814656173749998003",
+        "https://twitter.com/glenngabe/status/1814653981097939261",
+        "https://twitter.com/aleyda/status/1814649925893845078",
+        "https://twitter.com/glenngabe/status/1814646228950319605",
+        "https://twitter.com/glenngabe/status/1814640990159872464",
+        "https://royalexaminer.com/front-royal-cardinals-to-battle-new-market-rebels-at-bing-crosby-stadium-july-21st/",
+        "https://twitter.com/rustybrick/status/1814374900116672743",
+        "https://twitter.com/rustybrick/status/1814371124802626024",
+        "https://twitter.com/rustybrick/status/1814367350394929504",
+        "https://twitter.com/rustybrick/status/1814363575395426798",
+        "https://twitter.com/rustybrick/status/1814359800571965522",
+        "https://twitter.com/rustybrick/status/1814356025375371634",
+        "https://twitter.com/rustybrick/status/1814352250942435735",
+        "https://twitter.com/glenngabe/status/1814349853981311221",
+        "https://twitter.com/glenngabe/status/1814347469729263985",
+        "https://twitter.com/glenngabe/status/1814345965769502873",
+        "https://twitter.com/rustybrick/status/1814342327235641554",
+        "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535",
+        "https://twitter.com/aleyda/status/1814321519356449261",
+        "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/",
+        "https://twitter.com/rustybrick/status/1814314502386852003",
+        "https://twitter.com/rustybrick/status/1814310727286652970",
+        "https://www.trendhunter.com/trends/climb-seo",
+        "https://twitter.com/rustybrick/status/1814306952324809187",
+        "https://twitter.com/rustybrick/status/1814303177287909779",
+        "https://twitter.com/rustybrick/status/1814299402841776234",
+        "https://twitter.com/danbarker/status/1814295923222053205",
+        "https://twitter.com/glenngabe/status/1814295777272881219",
+        "https://twitter.com/rustybrick/status/1814295627440038072",
+        "https://www.practicalecommerce.com/dtc-toy-company-looks-to-better-days",
+        "https://twitter.com/rustybrick/status/1814291852797026550",
+        "https://twitter.com/rustybrick/status/1814286173457494378",
+        "https://twitter.com/rustybrick/status/1814281975408050442",
+        "https://twitter.com/rustybrick/status/1814280444960976904",
+        "https://www.einnews.com/pr_news/728828407/agencies-seo-services-market-growth-analysis-with-investment-opportunities-for-2024-2033",
+        "https://twitter.com/rustybrick/status/1814274236753514801",
+        "https://twitter.com/glenngabe/status/1814274237340713423",
+        "https://twitter.com/aleyda/status/1814272473396850859",
+        "https://twitter.com/glenngabe/status/1814270668457771509",
+        "https://twitter.com/glenngabe/status/1814269405561299257",
+        "https://twitter.com/rustybrick/status/1814269180415201353",
+        "https://twitter.com/glenngabe/status/1814268343269937501",
+        "https://twitter.com/rustybrick/status/1814266687002493000",
+        "https://twitter.com/glenngabe/status/1814266412048728168",
+        "https://twitter.com/glenngabe/status/1814265219289334060",
+        "https://twitter.com/glenngabe/status/1814265219289334060",
+        "https://twitter.com/rustybrick/status/1814264170235486419",
+        "https://twitter.com/rustybrick/status/1814261653997023592",
+        "https://www.seroundtable.com/google-seo-team-doing-job-37755.html",
+        "https://twitter.com/rustybrick/status/1814259137183670452",
+        "https://twitter.com/rustybrick/status/1814256620681204110",
+        "https://twitter.com/rustybrick/status/1814253860690772323",
+        "https://digiday.com/marketing/manchester-city-uses-fortnite-to-expand-its-global-audience/",
+        "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/",
+        "https://twitter.com/MattHighton/status/1814210407445201131",
+        "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/",
+        "https://digiday.com/marketing/some-ad-tech-vendors-are-pulling-back-from-googles-privacy-sandbox-amid-uncertainty/",
+        "https://digiday.com/marketing/how-revoluts-creator-strategy-is-benefitting-from-youtubes-long-form-swing/",
+        "https://digiday.com/marketing/how-chipotles-fighting-game-focused-esports-strategy-is-paying-off-at-evo-2024/",
+        "https://www.trendhunter.com/trends/crestpulse-seo",
+        "https://twitter.com/glenngabe/status/1814020367700082730",
+        "https://twitter.com/glenngabe/status/1814019216271368567",
+        "https://www.searchenginejournal.com/google-clarifies-h1-h6-headings-for-seo/522454/",
+        "https://twitter.com/rustybrick/status/1814008737277087809",
+        "https://twitter.com/rustybrick/status/1814004962734842006",
+        "https://twitter.com/rustybrick/status/1814001187194028462",
+        "https://twitter.com/rustybrick/status/1813997412605645035",
+        "https://twitter.com/rustybrick/status/1813993637841400208",
+        "https://twitter.com/glenngabe/status/1813993617813307739",
+        "https://www.searchenginejournal.com/googles-john-mueller-on-how-to-verify-an-seo-agencys-work/522449/",
+        "https://twitter.com/rustybrick/status/1813991296400347523",
+        "https://twitter.com/rustybrick/status/1813989862762045697",
+        "https://www.entrepreneur.com/growing-a-business/seo-trends-you-need-to-be-aware-of-right-now/476935",
+        "https://twitter.com/glenngabe/status/1813980640968356003",
+        "https://twitter.com/glenngabe/status/1813979736126947389",
+        "https://twitter.com/glenngabe/status/1813978834997563679",
+        "https://www.einnews.com/pr_news/728639287/napkin-marketing-launches-comprehensive-seo-audit-and-website-usability-analysis-tool",
+        "https://twitter.com/rustybrick/status/1813948339387236598",
+        "https://twitter.com/rustybrick/status/1813944565071753697",
+        "https://twitter.com/rustybrick/status/1813940789690691840",
+        "https://twitter.com/rustybrick/status/1813937158111056329",
+        "https://twitter.com/rustybrick/status/1813937014758142343",
+        "https://twitter.com/rustybrick/status/1813933239641268285",
+        "https://twitter.com/rustybrick/status/1813929464784371739",
+        "https://www.openpr.com/news/3588254/search-engine-optimization-seo-advertising-software-market",
+        "https://twitter.com/AmandaMGoetz/status/1813923061948702899",
+        "https://searchengineland.com/ai-generated-content-human-touch-444231",
+        "https://twitter.com/glenngabe/status/1813920495089401910",
+        "https://twitter.com/glenngabe/status/1813918235005518247",
+        "https://twitter.com/glenngabe/status/1813915322618978521",
+        "https://twitter.com/glenngabe/status/1813913290910691411",
+        "https://twitter.com/glenngabe/status/1813910842267570389",
+        "https://twitter.com/glenngabe/status/1813906790821581311",
+        "https://searchengineland.com/baidu-vs-google-seo-444242",
+        "https://twitter.com/glenngabe/status/1813905698872295737",
+        "https://twitter.com/rustybrick/status/1813904299182928114",
+        "https://twitter.com/glenngabe/status/1813903749955612999",
+        "https://twitter.com/rustybrick/status/1813901782596325651",
+        "https://twitter.com/rustybrick/status/1813899265841774939",
+        "https://twitter.com/rustybrick/status/1813896749338988617",
+        "https://www.techloy.com/5-steps-to-improve-your-websites-seo-in-2024/",
+        "https://twitter.com/aleyda/status/1813894386054463509",
+        "https://twitter.com/rustybrick/status/1813894232706552313",
+        "https://boroktimes.com/webenliven-expands-to-india-delivering-high-quality-seo-at-reduced-costs-for-uae-smes/",
+        "https://twitter.com/rustybrick/status/1813891476184801567",
+        "https://markets.businessinsider.com/news/stocks/high-domain-authority-backlinks-for-improved-seo-announced-by-linkdaddy-1033567098",
+        "https://twitter.com/aleyda/status/1813871490082718015",
+        "https://twitter.com/aleyda/status/1813865775918178614",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-july-18-2024",
+        "https://twitter.com/theshelleywalsh/status/1813851983125631036",
+        "https://gizmodo.com/seo/best-tools/link-building",
+        "https://gizmodo.com/seo/rank-higher-google",
+        "https://gizmodo.com/seo/best-tools/se-ranking-vs-semrush",
+        "https://digiday.com/marketing/how-partnerships-between-athletes-and-brands-are-beginning-to-resemble-influencer-deals/",
+        "https://digiday.com/media/media-briefing-publishers-say-private-programmatic-revenue-is-up-but-open-is-a-mixed-bag/",
+        "https://digiday.com/media-buying/mod-op-makes-its-largest-agency-acquisition-as-it-expands-ai-creative-services/",
+        "https://digiday.com/marketing/advertisers-dont-seem-too-tempted-by-meta-putting-ads-on-threads/",
+        "https://digiday.com/marketing/amazon-prime-day-recap-shoppers-buy-household-items-over-pricey-splurges-on-first-day/",
+        "https://digiday.com/media-buying/brian-lesser-returns-to-groupm-with-an-expected-focus-on-advancing-tech/",
+        "https://www.chosun.com/english/industry-en/2024/07/18/5CLWMPHINZG2NLB47UICC2MI5U/"
+    ]
+}
