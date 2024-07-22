@@ -13,7 +13,7 @@
         },
         {
             "Title": "Google Confirms Ranking Boost For Country Code Domains",
-            "Category": "Search Engine Optimization",
+            "Category": "Search Engines",
             "Description": "Google's Gary Illyes confirmed that country code domain names perform better in search results because Google gives an edge to local sites",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814367350394929504",
@@ -27,11 +27,12 @@
             "Category": "Search Engines",
             "Description": "Google Search ranking volatility still pretty heated - I updated a bunch of the charts in my story",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814274236753514801"
+                "https://twitter.com/rustybrick/status/1814274236753514801",
+                "https://twitter.com/glenngabe/status/1814295777272881219"
             ]
         },
         {
-            "Title": "Google URL Shortener To Be Discontinued",
+            "Title": "Google URL Shortener Links To Stop Working",
             "Category": "Search Engines",
             "Description": "Google URL Shortener links will no longer be available: \"Links built with the Google URL Shortener in the form",
             "Links": [
@@ -39,44 +40,84 @@
             ]
         },
         {
-            "Title": "Google Chrome May Introduce AI-Powered Product Comparisons",
-            "Category": "Search Engines",
+            "Title": "Does SEO Still Work?",
+            "Category": "Search Engine Optimization",
+            "Description": "Does SEO still work? As someone who has written relatively highly cited, highly linked, highly read, etc. content since 2011 ... I'll say ... \"Yes But\"",
+            "Links": [
+                "https://www.saastr.com/does-seo-still-work-our-data-says-yes-but/"
+            ]
+        },
+        {
+            "Title": "How to Determine if Your SEO Team is Doing a Good Job",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller laid out a few ways to determine if your SEO team is doing the actual work they promised to deliver.  While trusting your SEO team is important, John said you can also do the following to ensure the SEO team is doing their job.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814363575395426798",
+                "https://twitter.com/rustybrick/status/1814303177287909779",
+                "https://twitter.com/glenngabe/status/1814261653997023592",
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+            ]
+        },
+        {
+            "Title": "Ignoring Website Accessibility Can Hurt Search Ranking and Have Legal Consequences",
+            "Category": "Search Engine Optimization",
+            "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
+            "Links": [
+                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
+            ]
+        },
+        {
+            "Title": "Google Chrome May Soon Show Full-Page Warnings for \"Risky\" Downloads",
+            "Category": "Browsers",
+            "Description": "Chrome will start showing full-page warnings for \"risky\" downloads soon \"The new full-page \"download warning\" introduced in recent Chrome builds gives users a chance to restore the aborted download process, although Google is asking for a reason. Google wants users to specify\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814646228950319605"
+            ]
+        },
+        {
+            "Title": "Google Testing AI-Powered Product Comparison Feature for Chrome",
+            "Category": "Browsers",
             "Description": "Focus on product reviews and comparisons? Oh boy -> Google Chrome could make product comparisons easier with an AI-powered feature for desktop \"Product Specs should simplify research by using the summarization prowess of Google\u2019s AI to identify and pull the specifications from\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Netflix Ad Tier Sees Significant Growth",
-            "Category": "Advertising",
-            "Description": "Focus on advertising? Pay attention to Netflix's new ad platform (not released yet) -> Netflix says its ad tier now accounts for over 45% of all signups in the markets where it's available, and ad tier memberships grew 34% QoQ in Q2 \"Netflix noted that the ad tier is scaling\u2026",
+            "Title": "Microsoft Buys Access to Taylor & Francis Research for AI Training",
+            "Category": "Artificial Intelligence",
+            "Description": "For $10M in first year -&gt; Academic authors 'shocked' after Taylor &amp; Francis sells access to their research to Microsoft AI \"The agreement, details of which were published by Informa during a trading update in May, states that Informa will be paid $10m+ for \"an initial data\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814268343269937501"
+                "https://twitter.com/glenngabe/status/1815000149548032118"
             ]
         },
         {
-            "Title": "Widespread Windows Outages Caused By Faulty Update",
-            "Category": "Technology",
-            "Description": "Really scary to see how one faulty update can do something like this. Banks, airlines, etc. -> CrowdStrike reports widespread \u201cBSODs on Windows hosts\u201d, impacting thousands of PCs and taking banks, airlines, and more offline; Microsoft is aware",
+            "Title": "Data Used to Train AI is Rapidly Disappearing",
+            "Category": "Artificial Intelligence",
+            "Description": "\"The Data That Powers A.I. Is Disappearing Fast\" -&gt; A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted That's if robots.txt is being followed...",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814266412048728168"
+                "https://twitter.com/glenngabe/status/1814345965769502873"
             ]
         },
         {
-            "Title": "How to Determine if Your SEO Team is Effective",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller laid out a few ways to determine if your SEO team is doing the actual work they promised to deliver.  While trusting your SEO team is important, John said you can also do the following to ensure the SEO team is doing their job.",
+            "Title": "Google Develops System to Control Robots Using Scene Memory Data",
+            "Category": "Artificial Intelligence",
+            "Description": "Yep, Jarvis will need this :) -&gt; Google wants to patent a system that controls robotic agents \u201cusing scene memory data.\u201d Google\u2019s tech essentially helps robots have better decision-making skills by using neural networks to comprehend both historical data and the scenes in front\u2026",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814363575395426798",
-                "https://twitter.com/rustybrick/status/1814303177287909779",
-                "https://twitter.com/rustybrick/status/1814261653997023592",
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+                "https://twitter.com/glenngabe/status/1814347469729263985"
+            ]
+        },
+        {
+            "Title": "Google's Gemini AI Assistant May Be Coming to Smart Glasses",
+            "Category": "Artificial Intelligence",
+            "Description": "Gemini in glasses. And that move could be helping drive Zuckerberg to invest billions in EssilorLuxottica -&gt; Google recently approached EssilorLuxottica's leadership about putting its Gemini AI assistant in future smart glasses",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814640990159872464"
             ]
         },
         {
             "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
             "Category": "Ecommerce",
-            "Description": "ICYMI: Google Merchant Center Next now supports supplemental feeds",
+            "Description": "Google Merchant Center Next now finally supports supplemental feed/source support",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814359800571965522",
                 "https://twitter.com/rustybrick/status/1814299402841776234",
@@ -84,25 +125,39 @@
             ]
         },
         {
-            "Title": "Google Local Pack Now Features \"Search Products With Camera\"",
-            "Category": "Search Engines",
-            "Description": "ICYMI: Google local pack with \"search products with camera\"",
+            "Title": "Prime Day 2024: What We Don't Know",
+            "Category": "Ecommerce",
+            "Description": "This year's Prime Day set records for overall sales volume. The details are unclear, however.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814356025375371634",
-                "https://twitter.com/rustybrick/status/1814295627440038072",
-                "https://twitter.com/rustybrick/status/1814256620681204110"
+                "https://www.practicalecommerce.com/prime-day-2024-what-we-dont-know"
             ]
         },
         {
-            "Title": "eBay Enhances Ad Platform with AI-Powered Tools for Sellers",
-            "Category": "Advertising",
+            "Title": "eBay Adds More AI Advertising Tools for Sellers",
+            "Category": "Ecommerce",
             "Description": "eBay has debuted new features for its ad platform including ways to create campaigns based on marketplace trends and search terms.",
             "Links": [
                 "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/"
             ]
         },
         {
-            "Title": "Ad Tech Vendors Hesitant Towards Google's Privacy Sandbox",
+            "Title": "Netflix's Ad Tier Sees Significant Growth",
+            "Category": "Advertising",
+            "Description": "Focus on advertising? Pay attention to Netflix's new ad platform (not released yet) -> Netflix says its ad tier now accounts for over 45% of all signups in the markets where it's available, and ad tier memberships grew 34% QoQ in Q2 \"Netflix noted that the ad tier is scaling\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814268343269937501"
+            ]
+        },
+        {
+            "Title": "Teads and Outbrain Rumored to Merge",
+            "Category": "Advertising",
+            "Description": "The latest installment of ad tech M&amp;A activity is leaving some industry folks surprised.",
+            "Links": [
+                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+            ]
+        },
+        {
+            "Title": "Some Ad Tech Vendors Pulling Back from Google's Privacy Sandbox",
             "Category": "Advertising",
             "Description": "This is what happens when uncertainty looms: prudence takes the spotlight.",
             "Links": [
@@ -110,19 +165,27 @@
             ]
         },
         {
-            "Title": "Revolut Leverages YouTube's Long-Form Content for Creator Strategy",
-            "Category": "Marketing",
-            "Description": "The challenger bank is prioritizing YouTube creators in bid to reach consumers.",
+            "Title": "Publishers More Optimistic Than Marketers About Third-Party Cookie Timeline",
+            "Category": "Advertising",
+            "Description": "The timeline on which Google will officially kill the third-party cookie is anyone's guess at this point. According to a Digiday+ Research survey conducted in the second quarter, marketers' guesses look very different from publishers'.",
             "Links": [
-                "https://digiday.com/marketing/how-revoluts-creator-strategy-is-benefitting-from-youtubes-long-form-swing/"
+                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
             ]
         },
         {
-            "Title": "Teads and Outbrain Rumored to Merge",
-            "Category": "Mergers and Acquisitions",
-            "Description": "The latest installment of ad tech M&A activity is leaving some industry folks surprised.",
+            "Title": "Link-Busters Reports Over a Billion DMCA Takedown Requests to Google",
+            "Category": "Copyright Infringement",
+            "Description": "1B+, largely driven by publishing companies -&gt; Link-Busters Is The First Anti-Piracy Company To Report More Than A Billion DMCA Takedown Requests To Google Search \"Roughly 75% of the reported URLs were removed. Other URLs were not in Google\u2019s index (21%) but were blacklisted\u2026",
             "Links": [
-                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+                "https://twitter.com/glenngabe/status/1815009577982697556"
+            ]
+        },
+        {
+            "Title": "Widespread Windows BSODs Impact Banks, Airlines, and More",
+            "Category": "Technology",
+            "Description": "Really scary to see how one faulty update can do something like this. Banks, airlines, etc. -> CrowdStrike reports widespread \u201cBSODs on Windows hosts\u201d, impacting thousands of PCs and taking banks, airlines, and more offline; Microsoft is aware",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814266412048728168"
             ]
         }
     ],
