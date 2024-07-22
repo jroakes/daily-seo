@@ -1,75 +1,126 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates and Features",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has been busy with several updates and new features related to search, including a core update causing ranking volatility, the retirement of Search Notes, tests of AI Overviews, and the expansion of translated results in SERPs. Google also provided advice on evaluating SEO team performance and highlighted the importance of localized language for international SEO.",
+            "Title": "Google Search Notes Feature To Be Retired",
+            "Category": "Search Engines",
+            "Description": "Google updates their documentation to alert users of their final chance to download their Notes on Search data",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814374900116672743",
-                "https://twitter.com/glenngabe/status/1814295777272881219",
+                "https://twitter.com/rustybrick/status/1814314502386852003",
+                "https://twitter.com/rustybrick/status/1814269180415201353",
+                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
+            ]
+        },
+        {
+            "Title": "Google Confirms Ranking Boost For Country Code Domains",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes confirmed that country code domain names perform better in search results because Google gives an edge to local sites",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814367350394929504",
+                "https://twitter.com/rustybrick/status/1814306952324809187",
+                "https://twitter.com/glenngabe/status/1814274237340713423",
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
+            ]
+        },
+        {
+            "Title": "Google Search Ranking Volatility Remains High",
+            "Category": "Search Engines",
+            "Description": "Google Search ranking volatility still pretty heated - I updated a bunch of the charts in my story",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1814274236753514801"
             ]
         },
         {
-            "Title": "DMCA Takedown Requests Surge Past 1 Billion",
-            "Category": "Copyright & Piracy",
-            "Description": "Link-Busters, an anti-piracy company, has become the first to report over a billion DMCA takedown requests to Google Search. The requests, primarily driven by publishing companies, have resulted in the removal or blacklisting of a significant portion of reported URLs.",
+            "Title": "Google URL Shortener To Be Discontinued",
+            "Category": "Search Engines",
+            "Description": "Google URL Shortener links will no longer be available: \"Links built with the Google URL Shortener in the form",
             "Links": [
-                "https://twitter.com/glenngabe/status/1815009577982697556"
+                "https://twitter.com/aleyda/status/1814272473396850859"
             ]
         },
         {
-            "Title": "Microsoft Acquires Access to Taylor & Francis Research for AI Training",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Taylor & Francis, a major academic publisher, has sold Microsoft access to its research database for AI training purposes. The deal, worth over $10 million in its first year, has sparked controversy among some authors who were unaware of the agreement.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1815000149548032118"
-            ]
-        },
-        {
-            "Title": "Google Explores AI Integration in Smart Glasses with EssilorLuxottica",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Google has reportedly approached EssilorLuxottica, a leading eyewear company, about integrating its Gemini AI assistant into future smart glasses. This move could intensify competition with Meta, which has invested heavily in EssilorLuxottica for its own metaverse ambitions.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814640990159872464"
-            ]
-        },
-        {
-            "Title": "Website Accessibility: A Crucial Factor for SEO and Legal Compliance",
-            "Category": "Web Development & Accessibility",
-            "Description": "A recent study revealed that a staggering 95% of websites fail to meet Web Content Accessibility Guidelines (WCAG). Ignoring website accessibility can negatively impact search ranking and potentially lead to legal repercussions.  Experts emphasize the importance of prioritizing accessibility to enhance website traffic and ensure inclusivity.",
-            "Links": [
-                "https://www.entrepreneur.com/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
-            ]
-        },
-        {
-            "Title": "Google Chrome to Introduce AI-Powered Product Comparison Feature",
-            "Category": "Ecommerce & AI",
-            "Description": "Google Chrome is developing an AI-powered feature that aims to simplify product comparisons for users. The feature, called \"Product Specs,\" will leverage Google's AI capabilities to extract and summarize product specifications from web pages, making it easier for consumers to research and compare products.",
+            "Title": "Google Chrome May Introduce AI-Powered Product Comparisons",
+            "Category": "Search Engines",
+            "Description": "Focus on product reviews and comparisons? Oh boy -> Google Chrome could make product comparisons easier with an AI-powered feature for desktop \"Product Specs should simplify research by using the summarization prowess of Google\u2019s AI to identify and pull the specifications from\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814269405561299257"
             ]
         },
         {
-            "Title": "Netflix's Ad-Supported Plan Gains Traction",
-            "Category": "Streaming & Advertising",
-            "Description": "Netflix's ad-supported tier is rapidly gaining popularity, now accounting for over 45% of new signups in available markets. The company reported a 34% quarter-over-quarter growth in ad-tier memberships in Q2, highlighting the increasing demand for more affordable streaming options.",
+            "Title": "Netflix Ad Tier Sees Significant Growth",
+            "Category": "Advertising",
+            "Description": "Focus on advertising? Pay attention to Netflix's new ad platform (not released yet) -> Netflix says its ad tier now accounts for over 45% of all signups in the markets where it's available, and ad tier memberships grew 34% QoQ in Q2 \"Netflix noted that the ad tier is scaling\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814268343269937501"
             ]
         },
         {
+            "Title": "Widespread Windows Outages Caused By Faulty Update",
+            "Category": "Technology",
+            "Description": "Really scary to see how one faulty update can do something like this. Banks, airlines, etc. -> CrowdStrike reports widespread \u201cBSODs on Windows hosts\u201d, impacting thousands of PCs and taking banks, airlines, and more offline; Microsoft is aware",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814266412048728168"
+            ]
+        },
+        {
+            "Title": "How to Determine if Your SEO Team is Effective",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller laid out a few ways to determine if your SEO team is doing the actual work they promised to deliver.  While trusting your SEO team is important, John said you can also do the following to ensure the SEO team is doing their job.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814363575395426798",
+                "https://twitter.com/rustybrick/status/1814303177287909779",
+                "https://twitter.com/rustybrick/status/1814261653997023592",
+                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Category": "Ecommerce",
+            "Description": "ICYMI: Google Merchant Center Next now supports supplemental feeds",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814359800571965522",
+                "https://twitter.com/rustybrick/status/1814299402841776234",
+                "https://twitter.com/rustybrick/status/1814259137183670452"
+            ]
+        },
+        {
+            "Title": "Google Local Pack Now Features \"Search Products With Camera\"",
+            "Category": "Search Engines",
+            "Description": "ICYMI: Google local pack with \"search products with camera\"",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814356025375371634",
+                "https://twitter.com/rustybrick/status/1814295627440038072",
+                "https://twitter.com/rustybrick/status/1814256620681204110"
+            ]
+        },
+        {
             "Title": "eBay Enhances Ad Platform with AI-Powered Tools for Sellers",
-            "Category": "Ecommerce & AI",
-            "Description": "eBay has rolled out new AI-powered features for its advertising platform, empowering sellers with data-driven insights and automation. The platform now enables sellers to create campaigns based on marketplace trends and popular search terms, optimizing ad targeting and performance.",
+            "Category": "Advertising",
+            "Description": "eBay has debuted new features for its ad platform including ways to create campaigns based on marketplace trends and search terms.",
             "Links": [
                 "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/"
             ]
         },
         {
-            "Title": "Teads and Outbrain Rumored to Merge in Ad Tech Consolidation",
-            "Category": "Advertising & Mergers & Acquisitions",
-            "Description": "Rumors are swirling in the ad tech industry about a potential merger between Teads and Outbrain. The deal, if confirmed, would mark another significant consolidation in the ad tech landscape, as companies seek to expand their reach and capabilities.",
+            "Title": "Ad Tech Vendors Hesitant Towards Google's Privacy Sandbox",
+            "Category": "Advertising",
+            "Description": "This is what happens when uncertainty looms: prudence takes the spotlight.",
+            "Links": [
+                "https://digiday.com/marketing/some-ad-tech-vendors-are-pulling-back-from-googles-privacy-sandbox-amid-uncertainty/"
+            ]
+        },
+        {
+            "Title": "Revolut Leverages YouTube's Long-Form Content for Creator Strategy",
+            "Category": "Marketing",
+            "Description": "The challenger bank is prioritizing YouTube creators in bid to reach consumers.",
+            "Links": [
+                "https://digiday.com/marketing/how-revoluts-creator-strategy-is-benefitting-from-youtubes-long-form-swing/"
+            ]
+        },
+        {
+            "Title": "Teads and Outbrain Rumored to Merge",
+            "Category": "Mergers and Acquisitions",
+            "Description": "The latest installment of ad tech M&A activity is leaving some industry folks surprised.",
             "Links": [
                 "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
             ]
