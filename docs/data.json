@@ -1,191 +1,257 @@
 {
     "data": [
         {
-            "Title": "Google Search Notes Feature To Be Retired",
-            "Category": "Search Engines",
-            "Description": "Google updates their documentation to alert users of their final chance to download their Notes on Search data",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814374900116672743",
-                "https://twitter.com/rustybrick/status/1814314502386852003",
-                "https://twitter.com/rustybrick/status/1814269180415201353",
-                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
-            ]
-        },
-        {
-            "Title": "Google Confirms Ranking Boost For Country Code Domains",
-            "Category": "Search Engines",
-            "Description": "Google's Gary Illyes confirmed that country code domain names perform better in search results because Google gives an edge to local sites",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814367350394929504",
-                "https://twitter.com/rustybrick/status/1814306952324809187",
-                "https://twitter.com/glenngabe/status/1814274237340713423",
-                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
-            ]
-        },
-        {
             "Title": "Google Search Ranking Volatility Remains High",
-            "Category": "Search Engines",
-            "Description": "Google Search ranking volatility still pretty heated - I updated a bunch of the charts in my story",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search ranking volatility continues to be elevated, with some sites experiencing minor upward movement after previous declines. However, the overall impact of recent updates persists.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1814274236753514801",
                 "https://twitter.com/glenngabe/status/1814295777272881219"
             ]
         },
         {
-            "Title": "Google URL Shortener Links To Stop Working",
-            "Category": "Search Engines",
-            "Description": "Google URL Shortener links will no longer be available: \"Links built with the Google URL Shortener in the form",
-            "Links": [
-                "https://twitter.com/aleyda/status/1814272473396850859"
-            ]
-        },
-        {
-            "Title": "Does SEO Still Work?",
-            "Category": "Search Engine Optimization",
-            "Description": "Does SEO still work? As someone who has written relatively highly cited, highly linked, highly read, etc. content since 2011 ... I'll say ... \"Yes But\"",
-            "Links": [
-                "https://www.saastr.com/does-seo-still-work-our-data-says-yes-but/"
-            ]
-        },
-        {
-            "Title": "How to Determine if Your SEO Team is Doing a Good Job",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller laid out a few ways to determine if your SEO team is doing the actual work they promised to deliver.  While trusting your SEO team is important, John said you can also do the following to ensure the SEO team is doing their job.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1814363575395426798",
-                "https://twitter.com/rustybrick/status/1814303177287909779",
-                "https://twitter.com/glenngabe/status/1814261653997023592",
-                "https://www.seroundtable.com/google-seo-team-doing-job-37755.html"
-            ]
-        },
-        {
-            "Title": "Ignoring Website Accessibility Can Hurt Search Ranking and Have Legal Consequences",
-            "Category": "Search Engine Optimization",
-            "Description": "A study found that 95% of websites fail to meet Web Content Accessibility Guidelines \u2014 and accessibility is key to boosting website traffic. Here's what to do.",
-            "Links": [
-                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
-            ]
-        },
-        {
-            "Title": "Google Chrome May Soon Show Full-Page Warnings for \"Risky\" Downloads",
-            "Category": "Browsers",
-            "Description": "Chrome will start showing full-page warnings for \"risky\" downloads soon \"The new full-page \"download warning\" introduced in recent Chrome builds gives users a chance to restore the aborted download process, although Google is asking for a reason. Google wants users to specify\u2026",
+            "Title": "Google Chrome to Display Full-Page Warnings for \"Risky\" Downloads",
+            "Category": "Browsers and Security",
+            "Description": "Google Chrome will soon implement full-page warnings for downloads deemed \"risky.\" The new warning system aims to provide users with more information about potential threats and allow them to restore aborted downloads while gathering feedback on the reasons behind download cancellations.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814646228950319605"
             ]
         },
         {
-            "Title": "Google Testing AI-Powered Product Comparison Feature for Chrome",
-            "Category": "Browsers",
-            "Description": "Focus on product reviews and comparisons? Oh boy -> Google Chrome could make product comparisons easier with an AI-powered feature for desktop \"Product Specs should simplify research by using the summarization prowess of Google\u2019s AI to identify and pull the specifications from\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814269405561299257"
-            ]
-        },
-        {
-            "Title": "Microsoft Buys Access to Taylor & Francis Research for AI Training",
+            "Title": "Google's Gemini AI Assistant May Power Future Smart Glasses",
             "Category": "Artificial Intelligence",
-            "Description": "For $10M in first year -&gt; Academic authors 'shocked' after Taylor &amp; Francis sells access to their research to Microsoft AI \"The agreement, details of which were published by Informa during a trading update in May, states that Informa will be paid $10m+ for \"an initial data\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1815000149548032118"
-            ]
-        },
-        {
-            "Title": "Data Used to Train AI is Rapidly Disappearing",
-            "Category": "Artificial Intelligence",
-            "Description": "\"The Data That Powers A.I. Is Disappearing Fast\" -&gt; A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted That's if robots.txt is being followed...",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814345965769502873"
-            ]
-        },
-        {
-            "Title": "Google Develops System to Control Robots Using Scene Memory Data",
-            "Category": "Artificial Intelligence",
-            "Description": "Yep, Jarvis will need this :) -&gt; Google wants to patent a system that controls robotic agents \u201cusing scene memory data.\u201d Google\u2019s tech essentially helps robots have better decision-making skills by using neural networks to comprehend both historical data and the scenes in front\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814347469729263985"
-            ]
-        },
-        {
-            "Title": "Google's Gemini AI Assistant May Be Coming to Smart Glasses",
-            "Category": "Artificial Intelligence",
-            "Description": "Gemini in glasses. And that move could be helping drive Zuckerberg to invest billions in EssilorLuxottica -&gt; Google recently approached EssilorLuxottica's leadership about putting its Gemini AI assistant in future smart glasses",
+            "Description": "Google has reportedly approached EssilorLuxottica, a leading eyewear company, about integrating its Gemini AI assistant into future smart glasses. This move could intensify competition in the smart eyewear market, particularly with Meta's investments in EssilorLuxottica.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814640990159872464"
             ]
         },
         {
-            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
-            "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now finally supports supplemental feed/source support",
+            "Title": "Google URL Shortener Links to Stop Working",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has announced that links created using the Google URL Shortener (goo.gl) will no longer be accessible. Users are advised to transition to alternative URL shortening services.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1814359800571965522",
+                "https://twitter.com/aleyda/status/1814272473396850859"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising Introduces \"Brand Lists\" to Performance Max Campaigns",
+            "Category": "Advertising Platforms",
+            "Description": "Microsoft Advertising is adding \"brand lists\" as a new feature to its Performance Max campaigns. No further details about this feature were provided.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815348817400938740"
+            ]
+        },
+        {
+            "Title": "Google Can Now Show AI-Generated Images in Knowledge Panels",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has introduced the capability to display AI-generated images within its knowledge panels, enhancing the visual presentation of information for certain search queries.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815346300474265728"
+            ]
+        },
+        {
+            "Title": "Bing Tests Related Searches at the Top of Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing is experimenting with a new placement for related searches, moving them to the top of the search results page, directly below the search bar. This change aims to provide users with more relevant search suggestions earlier in their search process.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815343784118604178",
+                "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html"
+            ]
+        },
+        {
+            "Title": "Google Provides Guidance on Improving Product Rich Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller has outlined four key factors to enhance the appearance of product rich results in search. These factors likely involve optimizing product structured data, ensuring data accuracy, and aligning with Google's guidelines.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-says-how-to-get-more-product-rich-results/522601/"
+            ]
+        },
+        {
+            "Title": "Website Accessibility Crucial for Search Ranking and Legal Compliance",
+            "Category": "Search Engine Optimization",
+            "Description": "A recent study highlights the importance of website accessibility, revealing that a significant percentage of websites fail to meet Web Content Accessibility Guidelines (WCAG). Adhering to these guidelines is not only essential for improved search engine optimization (SEO) but also for avoiding potential legal ramifications.",
+            "Links": [
+                "https://www.entrepreneur.com/science-technology/ignoring-this-website-essential-can-hurt-your-search-ranking/476535"
+            ]
+        },
+        {
+            "Title": "Google Confirms Ranking Boost for Country Code Domains",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gary Illyes has confirmed that using country code top-level domains (ccTLDs) can provide a ranking advantage in localized search results. Google's algorithms recognize ccTLDs as a signal of a website's relevance to a specific region, potentially leading to higher rankings for local searches.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1814306952324809187",
+                "https://twitter.com/glenngabe/status/1814274237340713423",
+                "https://www.searchenginejournal.com/google-confirms-ranking-preference/522477/"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Now Supports Supplemental Feeds",
+            "Category": "Ecommerce and Shopping",
+            "Description": "Google Merchant Center Next now offers support for supplemental feeds, allowing merchants to provide additional product data and enhance their product listings. This feature provides more flexibility and control over product information in Google Merchant Center.",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1814299402841776234",
+                "https://twitter.com/rustybrick/status/1815350546225598614",
                 "https://twitter.com/rustybrick/status/1814259137183670452"
             ]
         },
         {
-            "Title": "Prime Day 2024: What We Don't Know",
-            "Category": "Ecommerce",
-            "Description": "This year's Prime Day set records for overall sales volume. The details are unclear, however.",
+            "Title": "Google Notes on Search Data Export Deadline Approaching",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has issued a reminder to users of its Notes on Search feature, urging them to export their data before the deadline. The Notes on Search feature, which allowed users to annotate search results, is being discontinued, and data will no longer be accessible after the specified date.",
             "Links": [
-                "https://www.practicalecommerce.com/prime-day-2024-what-we-dont-know"
+                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
             ]
         },
         {
-            "Title": "eBay Adds More AI Advertising Tools for Sellers",
-            "Category": "Ecommerce",
-            "Description": "eBay has debuted new features for its ad platform including ways to create campaigns based on marketplace trends and search terms.",
+            "Title": "Does SEO Still Work?",
+            "Category": "Search Engine Optimization",
+            "Description": "The effectiveness of search engine optimization (SEO) in today's digital landscape is a topic of debate. While some argue that SEO is no longer as effective as it once was, others maintain that it remains a crucial aspect of online visibility and traffic generation. Data suggests that SEO can still yield positive results, but its impact may vary depending on factors such as industry, competition, and the constantly evolving algorithms of search engines.",
             "Links": [
-                "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/"
-            ]
-        },
-        {
-            "Title": "Netflix's Ad Tier Sees Significant Growth",
-            "Category": "Advertising",
-            "Description": "Focus on advertising? Pay attention to Netflix's new ad platform (not released yet) -> Netflix says its ad tier now accounts for over 45% of all signups in the markets where it's available, and ad tier memberships grew 34% QoQ in Q2 \"Netflix noted that the ad tier is scaling\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814268343269937501"
-            ]
-        },
-        {
-            "Title": "Teads and Outbrain Rumored to Merge",
-            "Category": "Advertising",
-            "Description": "The latest installment of ad tech M&amp;A activity is leaving some industry folks surprised.",
-            "Links": [
-                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
-            ]
-        },
-        {
-            "Title": "Some Ad Tech Vendors Pulling Back from Google's Privacy Sandbox",
-            "Category": "Advertising",
-            "Description": "This is what happens when uncertainty looms: prudence takes the spotlight.",
-            "Links": [
-                "https://digiday.com/marketing/some-ad-tech-vendors-are-pulling-back-from-googles-privacy-sandbox-amid-uncertainty/"
-            ]
-        },
-        {
-            "Title": "Publishers More Optimistic Than Marketers About Third-Party Cookie Timeline",
-            "Category": "Advertising",
-            "Description": "The timeline on which Google will officially kill the third-party cookie is anyone's guess at this point. According to a Digiday+ Research survey conducted in the second quarter, marketers' guesses look very different from publishers'.",
-            "Links": [
-                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
+                "https://www.saastr.com/does-seo-still-work-our-data-says-yes-but/"
             ]
         },
         {
             "Title": "Link-Busters Reports Over a Billion DMCA Takedown Requests to Google",
-            "Category": "Copyright Infringement",
-            "Description": "1B+, largely driven by publishing companies -&gt; Link-Busters Is The First Anti-Piracy Company To Report More Than A Billion DMCA Takedown Requests To Google Search \"Roughly 75% of the reported URLs were removed. Other URLs were not in Google\u2019s index (21%) but were blacklisted\u2026",
+            "Category": "Copyright and Piracy",
+            "Description": "Link-Busters, an anti-piracy company, has become the first to report over a billion DMCA takedown requests to Google Search. The majority of these requests originated from publishing companies aiming to protect their copyrighted content from online infringement.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1815009577982697556"
             ]
         },
         {
-            "Title": "Widespread Windows BSODs Impact Banks, Airlines, and More",
-            "Category": "Technology",
-            "Description": "Really scary to see how one faulty update can do something like this. Banks, airlines, etc. -> CrowdStrike reports widespread \u201cBSODs on Windows hosts\u201d, impacting thousands of PCs and taking banks, airlines, and more offline; Microsoft is aware",
+            "Title": "Academic Authors Express Concern Over Taylor & Francis Selling Research Access to Microsoft AI",
+            "Category": "Artificial Intelligence",
+            "Description": "Academic authors have voiced concerns and surprise after Taylor & Francis, a prominent academic publisher, sold access to their research to Microsoft for use in AI development. The agreement, valued at over $10 million in its first year, has sparked debate about data privacy, intellectual property rights, and the potential implications of using academic research for commercial AI applications.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1815000149548032118"
+            ]
+        },
+        {
+            "Title": "Google Search Tests Saving AI-Generated Overviews",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing a new feature that allows users to save AI-generated overviews from search results. This feature, currently in the testing phase, would enable users to create a personal collection of AI-generated summaries within the Google Search app, providing a convenient way to revisit and organize information from previous searches.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814985457261772992"
+            ]
+        },
+        {
+            "Title": "Google Automatically Translating Pages in Search Results for Some Users",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is now automatically translating web pages, including titles, links, and snippets, in search results for users whose language preferences differ from the page's original language. This feature aims to improve the search experience for multilingual users by providing more accessible and relevant search results.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814656173749998003"
+            ]
+        },
+        {
+            "Title": "Google's \"GoogleOther\" Crawler Used for Various Non-Search Features",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's \"GoogleOther\" crawler, a generic web crawler used by various product teams, fetches publicly accessible content for purposes beyond traditional web search. This crawler plays a role in supporting features such as Google Discover, Google Assistant, and other products that rely on web content aggregation.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814653981097939261"
+            ]
+        },
+        {
+            "Title": "Data Used to Train AI is Rapidly Disappearing",
+            "Category": "Artificial Intelligence",
+            "Description": "A study has revealed that a significant portion of the data used to train AI models is becoming inaccessible. The study, which analyzed thousands of web domains, found that a substantial amount of data, including high-quality data, has been restricted or removed, potentially impacting the development and accuracy of future AI systems.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814345965769502873"
+            ]
+        },
+        {
+            "Title": "Google Patents System for Controlling Robots Using Scene Memory Data",
+            "Category": "Artificial Intelligence",
+            "Description": "Google has filed a patent for a system that utilizes scene memory data to control robotic agents. This technology aims to enhance the decision-making capabilities of robots by leveraging neural networks to process historical data and real-time environmental information, potentially leading to more sophisticated and autonomous robotic systems.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814347469729263985"
+            ]
+        },
+        {
+            "Title": "Google Chrome May Introduce AI-Powered Product Comparison Feature",
+            "Category": "Ecommerce and Shopping",
+            "Description": "Google is reportedly developing an AI-powered feature for its Chrome browser that would simplify product comparisons for users. The feature, dubbed \"Product Specs,\" would leverage Google's AI capabilities to extract and summarize product specifications from web pages, making it easier for consumers to compare products and make informed purchasing decisions.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814269405561299257"
+            ]
+        },
+        {
+            "Title": "Netflix's Ad-Supported Tier Sees Significant Growth",
+            "Category": "Streaming and Entertainment",
+            "Description": "Netflix has reported substantial growth in its ad-supported tier, with a significant percentage of new subscribers opting for the lower-priced plan. This trend highlights the increasing popularity of ad-supported streaming services as consumers seek more affordable entertainment options.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1814268343269937501"
+            ]
+        },
+        {
+            "Title": "Widespread Windows BSODs Impact Businesses and Organizations",
+            "Category": "Technology and Security",
+            "Description": "A faulty update has caused widespread \"Blue Screen of Death\" (BSOD) errors on Windows systems, impacting businesses, organizations, and individuals worldwide. The issue has resulted in system crashes and disruptions for various entities, including banks and airlines, highlighting the critical importance of software updates and cybersecurity measures.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1814266412048728168"
+            ]
+        },
+        {
+            "Title": "eBay Enhances Ad Platform with AI-Powered Tools for Sellers",
+            "Category": "Ecommerce and Advertising",
+            "Description": "eBay has rolled out new AI-powered features for its advertising platform, providing sellers with enhanced tools to optimize their campaigns. These features include capabilities to create campaigns based on marketplace trends and popular search terms, enabling sellers to target their ads more effectively and reach a wider audience.",
+            "Links": [
+                "https://digiday.com/media-buying/ai-briefing-why-ebay-is-adding-more-ai-advertising-tools-for-sellers/"
+            ]
+        },
+        {
+            "Title": "Ad Tech Vendors Express Uncertainty Over Google's Privacy Sandbox",
+            "Category": "Advertising Technology",
+            "Description": "Some ad tech vendors are hesitant to fully embrace Google's Privacy Sandbox initiative due to ongoing uncertainty surrounding its implementation and potential impact. The Privacy Sandbox aims to enhance user privacy by limiting the use of third-party cookies, but its long-term effects on the digital advertising ecosystem remain unclear.",
+            "Links": [
+                "https://digiday.com/marketing/some-ad-tech-vendors-are-pulling-back-from-googles-privacy-sandbox-amid-uncertainty/"
+            ]
+        },
+        {
+            "Title": "Revolut Leverages YouTube's Long-Form Content for Creator Strategy",
+            "Category": "Marketing and Social Media",
+            "Description": "Revolut, a financial technology company, is prioritizing YouTube creators as part of its marketing strategy, capitalizing on the platform's shift towards long-form content. By partnering with creators, Revolut aims to reach a wider audience and engage consumers through authentic and relatable content.",
+            "Links": [
+                "https://digiday.com/marketing/how-revoluts-creator-strategy-is-benefitting-from-youtubes-long-form-swing/"
+            ]
+        },
+        {
+            "Title": "Publishers More Optimistic Than Marketers About Third-Party Cookie Deprecation Timeline",
+            "Category": "Advertising Technology",
+            "Description": "A recent survey reveals that publishers are more optimistic than marketers about the timeline for Google's deprecation of third-party cookies. While marketers anticipate a shorter lifespan for third-party cookies, publishers believe they will have more time to adapt to the changing digital advertising landscape.",
+            "Links": [
+                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
+            ]
+        },
+        {
+            "Title": "Teads and Outbrain Rumored to Merge in Ad Tech Deal",
+            "Category": "Advertising Technology",
+            "Description": "Rumors are circulating in the ad tech industry about a potential merger between Teads and Outbrain, two prominent players in the native advertising space. The deal, if confirmed, would create a significant entity in the digital advertising market.",
+            "Links": [
+                "https://digiday.com/media/teads-ma-rumors-are-firming-up-with-a-deal-to-merge-with-outbrain/"
+            ]
+        },
+        {
+            "Title": "Meta Expands Overlay Ads to Instagram Reels",
+            "Category": "Advertising Platforms",
+            "Description": "Meta, the parent company of Instagram, is expanding its overlay ad format to Instagram Reels, its short-form video feature. This move will provide advertisers with additional opportunities to reach users on the platform.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1815350546225598614"
+            ]
+        },
+        {
+            "Title": "Taboola to Sell Ads for Apple",
+            "Category": "Advertising Platforms",
+            "Description": "Taboola, a content recommendation platform, has announced a partnership with Apple to sell ads on Apple's platforms. This collaboration will expand Taboola's reach and provide advertisers with new avenues to connect with Apple's vast user base.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1815350546225598614"
+            ]
+        },
+        {
+            "Title": "Social Media Benchmarks Released for Q2 2024",
+            "Category": "Social Media Marketing",
+            "Description": "New social media benchmarks for the second quarter of 2024 have been released, providing insights into key performance indicators (KPIs) and industry trends. These benchmarks offer valuable data for businesses to evaluate their social media strategies and track their progress.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1815350546225598614"
             ]
         }
     ],
