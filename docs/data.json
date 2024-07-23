@@ -1,12 +1,32 @@
 {
     "data": [
         {
-            "Title": "Google Will Not Deprecate Third-Party Cookies in Chrome",
-            "Category": "Advertising Technology",
+            "Title": "Google Keeps Third-Party Cookies in Chrome",
+            "Category": "Digital Marketing",
             "Description": "After much back and forth, Google has decided to keep third-party cookies in its Chrome browser. Turns out all the fuss over the years wasn\u2019t in vain after all; the ad industry\u2019s cries have finally been heard.",
             "Links": [
                 "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/",
-                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
+                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/",
+                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Feature Gets New Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has been busy testing new features for its AI Overviews, including the ability to save overviews for later and a new treatment for links similar to Perplexity.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1815356252207133126",
+                "https://twitter.com/rustybrick/status/1815353850414731481",
+                "https://twitter.com/rustybrick/status/1815351333714571744"
+            ]
+        },
+        {
+            "Title": "Bing Tests Related Searches at the Top of Results Page",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing is testing placing the related searches at the top of the search results page, directly under the search bar.  The searches are exactly what you would see in the bottom but in a different format at the top.",
+            "Links": [
+                "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
+                "https://twitter.com/rustybrick/status/1815343784118604178"
             ]
         },
         {
@@ -18,55 +38,11 @@
             ]
         },
         {
-            "Title": "Google Tests AI-Generated Images in Knowledge Panels",
-            "Category": "Search Engine Optimization",
-            "Description": "Google can show AI-generated images in its knowledge panels",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1815346300474265728"
-            ]
-        },
-        {
-            "Title": "Bing Tests Related Searches at Top of Results Page",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is testing placing the related searches at the top of the search results page, directly under the search bar.  The searches are exactly what you would see in the bottom but in a different format at the top.",
-            "Links": [
-                "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
-                "https://twitter.com/rustybrick/status/1815343784118604178"
-            ]
-        },
-        {
-            "Title": "Google Search Notes Data Export Deadline Approaching",
+            "Title": "Google Notes on Search Data Export Deadline Approaching",
             "Category": "Search Engine Optimization",
             "Description": "Google updates their documentation to alert users of their final chance to download their Notes on Search data",
             "Links": [
                 "https://www.searchenginejournal.com/google-notes-search-data/522584/"
-            ]
-        },
-        {
-            "Title": "Google's New AI Overviews Feature Sees Extensive Testing",
-            "Category": "Artificial Intelligence",
-            "Description": "Google is actively testing various aspects of its new AI Overviews feature, including saving AI overviews in the Google Search App, a new treatment for links similar to Perplexity, and the ability to save AI Overviews generated in Labs.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1815356252207133126",
-                "https://twitter.com/rustybrick/status/1815353850414731481",
-                "https://twitter.com/rustybrick/status/1815351333714571744",
-                "https://twitter.com/glenngabe/status/1814985457261772992"
-            ]
-        },
-        {
-            "Title": "Publishers Anticipate Longer Third-Party Cookie Availability Than Marketers",
-            "Category": "Advertising Technology",
-            "Description": "The timeline on which Google will officially kill the third-party cookie is anyone's guess at this point. According to a Digiday+ Research survey conducted in the second quarter, marketers' guesses look very different from publishers'.",
-            "Links": [
-                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
-            ]
-        },
-        {
-            "Title": "Immediate Enhances CMP Strategy, Streamlines Ad Tech Partnerships",
-            "Category": "Advertising Technology",
-            "Description": "Consent management platforms at Immediate aren't just about ticking boxes for data laws.",
-            "Links": [
-                "https://digiday.com/media/immediate-deepens-cmp-strategy-slashes-ad-tech-partnerships-for-sharper-data-governance/"
             ]
         }
     ],
