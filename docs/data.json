@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Keeps Third-Party Cookies in Chrome, Relieving Ad Industry",
-            "Category": "Advertising Technology",
-            "Description": "After years of uncertainty and industry pushback, Google has decided to retain third-party cookies in its Chrome browser. The move comes as a relief to the ad industry, which had expressed concerns about the impact of cookie deprecation.",
+            "Title": "Google Retains Third-Party Cookies in Chrome",
+            "Category": "Technology",
+            "Description": "After years of uncertainty and industry pushback, Google has reversed its decision to phase out third-party cookies in its Chrome browser.",
             "Links": [
                 "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/",
-                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/",
-                "https://twitter.com/rustybrick/status/1815713721710436655"
+                "https://twitter.com/rustybrick/status/1815713721710436655",
+                "https://twitter.com/rustybrick/status/1815756504064266272"
             ]
         },
         {
-            "Title": "Google's AI Overviews Get New Features: Link Citations, Saving for Later",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing new features for its AI Overviews in search results. These include link icons that cite the source of the AI answer and an option to save AI Overviews for later viewing in the Google Search App.",
+            "Title": "Google's AI Overviews Expand with New Features",
+            "Category": "Technology",
+            "Description": "Google is rapidly expanding its AI Overviews in search with new features like saving overviews, link citations, and video descriptions.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1815356252207133126",
                 "https://twitter.com/rustybrick/status/1815353850414731481",
@@ -21,36 +21,55 @@
             ]
         },
         {
-            "Title": "Bing Tests Related Searches at the Top of Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing is experimenting with the placement of related searches, moving them from the bottom of the search results page to the top, directly under the search bar.",
+            "Title": "Bing Tests Related Searches at Top of Results",
+            "Category": "Technology",
+            "Description": "Bing is experimenting with the placement of related searches, moving them to the top of the search results page below the search bar.",
             "Links": [
                 "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
                 "https://twitter.com/rustybrick/status/1815343784118604178"
             ]
         },
         {
-            "Title": "Google's Algorithms Combat Negative SEO Attempts",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's algorithms are becoming increasingly sophisticated in detecting and mitigating the impact of negative SEO tactics, ensuring a fairer search ranking landscape.",
+            "Title": "Google Search Updates: Larger Site Names, Favicons, and More",
+            "Category": "Technology",
+            "Description": "Google is testing several visual updates to its search results, including larger website names, favicons, and a new Sitelinks interface.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815711205413302465",
+                "https://twitter.com/rustybrick/status/1815752728934834470",
+                "https://twitter.com/rustybrick/status/1815748954178330774"
+            ]
+        },
+        {
+            "Title": "Google Provides Guidance on Product Rich Results and Internal Links",
+            "Category": "Marketing",
+            "Description": "Google's John Mueller offers advice on how to improve SEO, including tips for increasing product rich results visibility and optimizing internal links.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-says-how-to-get-more-product-rich-results/522601/",
+                "https://www.searchenginejournal.com/google-shares-tips-to-improve-seo-through-internal-links/522797/"
+            ]
+        },
+        {
+            "Title": "Google's Algorithms Combat Negative SEO",
+            "Category": "Marketing",
+            "Description": "Google assures users that its algorithms are designed to detect and mitigate the impact of negative SEO tactics on search rankings.",
             "Links": [
                 "https://www.dmnews.com/googles-algorithms-counter-negative-seo-attempts/"
             ]
         },
         {
-            "Title": "Google Notes on Search Data Export Deadline Approaching",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is reminding users of the approaching deadline to export their Notes on Search data. The feature is being discontinued, and users are encouraged to download their data before it's no longer accessible.",
+            "Title": "Google to Issue Warnings for \"Risky\" Downloads in Chrome",
+            "Category": "Security",
+            "Description": "Chrome users will soon encounter full-page warnings for downloads deemed \"risky,\" prompting them to provide a reason for proceeding.",
             "Links": [
-                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
+                "https://twitter.com/glenngabe/status/1814646228950319605"
             ]
         },
         {
-            "Title": "Google Using AI for Video Descriptions in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is leveraging its AI Overviews technology to generate descriptions for videos appearing in search results, enhancing accessibility and providing users with more context.",
+            "Title": "Google Notes on Search Data Export Deadline",
+            "Category": "Technology",
+            "Description": "Google reminds users of the approaching deadline to export their Notes on Search data, urging them to download it before it's no longer available.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1815716238334574673"
+                "https://www.searchenginejournal.com/google-notes-search-data/522584/"
             ]
         }
     ],
