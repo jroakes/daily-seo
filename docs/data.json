@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Keeps Third-Party Cookies in Chrome",
-            "Category": "Digital Marketing",
-            "Description": "After much back and forth, Google has decided to keep third-party cookies in its Chrome browser. Turns out all the fuss over the years wasn\u2019t in vain after all; the ad industry\u2019s cries have finally been heard.",
+            "Title": "Google Keeps Third-Party Cookies in Chrome, Relieving Ad Industry",
+            "Category": "Advertising Technology",
+            "Description": "After years of uncertainty and industry pushback, Google has decided to retain third-party cookies in its Chrome browser. The move comes as a relief to the ad industry, which had expressed concerns about the impact of cookie deprecation.",
             "Links": [
                 "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/",
-                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/",
-                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/"
+                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/",
+                "https://twitter.com/rustybrick/status/1815713721710436655"
             ]
         },
         {
-            "Title": "Google's AI Overviews Feature Gets New Updates",
+            "Title": "Google's AI Overviews Get New Features: Link Citations, Saving for Later",
             "Category": "Search Engine Optimization",
-            "Description": "Google has been busy testing new features for its AI Overviews, including the ability to save overviews for later and a new treatment for links similar to Perplexity.",
+            "Description": "Google is testing new features for its AI Overviews in search results. These include link icons that cite the source of the AI answer and an option to save AI Overviews for later viewing in the Google Search App.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1815356252207133126",
                 "https://twitter.com/rustybrick/status/1815353850414731481",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Bing Tests Related Searches at the Top of Results Page",
+            "Title": "Bing Tests Related Searches at the Top of Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Bing is testing placing the related searches at the top of the search results page, directly under the search bar.  The searches are exactly what you would see in the bottom but in a different format at the top.",
+            "Description": "Bing is experimenting with the placement of related searches, moving them from the bottom of the search results page to the top, directly under the search bar.",
             "Links": [
                 "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
                 "https://twitter.com/rustybrick/status/1815343784118604178"
@@ -32,7 +32,7 @@
         {
             "Title": "Google's Algorithms Combat Negative SEO Attempts",
             "Category": "Search Engine Optimization",
-            "Description": "Discover how Google's advanced algorithms are effectively working to combat and neutralize the impact of negative SEO efforts on search result rankings.",
+            "Description": "Google's algorithms are becoming increasingly sophisticated in detecting and mitigating the impact of negative SEO tactics, ensuring a fairer search ranking landscape.",
             "Links": [
                 "https://www.dmnews.com/googles-algorithms-counter-negative-seo-attempts/"
             ]
@@ -40,9 +40,17 @@
         {
             "Title": "Google Notes on Search Data Export Deadline Approaching",
             "Category": "Search Engine Optimization",
-            "Description": "Google updates their documentation to alert users of their final chance to download their Notes on Search data",
+            "Description": "Google is reminding users of the approaching deadline to export their Notes on Search data. The feature is being discontinued, and users are encouraged to download their data before it's no longer accessible.",
             "Links": [
                 "https://www.searchenginejournal.com/google-notes-search-data/522584/"
+            ]
+        },
+        {
+            "Title": "Google Using AI for Video Descriptions in Search Results",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is leveraging its AI Overviews technology to generate descriptions for videos appearing in search results, enhancing accessibility and providing users with more context.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815716238334574673"
             ]
         }
     ],
