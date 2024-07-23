@@ -2,7 +2,7 @@
     "data": [
         {
             "Title": "Google Will Not Deprecate Third-Party Cookies in Chrome",
-            "Category": "Digital Marketing",
+            "Category": "Advertising Technology",
             "Description": "After much back and forth, Google has decided to keep third-party cookies in its Chrome browser. Turns out all the fuss over the years wasn\u2019t in vain after all; the ad industry\u2019s cries have finally been heard.",
             "Links": [
                 "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/",
@@ -11,7 +11,7 @@
         },
         {
             "Title": "Google's Algorithms Combat Negative SEO Attempts",
-            "Category": "SEO",
+            "Category": "Search Engine Optimization",
             "Description": "Discover how Google's advanced algorithms are effectively working to combat and neutralize the impact of negative SEO efforts on search result rankings.",
             "Links": [
                 "https://www.dmnews.com/googles-algorithms-counter-negative-seo-attempts/"
@@ -27,7 +27,7 @@
         },
         {
             "Title": "Bing Tests Related Searches at Top of Results Page",
-            "Category": "Search",
+            "Category": "Search Engine Optimization",
             "Description": "Bing is testing placing the related searches at the top of the search results page, directly under the search bar.  The searches are exactly what you would see in the bottom but in a different format at the top.",
             "Links": [
                 "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
@@ -35,37 +35,38 @@
             ]
         },
         {
-            "Title": "Google Notes Search Data Export Deadline Nears",
-            "Category": "Search",
+            "Title": "Google Search Notes Data Export Deadline Approaching",
+            "Category": "Search Engine Optimization",
             "Description": "Google updates their documentation to alert users of their final chance to download their Notes on Search data",
             "Links": [
                 "https://www.searchenginejournal.com/google-notes-search-data/522584/"
             ]
         },
         {
-            "Title": "Google's New Full-Page Warnings for \"Risky\" Downloads",
-            "Category": "Browsers",
-            "Description": "Chrome will start showing full-page warnings for \"risky\" downloads\u00a0soon \"The new full-page \"download warning\" introduced in recent Chrome builds gives users a chance to restore the aborted download process, although Google is asking for a reason. Google wants users to specify\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1814646228950319605"
-            ]
-        },
-        {
-            "Title": "Google's Gemini AI Assistant May Be Coming to Smart Glasses",
+            "Title": "Google's New AI Overviews Feature Sees Extensive Testing",
             "Category": "Artificial Intelligence",
-            "Description": "Gemini in glasses. And that move could be helping drive Zuckerberg to invest billions in EssilorLuxottica -> Google recently approached EssilorLuxottica's leadership about putting its Gemini AI assistant in future smart glasses",
+            "Description": "Google is actively testing various aspects of its new AI Overviews feature, including saving AI overviews in the Google Search App, a new treatment for links similar to Perplexity, and the ability to save AI Overviews generated in Labs.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814640990159872464"
+                "https://twitter.com/glenngabe/status/1815356252207133126",
+                "https://twitter.com/rustybrick/status/1815353850414731481",
+                "https://twitter.com/rustybrick/status/1815351333714571744",
+                "https://twitter.com/glenngabe/status/1814985457261772992"
             ]
         },
         {
-            "Title": "Google's AI Overviews Get New Features: Saving and Link Treatment",
-            "Category": "Search",
-            "Description": "AI Overviews Update: I saw the option in labs to SAVE my AI overviews. That button saves AI overviews in a private collection in the Google Search App. There was a button for saving, then I saw a message once saved, and then you could access the collection like any other in the\u2026",
+            "Title": "Publishers Anticipate Longer Third-Party Cookie Availability Than Marketers",
+            "Category": "Advertising Technology",
+            "Description": "The timeline on which Google will officially kill the third-party cookie is anyone's guess at this point. According to a Digiday+ Research survey conducted in the second quarter, marketers' guesses look very different from publishers'.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1814985457261772992",
-                "https://twitter.com/rustybrick/status/1815351333714571744",
-                "https://twitter.com/glenngabe/status/1815003276665852403"
+                "https://digiday.com/marketing/digiday-research-publishers-anticipate-having-more-time-with-third-party-cookies-than-marketers/"
+            ]
+        },
+        {
+            "Title": "Immediate Enhances CMP Strategy, Streamlines Ad Tech Partnerships",
+            "Category": "Advertising Technology",
+            "Description": "Consent management platforms at Immediate aren't just about ticking boxes for data laws.",
+            "Links": [
+                "https://digiday.com/media/immediate-deepens-cmp-strategy-slashes-ad-tech-partnerships-for-sharper-data-governance/"
             ]
         }
     ],
