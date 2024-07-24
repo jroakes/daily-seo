@@ -1,61 +1,96 @@
 {
     "data": [
         {
-            "Title": "Google Keeps Third-Party Cookies in Chrome",
+            "Title": "Google Third-Party Cookies Remain in Chrome",
             "Category": "Technology",
-            "Description": "After years of uncertainty and industry pushback, Google has decided to retain third-party cookies in its Chrome browser, reversing its earlier stance on phasing them out.",
+            "Description": "After much anticipation and numerous delays, Google has reversed its decision to phase out third-party cookies in its Chrome browser. The company will continue to explore and develop privacy-preserving alternatives. This unexpected move has been met with mixed reactions from the advertising industry, with some expressing relief while others remain skeptical.",
             "Links": [
-                "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/",
-                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/",
-                "https://twitter.com/rustybrick/status/1815713721710436655"
+                "https://twitter.com/rustybrick/status/1815816901504778554",
+                "https://twitter.com/glenngabe/status/1815471098332639708",
+                "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/"
             ]
         },
         {
-            "Title": "Google's AI Overviews Get New Features",
+            "Title": "Google Search Updates",
             "Category": "Technology",
-            "Description": "Google is testing several new features for its AI Overviews in search, including saving overviews, displaying link icons for sources, and generating video descriptions.",
+            "Description": "Google Search is introducing several new features and updates, including larger sitenames and favicons in search results, AI-powered video descriptions using Overviews, and a new interface for Sitelinks within Google Ads. The company is also testing link icons within AI Overviews to provide source citations, although clicking on them currently leads to the search snippet instead of the original source.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1815351333714571744",
-                "https://twitter.com/rustybrick/status/1815353850414731481",
-                "https://twitter.com/glenngabe/status/1814985457261772992"
-            ]
-        },
-        {
-            "Title": "Bing Tests Related Searches at the Top",
-            "Category": "Technology",
-            "Description": "Bing is experimenting with the placement of related searches, moving them to the top of the search results page, directly under the search bar.",
-            "Links": [
-                "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html",
-                "https://twitter.com/rustybrick/status/1815343784118604178"
-            ]
-        },
-        {
-            "Title": "Google Search Tests Larger Sitenames and Favicons",
-            "Category": "Technology",
-            "Description": "Google is running experiments with the display of website names and favicons in search results, making them appear larger in some instances.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1815813126635368641",
+                "https://twitter.com/rustybrick/status/1815820676756046041",
+                "https://twitter.com/rustybrick/status/1815809351883378694",
+                "https://twitter.com/rustybrick/status/1815716238334574673",
                 "https://twitter.com/rustybrick/status/1815711205413302465",
-                "https://twitter.com/rustybrick/status/1815752728934834470"
+                "https://twitter.com/rustybrick/status/1815708688432140361"
             ]
         },
         {
             "Title": "Google Ads Editor 2.7 Released",
-            "Category": "Marketing",
-            "Description": "Google has launched version 2.7 of its Google Ads Editor, introducing a range of updates and changes to the platform.",
+            "Category": "Technology",
+            "Description": "Google has launched version 2.7 of its Ads Editor, introducing new features and improvements.  Details of the specific changes were not provided.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1815706172110033302",
-                "https://twitter.com/rustybrick/status/1815745179200188446"
+                "https://twitter.com/rustybrick/status/1815805576909074700",
+                "https://twitter.com/rustybrick/status/1815745179200188446",
+                "https://twitter.com/rustybrick/status/1815706172110033302"
             ]
         },
         {
-            "Title": "Google Provides Tips for SEO and Content Growth",
-            "Category": "Marketing",
-            "Description": "Google offers guidance on improving SEO through internal linking and cautions websites about the potential impact of rapid content growth on search rankings.",
+            "Title": "Alphabet Q2 Earnings",
+            "Category": "Business",
+            "Description": "Alphabet, Google's parent company, reported strong Q2 earnings, with revenue of $84.7 billion, a 14% year-over-year increase. Net income also saw significant growth, reaching $23.6 billion, up 29% from the previous year. Search revenue played a key role in this success, reaching $48.5 billion, compared to $42.6 billion in the same period last year. Despite the positive financial results, Alphabet's headcount decreased by 1% to 179,582.",
             "Links": [
-                "https://www.searchenginejournal.com/google-shares-tips-to-improve-seo-through-internal-links/522797/",
-                "https://www.searchenginejournal.com/google-says-exponential-growth-triggers-a-re-evaluation/522769/"
+                "https://twitter.com/glenngabe/status/1815881940907745708"
+            ]
+        },
+        {
+            "Title": "YouTube Q2 Ad Revenue Growth",
+            "Category": "Business",
+            "Description": "YouTube's ad revenue experienced a 13% year-over-year increase in the second quarter, reaching $8.66 billion. This figure fell slightly short of the estimated $8.93 billion. Additionally, Google's subscriptions, platforms, and devices unit, which includes YouTube TV, generated $9.3 billion in revenue.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1815882905257951367"
+            ]
+        },
+        {
+            "Title": "Adobe Releases Firefly AI Tools for Photoshop and Illustrator",
+            "Category": "Technology",
+            "Description": "Adobe has unveiled its latest AI-powered tools, Firefly, for Photoshop and Illustrator. The text-to-image generator in Photoshop allows users to create AI images directly within the application by simply describing their desired visuals and clicking \"Generate Image\".",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1815785940343812260"
+            ]
+        },
+        {
+            "Title": "Meta Receives EU Request to Pause AI Model Training on EU Data",
+            "Category": "Technology",
+            "Description": "Meta, the parent company of Facebook and Instagram, has confirmed receiving a request from the European Union to temporarily halt the training of its AI models on data within the EU. Meta's VP, Rob Sherman, expressed concerns that such a pause could hinder innovation and leave the EU trailing behind in the field of artificial intelligence.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1815784861166404033"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Partners with Publishers for Coupons in SERPs",
+            "Category": "Technology",
+            "Description": "Microsoft has announced a new partnership with publishers to enhance its Bing search engine results pages (SERPs) with coupons. This collaboration aims to provide users with more relevant and valuable shopping experiences directly within their search results.",
+            "Links": [
+                "https://hellopartner.com/2024/07/23/microsoft-partners-with-publishers-to-power-coupons-in-bing-serps/"
+            ]
+        },
+        {
+            "Title": "Google Provides Tips for Improving SEO with Internal Links",
+            "Category": "Technology",
+            "Description": "Google has shared valuable insights on how to leverage internal links effectively to enhance search engine optimization (SEO) and improve user experience on websites. The company highlighted three key tips for optimizing internal linking strategies.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-shares-tips-to-improve-seo-through-internal-links/522797/"
+            ]
+        },
+        {
+            "Title": "Bing Tests Related Searches at Top of Results Page",
+            "Category": "Technology",
+            "Description": "Bing is experimenting with a new layout for its search results page, placing related searches at the top, just below the search bar. This change aims to provide users with quicker access to relevant alternative searches and refine their search queries more efficiently.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1815443189505175586",
+                "https://twitter.com/rustybrick/status/1815382791124857141",
+                "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html"
             ]
         }
     ],
-    "date": "2024-07-23"
+    "date": "2024-07-24"
 }
