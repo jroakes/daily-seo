@@ -579,6 +579,51 @@
             "Title": "Media Briefing: Publishers reassess Privacy Sandbox plans following Google\u2019s cookie deprecation reversal",
             "Description": "Google\u2019s announcement on Monday to reverse its plans to fully deprecate third-party cookies from its Chrome browser seems to have, in turn, reversed some publishers\u2019 stances on the Privacy Sandbox.",
             "Link": "https://digiday.com/media/media-briefing-publishers-reassess-privacy-sandbox-plans-following-googles-cookie-deprecation-reversal/"
+        },
+        {
+            "Title": "Bing Generative Search Experience",
+            "Description": "Microsoft announced yesterday it has begun testing its new Bing generative search experience - so Bing GSE (versus Google SGE). \"By combining the power of generative AI and large language models (LLMs) with the search results page, Bing\u2019s generative search creates a bespoke and dynamic response to a user\u2019s query,\" Microsoft wrote.",
+            "Link": "https://www.seroundtable.com/bing-generative-search-experience-37789.html"
+        },
+        {
+            "Title": "Reddit Blocked Bing Search But Not Google",
+            "Description": "On July 1, 2024, Reddit updated its robots.txt file to prohibit most search engine and AI crawlers from accessing its content - including blocking Microsoft Bing. Reddit did not block Google Search, which we covered here a few weeks ago.",
+            "Link": "https://www.seroundtable.com/reddit-blocked-bing-search-37791.html"
+        },
+        {
+            "Title": "Bing's Updated AI Search Will Make Site Owners Happy",
+            "Description": "Bing's updated AI Search will be a welcome change for SEOs and site owners because the layout maintains clicks to websites",
+            "Link": "https://www.searchenginejournal.com/bings-new-ai-search-maintains-organic-traffic/522979/"
+        },
+        {
+            "Title": "New Reddit Updates Block Microsoft Bing And Other Search Engines From Crawling The Website",
+            "Description": "New updates were recently made by Reddit to its robots.txt file and that has impacted several leading search engines.",
+            "Link": "https://www.digitalinformationworld.com/2024/07/new-reddit-updates-block-microsoft-bing.html"
+        },
+        {
+            "Title": "Reddit has banned Microsoft Bing, DuckDuckGo and all other search engines except Google, here's why",
+            "Description": "TECH NEWS : Reddit has blocked major search engines and AI bots from accessing its data without payment. Google, having paid $60 million, is the only search engin",
+            "Link": "https://timesofindia.indiatimes.com/technology/tech-news/reddit-has-banned-microsoft-bing-duckduckgo-and-all-other-search-engines-except-google-heres-why/articleshow/112011295.cms"
+        },
+        {
+            "Title": "Bing Generative Search is Microsoft's variant of Google's AI search engine",
+            "Description": "Bing Generative Search is Microsoft's answer to Google AI Overviews. Does it provide correct advice ,and what about the number of clicks to websites?",
+            "Link": "https://www.techzine.eu/blogs/applications/122749/bing-generative-search-is-microsofts-variant-of-googles-ai-search-engine/"
+        },
+        {
+            "Title": "Bing Combines AI Into Search To Give Users The Best Generative Search Experience",
+            "Description": "Microsoft's Bing tests generative AI search, merging language models to deliver improved and efficient search results.",
+            "Link": "https://www.digitalinformationworld.com/2024/07/bing-combines-ai-into-search-to-give.html"
+        },
+        {
+            "Title": "No surprise: Microsoft confirms Reddit has blocked Bing",
+            "Description": "Microsoft has confirmed that its Bing search engine has been blocked by Reddit and can no longer show recent results from the platform.",
+            "Link": "https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/"
+        },
+        {
+            "Title": "Microsoft Bing and other search engines blocked from accessing Reddit content",
+            "Description": "Reddit has blocked search engines, including Bing, from crawling its site by updating the robots.txt file.  Also, it claims that this change has nothing to do with its recent partnership with Google.",
+            "Link": "https://www.neowin.net/news/microsoft-bing-and-other-search-engines-blocked-from-accessing-reddit-content/"
         }
     ],
     "reviewed_urls": [
@@ -770,6 +815,23 @@
         "https://digiday.com/media-buying/brandtech-group-accelerates-ai-experimentation-through-a-creator-residency-program/",
         "https://digiday.com/marketing/as-influencer-marketing-grows-so-do-micro-influencer-rates-there-have-been-10-20-fee-jumps-year-over-year/",
         "https://digiday.com/media/media-briefing-publishers-reassess-privacy-sandbox-plans-following-googles-cookie-deprecation-reversal/",
-        "https://www.foxbangor.com/features/live-interviews/bing-me-a-lobster-roll-chatting-with-brad-williams-ahead-of-his-bar-harbor-performances/article_d8dbd86e-49a1-11ef-ad65-7feb64e49006.html"
+        "https://www.foxbangor.com/features/live-interviews/bing-me-a-lobster-roll-chatting-with-brad-williams-ahead-of-his-bar-harbor-performances/article_d8dbd86e-49a1-11ef-ad65-7feb64e49006.html",
+        "https://twitter.com/glenngabe/status/1816439620277584253",
+        "https://twitter.com/rustybrick/status/1816438497323995241",
+        "https://www.seroundtable.com/bing-generative-search-experience-37789.html",
+        "https://www.seroundtable.com/reddit-blocked-bing-search-37791.html",
+        "https://twitter.com/rustybrick/status/1816435981203243423",
+        "https://twitter.com/rustybrick/status/1816433464515944723",
+        "https://twitter.com/rustybrick/status/1816430947559932042",
+        "https://twitter.com/rustybrick/status/1816428189679575145",
+        "https://www.offshoresportsbooks.com/news/horse-racing-bing-crosby-stakes-offshore-odds-preview-and-pick/",
+        "https://www.searchenginejournal.com/bings-new-ai-search-maintains-organic-traffic/522979/",
+        "https://www.digitalinformationworld.com/2024/07/new-reddit-updates-block-microsoft-bing.html",
+        "https://www.practicalecommerce.com/new-ecommerce-tools-july-25-2024",
+        "https://timesofindia.indiatimes.com/technology/tech-news/reddit-has-banned-microsoft-bing-duckduckgo-and-all-other-search-engines-except-google-heres-why/articleshow/112011295.cms",
+        "https://www.techzine.eu/blogs/applications/122749/bing-generative-search-is-microsofts-variant-of-googles-ai-search-engine/",
+        "https://www.digitalinformationworld.com/2024/07/bing-combines-ai-into-search-to-give.html",
+        "https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/",
+        "https://www.neowin.net/news/microsoft-bing-and-other-search-engines-blocked-from-accessing-reddit-content/"
     ]
 }
