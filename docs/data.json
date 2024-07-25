@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Bing Launches AI-Powered Generative Search",
-            "Category": "Search Engine Technology",
-            "Description": "Microsoft is rolling out Bing generative search, a new feature that incorporates AI-powered summaries above traditional search results, similar to Google's AI Overviews.",
+            "Title": "Bing Launches Generative AI Search Experience",
+            "Category": "Search Engine Optimization",
+            "Description": "Microsoft is rolling out Bing generative search, an AI-powered feature similar to Google's AI Overviews, to enhance search results with AI-generated summaries and a more dynamic user interface.",
             "Links": [
                 "https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign",
                 "https://www.engadget.com/microsoft-is-adding-ai-powered-summaries-to-bing-search-results-203053790.html",
@@ -11,59 +11,51 @@
             ]
         },
         {
-            "Title": "Apple Maps Web Version Enters Beta Testing",
-            "Category": "Mapping and Navigation",
-            "Description": "Apple has released a beta version of Apple Maps for the web, allowing users to access the mapping service from their desktop browsers.",
+            "Title": "Apple Maps Launches Web Beta",
+            "Category": "Technology",
+            "Description": "Apple has released a web-based beta version of Apple Maps, compatible with major browsers like Safari, Chrome, and Edge, expanding access to its mapping service beyond Apple devices.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816200300887183764"
+                "https://twitter.com/rustybrick/status/1816473729896943793"
             ]
         },
         {
-            "Title": "Google Search Experiences Volatility and Updates",
+            "Title": "Reddit Blocks Bing and Other Search Engines, Except Google",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search has been experiencing ranking volatility and updates, with some SEOs reporting both positive and negative effects. Google is also testing new features, including larger sitenames and favicons in search results.",
+            "Description": "Reddit has updated its robots.txt file, restricting access for search engines and AI crawlers, including Microsoft Bing and DuckDuckGo, while maintaining access for Google Search.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816183064185258205",
-                "https://twitter.com/rustybrick/status/1816122666308305341",
-                "https://www.seroundtable.com/google-search-ranking-algorithm-update-37777.html"
+                "http://gigazine.net/gsc_news/en/20240725-bing-generative-ai-search/",
+                "https://searchengineland.com/microsoft-confirms-reddit-blocked-bing-search-444385",
+                "https://www.xda-developers.com/microsoft-bing-new-ai-powered-search-results/"
             ]
         },
         {
-            "Title": "Google's Q2 2024 Earnings Show Strong Ad Revenue Growth",
-            "Category": "Business and Finance",
-            "Description": "Google's parent company, Alphabet, reported strong Q2 2024 earnings, with ad revenue up 11% year-over-year to $64.62 billion. Overall revenue increased by 14% to $84.7 billion.",
+            "Title": "Google to Test Ads in AI Overviews",
+            "Category": "Advertising",
+            "Description": "Google has announced plans to experiment with incorporating advertisements within its AI Overviews, aiming to monetize the AI-powered search feature while providing relevant promotions to users.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816115116569432321",
-                "https://twitter.com/rustybrick/status/1816111342052327901",
-                "https://twitter.com/glenngabe/status/1816077859435262039"
+                "https://twitter.com/glenngabe/status/1816089586939937002",
+                "https://twitter.com/rustybrick/status/1816485054358659138",
+                "https://twitter.com/rustybrick/status/1816441014288343176"
             ]
         },
         {
-            "Title": "Google to Include Ads Within AI Overviews",
-            "Category": "Search Engine Advertising",
-            "Description": "Google plans to allow advertisers to place ads within AI overviews, providing a new way for businesses to reach users searching for information.",
+            "Title": "Google's Q2 Earnings Show Growth Driven by Search and Cloud",
+            "Category": "Business",
+            "Description": "Alphabet, Google's parent company, reported strong Q2 earnings, with revenue exceeding expectations and significant growth in search and cloud computing, although YouTube ad revenue fell short of projections.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1816089586939937002"
+                "https://twitter.com/glenngabe/status/1815881940907745708",
+                "https://twitter.com/aleyda/status/1816488815319482406",
+                "https://www.marketwatch.com/livecoverage/alphabet-earnings-google-results-q2-cloud-ai-search-youtube/card/alphabet-earnings-may-show-whether-google-s-biggest-competition-is-itself-sTN4lGPi5YscrHcNrk4l"
             ]
         },
         {
-            "Title": "Google Third-Party Cookies to Remain in Chrome",
-            "Category": "Privacy and Tracking",
-            "Description": "After years of delays and uncertainty, Google has announced that it will not be deprecating third-party cookies in its Chrome browser. The company will continue to work on privacy-preserving alternatives.",
+            "Title": "Google Third-Party Cookies in Chrome to Remain",
+            "Category": "Privacy",
+            "Description": "Reversing previous announcements, Google has confirmed that it will not be deprecating third-party cookies in its Chrome browser, opting instead to continue developing privacy-preserving alternatives.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1815816901504778554",
-                "https://twitter.com/glenngabe/status/1815471098332639708",
+                "https://twitter.com/rustybrick/status/1815756504064266272",
+                "https://twitter.com/rustybrick/status/1815713721710436655",
                 "https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/"
-            ]
-        },
-        {
-            "Title": "Reddit Blocks Bing and Other Search Engines, Sparking Controversy",
-            "Category": "Search Engine Access and Content",
-            "Description": "Reddit has updated its robots.txt file to block most search engines, including Microsoft Bing, from crawling its content. Google Search remains the only exception, following a reported $60 million deal with Reddit.",
-            "Links": [
-                "https://twitter.com/OriZilbershtein/status/1816130749294420197",
-                "https://www.seroundtable.com/reddit-blocked-bing-search-37791.html",
-                "https://www.androidauthority.com/microsoft-confirm-reddit-block-bing-3464523/"
             ]
         }
     ],
