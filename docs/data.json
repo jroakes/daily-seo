@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "OpenAI Launches SearchGPT Beta to Compete with Google",
+            "Title": "OpenAI Launches SearchGPT to Compete in AI-Powered Search",
             "Category": "AI Search",
-            "Description": "OpenAI is launching a test version of its long-awaited search engine, SearchGPT, which will summarize the information found on websites, including news sites.",
+            "Description": "OpenAI is launching a test version of its highly anticipated search engine, SearchGPT, which will summarize information found on websites, including news sites. SearchGPT will directly answer user questions with up-to-date information and provide links to relevant sources. While initially a separate product, OpenAI plans to integrate SearchGPT into its main ChatGPT service.",
             "Links": [
                 "https://twitter.com/aleyda/status/1816574102255341699",
                 "https://twitter.com/glenngabe/status/1816551027941814471",
@@ -13,7 +13,7 @@
         {
             "Title": "Microsoft Bing Introduces AI-Powered Search Results",
             "Category": "AI Search",
-            "Description": "Microsoft's Bing is rolling out an AI-powered \"generative search\" feature to rival Google.  The new search results page shunts traditional web results to the right in favor of generative AI summaries.",
+            "Description": "Microsoft is rolling out generative AI search to Bing, aiming to provide a more efficient and engaging search experience. Similar to Google's AI Overviews, Bing's AI-powered search will summarize information from various sources and display it prominently on the search results page. The traditional list of ten blue links will be moved to the side, prioritizing the AI-generated summaries.",
             "Links": [
                 "https://lifehacker.com/tech/bing-ai-search",
                 "https://www.theregister.com/2024/07/25/microsoft_generative_search_bing/",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Reddit Blocks Bing and Other Search Engines, Citing AI Training Concerns",
+            "Title": "Reddit Restricts Search Engine Access, Blocking Bing and Others",
             "Category": "Search Engine Access",
-            "Description": "Reddit updated its robots.txt file to prohibit most search engine and AI crawlers from accessing its content - including blocking Microsoft Bing. Reddit did not block Google Search.",
+            "Description": "Reddit has updated its robots.txt file to restrict access for most search engines and AI crawlers, including Microsoft Bing. This move, which Reddit claims is unrelated to its recent partnership with Google, effectively prevents these search engines from crawling and indexing its content. Google Search, however, remains unaffected by this change.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1816537902941372884",
                 "https://gizmodo.com/reddit-institutes-pay-to-play-blockade-against-microsoft-bing-2000478921",
@@ -33,7 +33,7 @@
         {
             "Title": "Google to Test Ads Within AI Overviews",
             "Category": "AI Search Advertising",
-            "Description": "Google will soon enable advertisers to appear WITHIN the AI overviews. Ads above and below the AI overviews have proven helpful for people.",
+            "Description": "Google will soon test placing ads within its AI Overviews, expanding on its current practice of showing ads above and below these summaries. This move aims to provide advertisers with more prominent placement within the AI-driven search experience. Google's Chief Business Officer, Philipp Schindler, highlighted the positive user response to ads surrounding AI Overviews.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1816545452013056190",
                 "https://twitter.com/glenngabe/status/1816506467698266511",
@@ -43,10 +43,10 @@
         {
             "Title": "Google Reports Strong Q2 2024 Earnings, Driven by Search and Cloud",
             "Category": "Google Earnings",
-            "Description": "Alphabet's revenue was up 14% year over year, driven by search as well as cloud, which surpassed $10 billion in quarterly revenues and $1 billion in operating profit for the first time.",
+            "Description": "Alphabet, Google's parent company, announced strong Q2 2024 earnings, exceeding revenue expectations. Google Search revenue grew by 14% year-over-year, reaching $64.62 billion, its highest ever for a second quarter. Cloud computing also performed well, surpassing $10 billion in quarterly revenue for the first time.",
             "Links": [
                 "https://twitter.com/aleyda/status/1816488815319482406",
-                "https://twitter.com/glenngabe/status/1816077859435262039",
+                "https://twitter.com/rustybrick/status/1816171740084724083",
                 "https://www.searchenginejournal.com/google-search-revenue-grows-14-in-q2-2024/522922/"
             ]
         }
