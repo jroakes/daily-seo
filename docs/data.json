@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "OpenAI Launches SearchGPT, an AI-Powered Search Engine Prototype",
-            "Category": "AI in Search",
-            "Description": "OpenAI is testing SearchGPT, an AI-powered search engine prototype that aims to provide fast, timely, and relevant answers with clear sources. The prototype leverages OpenAI's language models to summarize information from websites, including news sites. While initially a separate product, OpenAI plans to integrate SearchGPT into its main ChatGPT service.",
+            "Title": "OpenAI Launches SearchGPT, an AI-Powered Search Prototype",
+            "Category": "AI Search",
+            "Description": "OpenAI is launching a test version of its long-awaited search engine, SearchGPT, which will summarize the information found on websites, including news sites.",
             "Links": [
                 "https://twitter.com/aleyda/status/1816574102255341699",
-                "https://twitter.com/glenngabe/status/1816551027941814471",
-                "https://twitter.com/rustybrick/status/1816535811619487926"
+                "https://twitter.com/rustybrick/status/1816535811619487926",
+                "https://www.searchenginejournal.com/openai-launches-searchgpt-ai-powered-search-prototype/523041/"
             ]
         },
         {
-            "Title": "Microsoft Bing Introduces AI-Powered Generative Search Experience",
-            "Category": "AI in Search",
-            "Description": "Microsoft has launched Bing generative search, integrating AI-powered summaries directly into search results. This feature, similar to Google's AI Overviews, aims to provide users with concise and informative answers. The new search experience combines large language models (LLMs) and small language models (SLMs) with Bing's traditional search results to create a more efficient and user-friendly layout.",
+            "Title": "Microsoft Bing Gets AI-Powered Search Results",
+            "Category": "AI Search",
+            "Description": "Microsoft is rolling out a new search results page that prioritizes generative AI summaries over traditional web results, in a move similar to Google's AI Overviews.",
             "Links": [
                 "https://www.theregister.com/2024/07/25/microsoft_generative_search_bing/",
                 "https://www.techspot.com/news/103967-microsoft-rolling-out-bing-generative-search-counter-google.html",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Reddit Blocks Bing and Other Search Engines, Citing AI Training Concerns",
-            "Category": "Search Engine Access and AI",
-            "Description": "Reddit has updated its robots.txt file to restrict most search engines and AI crawlers from accessing its content, including Microsoft Bing. This move, which Reddit claims is unrelated to its recent partnership with Google, effectively prevents these search engines from indexing and potentially using Reddit data for AI training purposes. While Google Search remains unaffected, the decision highlights the growing concerns surrounding data licensing and access for AI development.",
+            "Title": "Reddit Blocks Bing and Other Search Engines From Crawling",
+            "Category": "Search Engine Crawling",
+            "Description": "Reddit updated its robots.txt file to block most search engines and AI crawlers from accessing its content, including Microsoft Bing, but not Google.",
             "Links": [
                 "https://gizmodo.com/reddit-institutes-pay-to-play-blockade-against-microsoft-bing-2000478921",
                 "https://www.seroundtable.com/reddit-blocked-bing-search-37791.html",
@@ -31,23 +31,33 @@
             ]
         },
         {
-            "Title": "Google to Test Ads Within AI Overviews",
-            "Category": "AI in Search",
-            "Description": "Google plans to test incorporating ads directly within its AI Overviews, aiming to provide advertisers with new opportunities to reach users. While ads above and below AI Overviews have been present, this move signifies a shift towards a more integrated advertising approach within AI-generated search results.",
+            "Title": "Google to Test Ads in AI Overviews",
+            "Category": "AI Search",
+            "Description": "Google will soon test placing ads within AI Overviews, in addition to the existing ads above and below the feature.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1816545452013056190",
-                "https://twitter.com/rustybrick/status/1816485054358659138",
-                "https://twitter.com/glenngabe/status/1816089586939937002"
+                "https://twitter.com/glenngabe/status/1816089586939937002",
+                "https://twitter.com/rustybrick/status/1816485054358659138"
             ]
         },
         {
-            "Title": "Google Reports Strong Q2 2024 Earnings, with Search Revenue Growth and Cloud Milestone",
-            "Category": "Google Earnings and Performance",
-            "Description": "Alphabet, Google's parent company, announced strong Q2 2024 earnings, with Google Search revenue growing by 14% year-over-year. The company also reported that its Cloud division surpassed $10 billion in quarterly revenue and achieved $1 billion in operating profit for the first time. Despite missing YouTube ad revenue expectations, Alphabet's overall revenue increased by 14%, driven by search and cloud performance.",
+            "Title": "Google Reports Strong Q2 2024 Earnings",
+            "Category": "Google Earnings",
+            "Description": "Alphabet, Google's parent company, reported strong Q2 2024 earnings, with ad revenue up 11% to $64.62 billion and overall revenue up 14%.",
             "Links": [
                 "https://twitter.com/aleyda/status/1816488815319482406",
                 "https://twitter.com/glenngabe/status/1816077859435262039",
                 "https://www.searchenginejournal.com/google-search-revenue-grows-14-in-q2-2024/522922/"
+            ]
+        },
+        {
+            "Title": "Google's Cookie Deprecation Delayed",
+            "Category": "Privacy and Tracking",
+            "Description": "Google has reversed its plans to fully deprecate third-party cookies from its Chrome browser, prompting mixed reactions from the ad industry.",
+            "Links": [
+                "https://digiday.com/media/media-briefing-publishers-reassess-privacy-sandbox-plans-following-googles-cookie-deprecation-reversal/",
+                "https://digiday.com/marketing/googles-privacy-shift-on-third-party-cookies-sparks-concerns-of-apple-like-control/",
+                "https://digiday.com/marketing/ad-world-is-relieved-but-skeptical-about-googles-decision-to-keep-cookies-in-chrome/"
             ]
         }
     ],
