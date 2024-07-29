@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Reddit Restricts Search Engine Access to Recent Content, Google Excluded",
+            "Title": "Reddit Restricts Search Engine Access to Paid Partners, Google Remains Exempt",
             "Category": "Search Engines",
-            "Description": "Reddit is blocking AI bots from major search engines unless they strike a deal.  As a result, Google is now the only search engine that shows recent Reddit posts in results. This has sparked debate on data access and AI training practices, with some arguing that the open web is being walled off.",
+            "Description": "Reddit is blocking AI bots from major search engines unless they strike a deal.  As a result, Google is now the only search engine that shows recent Reddit posts in results. Reddit spokesperson confirmed that they have been in discussions with multiple search engines but have been unable to reach agreements with all of them, since some are unable or unwilling to make a deal.",
             "Links": [
                 "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why",
                 "https://twitter.com/aleyda/status/1816920422740558246",
@@ -11,47 +11,47 @@
             ]
         },
         {
-            "Title": "Microsoft Bing Introduces AI-Powered Generative Search",
+            "Title": "Microsoft Bing Introduces AI-Powered Generative Search Experience",
             "Category": "Search Engines",
-            "Description": "Microsoft Bing Adds AI to Search Results, Following Google\u2019s Lead. Bing search results organized by AI, now in limited release, will feature prominent links to external sites. The new feature highlights AI-generated answers, placing them front and center, while traditional search results take a backseat.",
+            "Description": "Microsoft Bing adds AI to search results, following Google\u2019s lead. Bing search results organized by AI, now in limited release, will feature prominent links to external sites. The new experience highlights AI-generated answers, placing them front and center, while traditional search results take a backseat.",
             "Links": [
                 "https://decrypt.co/241927/microsoft-bing-adds-ai-to-search-results-following-googles-lead",
-                "https://www.phonearena.com/news/microsoft-takes-page-out-of-googles-playbook-ai-summaries-take-center-stage-bing_id160818",
-                "https://www.webpronews.com/microsoft-debuts-ai-powered-bing-generative-search/"
+                "https://www.tomsguide.com/computing/search-engines/microsoft-bing-adds-better-version-of-googles-ai-overview-how-it-works",
+                "https://www.phonearena.com/news/microsoft-takes-page-out-of-googles-playbook-ai-summaries-take-center-stage-bing_id160818"
             ]
         },
         {
-            "Title": "OpenAI Launches SearchGPT, Competing with Google in Search",
-            "Category": "Search Engines",
-            "Description": "OpenAI enters Google-dominated search engine market with SearchGPT. The move, announced on Thursday, also places the AI giant in competition with its largest backer Microsoft's Bing search. Search as we know it is officially over.",
+            "Title": "OpenAI Launches SearchGPT, Entering the Search Engine Market",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI enters Google-dominated search engine market with SearchGPT. The move also places the AI giant in competition with its largest backer Microsoft's Bing search. SearchGPT is OpenAI's new search feature - with links and more.",
             "Links": [
                 "https://www.business-standard.com/technology/tech-news/openai-enters-google-dominated-search-engine-market-with-searchgpt-124072600084_1.html",
-                "https://twitter.com/rustybrick/status/1816843667253887092",
-                "https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast"
+                "https://twitter.com/rustybrick/status/1816904065659625661",
+                "https://twitter.com/rustybrick/status/1816843667253887092"
             ]
         },
         {
-            "Title": "Google Advises Against Using LLMs for SEO Advice",
-            "Category": "SEO",
-            "Description": "Google's John Mueller said on LinkedIn he does not recommend you use LLMs (AI tools) for SEO advice.  He wrote, \"please don't use LLMs for SEO advice.\"  \"They learn from all the bad SEO information out there,\" he added.",
-            "Links": [
-                "https://www.seroundtable.com/google-dont-use-llms-for-seo-advice-37781.html",
-                "https://twitter.com/rustybrick/status/1816798368779157761",
-                "https://twitter.com/rustybrick/status/1816839892199989550"
-            ]
-        },
-        {
-            "Title": "Google Tests New Features in Search Results and Discover",
+            "Title": "Google Tests New Features in Search and Discover",
             "Category": "Search Engines",
-            "Description": "Google is experimenting with several new features in its search results, including a related images carousel, a \"call business\" option for local businesses, and AI Overviews with buttons to jump to Search. The company is also reportedly showing X/Twitter carousels less often for news queries.",
+            "Description": "Google is testing a number of new features in search, including a related images carousel right below images in the search results, a \"call business\" option under \"book online\" providers for local Business Profiles, and promoting AI Overviews in Discover.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816836118085796077",
-                "https://twitter.com/rustybrick/status/1816832342385631676",
-                "https://twitter.com/rustybrick/status/1817888049566806520"
+                "https://twitter.com/rustybrick/status/1816896515585057143",
+                "https://twitter.com/rustybrick/status/1816892740841668760",
+                "https://twitter.com/rustybrick/status/1817930831996027127"
             ]
         },
         {
-            "Title": "Google Merchant Center Feed Update Impacts Ecommerce Websites",
+            "Title": "Google Cautions Against Using LLMs for SEO Advice",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller said on LinkedIn he does not recommend you use LLMs (AI tools) for SEO advice. He wrote, \"please don't use LLMs for SEO advice.\" \"They learn from all the bad SEO information out there,\" he added.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1816900290932801570",
+                "https://www.seroundtable.com/google-dont-use-llms-for-seo-advice-37781.html",
+                "https://twitter.com/rustybrick/status/1816798368779157761"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Feed Update Causes Spike in Tracked Pages for Ecommerce Sites",
             "Category": "Ecommerce",
             "Description": "Ecommerce websites are experiencing a surge in pages being tracked by SEO platforms, potentially due to a Google Merchant Center feed update. It remains unclear whether this is a bug or a planned change.",
             "Links": [
@@ -59,12 +59,19 @@
             ]
         },
         {
-            "Title": "Google's Evolving Stance on Third-Party Cookies and International Targeting",
-            "Category": "SEO",
-            "Description": "Google is not going to deprecate third-party cookies in Chrome. However, the company suggests ccTLDs could lose SEO value in years' time due to creative branding use, urging focus on content and hreflang for international targeting.",
+            "Title": "Google Hints at Reduced SEO Value of Country Code Top-Level Domains",
+            "Category": "Search Engine Optimization",
+            "Description": "Google suggests ccTLDs could lose SEO value in years' time due to creative branding use, urging focus on content and hreflang for international targeting.",
             "Links": [
-                "https://www.searchenginejournal.com/google-hints-lowering-seo-value-of-country-code-top-level-domains/523183/",
-                "https://twitter.com/glenngabe/status/1816812089874255898"
+                "https://www.searchenginejournal.com/google-hints-lowering-seo-value-of-country-code-top-level-domains/523183/"
+            ]
+        },
+        {
+            "Title": "Publicis Groupe Acquires Influencer Marketing Company Influential",
+            "Category": "Marketing",
+            "Description": "Publicis Groupe announced its acquisition of influencer marketing company and platform Influential to expand its influencer marketing services.",
+            "Links": [
+                "https://digiday.com/media-buying/publicis-intends-to-acquire-influential-as-it-expands-influencer-marketing-offerings/"
             ]
         }
     ],
