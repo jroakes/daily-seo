@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Reddit Restricts Search Engine Access, Favoring Google",
+            "Title": "Reddit Restricts Search Engine Access to Recent Content, Google Excluded",
             "Category": "Search Engines",
-            "Description": "Reddit is blocking AI bots from major search engines unless they strike a deal. This move comes as Reddit seeks compensation for the use of its data in AI training. As a result, Google is currently the only search engine that can display recent Reddit posts in its results.",
+            "Description": "Reddit is blocking AI bots from major search engines unless they strike a deal.  As a result, Google is now the only search engine that shows recent Reddit posts in results. This has sparked debate on data access and AI training practices, with some arguing that the open web is being walled off.",
             "Links": [
                 "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why",
                 "https://twitter.com/aleyda/status/1816920422740558246",
@@ -11,62 +11,59 @@
             ]
         },
         {
-            "Title": "Microsoft Bing Enhances Search with AI-Powered Summaries",
+            "Title": "Microsoft Bing Introduces AI-Powered Generative Search",
             "Category": "Search Engines",
-            "Description": "Microsoft Bing is rolling out AI-powered generative search features, similar to Google's AI Overview. The new Bing search experience prioritizes AI-generated answers and summaries, pushing traditional search results to the side. This move signifies Microsoft's commitment to integrating AI into its search engine.",
+            "Description": "Microsoft Bing Adds AI to Search Results, Following Google\u2019s Lead. Bing search results organized by AI, now in limited release, will feature prominent links to external sites. The new feature highlights AI-generated answers, placing them front and center, while traditional search results take a backseat.",
             "Links": [
                 "https://decrypt.co/241927/microsoft-bing-adds-ai-to-search-results-following-googles-lead",
-                "https://www.tomsguide.com/computing/search-engines/microsoft-bing-adds-better-version-of-googles-ai-overview-how-it-works",
+                "https://www.phonearena.com/news/microsoft-takes-page-out-of-googles-playbook-ai-summaries-take-center-stage-bing_id160818",
                 "https://www.webpronews.com/microsoft-debuts-ai-powered-bing-generative-search/"
             ]
         },
         {
-            "Title": "OpenAI Launches SearchGPT, Challenging Google's Dominance",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has introduced SearchGPT, a new search engine powered by its advanced language model. This move pits OpenAI directly against Google, the dominant player in the search market. SearchGPT promises a more conversational and informative search experience, leveraging OpenAI's expertise in AI.",
+            "Title": "OpenAI Launches SearchGPT, Competing with Google in Search",
+            "Category": "Search Engines",
+            "Description": "OpenAI enters Google-dominated search engine market with SearchGPT. The move, announced on Thursday, also places the AI giant in competition with its largest backer Microsoft's Bing search. Search as we know it is officially over.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816904065659625661",
+                "https://www.business-standard.com/technology/tech-news/openai-enters-google-dominated-search-engine-market-with-searchgpt-124072600084_1.html",
                 "https://twitter.com/rustybrick/status/1816843667253887092",
-                "https://www.business-standard.com/technology/tech-news/openai-enters-google-dominated-search-engine-market-with-searchgpt-124072600084_1.html"
+                "https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast"
             ]
         },
         {
-            "Title": "Google Advises Against Using LLMs for SEO Recommendations",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller cautions against relying on Large Language Models (LLMs) for SEO advice. He argues that LLMs, while powerful, can perpetuate inaccurate or outdated SEO information learned from the vast dataset they are trained on.",
+            "Title": "Google Advises Against Using LLMs for SEO Advice",
+            "Category": "SEO",
+            "Description": "Google's John Mueller said on LinkedIn he does not recommend you use LLMs (AI tools) for SEO advice.  He wrote, \"please don't use LLMs for SEO advice.\"  \"They learn from all the bad SEO information out there,\" he added.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816900290932801570",
-                "https://twitter.com/rustybrick/status/1816839892199989550",
-                "https://www.seroundtable.com/google-dont-use-llms-for-seo-advice-37781.html"
+                "https://www.seroundtable.com/google-dont-use-llms-for-seo-advice-37781.html",
+                "https://twitter.com/rustybrick/status/1816798368779157761",
+                "https://twitter.com/rustybrick/status/1816839892199989550"
             ]
         },
         {
-            "Title": "Google Gemini Enhances Responses with Links and Related Content",
+            "Title": "Google Tests New Features in Search Results and Discover",
             "Category": "Search Engines",
-            "Description": "Google is improving its AI-powered search experience, Gemini, by adding related content and verification links to some queries and responses. This enhancement aims to provide users with more context and reliable information, enhancing the overall search experience.",
+            "Description": "Google is experimenting with several new features in its search results, including a related images carousel, a \"call business\" option for local businesses, and AI Overviews with buttons to jump to Search. The company is also reportedly showing X/Twitter carousels less often for news queries.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816907840042279138",
-                "https://twitter.com/rustybrick/status/1816847442467520896",
-                "https://twitter.com/rustybrick/status/1816803402397130839"
+                "https://twitter.com/rustybrick/status/1816836118085796077",
+                "https://twitter.com/rustybrick/status/1816832342385631676",
+                "https://twitter.com/rustybrick/status/1817888049566806520"
             ]
         },
         {
-            "Title": "Google Tests New Features in Search Results",
-            "Category": "Search Engines",
-            "Description": "Google is experimenting with several new features in its search results, including a related images carousel below images, a \"call business\" option for local Business Profiles with online booking, and a save button for AI Overviews. These tests highlight Google's continuous efforts to refine and enhance its search engine.",
+            "Title": "Google Merchant Center Feed Update Impacts Ecommerce Websites",
+            "Category": "Ecommerce",
+            "Description": "Ecommerce websites are experiencing a surge in pages being tracked by SEO platforms, potentially due to a Google Merchant Center feed update. It remains unclear whether this is a bug or a planned change.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816896515585057143",
-                "https://twitter.com/rustybrick/status/1816892740841668760",
-                "https://twitter.com/rustybrick/status/1816836118085796077"
+                "https://twitter.com/carlhendy/status/1817808592386605508"
             ]
         },
         {
-            "Title": "Google's Cookie Policy Shift Raises Questions",
-            "Category": "Digital Marketing",
-            "Description": "Google's decision to postpone the deprecation of third-party cookies in Chrome has sparked debate among marketers and privacy advocates. While marketers see value in third-party cookies for targeted advertising, privacy concerns persist. Google's compromise highlights the ongoing tension between these competing interests.",
+            "Title": "Google's Evolving Stance on Third-Party Cookies and International Targeting",
+            "Category": "SEO",
+            "Description": "Google is not going to deprecate third-party cookies in Chrome. However, the company suggests ccTLDs could lose SEO value in years' time due to creative branding use, urging focus on content and hreflang for international targeting.",
             "Links": [
-                "https://www.practicalecommerce.com/googles-cookie-reversal-raises-questions",
-                "https://digiday.com/media-buying/media-buying-briefing-media-agencies-forge-on-with-other-id-solutions-regardless-of-googles-curtail-of-third-party-cookie-deprecation/",
+                "https://www.searchenginejournal.com/google-hints-lowering-seo-value-of-country-code-top-level-domains/523183/",
                 "https://twitter.com/glenngabe/status/1816812089874255898"
             ]
         }
