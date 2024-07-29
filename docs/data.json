@@ -1,63 +1,72 @@
 {
     "data": [
         {
+            "Title": "Reddit Restricts Search Engine Access to Paid Agreements",
+            "Category": "Search Engines",
+            "Description": "Reddit is blocking AI bots from major search engines unless they strike a deal. This move has made Google the only search engine that currently shows recent Reddit posts in its results.",
+            "Links": [
+                "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why",
+                "https://twitter.com/aleyda/status/1816920422740558246"
+            ]
+        },
+        {
             "Title": "Microsoft Bing Introduces AI-Powered Generative Search",
-            "Category": "Search Engine Updates",
-            "Description": "Microsoft is rolling out an AI-powered \"generative search\" feature to its Bing search engine. The new experience combines AI-powered conversational responses with traditional search results pages, similar to Google's AI Overviews.  The update is currently being tested with a small percentage of users.",
+            "Category": "Search Engines",
+            "Description": "Microsoft Bing is rolling out AI-powered generative search features to a limited number of users. The new search experience prioritizes AI-generated answers and summaries, pushing traditional search results to the side.",
             "Links": [
-                "https://www.webpronews.com/microsoft-debuts-ai-powered-bing-generative-search/",
-                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/",
-                "https://www.phonearena.com/news/microsoft-takes-page-out-of-googles-playbook-ai-summaries-take-center-stage-bing_id160818"
+                "https://decrypt.co/241927/microsoft-bing-adds-ai-to-search-results-following-googles-lead",
+                "https://www.tomsguide.com/computing/search-engines/microsoft-bing-adds-better-version-of-googles-ai-overview-how-it-works",
+                "https://www.webpronews.com/microsoft-debuts-ai-powered-bing-generative-search/"
             ]
         },
         {
-            "Title": "Reddit Restricts Search Engine Access, Grants Google Exception",
-            "Category": "Search Engine Wars",
-            "Description": "Reddit has blocked major search engines, including Bing and DuckDuckGo, from crawling its platform to access recent content.  The move is seen as a way for Reddit to monetize its data and potentially level the playing field with Google, which remains the only search engine with access to Reddit's recent content. ",
+            "Title": "OpenAI Launches SearchGPT, Entering the Search Engine Market",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI has launched SearchGPT, a new search feature that leverages its advanced language model. This move pits OpenAI against Google and its backer Microsoft's Bing in the search engine market.",
             "Links": [
-                "https://www.searchenginejournal.com/reddit-limits-search-engine-access-google-remains-exception/523131/",
-                "https://mashable.com/article/reddit-google-excludes-bing-duckduckgo-search-engines",
-                "https://www.windowscentral.com/software-apps/bing-blocked-by-reddit-breaking-search-results-for-everyone-but-google"
+                "https://twitter.com/rustybrick/status/1816904065659625661",
+                "https://twitter.com/rustybrick/status/1816843667253887092",
+                "https://www.business-standard.com/technology/tech-news/openai-enters-google-dominated-search-engine-market-with-searchgpt-124072600084_1.html"
             ]
         },
         {
-            "Title": "OpenAI Launches SearchGPT, an AI-Powered Search Engine",
-            "Category": "Search Engine Updates",
-            "Description": "OpenAI has launched a test version of its highly anticipated search engine, SearchGPT. The AI-powered search engine aims to provide users with direct answers to their queries, complete with citations from relevant sources. Initially, SearchGPT will be tested as a separate product, but OpenAI plans to integrate it into its main ChatGPT service eventually.",
+            "Title": "Google Advises Against Using LLMs for SEO Advice",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller cautions against relying on Large Language Models (LLMs) for SEO advice. He warns that LLMs can learn and perpetuate inaccurate SEO information from the vast amount of data they process.",
             "Links": [
-                "https://www.business-standard.com/technology/tech-news/openai-enters-google-dominated-search-engine-market-with-searchgpt-124072600084_1.html",
-                "https://twitter.com/glenngabe/status/1816551027941814471",
-                "https://www.searchenginejournal.com/openai-launches-searchgpt-ai-powered-search-prototype/523041/"
+                "https://twitter.com/rustybrick/status/1816900290932801570",
+                "https://twitter.com/rustybrick/status/1816839892199989550",
+                "https://www.seroundtable.com/google-dont-use-llms-for-seo-advice-37781.html"
             ]
         },
         {
-            "Title": "Google Tests Ads in AI Overviews",
-            "Category": "Search Engine Updates",
-            "Description": "Google is planning to test incorporating ads within its AI Overviews search feature. The move has sparked debate about the future of search engine results pages (SERPs) and the potential impact on organic search results.",
+            "Title": "Google Experiments with New Search Features",
+            "Category": "Search Engines",
+            "Description": "Google is testing several new search features, including a related images carousel below image results, a \"call business\" option for local businesses with online booking, and the integration of links and related content within Google Gemini responses.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1816485054358659138",
-                "https://twitter.com/rustybrick/status/1816545452013056190",
-                "https://twitter.com/rustybrick/status/1816441014288343176"
+                "https://twitter.com/rustybrick/status/1816896515585057143",
+                "https://twitter.com/rustybrick/status/1816892740841668760",
+                "https://twitter.com/rustybrick/status/1816836118085796077",
+                "https://twitter.com/rustybrick/status/1816832342385631676",
+                "https://twitter.com/rustybrick/status/1816803402397130839"
             ]
         },
         {
-            "Title": "Apple Launches Web-Based Beta Version of Apple Maps",
-            "Category": "Mapping Services",
-            "Description": "Apple has launched a web-based beta version of Apple Maps, expanding its availability beyond Apple devices. The move could potentially challenge Google Maps' dominance in the mapping services market.",
+            "Title": "YouTube Reintroduces Unblockable Ads",
+            "Category": "Online Advertising",
+            "Description": "YouTube is reportedly bringing back unblockable ads through server-side ad injections. This move could lead to more users being exposed to YouTube ads, potentially benefiting advertisers.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1816440949960008159",
-                "https://twitter.com/rustybrick/status/1816473729896943793",
-                "https://twitter.com/rustybrick/status/1816433464515944723"
+                "https://twitter.com/glenngabe/status/1816805425339093285"
             ]
         },
         {
-            "Title": "TikTok Emerges as Key Platform for Olympics Advertising",
-            "Category": "Social Media & Advertising",
-            "Description": "TikTok is playing a crucial role in paid social media advertising plans for the upcoming Olympics. Advertisers and agency executives consider the video platform a significant player in reaching audiences during the Games.",
+            "Title": "Publicis Groupe to Acquire Influencer Marketing Company Influential",
+            "Category": "Marketing and Advertising",
+            "Description": "Publicis Groupe is set to acquire Influential, an influencer marketing company and platform. This acquisition aims to bolster Publicis's influencer marketing services and capabilities.",
             "Links": [
-                "https://digiday.com/marketing/agencies-and-marketers-point-to-tiktok-in-the-running-to-win-first-real-social-olympics/"
+                "https://digiday.com/media-buying/publicis-intends-to-acquire-influential-as-it-expands-influencer-marketing-offerings/"
             ]
         }
     ],
-    "date": "2024-07-28"
+    "date": "2024-07-29"
 }
