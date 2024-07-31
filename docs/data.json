@@ -2,7 +2,7 @@
     "data": [
         {
             "Title": "Perplexity Launches Revenue Sharing Program Amid Plagiarism Concerns",
-            "Category": "Artificial Intelligence",
+            "Category": "AI & Search",
             "Description": "Perplexity is launching a program to share ad revenue with publishing partners following weeks of plagiarism accusations. When Perplexity features content from these publishers in response to user queries, the publishers will receive a share of the ad revenue.",
             "Links": [
                 "https://twitter.com/aleyda/status/1818395567090762142",
@@ -12,8 +12,8 @@
         },
         {
             "Title": "Google Advises Against Switching M-Dot URLs to Canonical",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller reiterated that websites should not switch their m-dot URLs to be the canonical URL, even though Google has fully transitioned to mobile-first indexing. He explained that this is because of how the system is currently set up and changing it on Google's end could cause issues for many large websites.",
+            "Category": "SEO",
+            "Description": "Google's John Mueller reiterated that you should not switch your m-dot URLs to be the canonical URL, even though Google is fully switched over to mobile-first indexing.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1818357392029192677",
                 "https://twitter.com/rustybrick/status/1818296993955123609",
@@ -21,9 +21,36 @@
             ]
         },
         {
+            "Title": "Google Integrates Ads with Merchant Center Feeds and AI Image Editor",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Google Ads is being integrated with Google Merchant Center feeds and an AI image editor.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818353616580661378",
+                "https://twitter.com/rustybrick/status/1818293219270238396"
+            ]
+        },
+        {
+            "Title": "Google Testing New Ad Format",
+            "Category": "Advertising",
+            "Description": "Google is testing a new ad format.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818349842172985509",
+                "https://twitter.com/rustybrick/status/1818289444170223865"
+            ]
+        },
+        {
+            "Title": "Google Search May Replace X/Twitter Carousel with \"Latest Posts\"",
+            "Category": "Search",
+            "Description": "Google may be replacing the X/Twitter carousel in search results with a \"Latest Posts from\" carousel.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818346067643318595",
+                "https://twitter.com/rustybrick/status/1818285669896401028"
+            ]
+        },
+        {
             "Title": "Google Search Console Performance Report Filter Bug to Be Fixed",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console has a bug in the Search Performance report where filtering by Search Appearance doesn't show all the options. Google is aware of the bug and it should be fixed soon.",
+            "Category": "SEO",
+            "Description": "Google Search Console has a bug with the Search Performance report, where the Search Appearance filter doesn't show all options. Google is aware of the bug and it should be fixed soon.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1818342292677374041",
                 "https://twitter.com/rustybrick/status/1818281894024204787",
@@ -31,53 +58,407 @@
             ]
         },
         {
+            "Title": "Website Using AI Sees Surge in Google Rankings",
+            "Category": "AI & Search",
+            "Description": "A website that used AI to generate over 1 million URLs has seen a significant surge in Google rankings, prompting discussion about the effectiveness and sustainability of such strategies.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818287143522865316"
+            ]
+        },
+        {
             "Title": "Google's Antitrust Defense May Benefit from SearchGPT Threat",
-            "Category": "Artificial Intelligence",
-            "Description": "The emergence of generative AI, particularly OpenAI's SearchGPT, poses a new challenge to Google's dominance in search. This new competition could play a role in the outcome of the ongoing antitrust trial against Google, potentially bolstering the company's defense.",
+            "Category": "AI & Legal",
+            "Description": "The emergence of generative AI, particularly OpenAI's SearchGPT, could play a role in Google's defense against antitrust allegations, as it highlights potential competition in the search market.",
             "Links": [
                 "https://finance.yahoo.com/news/googles-antitrust-defense-could-benefit-from-the-threat-of-searchgpt-141955745.html"
             ]
         },
         {
-            "Title": "Google Tests Link Icon Citations for AI Overviews",
-            "Category": "Artificial Intelligence",
-            "Description": "Google is experimenting with displaying link icon citations for AI-generated overviews in search results. This move aims to provide users with more transparency and context about the sources used to generate these summaries.",
-            "Links": []
+            "Title": "Leaked Google Document Hints at 3-Tiered Index System",
+            "Category": "SEO",
+            "Description": "A leak from Google's engineering documents suggests that the search engine's index of web pages is stored on a three-tiered hardware system, and that the authority of a link may depend on its tier.",
+            "Links": [
+                "https://www.practicalecommerce.com/3-tiered-index-hints-seo-link-value"
+            ]
         },
         {
-            "Title": "OpenAI Announces SearchGPT Prototype",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has unveiled a prototype of SearchGPT, its own AI-powered search engine. This announcement has intensified the competition in the search market, putting pressure on Google to innovate and improve its search product.",
-            "Links": []
+            "Title": "New Ecommerce Tools Released",
+            "Category": "Ecommerce",
+            "Description": "New releases this week include tools for AI-powered content creation, automated deliveries, shoppable video, website speed, logistics, and sustainable packaging.",
+            "Links": [
+                "https://www.practicalecommerce.com/new-ecommerce-tools-july-30-2024"
+            ]
         },
         {
-            "Title": "Ahrefs Launches Content Changes Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Ahrefs has introduced a new feature called Content Changes, allowing users to track content updates and modifications made by their competitors. This tool aims to provide insights into how content changes impact search rankings and visibility.",
+            "Title": "SearchGPT: A Catalyst for Innovation in Search and SEO",
+            "Category": "AI & Search",
+            "Description": "The emergence of OpenAI's SearchGPT is putting pressure on Google to innovate and improve its search product, potentially leading to significant changes in the search engine optimization (SEO) landscape.",
+            "Links": [
+                "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/"
+            ]
+        },
+        {
+            "Title": "Data Providers and Marketers Team Up to Address Signal Loss",
+            "Category": "Marketing & Data",
+            "Description": "Despite Google's decision to postpone the phasing out of third-party cookies in Chrome, the industry is still moving towards a cookieless future. Data providers and marketers are collaborating to find solutions to the challenge of signal loss.",
+            "Links": [
+                "https://digiday.com/sponsored/qa-why-data-providers-and-marketers-are-uniting-to-overcome-signal-loss/"
+            ]
+        },
+        {
+            "Title": "Generative Engine Optimization (GEO): What You Need to Know",
+            "Category": "AI & SEO",
+            "Description": "GEO is a new approach to optimizing website content for visibility in AI-driven search engines, similar to how SEO targets traditional text-based search.",
+            "Links": [
+                "https://martech.org/generative-engine-optimization-what-you-need-to-know/"
+            ]
+        },
+        {
+            "Title": "Ahrefs Introduces Content Changes Feature for Competitor Analysis",
+            "Category": "SEO Tools",
+            "Description": "Ahrefs has launched a new feature called \"Content Changes\" that allows users to track content updates made by their competitors and identify potential correlations with ranking improvements.",
             "Links": [
                 "https://twitter.com/aleyda/status/1818266488102330398"
             ]
         },
         {
-            "Title": "Apple Maps Appears in Google Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Apple Maps listings have been spotted appearing in Google SERPs, indicating a potential shift in the local search landscape. This development has sparked discussions among SEO professionals about the implications for local SEO strategies.",
+            "Title": "Apple Maps Listings Appear in Google Search Results",
+            "Category": "Search & Maps",
+            "Description": "Apple Maps listings have been spotted appearing in Google SERPs, raising questions about the evolving relationship between the two tech giants in the local search space.",
             "Links": [
                 "https://twitter.com/aleyda/status/1818254365322252595"
             ]
         },
         {
-            "Title": "Microsoft Tests Bing Generative Search Experience",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing to a limited number of users. This new feature aims to deliver more dynamic and comprehensive search results by leveraging the capabilities of generative AI.",
-            "Links": []
+            "Title": "AI Search's Impact on Airline Websites",
+            "Category": "AI & Travel",
+            "Description": "The rise of AI-powered search is having a significant impact on various industries, including travel and tourism. Airline websites, in particular, are becoming an interesting battleground as they adapt to the changing search landscape.",
+            "Links": [
+                "https://www.thedrum.com/opinion/2024/07/30/ai-search-takes-over-airline-websites-are-interesting-battle-ground"
+            ]
+        },
+        {
+            "Title": "Analysis Shows Low Visibility of AI Overviews in Trending News Searches",
+            "Category": "AI & Search",
+            "Description": "A recent analysis revealed that only 3.9% of trending news searches on Google resulted in AI Overviews, with Health News, Science & Tech News, and Local News having the highest share.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818193009135194564"
+            ]
+        },
+        {
+            "Title": "YouTube and TikTok Creators Approach AI-Generated Videos with Caution",
+            "Category": "AI & Content Creation",
+            "Description": "While creators are incorporating generative AI tools into their video workflows, they are being careful to avoid AI completely taking over their content creation process.",
+            "Links": [
+                "https://digiday.com/future-of-tv/why-youtube-and-tiktok-creators-arent-going-all-in-on-ai-generated-videos/"
+            ]
+        },
+        {
+            "Title": "Google's Cookie Deprecation Delay Prompts CMOs to Focus on Privacy-Conscious Consumers",
+            "Category": "Marketing & Privacy",
+            "Description": "Google's decision to postpone the phasing out of third-party cookies has led CMOs to focus on consumers who prioritize privacy. Marketers and media buyers anticipate a continued shift towards a cookieless future.",
+            "Links": [
+                "https://digiday.com/marketing/marketing-briefing-why-googles-cookie-deprecation-cessation-has-cmos-focused-on-consumers-who-will-protect-their-privacy/"
+            ]
+        },
+        {
+            "Title": "Video Ad Tech Firms Connatix and JW Player in Merger Talks",
+            "Category": "Advertising & Business",
+            "Description": "Connatix and JW Player, two prominent players in the video ad tech industry, are reportedly in merger talks, signaling continued consolidation in the sector.",
+            "Links": [
+                "https://digiday.com/marketing/video-ad-tech-firms-connatix-and-jw-player-are-holding-merger-talks/"
+            ]
+        },
+        {
+            "Title": "Google Chrome for Desktops Tests \"Circle to Search\" Feature",
+            "Category": "Search",
+            "Description": "Google is testing a new feature for Chrome on desktops called \"Circle to Search,\" which is currently available in the Canary build.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818009575712309550"
+            ]
+        },
+        {
+            "Title": "Anthropic Circumvents Robots.txt Directives with New Bot Names",
+            "Category": "AI & Web Crawling",
+            "Description": "Anthropic, an AI research company, has created new bots with different names to bypass robots.txt directives on websites that were blocking its original crawler, ClaudeBot.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817999788324847640"
+            ]
+        },
+        {
+            "Title": "Next Google Core Update Expected Soon",
+            "Category": "SEO",
+            "Description": "Google's John Mueller has indicated that the next core update is not far off, although he did not provide a specific timeline.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817998778583982298",
+                "https://twitter.com/rustybrick/status/1817938381760065889",
+                "https://twitter.com/rustybrick/status/1817893082676764939"
+            ]
+        },
+        {
+            "Title": "Google Search Ranking Volatility Remains High",
+            "Category": "SEO",
+            "Description": "Google Search ranking volatility has been elevated for the past two weeks, leading to speculation that Google may be testing the next core update.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817995003840634938",
+                "https://twitter.com/rustybrick/status/1817934605548126476",
+                "https://twitter.com/rustybrick/status/1817890565305856508"
+            ]
+        },
+        {
+            "Title": "Google Discover Promotes AI Overviews",
+            "Category": "AI & Search",
+            "Description": "Google is promoting AI Overviews in Google Discover, with buttons that allow users to jump to the search results page to view the overviews.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817991228597686628",
+                "https://twitter.com/rustybrick/status/1817930831996027127",
+                "https://twitter.com/rustybrick/status/1817888049566806520",
+                "https://twitter.com/glenngabe/status/1817893733431386546"
+            ]
+        },
+        {
+            "Title": "Report Analyzes Frequency of Ads Mixed with Organic Search Results",
+            "Category": "Advertising & Search",
+            "Description": "A new report based on data from Semrush examines how often Google mixes ads within the organic search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817987454424789196",
+                "https://twitter.com/rustybrick/status/1817927055985594447",
+                "https://twitter.com/glenngabe/status/1817902577595392335"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Introduces AI-Powered Menu Generation",
+            "Category": "AI & Local Business",
+            "Description": "Google Business Profiles now allows businesses to generate a menu from an uploaded photo using AI.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817983679114715232",
+                "https://twitter.com/rustybrick/status/1817883016343240954"
+            ]
+        },
+        {
+            "Title": "Google Search May Be Displaying Fewer X/Twitter Carousels for News",
+            "Category": "Search",
+            "Description": "There are indications that Google Search is showing X/Twitter carousels less frequently for news-related queries and topics.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817979904111050903"
+            ]
+        },
+        {
+            "Title": "Google's Site Reputation Abuse Policy: A Case for Algorithmic Enforcement",
+            "Category": "SEO & Spam",
+            "Description": "A recent analysis argues that Google's current approach to handling site reputation abuse through manual actions is flawed and advocates for a more scalable, algorithmic approach.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817974691509768550",
+                "https://twitter.com/glenngabe/status/1817897805198807434"
+            ]
+        },
+        {
+            "Title": "OpenAI's SearchGPT: A Strategic Move Beyond Training Data?",
+            "Category": "AI & Search",
+            "Description": "An article explores the potential motivations behind OpenAI's announcement of SearchGPT, suggesting that it may be a strategic move to address the company's training data challenges and position itself in the evolving search landscape.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817972756249477405"
+            ]
+        },
+        {
+            "Title": "LinkedIn and Pinterest Test Ad Revenue Sharing Programs with Publishers",
+            "Category": "Social Media & Publishing",
+            "Description": "LinkedIn and Pinterest are experimenting with programs that allow publishers to sell ads on their videos and pages, respectively, in exchange for a portion of the revenue generated.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817971015433216504"
+            ]
+        },
+        {
+            "Title": "SEO Professionals Report Increased Difficulty in Achieving Goals",
+            "Category": "SEO",
+            "Description": "A survey of SEO professionals found that a majority (56%) believe it is more challenging to achieve their SEO goals now compared to a couple of years ago.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1817943953347424319"
+            ]
+        },
+        {
+            "Title": "Microsoft Tests Generative AI in Bing Search",
+            "Category": "AI & Search",
+            "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing to a limited number of users, aiming to provide more comprehensive and dynamic search results.",
+            "Links": [
+                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/",
+                "https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx"
+            ]
+        },
+        {
+            "Title": "Ecommerce M&A Activity Shows Signs of Stabilization",
+            "Category": "Ecommerce & Business",
+            "Description": "While the surge in ecommerce mergers and acquisitions (M&A) seen in 2021 has subsided, there are still plenty of buyers interested in promising ecommerce businesses.",
+            "Links": [
+                "https://www.practicalecommerce.com/ecommerce-ma-stabilizing-advisor-says"
+            ]
+        },
+        {
+            "Title": "Google May Reduce Reliance on Hreflang for Language Detection",
+            "Category": "SEO",
+            "Description": "Google has hinted at a potential shift towards automatic language detection, which could lessen the reliance on manual hreflang annotations for multilingual websites.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-may-rely-less-on-hreflang-shift-to-auto-language-detection/523224/"
+            ]
+        },
+        {
+            "Title": "Congressional Scrutiny of Google's AI Overviews",
+            "Category": "AI & Legal",
+            "Description": "Google's AI Overviews are facing scrutiny from Congress, with lawmakers raising concerns about potential biases, accuracy, and the impact on content creators.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817905584412234150"
+            ]
+        },
+        {
+            "Title": "Digital Marketing Roundup: AI-Generated Photos, Lead Generation Ads, and More",
+            "Category": "Digital Marketing",
+            "Description": "A roundup of recent developments in digital marketing, including Meta AI's introduction of AI-generated photos, Reddit's launch of Lead Generation Ads, and Publicis' $500 million investment in influencer marketing.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1817902598478807081"
+            ]
+        },
+        {
+            "Title": "OpenAI Announces SearchGPT Prototype",
+            "Category": "AI & Search",
+            "Description": "OpenAI has unveiled a prototype of its AI-powered search engine, SearchGPT, signaling its entry into the search market.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1817899689284354437"
+            ]
+        },
+        {
+            "Title": "Google Tests Link Icon Citations for AI Overviews",
+            "Category": "AI & Search",
+            "Description": "Google is experimenting with displaying link icon citations for AI Overviews in search results, potentially as a way to address concerns about transparency and attribution.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1817899689284354437"
+            ]
+        },
+        {
+            "Title": "Google Cautions Against Exponential Content Growth",
+            "Category": "SEO",
+            "Description": "Google has advised website owners to be cautious about exponential content growth, stating that it can trigger a reevaluation of the site's quality.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1817899689284354437"
+            ]
+        },
+        {
+            "Title": "SEO Video Recap: Google Volatility, Bing Generative Search, Reddit Blocking Bing, and More",
+            "Category": "SEO",
+            "Description": "A video recap covers the latest SEO news and developments, including ongoing Google ranking volatility, Microsoft's testing of generative AI in Bing, Reddit's decision to block Bing, and the persistence of cookies in digital advertising.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817894088902865407"
+            ]
+        },
+        {
+            "Title": "Apple Plans to Launch \"Apple Intelligence\" by October",
+            "Category": "AI",
+            "Description": "Sources indicate that Apple is planning to debut its AI assistant, \"Apple Intelligence,\" by October, shortly after the release of iOS 18 and iPadOS 18.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817891155305975917"
+            ]
+        },
+        {
+            "Title": "Google Hints at Lowering SEO Value of Country Code Top-Level Domains (ccTLDs)",
+            "Category": "SEO",
+            "Description": "Google suggests that ccTLDs may lose some of their SEO value in the future due to their increasing use for creative branding purposes, emphasizing the importance of content and hreflang for international targeting.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-hints-lowering-seo-value-of-country-code-top-level-domains/523183/"
+            ]
+        },
+        {
+            "Title": "Google Advises Caution with AI-Generated Answers",
+            "Category": "AI & Search",
+            "Description": "Google's Gary Illyes has urged caution when using AI-generated answers, recommending that users rely on their own knowledge and consult authoritative sources for reliable information.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-advises-caution-with-ai-generated-answers/523145/"
+            ]
+        },
+        {
+            "Title": "The Importance of Inbound Links and PageRank Management",
+            "Category": "SEO",
+            "Description": "Inbound links continue to play a crucial role in organic search rankings, and effectively managing PageRank remains essential for SEO success.",
+            "Links": [
+                "https://www.practicalecommerce.com/the-right-way-to-pass-pagerank"
+            ]
+        },
+        {
+            "Title": "Neil Patel Shares Five SEO Tips for a Changing Landscape",
+            "Category": "SEO",
+            "Description": "SEO expert Neil Patel provides insights on navigating the evolving world of search engine optimization, emphasizing the impact of AI, changing user behavior, and algorithm updates.",
+            "Links": [
+                "https://www.marketing-interactive.com/digital-marketing-asia-five-seo-lessens-neil-patel"
+            ]
+        },
+        {
+            "Title": "Media Agencies Explore Alternative ID Solutions as Cookies Decline",
+            "Category": "Advertising & Data",
+            "Description": "Despite Google's delay in deprecating third-party cookies, media agencies are encouraging clients to prioritize first-party data strategies and explore alternative identification solutions.",
+            "Links": [
+                "https://digiday.com/media-buying/media-buying-briefing-media-agencies-forge-on-with-other-id-solutions-regardless-of-googles-curtail-of-third-party-cookie-deprecation/"
+            ]
+        },
+        {
+            "Title": "NBA Rights Deal Highlights the Future of Streaming and Live Sports",
+            "Category": "Media & Streaming",
+            "Description": "The recent NBA rights deal sheds light on the evolving landscape of live sports broadcasting, with streaming platforms playing an increasingly prominent role.",
+            "Links": [
+                "https://digiday.com/marketing/what-the-nba-rights-deal-spells-out-about-the-future-of-streamers-platforms-in-live-sports/"
+            ]
+        },
+        {
+            "Title": "Calls for Regulation of Web Browsers Grow Louder",
+            "Category": "Tech & Policy",
+            "Description": "Advocates are calling for government oversight of web browsers like Chrome and Safari, arguing that the current lack of regulation is harming the open internet.",
+            "Links": [
+                "https://digiday.com/marketing/should-web-browsers-be-regulated/"
+            ]
+        },
+        {
+            "Title": "YouTube Remains a Dominant Force in the Video Landscape",
+            "Category": "Media & Streaming",
+            "Description": "Despite increased competition, YouTube continues to be a major player in the video streaming market, demonstrating its enduring influence and reach.",
+            "Links": [
+                "https://digiday.com/marketing/the-rundown-despite-the-competition-why-is-everyone-talking-about-youtube/"
+            ]
+        },
+        {
+            "Title": "Marketers and Publishers Weigh In on the Proliferation of MFAs",
+            "Category": "Advertising",
+            "Description": "A new research study explores the perspectives of marketers and publishers on the increasing prevalence of multi-factor authentication (MFA) in digital advertising.",
+            "Links": [
+                "https://digiday.com/marketing/digiday-research-who-do-marketers-and-publishers-blame-for-the-proliferation-of-mfas/"
+            ]
+        },
+        {
+            "Title": "Client Apprehension May Hinder Generative AI Adoption",
+            "Category": "AI & Marketing",
+            "Description": "An agency executive suggests that client concerns and hesitation could slow down the adoption of generative AI in marketing, despite the technology's potential benefits.",
+            "Links": [
+                "https://digiday.com/marketing/is-it-even-worth-it-confessions-of-an-agency-exec-on-client-challenges-with-generative-ai-peak/"
+            ]
+        },
+        {
+            "Title": "Rabbi IT Firm Exposed for Manipulative SEO Practices",
+            "Category": "SEO & Spam",
+            "Description": "Rabbi IT Firm is accused of engaging in deceptive SEO practices, including selling fake guest posts and manipulating PBN link metrics.",
+            "Links": [
+                "https://hackernoon.com/rabbi-it-firm-deception-behind-the-paid-seo-guest-post-and-pbn-metrics-manipulator-company"
+            ]
         },
         {
             "Title": "Reddit Blocks Bing Search, Limiting Access to Recent Posts",
-            "Category": "Artificial Intelligence",
-            "Description": "Reddit has taken measures to block AI bots from major search engines, including Bing, unless they reach an agreement. This move aims to prevent these bots from scraping and utilizing Reddit's content without permission.",
+            "Category": "Search & Social Media",
+            "Description": "Reddit has taken steps to block Bing's search engine from accessing and indexing its content, restricting Bing users from seeing recent Reddit posts in their search results.",
             "Links": [
                 "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why"
+            ]
+        },
+        {
+            "Title": "Google's Cookie Reversal Sparks Debate and Uncertainty",
+            "Category": "Advertising & Privacy",
+            "Description": "Google's decision to postpone the phasing out of third-party cookies has generated mixed reactions, with marketers welcoming the extension while privacy advocates express concerns.",
+            "Links": [
+                "https://www.practicalecommerce.com/googles-cookie-reversal-raises-questions"
             ]
         }
     ],
