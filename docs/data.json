@@ -1,80 +1,85 @@
 {
     "data": [
         {
-            "Title": "Google Core Update Coming Soon",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller has confirmed that the next core update is not far away, although he did not provide a specific timeline. This announcement comes amidst ongoing volatility in Google's search rankings, suggesting potential testing for the update.",
+            "Title": "Perplexity Launches Revenue Sharing Program Amid Plagiarism Concerns",
+            "Category": "Artificial Intelligence",
+            "Description": "Perplexity is launching a program to share ad revenue with publishing partners following weeks of plagiarism accusations. When Perplexity features content from these publishers in response to user queries, the publishers will receive a share of the ad revenue.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1817938381760065889",
-                "https://twitter.com/rustybrick/status/1817998778583982298",
-                "https://twitter.com/rustybrick/status/1817893082676764939"
+                "https://twitter.com/aleyda/status/1818395567090762142",
+                "https://twitter.com/glenngabe/status/1818288139309388215",
+                "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Remains High",
+            "Title": "Google Advises Against Switching M-Dot URLs to Canonical",
             "Category": "Search Engine Optimization",
-            "Description": "Google's search rankings have been experiencing high volatility over the past two weeks, leading to speculation about the upcoming core update. Some experts believe this volatility could be a sign of Google testing new algorithms.",
+            "Description": "Google's John Mueller reiterated that websites should not switch their m-dot URLs to be the canonical URL, even though Google has fully transitioned to mobile-first indexing. He explained that this is because of how the system is currently set up and changing it on Google's end could cause issues for many large websites.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1817934605548126476",
-                "https://twitter.com/rustybrick/status/1817995003840634938",
-                "https://twitter.com/rustybrick/status/1817890565305856508"
+                "https://twitter.com/rustybrick/status/1818357392029192677",
+                "https://twitter.com/rustybrick/status/1818296993955123609",
+                "https://www.seroundtable.com/google-m-dot-urls-the-canonical-37809.html"
             ]
         },
         {
-            "Title": "Google Discover Promotes AI Overviews",
+            "Title": "Google Search Console Performance Report Filter Bug to Be Fixed",
             "Category": "Search Engine Optimization",
-            "Description": "Google is actively promoting AI Overviews in its Discover feed by providing buttons that direct users to the Search page to view them. This move highlights Google's increasing focus on AI-powered search features.",
+            "Description": "Google Search Console has a bug in the Search Performance report where filtering by Search Appearance doesn't show all the options. Google is aware of the bug and it should be fixed soon.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1817930831996027127",
-                "https://twitter.com/rustybrick/status/1817991228597686628",
-                "https://twitter.com/rustybrick/status/1817888049566806520"
+                "https://twitter.com/rustybrick/status/1818342292677374041",
+                "https://twitter.com/rustybrick/status/1818281894024204787",
+                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html"
             ]
         },
         {
-            "Title": "Google Business Profiles Introduces AI-Powered Menu Generation",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Business Profiles now allows businesses to generate menus directly from uploaded photos using AI. This feature simplifies menu management and enhances the user experience for customers searching for restaurants and cafes.",
+            "Title": "Google's Antitrust Defense May Benefit from SearchGPT Threat",
+            "Category": "Artificial Intelligence",
+            "Description": "The emergence of generative AI, particularly OpenAI's SearchGPT, poses a new challenge to Google's dominance in search. This new competition could play a role in the outcome of the ongoing antitrust trial against Google, potentially bolstering the company's defense.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1817923282357874748",
-                "https://twitter.com/rustybrick/status/1817983679114715232",
-                "https://twitter.com/rustybrick/status/1817883016343240954"
+                "https://finance.yahoo.com/news/googles-antitrust-defense-could-benefit-from-the-threat-of-searchgpt-141955745.html"
             ]
         },
         {
-            "Title": "Microsoft Bing Integrates AI into Search Results",
+            "Title": "Google Tests Link Icon Citations for AI Overviews",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is experimenting with displaying link icon citations for AI-generated overviews in search results. This move aims to provide users with more transparency and context about the sources used to generate these summaries.",
+            "Links": []
+        },
+        {
+            "Title": "OpenAI Announces SearchGPT Prototype",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI has unveiled a prototype of SearchGPT, its own AI-powered search engine. This announcement has intensified the competition in the search market, putting pressure on Google to innovate and improve its search product.",
+            "Links": []
+        },
+        {
+            "Title": "Ahrefs Launches Content Changes Feature",
             "Category": "Search Engine Optimization",
-            "Description": "Following Google's lead, Microsoft has introduced a generative AI-powered search experience for Bing. This update aims to provide more dynamic and comprehensive search results, with prominent links to external sites.",
+            "Description": "Ahrefs has introduced a new feature called Content Changes, allowing users to track content updates and modifications made by their competitors. This tool aims to provide insights into how content changes impact search rankings and visibility.",
             "Links": [
-                "https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx",
-                "https://decrypt.co/241927/microsoft-bing-adds-ai-to-search-results-following-googles-lead",
-                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/"
+                "https://twitter.com/aleyda/status/1818266488102330398"
             ]
         },
         {
-            "Title": "Reddit Blocks AI Bots from Search Engines",
+            "Title": "Apple Maps Appears in Google Search Results",
             "Category": "Search Engine Optimization",
-            "Description": "Reddit is restricting access to its content for AI bots from major search engines unless they agree to pay for it. This move has significant implications for search results, as Google is now the only search engine that shows recent Reddit posts.",
+            "Description": "Apple Maps listings have been spotted appearing in Google SERPs, indicating a potential shift in the local search landscape. This development has sparked discussions among SEO professionals about the implications for local SEO strategies.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1818016979514704025",
+                "https://twitter.com/aleyda/status/1818254365322252595"
+            ]
+        },
+        {
+            "Title": "Microsoft Tests Bing Generative Search Experience",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing to a limited number of users. This new feature aims to deliver more dynamic and comprehensive search results by leveraging the capabilities of generative AI.",
+            "Links": []
+        },
+        {
+            "Title": "Reddit Blocks Bing Search, Limiting Access to Recent Posts",
+            "Category": "Artificial Intelligence",
+            "Description": "Reddit has taken measures to block AI bots from major search engines, including Bing, unless they reach an agreement. This move aims to prevent these bots from scraping and utilizing Reddit's content without permission.",
+            "Links": [
                 "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why"
-            ]
-        },
-        {
-            "Title": "Connatix and JW Player in Merger Talks",
-            "Category": "Digital Marketing",
-            "Description": "Video ad tech companies Connatix and JW Player are reportedly in merger talks, with private equity firm Court Square potentially funding the deal. This development reflects the ongoing consolidation in the ad tech sector.",
-            "Links": [
-                "https://digiday.com/marketing/video-ad-tech-firms-connatix-and-jw-player-are-holding-merger-talks/"
-            ]
-        },
-        {
-            "Title": "Ecommerce M&A Activity Stabilizing",
-            "Category": "Ecommerce",
-            "Description": "While the frenzied pace of ecommerce mergers and acquisitions seen in 2021 has subsided, industry experts report that there are still plenty of buyers seeking promising ecommerce businesses.",
-            "Links": [
-                "https://www.practicalecommerce.com/ecommerce-ma-stabilizing-advisor-says"
             ]
         }
     ],
-    "date": "2024-07-30"
+    "date": "2024-07-31"
 }
