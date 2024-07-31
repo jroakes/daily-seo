@@ -13,7 +13,7 @@
         {
             "Title": "Google Advises Against Switching M-Dot URLs to Canonical",
             "Category": "SEO",
-            "Description": "Google's John Mueller reiterated that you should not switch your m-dot URLs to be the canonical URL, even though Google is fully switched over to mobile-first indexing. He said this is because switching it on Google's end would cause many large sites issues.",
+            "Description": "Google's John Mueller reiterated that you should not switch your m-dot URLs to be the canonical URL, even though Google is fully switched over to mobile-first indexing. He said this is just because it is how it is done, how it was done, and switching it on Google's end would cause many large sites issues.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1818357392029192677",
                 "https://twitter.com/rustybrick/status/1818296993955123609",
@@ -21,88 +21,322 @@
             ]
         },
         {
-            "Title": "Google Ads Introduces New Features and Integrations",
-            "Category": "Advertising & Marketing",
-            "Description": "Google Ads is rolling out new features, including integration with Google Merchant Center feeds for AI image editing, a new ad format, and click-to-WhatsApp messaging assets.  They are also launching Performance Max reporting updates and AI generation tools.",
+            "Title": "Google Integrates Ads with Merchant Center Feeds and AI Image Editor",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Google Ads integration with Google Merchant Center feeds to AI image editor",
             "Links": [
                 "https://twitter.com/rustybrick/status/1818353616580661378",
-                "https://twitter.com/rustybrick/status/1818293219270238396",
-                "https://twitter.com/rustybrick/status/1818349842172985509",
-                "https://twitter.com/rustybrick/status/1818289444170223865",
-                "https://twitter.com/rustybrick/status/1818612824463024616",
-                "https://twitter.com/rustybrick/status/1818610308123971769",
-                "https://twitter.com/rustybrick/status/1818651831666450857",
-                "https://twitter.com/rustybrick/status/1818651832107045249"
+                "https://twitter.com/rustybrick/status/1818293219270238396"
             ]
         },
         {
-            "Title": "Google Search Updates: X/Twitter Carousel Replacement, Search Appearance Filter Bug Fix",
-            "Category": "Search",
-            "Description": "Google may be replacing the X/Twitter carousel with a \"Latest Posts from\" carousel. Additionally, a bug in the Google Search Console performance report that prevents users from seeing all filter options when filtering by Search Appearance will be fixed soon.",
+            "Title": "Google Testing New Ad Format",
+            "Category": "Advertising & Ecommerce",
+            "Description": "For your consideration new Google Ad format",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818349842172985509",
+                "https://twitter.com/rustybrick/status/1818289444170223865"
+            ]
+        },
+        {
+            "Title": "Google Search May Replace X/Twitter Carousel with Latest Posts",
+            "Category": "AI & Search",
+            "Description": "Google may be replacing X/Twitter carousel with Latest Posts from carousel",
             "Links": [
                 "https://twitter.com/rustybrick/status/1818346067643318595",
-                "https://twitter.com/rustybrick/status/1818285669896401028",
+                "https://twitter.com/rustybrick/status/1818285669896401028"
+            ]
+        },
+        {
+            "Title": "Google Search Console Performance Report Filter Bug to Be Fixed",
+            "Category": "SEO",
+            "Description": "Google Search Console has a bug with the Search Performance report, where if you want to filter by Search Appearance, it won't show you all the options. Google is aware of the bug and it should be fixed soon.",
+            "Links": [
                 "https://twitter.com/rustybrick/status/1818342292677374041",
                 "https://twitter.com/rustybrick/status/1818281894024204787",
                 "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html"
             ]
         },
         {
-            "Title": "Google's Antitrust Defense and the Rise of AI Search",
+            "Title": "AI-Generated Content and SEO: Success and Challenges",
             "Category": "AI & Search",
-            "Description": "The emergence of generative AI search engines like SearchGPT could play a role in Google's antitrust defense. The new competition Google faces from generative AI might influence the outcome of a landmark trial where a judge must decide whether Google illegally monopolized online search.",
+            "Description": "A site using AI to generate content has seen significant ranking success, but experts believe Google will eventually catch up. This highlights the ongoing debate about the effectiveness and sustainability of AI-generated content for SEO.",
             "Links": [
-                "https://finance.yahoo.com/news/googles-antitrust-defense-could-benefit-from-the-threat-of-searchgpt-141955745.html",
+                "https://twitter.com/glenngabe/status/1818287143522865316"
+            ]
+        },
+        {
+            "Title": "Google's Antitrust Case and the Rise of SearchGPT",
+            "Category": "AI & Search",
+            "Description": "The emergence of generative AI, particularly OpenAI's SearchGPT, could play a significant role in Google's antitrust trial. The threat of competition from AI-powered search engines might influence the judge's decision on whether Google holds an illegal monopoly.",
+            "Links": [
+                "https://finance.yahoo.com/news/googles-antitrust-defense-could-benefit-from-the-threat-of-searchgpt-141955745.html"
+            ]
+        },
+        {
+            "Title": "Google's Three-Tiered Index and Link Value",
+            "Category": "SEO",
+            "Description": "Leaked information suggests Google uses a three-tiered hardware system for its index, and the tier of a linking page might influence its authority and impact on rankings.",
+            "Links": [
+                "https://www.practicalecommerce.com/3-tiered-index-hints-seo-link-value"
+            ]
+        },
+        {
+            "Title": "SearchGPT: Pushing Innovation in Search and SEO",
+            "Category": "AI & Search",
+            "Description": "The launch of OpenAI's SearchGPT is putting pressure on Google to innovate and improve its search product. This competition is expected to drive significant changes in the search landscape and impact SEO strategies.",
+            "Links": [
                 "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/"
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Remains High",
-            "Category": "SEO",
-            "Description": "Google Search ranking volatility continues to be very high, leading to speculation about whether Google is testing the next core update.",
+            "Title": "Navigating Signal Loss: Data Providers and Marketers Unite",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Despite Google's delay in phasing out third-party cookies, the industry is moving towards a cookieless future. Data providers and marketers are collaborating to address signal loss and find alternative targeting solutions.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1817934605548126476",
-                "https://twitter.com/rustybrick/status/1817938381760065889",
-                "https://twitter.com/glenngabe/status/1818635116970725817"
+                "https://digiday.com/sponsored/qa-why-data-providers-and-marketers-are-uniting-to-overcome-signal-loss/"
             ]
         },
         {
-            "Title": "Microsoft Bing Search Ad Revenue Sees 19% Increase",
-            "Category": "Advertising & Marketing",
-            "Description": "Microsoft reported that its search and advertising revenue, driven by Bing, increased by 19% in the fourth quarter of 2024. This marks a significant rebound for Bing, as the last time it experienced such growth was ten quarters ago, in Q3 2022.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1818605274904588725",
-                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
-            ]
-        },
-        {
-            "Title": "Google Discover Promotes AI Overviews",
+            "Title": "Understanding Generative Engine Optimization (GEO)",
             "Category": "AI & Search",
-            "Description": "Google Discover is promoting AI Overviews, with buttons that allow users to jump to the Search results page to view them. Currently, this feature is limited to Olympic topics, but it is expected to expand to other areas.",
+            "Description": "GEO is an emerging field focused on optimizing content for AI-driven search engines. It involves tailoring content to be easily understood and ranked by AI algorithms, similar to how SEO targets traditional search engines.",
+            "Links": [
+                "https://martech.org/generative-engine-optimization-what-you-need-to-know/"
+            ]
+        },
+        {
+            "Title": "Ahrefs Introduces Content Changes Feature for Competitor Analysis",
+            "Category": "SEO",
+            "Description": "Ahrefs has launched a new feature called Content Changes, allowing users to track content updates made by competitors and identify potential correlations with ranking improvements.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818266488102330398"
+            ]
+        },
+        {
+            "Title": "Apple Maps Enters Google SERPs: Implications for Local SEO",
+            "Category": "SEO",
+            "Description": "The appearance of Apple Maps results within Google Search Engine Results Pages (SERPs) has sparked discussions about its implications for local SEO strategies.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818254365322252595"
+            ]
+        },
+        {
+            "Title": "AI Overviews in Google Search: Prevalence and Impact",
+            "Category": "AI & Search",
+            "Description": "Analysis reveals that AI Overviews are appearing in a small percentage of trending news searches, with higher prevalence in health, science & tech, and local news. This suggests Google is selectively implementing AI-generated summaries in search results.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818193009135194564"
+            ]
+        },
+        {
+            "Title": "YouTube and TikTok Creators Embrace AI Tools Cautiously",
+            "Category": "AI & Content Creation",
+            "Description": "While incorporating generative AI tools into their workflows, YouTube and TikTok creators are striving to maintain their unique voices and avoid over-reliance on AI-generated content.",
+            "Links": [
+                "https://digiday.com/future-of-tv/why-youtube-and-tiktok-creators-arent-going-all-in-on-ai-generated-videos/"
+            ]
+        },
+        {
+            "Title": "Google's Cookie Deprecation Delay: CMOs Focus on Privacy-Conscious Consumers",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Despite Google's postponement of third-party cookie deprecation, marketers anticipate a cookieless future. CMOs are shifting their focus towards engaging privacy-conscious consumers and leveraging alternative targeting methods.",
+            "Links": [
+                "https://digiday.com/marketing/marketing-briefing-why-googles-cookie-deprecation-cessation-has-cmos-focused-on-consumers-who-will-protect-their-privacy/"
+            ]
+        },
+        {
+            "Title": "Connatix and JW Player in Merger Talks: Video Ad Tech Consolidation Continues",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Video ad tech companies Connatix and JW Player are reportedly in merger discussions, signaling ongoing consolidation within the industry as companies seek to expand their reach and capabilities.",
+            "Links": [
+                "https://digiday.com/marketing/video-ad-tech-firms-connatix-and-jw-player-are-holding-merger-talks/"
+            ]
+        },
+        {
+            "Title": "Google Chrome Tests Desktop Version of Circle to Search",
+            "Category": "AI & Search",
+            "Description": "Google is experimenting with a desktop version of its Circle to Search feature in Chrome Canary, allowing users to visually search for information related to images on their screens.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818009575712309550"
+            ]
+        },
+        {
+            "Title": "Anthropic Circumvents Robots.txt with New Bot Names",
+            "Category": "AI & Search",
+            "Description": "Anthropic, the AI company behind Claude, has created new bots with different names to bypass robots.txt directives on websites that were blocking its original crawler.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817999788324847640"
+            ]
+        },
+        {
+            "Title": "Google's Site Reputation Abuse Policy: Algorithmic Enforcement Advocated",
+            "Category": "SEO",
+            "Description": "An industry expert argues that Google should adopt an algorithmic approach to enforcing its site reputation abuse spam policy, citing limitations and scalability issues with manual actions.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817974691509768550",
+                "https://twitter.com/glenngabe/status/1817897805198807434"
+            ]
+        },
+        {
+            "Title": "OpenAI's SearchGPT: Addressing the Training Data Dilemma",
+            "Category": "AI & Search",
+            "Description": "Experts are analyzing OpenAI's motivations behind announcing SearchGPT, considering the company's financial situation and the challenges of acquiring training data for a Google-scale search engine.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817972756249477405"
+            ]
+        },
+        {
+            "Title": "LinkedIn and Pinterest Explore Publisher Ad Revenue Sharing",
+            "Category": "Advertising & Ecommerce",
+            "Description": "LinkedIn and Pinterest are testing programs that would allow publishers to sell ads on their videos and pages, respectively, in exchange for a portion of the revenue generated.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817971015433216504"
+            ]
+        },
+        {
+            "Title": "Microsoft Tests Generative AI in Bing Search",
+            "Category": "AI & Search",
+            "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing to a limited number of users, aiming to provide more comprehensive and dynamic search results.",
+            "Links": [
+                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/",
+                "https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx"
+            ]
+        },
+        {
+            "Title": "Reddit Blocks Bing Search, Demands Payment for Data Access",
+            "Category": "AI & Search",
+            "Description": "Reddit is blocking AI bots from major search engines, including Bing, unless they negotiate a data access agreement. The platform argues that these companies are scraping its content without permission.",
+            "Links": [
+                "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why",
+                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search"
+            ]
+        },
+        {
+            "Title": "Google's Cookie Reversal: Questions and Implications",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Google's decision to delay the phasing out of third-party cookies has sparked debate and uncertainty among marketers and privacy advocates. The move highlights the complexities of balancing user privacy with targeted advertising.",
+            "Links": [
+                "https://www.practicalecommerce.com/googles-cookie-reversal-raises-questions"
+            ]
+        },
+        {
+            "Title": "Google May Reduce Reliance on Hreflang for Language Detection",
+            "Category": "SEO",
+            "Description": "Google hints at a potential shift towards automatic language detection, which could lessen the reliance on manual hreflang annotations for multilingual websites.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-may-rely-less-on-hreflang-shift-to-auto-language-detection/523224/"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Face Congressional Scrutiny",
+            "Category": "AI & Search",
+            "Description": "Congress has raised concerns and posed questions to Google regarding its AI Overviews, particularly about potential biases, accuracy, and the impact on content creators.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817905584412234150"
+            ]
+        },
+        {
+            "Title": "Google's Next Core Update: Timing and Potential Impact",
+            "Category": "SEO",
+            "Description": "Google's John Mueller confirms that the next core update is approaching, although the exact date remains undisclosed. Speculation is rife about potential ranking fluctuations and the possibility of image thumbnails returning for some websites.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817938381760065889",
+                "https://twitter.com/glenngabe/status/1817901491643912192",
+                "https://twitter.com/rustybrick/status/1817893082676764939"
+            ]
+        },
+        {
+            "Title": "Google Discover Promotes AI Overviews with Links to Search",
+            "Category": "AI & Search",
+            "Description": "Google is actively promoting AI Overviews within Google Discover, featuring buttons that direct users to the main search results page to view the AI-generated summaries.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1817991228597686628",
-                "https://twitter.com/rustybrick/status/1817930831996027127",
-                "https://twitter.com/glenngabe/status/1817893733431386546"
+                "https://twitter.com/glenngabe/status/1817893733431386546",
+                "https://twitter.com/rustybrick/status/1817888049566806520"
             ]
         },
         {
-            "Title": "Google Tests Link Icon Citations for AI Overviews",
+            "Title": "Google's Handling of Explicit Deepfakes in Search",
             "Category": "AI & Search",
-            "Description": "Google is experimenting with displaying link icon citations for AI Overviews, similar to how citations are shown for featured snippets.",
-            "Links": []
-        },
-        {
-            "Title": "OpenAI Announces SearchGPT Prototype",
-            "Category": "AI & Search",
-            "Description": "OpenAI has announced SearchGPT, a prototype for a search engine powered by generative AI. This move has sparked discussions about the future of search and the challenges OpenAI faces in competing with Google.",
-            "Links": []
-        },
-        {
-            "Title": "Reddit Blocks Bing Search, Limiting Access to Recent Posts",
-            "Category": "Search",
-            "Description": "Reddit is blocking AI bots from major search engines, including Bing, unless they reach an agreement. This means that Bing users will no longer see recent Reddit posts in their search results.",
+            "Description": "Google has announced new policies and algorithm updates to combat the spread of explicit deepfakes in search results. These measures aim to demote non-consensual imagery and make it more difficult for users to find.",
             "Links": [
-                "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why"
+                "https://twitter.com/rustybrick/status/1818632717086667120",
+                "https://twitter.com/glenngabe/status/1818673251138048016",
+                "https://www.searchenginejournal.com/google-search-algorithm-update-targeting-explicit-deepfakes/523478/",
+                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
+                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
+                "https://blog.google/products/search/google-search-explicit-deep-fake-content-update/"
+            ]
+        },
+        {
+            "Title": "Google Updates Autocomplete and Predictions After Trump Criticism",
+            "Category": "AI & Search",
+            "Description": "Google has reportedly made improvements to its autocomplete and search predictions systems following criticism from former President Donald Trump.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818615341167046773",
+                "https://twitter.com/rustybrick/status/1818659381430325363"
+            ]
+        },
+        {
+            "Title": "Google Ads Introduces Click-to-WhatsApp Messaging Assets",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Google Ads now offers click-to-WhatsApp messaging assets, allowing advertisers to directly connect with potential customers through the popular messaging app.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818612824463024616",
+                "https://twitter.com/rustybrick/status/1818651831666450857"
+            ]
+        },
+        {
+            "Title": "Google Ads Enhances Performance Max with Reporting and AI Tools",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Google Ads is rolling out updates to its Performance Max campaigns, including new reporting features and AI-powered generation tools to streamline campaign management and optimization.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818610308123971769",
+                "https://twitter.com/rustybrick/status/1818651832107045249"
+            ]
+        },
+        {
+            "Title": "Google Tests \"Hidden Gem Stores\" Search Feature",
+            "Category": "AI & Search",
+            "Description": "Google is experimenting with a new search feature that highlights \"hidden gem stores,\" potentially leveraging user data and local business information to surface lesser-known retail options.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818607791994814899",
+                "https://twitter.com/rustybrick/status/1818648056868257901"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising Reports 19% Revenue Growth",
+            "Category": "Advertising & Ecommerce",
+            "Description": "Microsoft's search and advertising revenue, primarily driven by Bing, has seen a significant 19% increase, marking a potential resurgence in search ad growth for the company.",
+            "Links": [
+                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html",
+                "https://twitter.com/rustybrick/status/1818605274904588725",
+                "https://twitter.com/glenngabe/status/1818616290560409824"
+            ]
+        },
+        {
+            "Title": "Wix Introduces AI-Powered Blog Post Writer",
+            "Category": "AI & Content Creation",
+            "Description": "Wix's website builder now includes an AI-powered tool that can generate entire blog posts, incorporating user-specified SEO keywords to optimize content for search engines.",
+            "Links": [
+                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts"
+            ]
+        },
+        {
+            "Title": "Google Denies Censorship Claims, Explains Autocomplete Feature",
+            "Category": "AI & Search",
+            "Description": "Google has refuted allegations of censorship in its search results, clarifying that recent concerns stem from its Autocomplete feature, which predicts queries based on user behavior and search history.",
+            "Links": [
+                "https://twitter.com/Google_Comms/status/1818367619977646103"
+            ]
+        },
+        {
+            "Title": "About This Image Expands to Circle to Search and Lens",
+            "Category": "AI & Search",
+            "Description": "Google is expanding its 'About This Image' feature to Circle to Search and Google Lens, providing users with more ways to access contextual information about images they encounter online.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818677322402119690"
             ]
         }
     ],
