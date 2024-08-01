@@ -26172,3 +26172,87 @@ Error occurred at 2024-07-30 08:03:33.839413:
 RESPONSE: 
 {"stories": [{"Title": "Google Core Update Coming Soon", "Category": "Search Engine Optimization", "Description": "Google's John Mueller has confirmed that the next core update is not far away, although he did not provide a specific timeline. This announcement comes amidst ongoing volatility in Google's search rankings, suggesting potential testing for the update.", "Links": ["https://twitter.com/rustybrick/status/1817938381760065889", "https://twitter.com/rustybrick/status/1817998778583982298", "https://twitter.com/rustybrick/status/1817922971513590176"]}, {"Title": "Google Search Ranking Volatility Remains High", "Category": "Search Engine Optimization", "Description": "Google's search rankings have been experiencing high volatility over the past two weeks, leading to speculation about the upcoming core update.  Some experts believe this could indicate that Google is actively testing changes.", "Links": ["https://twitter.com/rustybrick/status/1817934605548126476", "https://twitter.com/rustybrick/status/1817995003840634938", "https://twitter.com/rustybrick/status/1817890565305856508"]}, {"Title": "Google Discover Promotes AI Overviews", "Category": "Search Engine Optimization", "Description": "Google Discover is actively promoting AI Overviews by featuring them prominently and providing buttons that direct users to the Search page for more information.", "Links": ["https://twitter.com/rustybrick/status/1817930831996027127", "https://twitter.com/rustybrick/status/1817991228597686628", "https://twitter.com/rustybrick/status/1817888049566806520"]}, {"Title": "Google Business Profiles Adds AI-Powered Menu Creation", "Category": "Search Engine Optimization", "Description": "Google Business Profiles now allows businesses to create menus directly from uploaded photos using AI. This feature simplifies menu management and enhances the user experience.", "Links": ["https://twitter.com/rustybrick/status/1817923282357874748", "https://twitter.com/rustybrick/status/1817983679114715232", "https://twitter.com/rustybrick/status/1817883016343240954"]}, {"Title": "Reddit Blocks Search Engines From Accessing Content", "Category": "Search Engine Optimization", "Description": "Reddit is blocking AI bots from accessing its content unless they reach a paid agreement. As a result, Google is currently the only search engine that displays recent Reddit posts in its results.", "Links": ["https://twitter.com/rustybrick/status/1818016979514704025", "https://www.tomsguide.com/computing/search-engines/google-is-now-the-only-search-engine-that-shows-recent-reddit-posts-in-results-heres-why"]}, {"Title": "Microsoft Bing Integrates AI into Search Results", "Category": "Search Engine Optimization", "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing, following in Google's footsteps. The new feature organizes search results using AI and prominently displays links to external websites.", "Links": ["https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx", "https://decrypt.co/241927/microsoft-bing-adds-ai-to-search-results-following-googles-lead", "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/"]}, {"Title": "Connatix and JW Player in Merger Talks", "Category": "Digital Advertising", "Description": "Video ad tech companies Connatix and JW Player are reportedly in merger talks, with private equity firm Court Square potentially funding the deal. This development reflects the ongoing consolidation trend in the ad tech sector.", "Links": ["https://digiday.com/marketing/video-ad-tech-firms-connatix-and-jw-player-are-holding-merger-talks/"]}, {"Title": "Google Delays Third-Party Cookie Deprecation", "Category": "Digital Advertising", "Description": "Google has again postponed the deprecation of third-party cookies, leaving marketers and privacy advocates in limbo. While marketers desire cookies for targeted advertising, privacy concerns persist.", "Links": ["https://digiday.com/media-buying/media-buying-briefing-media-agencies-forge-on-with-other-id-solutions-regardless-of-googles-curtail-of-third-party-cookie-deprecation/", "https://www.practicalecommerce.com/googles-cookie-reversal-raises-questions", "https://digiday.com/marketing/marketing-briefing-why-googles-cookie-deprecation-cessation-has-cmos-focused-on-consumers-who-will-protect-their-privacy/"]}]}
 
+Error occurred at 2024-08-01 08:03:20.887570:
+PROMPT: 
+Please review the following articles and posts and curate a full list of interesting news events, news stories, or important updates relevant to digital marketing (SEO, paid marketing, social media, the internet).
+
+Filter out:
+* Self-promotional content (press releases, product announcements, company-specific achievements)
+* Non-serious content
+* Content not relevant to digital marketing
+* Articles or Posts with missing or incomplete information
+
+Examples of Promotional Content to Exclude:
+* "Acme Corp launches new AI-powered ad targeting platform."
+* "WidgetCo achieves record Q3 revenue growth."
+
+Examples of News Content to Keep:
+* "Google updates its search ranking algorithm with a focus on Core Web Vitals."
+* "Facebook announces changes to its advertising policies regarding political content."
+
+IMPORTANT: Only use the FULL provided Source as the link for each item.  DO NOT use any other links
+
+Content for review:
+Media Briefing: Publishers say Amazon Prime Day sales were up but commerce revenue remains 'hard to predict'
+2024-08-01
+Despite forecasts that Amazon Prime Day would fall flat this year, several publishers told Digiday that commerce revenue earned from affiliate coverage of the two-day sales event actually exceeded expectations.
+Source: https://digiday.com/media/media-briefing-publishers-say-amazon-prime-day-sales-were-up-but-commerce-revenue-remains-hard-to-predict/
+--------------------
+'It's a perception worry': Marketers say AI safety guardrails need more nuance
+2024-08-01
+For the span of the generative AI hype cycle, brands and agencies have been eager to invest in AI tools to do everything from creating workflow efficiencies to drumming up press coverage. A less exciting part of the AI picture, though, is the prospect of AI-generated or altered content being labeled as such.
+Source: https://digiday.com/marketing/its-a-perception-worry-marketers-say-ai-safety-guardrails-need-more-nuance/
+--------------------
+Google assures ad execs of revised third-party cookie controls but timeline is uncertain
+2024-08-01
+Google execs have been in full-on damage control mode, trying to soothe everyone's nerves, both publicly and behind the scenes.
+Source: https://digiday.com/marketing/google-assures-ad-execs-of-revised-third-party-cookie-controls-but-timeline-is-uncertain/
+--------------------
+How Netflix's new president of games highlights the expansion of the platform's gaming plans
+2024-08-01
+As gaming becomes a pillar of mainstream entertainment, Netflix executives view games as a way to expand the fan bases of their most popular series.
+Source: https://digiday.com/marketing/how-netflixs-new-president-of-games-highlights-the-expansion-of-the-platforms-gaming-plans/
+--------------------
+What Are Google's Core Topicality Systems?
+2024-08-01
+Understanding Google's Core Topicality Systems and their implications for SEO strategies
+Source: https://www.searchenginejournal.com/what-are-googles-core-topicality-systems/523537/
+--------------------
+Digital Zoo's strategic adaptations amidst SEO and AI evolution
+2024-08-01
+Digital Zoo is immensely grateful to have received two prestigious awards: the CRO Agency of the Year Bronze Award and the Search Agency of the Year Bronze Award.
+Source: https://www.marketing-interactive.com/digital-zoo-s-strategic-adaptations-amidst-seo-and-ai-evolution
+--------------------
+Bada Bing, Bada Boom 
+2024-07-31
+Last week we talked about avoiding blowups. This week we’re seeking them out. The precarious placement of the Sun sextile Mars is changed when Jupiter joins the party. Jupiter, the […]
+Source: https://provincetownindependent.org/horoscope/2024/07/31/bada-bing-bada-boom/
+--------------------
+Wix launches AI tools to streamline blog content creation By Investing.com
+2024-07-31
+Wix launches AI tools to streamline blog content creation
+Source: https://www.investing.com/news/company-news/wix-launches-ai-tools-to-streamline-blog-content-creation-93CH-3546155
+--------------------
+Wix Releases Comprehensive Suite of AI-Powered Tools for Ideation and Creation of Blogs
+2024-07-31
+/PRNewswire/ -- Wix.com Ltd. (NASDAQ: WIX), the leading SaaS website builder platform globally1, announced today the release of a suite of AI-powered tools...
+Source: https://www.prnewswire.com/news-releases/wix-releases-comprehensive-suite-of-ai-powered-tools-for-ideation-and-creation-of-blogs-302209958.html
+--------------------
+I just tried Wix's new AI website builder. Here's what I think.
+2024-07-30
+Here’s what you need to know about the Wix AI website builder
+Source: https://www.techradar.com/pro/website-building/i-just-tried-wixs-new-ai-website-builder-heres-what-i-think
+
+Output should be valid JSON. All items should be unique and contain full information. DO NOT use 'none', 'nan', 'null', or '' as a valid JSON value. The JSON should be an array of objects with the following keys:
+- Title (string): Title of the article. Escape any quotes in title value.
+- Description (string): Description of the article. Escape any quotes in description value.
+- Link (string): Link to the content. Only use provided links; do not guess or infer URLs.
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error. Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-08-01 08:03:20.887974:
+RESPONSE: 
+[{"Title": "Publishers say Amazon Prime Day sales were up but commerce revenue remains \'hard to predict\'", "Description": "Despite forecasts that Amazon Prime Day would fall flat this year, several publishers told Digiday that commerce revenue earned from affiliate coverage of the two-day sales event actually exceeded expectations.", "Link": "https://digiday.com/media/media-briefing-publishers-say-amazon-prime-day-sales-were-up-but-commerce-revenue-remains-hard-to-predict/"}, {"Title": "\'It\'s a perception worry\': Marketers say AI safety guardrails need more nuance", "Description": "For the span of the generative AI hype cycle, brands and agencies have been eager to invest in AI tools to do everything from creating workflow efficiencies to drumming up press coverage. A less exciting part of the AI picture, though, is the prospect of AI-generated or altered content being labeled as such.", "Link": "https://digiday.com/marketing/its-a-perception-worry-marketers-say-ai-safety-guardrails-need-more-nuance/"}, {"Title": "Google assures ad execs of revised third-party cookie controls but timeline is uncertain", "Description": "Google execs have been in full-on damage control mode, trying to soothe everyone's nerves, both publicly and behind the scenes.", "Link": "https://digiday.com/marketing/google-assures-ad-execs-of-revised-third-party-cookie-controls-but-timeline-is-uncertain/"}, {"Title": "What Are Google's Core Topicality Systems?", "Description": "Understanding Google's Core Topicality Systems and their implications for SEO strategies", "Link": "https://www.searchenginejournal.com/what-are-googles-core-topicality-systems/523537/"}]
+

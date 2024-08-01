@@ -1,29 +1,39 @@
 {
     "data": [
         {
-            "Title": "Reddit Demands Payment From Microsoft and AI Companies for Data Scraping",
+            "Title": "Reddit Demands Payment From Microsoft, Other AI Companies for Data Scraping",
             "Category": "Technology",
-            "Description": "Reddit has taken action against Microsoft, Anthropic, and Perplexity, accusing them of using its data without permission for AI search engine development. The company is demanding payment for access to its content.",
+            "Description": "Reddit says Microsoft\u2019s Bing, Anthropic, and Perplexity have scraped its data without permission. \u201cIt has been a real pain in the ass to block these companies.\u201d",
             "Links": [
                 "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
-                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
-                "https://twitter.com/aleyda/status/1818395567090762142"
+                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying"
             ]
         },
         {
-            "Title": "Google Implements Measures to Combat Explicit Deepfakes in Search Results",
+            "Title": "Google Implements Measures to Combat Non-Consensual, Explicit Deepfakes",
             "Category": "Technology",
-            "Description": "Google has announced new policies and updates to its search algorithms aimed at reducing the visibility of explicit deepfakes. The company is also expanding its \"About this image\" feature to provide more context about images found online.",
+            "Description": "Google is making it easier to remove deepfakes and also expands About this image to Circle to Search and Google Lens.",
             "Links": [
                 "https://www.nbcnews.com/tech/tech-news/google-announces-news-steps-combat-sexually-explicit-deepfakes-rcna164560",
+                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
                 "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/"
+                "https://blog.google/products/search/google-search-explicit-deep-fake-content-update/",
+                "https://blog.google/products/search/google-about-this-image-update-july-2024/"
+            ]
+        },
+        {
+            "Title": "Perplexity to Share Ad Revenue with Publishers Amid Plagiarism Concerns",
+            "Category": "Business",
+            "Description": "Perplexity is launching a program to share ad revenue with publishing partners following weeks of plagiarism accusations \ud83d\udc40 \"when Perplexity features content from these publishers in response to user queries, the publishers will receive a share of the ad revenue.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818395567090762142",
+                "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
             ]
         },
         {
             "Title": "Microsoft Highlights AI's Role in Combating Election Misinformation and Deepfakes",
             "Category": "Technology",
-            "Description": "A new report from Microsoft emphasizes the importance of using AI to address the spread of misinformation and harmful deepfakes, particularly in the context of elections.",
+            "Description": "A new report from Microsoft highlights key challenges, opportunities and urgencies that come with protecting people from the dangers of AI-generated content.",
             "Links": [
                 "https://digiday.com/media/microsoft-report-highlights-ai-efforts-around-election-misinformation-and-harmful-deepfakes/"
             ]
@@ -31,36 +41,61 @@
         {
             "Title": "Wix Introduces AI-Powered Blog Post Writer with SEO Keyword Integration",
             "Category": "Technology",
-            "Description": "Wix has launched a new AI feature that allows users to generate entire blog posts, complete with SEO keywords, directly within its website builder platform.",
+            "Description": "Wix\u2019s AI will now write whole blog posts for you. You can even choose SEO keywords to litter throughout.",
             "Links": [
                 "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts"
             ]
         },
         {
-            "Title": "AI-Generated Content and Search: The Future of SEO?",
-            "Category": "SEO",
-            "Description": "The rise of AI-generated content and AI-powered search engines like SearchGPT is transforming the SEO landscape.  Experts are discussing the implications for content creators, website owners, and the future of search engine optimization.",
+            "Title": "OpenAI Rolls Out ChatGPT's Advanced Voice Mode to Plus Users",
+            "Category": "Technology",
+            "Description": "OpenAI begins rolling out ChatGPT's Advanced Voice Mode, initially called out for sounding like Scarlett Johansson after its demo in May, to ChatGPT Plus users \"The alpha version will be available to a small group of ChatGPT Plus users",
             "Links": [
-                "https://searchengineland.com/ga4-for-seo-444496",
-                "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/",
-                "https://martech.org/generative-engine-optimization-what-you-need-to-know/"
+                "https://twitter.com/glenngabe/status/1818372865978171635"
             ]
         },
         {
-            "Title": "Google Search Console Performance Report Filter Bug to Be Addressed",
-            "Category": "SEO",
-            "Description": "Google has acknowledged a bug in the Google Search Console Performance report that prevents users from seeing all filtering options when using the Search Appearance filter. The company is working on a fix for the issue.",
+            "Title": "Google Tests Placing Ads Within Organic Search Results",
+            "Category": "Technology",
+            "Description": "New data shows Google mixes ads into organic search results in only 0.31% of desktop searches and 0.01% of mobile searches.",
             "Links": [
-                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html"
+                "https://twitter.com/glenngabe/status/1818370069593776407",
+                "https://searchengineland.com/google-mix-ads-organic-results-data-444516"
             ]
         },
         {
-            "Title": "Study Finds Limited Visibility of Google's AI Overviews in Trending News Searches",
-            "Category": "AI",
-            "Description": "A recent study has revealed that Google's AI Overviews, which provide summarized information at the top of search results, are not commonly displayed for trending news searches. The study suggests that health-related queries are most likely to trigger these overviews.",
+            "Title": "Experts Say AR and VR Will Benefit from AI Advancements",
+            "Category": "Technology",
+            "Description": "While it may seem like augmented and virtual reality interest has faded into the background as artificial intelligence takes over, experts say AI can actually enhance those efforts in terms of personalization and measurement.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-appear-in-3-9-of-trending-news-searches-study-finds/523496/",
-                "https://twitter.com/aleyda/status/1818193009135194564"
+                "https://digiday.com/media-buying/why-ar-and-vr-are-not-going-away-as-ai-advances-personalization-measurement/"
+            ]
+        },
+        {
+            "Title": "Microsoft Testing Generative AI-Powered Search Experience for Bing",
+            "Category": "Technology",
+            "Description": "Microsoft has unveiled a generative AI-powered search experience for Bing, aiming to deliver more dynamic and detailed responses to user queries.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818016979514704025",
+                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/",
+                "https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx"
+            ]
+        },
+        {
+            "Title": "Google Discover Now Promoting AI Overviews",
+            "Category": "Technology",
+            "Description": "Yep, it's another way Google could drive users to AI overviews. And Discover could drive a ton of clicks back to the SERPs to view those overviews... For now it's only for Olympic topics, but I can see this expanding to others... Time will tell. :)",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1817991228597686628",
+                "https://twitter.com/glenngabe/status/1817893733431386546"
+            ]
+        },
+        {
+            "Title": "Apple Plans to Launch \"Apple Intelligence\" by October",
+            "Category": "Technology",
+            "Description": "Sources: Apple plans to debut Apple Intelligence by October, a few weeks after iOS 18 and iPadOS 18 releases; devs get to test AI features as soon as this week \"Even when Apple Intelligence launches with iOS 18.1 and iPadOS 18.1, it will be",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817891155305975917"
             ]
         }
     ],
