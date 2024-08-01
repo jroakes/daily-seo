@@ -1,28 +1,37 @@
 {
     "data": [
         {
-            "Title": "Google Cracks Down on Explicit Deepfakes",
-            "Category": "AI & Search",
-            "Description": "Google is taking steps to combat the spread of nonconsensual, sexually explicit deepfakes. The search giant announced new policies and algorithm updates aimed at making it harder to find such content.  Google is also expanding its \"About this image\" feature to provide more context about images found online.",
+            "Title": "Reddit Demands Payment for AI Search Data Access",
+            "Category": "Artificial Intelligence",
+            "Description": "Reddit is pushing back against AI companies scraping its data for training, demanding payment from Microsoft, Anthropic, and Perplexity.  Reddit CEO Steve Huffman argues these companies are using Reddit's data to power their AI models without proper compensation. ",
             "Links": [
-                "https://www.nbcnews.com/tech/tech-news/google-announces-news-steps-combat-sexually-explicit-deepfakes-rcna164560",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
-                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results"
+                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
+                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
+                "https://twitter.com/aleyda/status/1818395567090762142"
             ]
         },
         {
-            "Title": "Reddit Demands Payment for AI Search Data",
-            "Category": "AI & Search",
-            "Description": "Reddit is pushing back against AI companies scraping its data for training without permission. The company's CEO criticized Microsoft, Anthropic, and Perplexity, stating that Reddit has gone to great lengths to block them.  He emphasized that these companies need to pay to access Reddit's valuable data for search.",
+            "Title": "Google Combats Explicit Deepfakes with Search Updates and New Policies",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is taking steps to address the spread of non-consensual, sexually explicit deepfakes.  The company announced updates to its search algorithms to demote such content and make it harder to find.  Google is also expanding its \"About this image\" feature and introducing new policies for content removal. ",
             "Links": [
-                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
-                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying"
+                "https://www.nbcnews.com/tech/tech-news/google-announces-news-steps-combat-sexually-explicit-deepfakes-rcna164560",
+                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
+                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/"
+            ]
+        },
+        {
+            "Title": "Microsoft Highlights AI's Role in Election Misinformation and Deepfakes",
+            "Category": "Artificial Intelligence",
+            "Description": "A new report from Microsoft examines the challenges and opportunities presented by AI in the context of elections.  The report emphasizes the potential for AI-generated content to spread misinformation and create harmful deepfakes, urging for safeguards and responsible AI development. ",
+            "Links": [
+                "https://digiday.com/media/microsoft-report-highlights-ai-efforts-around-election-misinformation-and-harmful-deepfakes/"
             ]
         },
         {
             "Title": "Wix Introduces AI-Powered Blog Post Writer",
-            "Category": "AI & Content Creation",
-            "Description": "Wix's new AI feature will write entire blog posts, incorporating user-specified SEO keywords. This tool aims to simplify content creation and enhance organic traffic for Wix users.",
+            "Category": "Artificial Intelligence",
+            "Description": "Website builder Wix has launched an AI tool that can generate entire blog posts, including SEO keywords.  This feature aims to simplify content creation for Wix users and improve their search engine rankings. ",
             "Links": [
                 "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts",
                 "https://www.martechcube.com/wix-launches-ai-tools-to-enhance-blog-ideation-and-creation/",
@@ -30,20 +39,60 @@
             ]
         },
         {
-            "Title": "Microsoft Highlights AI's Role in Combating Election Misinformation",
-            "Category": "AI & Society",
-            "Description": "A new report from Microsoft emphasizes the challenges and opportunities presented by AI in addressing election misinformation and harmful deepfakes. The report underscores the urgency of protecting people from the potential dangers of AI-generated content.",
+            "Title": "OpenAI's SearchGPT: Revolutionizing Search or Training Data Dilemma?",
+            "Category": "Search Engines",
+            "Description": "OpenAI's announcement of SearchGPT has sparked debate about its implications for the future of search.  While some see it as a potential game-changer, others question its reliance on training data and OpenAI's ability to compete with Google. ",
             "Links": [
-                "https://digiday.com/media/microsoft-report-highlights-ai-efforts-around-election-misinformation-and-harmful-deepfakes/"
+                "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/",
+                "https://towardsdatascience.com/genai-is-revolutionizing-search-451fdc2f1e57",
+                "https://twitter.com/glenngabe/status/1817972756249477405"
             ]
         },
         {
-            "Title": "Perplexity to Share Ad Revenue with Publishers",
-            "Category": "AI & Publishing",
-            "Description": "Following accusations of plagiarism, Perplexity is launching a program to share ad revenue with publishing partners. When Perplexity features content from these publishers in response to user queries, the publishers will receive a portion of the ad revenue generated.",
+            "Title": "Google Search Console Performance Report Filter Bug to Be Fixed",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has acknowledged a bug in the Google Search Console Performance report that prevents users from seeing all filter options when selecting \"Search Appearance.\"  The company is working on a fix for the issue. ",
             "Links": [
-                "https://twitter.com/aleyda/status/1818395567090762142",
-                "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
+                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html",
+                "https://twitter.com/rustybrick/status/1818342292677374041"
+            ]
+        },
+        {
+            "Title": "Google's Evolving Approach to Language Detection and ccTLDs",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is hinting at a potential shift towards automatic language detection, which could reduce the reliance on hreflang tags for multilingual websites.  Additionally, Google suggests that country code top-level domains (ccTLDs) might become less important for SEO in the future. ",
+            "Links": [
+                "https://www.searchenginejournal.com/google-may-rely-less-on-hreflang-shift-to-auto-language-detection/523224/",
+                "https://www.searchenginejournal.com/google-hints-lowering-seo-value-of-country-code-top-level-domains/523183/",
+                "https://www.searchenginejournal.com/google-insights-can-incorrect-hreflang-tags-hurt-seo/523208/"
+            ]
+        },
+        {
+            "Title": "Microsoft Integrates Generative AI into Bing Search",
+            "Category": "Search Engines",
+            "Description": "Microsoft is rolling out a generative AI-powered search experience for Bing.  The update aims to provide more dynamic and comprehensive answers to user queries, leveraging AI to enhance search results and summaries. ",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1817905584412234150",
+                "https://redmondmag.com/Articles/2024/07/29/Microsoft-Updates-AI-Capabilities-in-Bing.aspx",
+                "https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/"
+            ]
+        },
+        {
+            "Title": "Google's Handling of JavaScript in Search Indexing",
+            "Category": "Search Engine Optimization",
+            "Description": "A new study by Vercel and MERJ sheds light on how Google Search indexes JavaScript.  The research reveals Google's efficiency in processing JavaScript-rich websites, providing insights for developers and SEOs. ",
+            "Links": [
+                "https://www.seroundtable.com/google-search-indexes-javascript-37827.html",
+                "https://twitter.com/rustybrick/status/1818967663223394312"
+            ]
+        },
+        {
+            "Title": "Google Search Volatility Surges, Hinting at Potential Algorithm Update",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search experienced significant ranking volatility at the end of July, leading to speculation about a possible algorithm update.  The volatility has continued into August, suggesting Google might be testing changes to its ranking systems. ",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
+                "https://twitter.com/rustybrick/status/1818980245925466306"
             ]
         }
     ],
