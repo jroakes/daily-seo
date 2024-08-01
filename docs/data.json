@@ -1,64 +1,66 @@
 {
     "data": [
         {
-            "Title": "Google Cracks Down on Explicit Deepfakes",
-            "Category": "AI & Search",
-            "Description": "Google is taking steps to combat the spread of nonconsensual, sexually explicit deepfakes. The company announced updates to its search algorithms and policies to demote such content in search results. Google is also expanding its \"About this image\" feature to provide more context about images, including those that may be deepfakes.",
+            "Title": "Reddit Demands Payment From Microsoft and AI Companies for Data Scraping",
+            "Category": "Technology",
+            "Description": "Reddit has taken action against Microsoft, Anthropic, and Perplexity, accusing them of using its data without permission for AI search engine development. The company is demanding payment for access to its content.",
+            "Links": [
+                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
+                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
+                "https://twitter.com/aleyda/status/1818395567090762142"
+            ]
+        },
+        {
+            "Title": "Google Implements Measures to Combat Explicit Deepfakes in Search Results",
+            "Category": "Technology",
+            "Description": "Google has announced new policies and updates to its search algorithms aimed at reducing the visibility of explicit deepfakes. The company is also expanding its \"About this image\" feature to provide more context about images found online.",
             "Links": [
                 "https://www.nbcnews.com/tech/tech-news/google-announces-news-steps-combat-sexually-explicit-deepfakes-rcna164560",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
-                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results"
-            ]
-        },
-        {
-            "Title": "Reddit Demands Payment for AI Search Data",
-            "Category": "AI & Search",
-            "Description": "Reddit CEO Steve Huffman is demanding that Microsoft pay for using the platform's data to train its AI search engine, Bing. Huffman argues that Microsoft, along with other companies like Anthropic and Perplexity, have been scraping Reddit's data without permission, causing the company significant expense in blocking them.",
-            "Links": [
-                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search"
-            ]
-        },
-        {
-            "Title": "Perplexity to Share Ad Revenue with Publishers",
-            "Category": "AI & Search",
-            "Description": "Following accusations of plagiarism, AI search engine Perplexity is launching a program to share ad revenue with publishing partners. When Perplexity features content from these publishers in response to user queries, the publishers will receive a portion of the ad revenue generated.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1818395567090762142",
-                "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
-            ]
-        },
-        {
-            "Title": "Wix Launches AI-Powered Blog Post Writer",
-            "Category": "AI & Content Creation",
-            "Description": "Website builder Wix has introduced an AI tool that can write entire blog posts, including SEO keywords. This feature aims to simplify content creation for Wix users and potentially improve their search engine rankings.",
-            "Links": [
-                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts"
+                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
+                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/"
             ]
         },
         {
             "Title": "Microsoft Highlights AI's Role in Combating Election Misinformation and Deepfakes",
-            "Category": "AI & Society",
-            "Description": "A new report from Microsoft emphasizes the challenges and opportunities presented by AI in addressing election misinformation and harmful deepfakes. The report highlights the need to protect people from the potential dangers of AI-generated content, particularly in the context of elections.",
+            "Category": "Technology",
+            "Description": "A new report from Microsoft emphasizes the importance of using AI to address the spread of misinformation and harmful deepfakes, particularly in the context of elections.",
             "Links": [
                 "https://digiday.com/media/microsoft-report-highlights-ai-efforts-around-election-misinformation-and-harmful-deepfakes/"
             ]
         },
         {
-            "Title": "Google Search Console Performance Report Filter Bug to Be Fixed",
-            "Category": "SEO & Analytics",
-            "Description": "Google has acknowledged a bug in the Google Search Console Performance report that prevents users from seeing all filtering options when using the \"Search Appearance\" filter. The company has stated that the bug will be fixed soon.",
+            "Title": "Wix Introduces AI-Powered Blog Post Writer with SEO Keyword Integration",
+            "Category": "Technology",
+            "Description": "Wix has launched a new AI feature that allows users to generate entire blog posts, complete with SEO keywords, directly within its website builder platform.",
             "Links": [
-                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html",
-                "https://twitter.com/rustybrick/status/1818342292677374041"
+                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts"
             ]
         },
         {
-            "Title": "Google's Mobile-First Indexing and m-dot URLs",
-            "Category": "SEO & Analytics",
-            "Description": "Despite Google's full transition to mobile-first indexing, John Mueller advises against switching m-dot URLs to be the canonical URL. He explains that this is due to established practices and potential issues for large websites if Google were to change its approach.",
+            "Title": "AI-Generated Content and Search: The Future of SEO?",
+            "Category": "SEO",
+            "Description": "The rise of AI-generated content and AI-powered search engines like SearchGPT is transforming the SEO landscape.  Experts are discussing the implications for content creators, website owners, and the future of search engine optimization.",
             "Links": [
-                "https://www.seroundtable.com/google-m-dot-urls-the-canonical-37809.html",
-                "https://twitter.com/rustybrick/status/1818357392029192677"
+                "https://searchengineland.com/ga4-for-seo-444496",
+                "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/",
+                "https://martech.org/generative-engine-optimization-what-you-need-to-know/"
+            ]
+        },
+        {
+            "Title": "Google Search Console Performance Report Filter Bug to Be Addressed",
+            "Category": "SEO",
+            "Description": "Google has acknowledged a bug in the Google Search Console Performance report that prevents users from seeing all filtering options when using the Search Appearance filter. The company is working on a fix for the issue.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html"
+            ]
+        },
+        {
+            "Title": "Study Finds Limited Visibility of Google's AI Overviews in Trending News Searches",
+            "Category": "AI",
+            "Description": "A recent study has revealed that Google's AI Overviews, which provide summarized information at the top of search results, are not commonly displayed for trending news searches. The study suggests that health-related queries are most likely to trigger these overviews.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-ai-overviews-appear-in-3-9-of-trending-news-searches-study-finds/523496/",
+                "https://twitter.com/aleyda/status/1818193009135194564"
             ]
         }
     ],
