@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Ads Reporting Outage",
-            "Category": "Technology",
-            "Description": "Google is currently experiencing an outage affecting Google Ads reporting and some interfaces. The issue is ongoing, and Google is working on a resolution.",
+            "Category": "Search Engines",
+            "Description": "Google is experiencing an outage affecting Google Ads reporting and some interfaces. The issue is ongoing, and Google is working on a resolution.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819150982951112891",
                 "https://twitter.com/rustybrick/status/1819102729572335808"
@@ -11,8 +11,8 @@
         },
         {
             "Title": "Reddit Demands Payment for AI Training Data",
-            "Category": "Technology",
-            "Description": "Reddit is demanding payment from companies like Microsoft that want to use its data for AI model training. The platform argues that its content holds value and should not be freely used for commercial purposes.",
+            "Category": "Artificial Intelligence",
+            "Description": "Reddit CEO Steve Huffman announced that the platform will block search engines like Microsoft Bing from accessing its data unless they pay for it. This move aims to prevent companies from using Reddit's content to train AI models without compensation.",
             "Links": [
                 "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
                 "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai",
@@ -21,115 +21,150 @@
         },
         {
             "Title": "Google Search Ranking Volatility",
-            "Category": "Technology",
-            "Description": "Google Search experienced significant ranking volatility, particularly in July, with notable fluctuations observed on July 19th and 26th. This volatility may indicate testing of new algorithms or an upcoming core update.",
+            "Category": "Search Engines",
+            "Description": "Google Search experienced significant ranking volatility in July, particularly on July 19th and 26th.  The fluctuations affected various sectors, including e-commerce, recipes, user-generated content, and job listings.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819085942314999859",
-                "https://twitter.com/rustybrick/status/1819025544668688460",
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
+                "https://twitter.com/glenngabe/status/1818635116970725817"
             ]
         },
         {
             "Title": "Google Updates Algorithms to Demote Deepfakes",
-            "Category": "Technology",
-            "Description": "Google has updated its algorithms to demote deepfake content in search results. The company aims to combat the spread of misleading and harmful AI-generated content, particularly explicit deepfakes.",
+            "Category": "Search Engines",
+            "Description": "Google announced updates to its search algorithms aimed at demoting deepfake content, particularly explicit non-consensual imagery. The changes involve ranking adjustments and improved content removal processes.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819082167072309689",
-                "https://twitter.com/rustybrick/status/1819021769631760614",
-                "https://www.seroundtable.com/google-confirm\u2026"
+                "https://twitter.com/rustybrick/status/1818977728881717334",
+                "https://www.searchenginejournal.com/google-search-algorithm-update-targeting-explicit-deepfakes/523478/"
             ]
         },
         {
             "Title": "Google Tests Sitelinks Pill Format on Desktop",
-            "Category": "Technology",
-            "Description": "Google is experimenting with a new pill format for sitelinks in desktop search results. This change could impact how users interact with sitelinks and potentially affect click-through rates.",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with a new pill format for sitelinks in desktop search results.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819078392429359317",
-                "https://twitter.com/rustybrick/status/1819017995332833417",
                 "https://twitter.com/rustybrick/status/1818975212500554230"
             ]
         },
         {
             "Title": "Google Merchant Center Next Introduces \"More Found by Google\" Reporting",
             "Category": "Ecommerce",
-            "Description": "Google Merchant Center Next now includes a \"More Found by Google\" reporting feature for product feeds. This feature provides insights into how effectively Google surfaces products from merchants' feeds in search results.",
+            "Description": "Google Merchant Center Next now includes a \"More found by Google\" report for product feeds, providing insights into product visibility.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819074617987985435",
-                "https://twitter.com/rustybrick/status/1819014219909718052",
-                "https://twitter.com/rustybrick/status/1818972696451109140"
+                "https://twitter.com/rustybrick/status/1818972696451109140",
+                "https://twitter.com/glenngabe/status/1818982553455387015"
             ]
         },
         {
-            "Title": "Google Knowledge Panels Experiment with \"Videos From\" Section",
-            "Category": "Technology",
-            "Description": "Google is testing a new \"Videos From\" section within Knowledge Panels. This addition aims to provide users with more video content directly within the Knowledge Panel, enhancing the search experience.",
+            "Title": "Google Knowledge Panels Testing \"Videos From\" Section",
+            "Category": "Search Engines",
+            "Description": "Google is testing a new \"videos from\" section within Knowledge Panels, potentially enhancing video content visibility.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819070843353551114",
-                "https://twitter.com/rustybrick/status/1819010444738093140",
                 "https://twitter.com/rustybrick/status/1818970179138634036"
             ]
         },
         {
             "Title": "How Google Search Indexes JavaScript: A Report",
-            "Category": "Technology",
-            "Description": "A new report delves into how Google Search indexes websites built with JavaScript. The research, based on analysis of over 100,000 Googlebot fetches, suggests that Google handles JavaScript effectively, indexing it almost as well as traditional web pages.",
+            "Category": "Search Engine Optimization",
+            "Description": "Vercel and MERJ released a comprehensive report analyzing Google's JavaScript indexing capabilities. The study, based on over 100,000 Googlebot fetches, suggests that Google handles JavaScript effectively, comparable to traditional web pages.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819067067808596080",
-                "https://twitter.com/rustybrick/status/1819006669818417305",
-                "https://www.seroundtable.com/google-search-\u2026"
+                "https://www.seroundtable.com/google-search-indexes-javascript-37827.html",
+                "https://twitter.com/rustybrick/status/1818967663223394312"
+            ]
+        },
+        {
+            "Title": "PreWriter: New AI Content Tool Launched",
+            "Category": "Artificial Intelligence",
+            "Description": "BruceClayInc launched PreWriter, an AI-powered content tool designed to assist writers in researching, creating, and optimizing content for SEO.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1819083620596043846"
             ]
         },
         {
             "Title": "Microsoft Bing Adds New Commute Map Features",
-            "Category": "Technology",
-            "Description": "Microsoft has enhanced the Commute map feature on its Bing Android app. Users can now add multiple destinations beyond home and work, improving the app's utility for commuters.",
+            "Category": "Maps & Navigation",
+            "Description": "Microsoft's Bing Android app now allows users to add multiple destinations beyond home and work using the Commute map feature.",
             "Links": [
                 "https://www.neowin.net/news/microsoft-adds-new-functions-for-the-commute-map-feature-on-the-bing-android-app/"
             ]
         },
         {
+            "Title": "OpenAI Invests in AI App for Kids",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI invests in an AI-powered educational app for children. The app is developing technology to replicate family members' voices for a more personalized learning experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819051328506634674"
+            ]
+        },
+        {
+            "Title": "New Chrome AI Features Enhance Browsing Experience",
+            "Category": "Browsers & Extensions",
+            "Description": "Google Chrome introduces three new AI-powered features: Circle to Search, product comparison across tabs, and AI-enhanced history functionality. Circle to Search enables users to select an area on a webpage and receive an AI-generated overview.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819049345028661404"
+            ]
+        },
+        {
+            "Title": "The AI Act: World's First Major AI Law Takes Effect",
+            "Category": "Artificial Intelligence",
+            "Description": "The world's first comprehensive AI law comes into effect, imposing strict requirements on generative AI systems, including adherence to EU copyright law and transparency disclosures.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819040650651722144"
+            ]
+        },
+        {
             "Title": "Outbrain Acquires Teads in $1 Billion Deal",
-            "Category": "Business",
-            "Description": "Outbrain has confirmed the acquisition of Teads, a digital advertising company, for over $1 billion. The deal signifies consolidation in the ad tech industry.",
+            "Category": "Advertising & Marketing",
+            "Description": "Outbrain confirms the acquisition of Teads, a native advertising platform, in a deal valued at over $1 billion.",
             "Links": [
                 "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/"
             ]
         },
         {
-            "Title": "Google Updates Autocomplete System After Trump Criticism",
-            "Category": "Technology",
-            "Description": "Google has made changes to its autocomplete and predictions systems following criticism related to former President Donald Trump. The company aims to address concerns about potential bias in its search suggestions.",
+            "Title": "Microsoft Recognizes OpenAI as Competitor in AI and Search",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft officially lists OpenAI, its long-term strategic partner, as a competitor in the AI and search domains. This comes after OpenAI unveiled a prototype of its search engine, SearchGPT.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1818659381430325363",
-                "https://twitter.com/rustybrick/status/1818615341167046773"
+                "https://twitter.com/glenngabe/status/1818978557550383374"
             ]
         },
         {
-            "Title": "Google Ads Introduces Click-to-WhatsApp Messaging Assets",
-            "Category": "Marketing",
-            "Description": "Google Ads now supports click-to-WhatsApp messaging assets, allowing advertisers to directly engage with users on WhatsApp. This integration aims to enhance customer communication and drive conversions.",
+            "Title": "Google Search Notes Experiment Disappears",
+            "Category": "Search Engines",
+            "Description": "Google's experiment with Search Notes, a feature allowing users to save and share notes within search results, has ended.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1818651831666450857",
-                "https://twitter.com/rustybrick/status/1818612824463024616"
+                "https://twitter.com/rustybrick/status/1818977032207774110",
+                "https://twitter.com/glenngabe/status/1818985858252288083"
             ]
         },
         {
-            "Title": "Microsoft Advertising Search Ad Revenue Soars 19%",
-            "Category": "Business",
-            "Description": "Microsoft reported a 19% increase in search and advertising revenue, driven by growth in Microsoft Advertising. This surge marks a significant quarterly performance for the company's advertising business.",
+            "Title": "Perplexity to Share Ad Revenue with Publishers",
+            "Category": "Artificial Intelligence",
+            "Description": "Following accusations of plagiarism, Perplexity announces a revenue-sharing program for publishers. The program aims to compensate publishers whose content is featured in response to user queries.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1818704680073281594",
-                "https://twitter.com/rustybrick/status/1818644282389274939",
-                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
+                "https://twitter.com/aleyda/status/1818395567090762142",
+                "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
             ]
         },
         {
-            "Title": "Google \"Hidden Gem Stores\" Search Feature",
-            "Category": "Technology",
-            "Description": "Google has introduced a new search feature that highlights \"hidden gem stores.\" This feature aims to help users discover lesser-known local businesses, potentially benefiting smaller retailers.",
+            "Title": "Apple Maps Listings Appear in Google SERPs",
+            "Category": "Search Engines",
+            "Description": "Apple Maps listings are now appearing in Google Search Engine Result Pages (SERPs), potentially impacting local SEO strategies.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1818708455617970536",
-                "https://twitter.com/rustybrick/status/1818648056868257901"
+                "https://twitter.com/aleyda/status/1818254365322252595"
+            ]
+        },
+        {
+            "Title": "Google Advises Against Using M-Dot URLs as Canonical",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller reiterates that websites should not set their mobile (m-dot) URLs as canonical, even with the full implementation of mobile-first indexing. This recommendation aims to avoid potential issues for large websites.",
+            "Links": [
+                "https://www.seroundtable.com/google-m-dot-urls-the-canonical-37809.html"
             ]
         }
     ],
