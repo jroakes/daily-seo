@@ -1,61 +1,290 @@
 {
     "data": [
         {
-            "Title": "Reddit Blocks Search Engines From Accessing Content Without Payment",
+            "Title": "Google Ads Reporting Outage",
             "Category": "Technology",
-            "Description": "Reddit Inc. has been blocking search engines, including Microsoft Corp.\u2019s Bing, from accessing the site\u2019s posts and comments unless they sign commercial agreements, following a Reddit policy change that took effect last month.",
+            "Description": "Google is experiencing an outage affecting Google Ads reporting and some interfaces. The company is actively working on resolving the issue.",
             "Links": [
-                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
-                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
-                "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai"
+                "https://twitter.com/rustybrick/status/1819150982951112891",
+                "https://twitter.com/rustybrick/status/1819102729572335808"
             ]
         },
         {
-            "Title": "Google Takes Aim at Explicit Deepfakes with Search Algorithm Update",
+            "Title": "Reddit Demands Payment for AI Training Data",
             "Category": "Technology",
-            "Description": "Google is making it easier to remove deepfakes and also expands About this image to Circle to Search and Google Lens.",
+            "Description": "Reddit is blocking search engines like Microsoft Bing from accessing its content unless they pay for the privilege of using the data to train AI models. Reddit CEO Steve Huffman stated that the platform's data is valuable and should not be used for free by large tech companies.",
             "Links": [
-                "https://searchengineland.com/google-updates-deepfakes-search-algorithms-and-controls-and-expands-about-this-image-444531",
-                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/"
+                "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
+                "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai",
+                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying"
             ]
         },
         {
-            "Title": "Wix Introduces AI-Powered Blog Post Writer",
+            "Title": "Google Search Ranking Volatility",
             "Category": "Technology",
-            "Description": "Wix\u2019s AI will now write whole blog posts for you. You can even choose SEO keywords to litter throughout.",
+            "Description": "Google Search experienced significant ranking volatility, particularly in July, with notable fluctuations observed on July 19th and 26th. This volatility may indicate testing of new algorithms or an upcoming core update.",
             "Links": [
-                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts",
-                "https://www.martechcube.com/wix-launches-ai-tools-to-enhance-blog-ideation-and-creation/",
-                "https://www.searchenginejournal.com/new-wix-ai-tool-scales-content-with-authenticity/523497/"
+                "https://twitter.com/rustybrick/status/1819085942314999859",
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
+                "https://twitter.com/glenngabe/status/1818635116970725817"
             ]
         },
         {
-            "Title": "Perplexity to Share Ad Revenue with Publishers Amid Plagiarism Concerns",
+            "Title": "Google Updates Algorithms to Demote Deepfakes",
             "Category": "Technology",
-            "Description": "Perplexity is launching a program to share ad revenue with publishing partners following weeks of plagiarism accusations \ud83d\udc40 \u201cwhen Perplexity features content from these publishers in response to user queries, the publishers will receive a share of the ad revenue. Publishing\u2026",
+            "Description": "Google is implementing algorithm updates to combat the spread of deepfakes, particularly explicit non-consensual content. These updates aim to demote such content in search results and make it easier for individuals to request removal.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819082167072309689",
+                "https://twitter.com/rustybrick/status/1818977728881717334",
+                "https://www.searchenginejournal.com/google-search-algorithm-update-targeting-explicit-deepfakes/523478/"
+            ]
+        },
+        {
+            "Title": "Google Tests Sitelinks Pill Format on Desktop",
+            "Category": "Technology",
+            "Description": "Google is experimenting with a new pill format for sitelinks in desktop search results. This change could impact how users interact with sitelinks and potentially affect click-through rates.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819078392429359317",
+                "https://twitter.com/rustybrick/status/1818975212500554230"
+            ]
+        },
+        {
+            "Title": "Google Merchant Center Next Introduces \"More Found by Google\" Reporting",
+            "Category": "Ecommerce",
+            "Description": "Google Merchant Center Next now includes a \"More Found by Google\" reporting section for product feeds. This feature provides insights into how effectively products are being surfaced across Google's various platforms.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819074617987985435",
+                "https://twitter.com/rustybrick/status/1818972696451109140",
+                "https://twitter.com/glenngabe/status/1818982553455387015"
+            ]
+        },
+        {
+            "Title": "Google Knowledge Panels Testing \"Videos From\" Section",
+            "Category": "Technology",
+            "Description": "Google is testing a new \"Videos From\" section within Knowledge Panels. This addition aims to provide users with more relevant video content directly within the Knowledge Panel interface.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819070843353551114",
+                "https://twitter.com/rustybrick/status/1818970179138634036"
+            ]
+        },
+        {
+            "Title": "How Google Search Indexes JavaScript: A Report",
+            "Category": "Technology",
+            "Description": "A comprehensive report by Vercel and MERJ delves into how Google Search indexes websites built with JavaScript. The study analyzes over 100,000 Googlebot fetches, concluding that Google handles JavaScript well, indexing it almost on par with traditional web pages.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819067067808596080",
+                "https://www.seroundtable.com/google-search-indexes-javascript-37827.html",
+                "https://twitter.com/rustybrick/status/1818967663223394312"
+            ]
+        },
+        {
+            "Title": "PreWriter: New AI Content Tool Launched",
+            "Category": "Technology",
+            "Description": "BruceClayInc has released PreWriter, an AI-powered content tool designed to assist writers in researching, creating, and optimizing content for SEO. The tool offers features to streamline content workflows and improve search engine visibility.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1819083620596043846"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Adds New Commute Map Features on Android",
+            "Category": "Technology",
+            "Description": "Microsoft enhances the Commute map feature on its Bing Android app, allowing users to add multiple destinations beyond home and work. This update provides greater flexibility and convenience for commuters using Bing Maps.",
+            "Links": [
+                "https://www.neowin.net/news/microsoft-adds-new-functions-for-the-commute-map-feature-on-the-bing-android-app/"
+            ]
+        },
+        {
+            "Title": "OpenAI Invests in AI App for Kids",
+            "Category": "Technology",
+            "Description": "OpenAI invests in an AI-powered educational app for children. The app aims to enhance learning experiences through personalized content and interactive features, including technology that can replicate family members' voices for a more engaging experience.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819051328506634674"
+            ]
+        },
+        {
+            "Title": "New Chrome AI Features Announced",
+            "Category": "Technology",
+            "Description": "Google introduces three new AI-powered features for its Chrome browser: Circle to Search, product comparison across tabs, and AI-enhanced history functionality. Circle to Search enables users to select text and images within a webpage to trigger an AI-powered search and overview.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819049345028661404"
+            ]
+        },
+        {
+            "Title": "The AI Act Comes into Effect",
+            "Category": "Technology",
+            "Description": "The world's first major AI law, the AI Act, has come into effect, imposing strict requirements on AI systems operating within the EU. The law addresses issues such as copyright compliance, transparency, and the use of generative AI.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819040650651722144"
+            ]
+        },
+        {
+            "Title": "Outbrain Acquires Teads in $1 Billion Deal",
+            "Category": "Business",
+            "Description": "Outbrain confirms the acquisition of Teads, a global media platform, in a deal valued at over $1 billion. This strategic move expands Outbrain's reach in the digital advertising market.",
+            "Links": [
+                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/"
+            ]
+        },
+        {
+            "Title": "Microsoft Considers OpenAI a Competitor",
+            "Category": "Technology",
+            "Description": "Microsoft now lists OpenAI, its long-term strategic partner, as a competitor in its annual report. This change comes after OpenAI unveiled a prototype of its own search engine, SearchGPT, posing potential competition to Microsoft's Bing.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818978557550383374"
+            ]
+        },
+        {
+            "Title": "Google Search Notes Experiment Ends",
+            "Category": "Technology",
+            "Description": "Google has concluded its experiment with Search Notes, a feature that allowed users to save and annotate search results. The feature is no longer visible in Search or Discover.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818985858252288083",
+                "https://twitter.com/rustybrick/status/1818977032207774110"
+            ]
+        },
+        {
+            "Title": "US Podcast Advertising Revenue Grows in Q2 2024",
+            "Category": "Media",
+            "Description": "Magellan AI reports that US podcast advertising revenue increased by 22% year-on-year in the second quarter of 2024. The top 500 podcasts generated an average of $252,000 per month in ad revenue, with episode ad loads also rising.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818988528539185180"
+            ]
+        },
+        {
+            "Title": "Google Updates Autocomplete System After Trump Criticism",
+            "Category": "Technology",
+            "Description": "Google has made updates to its autocomplete and prediction systems following criticism related to search suggestions involving Donald Trump. The company aims to improve the neutrality and accuracy of its search suggestions.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818659381430325363",
+                "https://twitter.com/rustybrick/status/1818615341167046773"
+            ]
+        },
+        {
+            "Title": "Google Ads Introduces Click-to-WhatsApp Messaging Assets",
+            "Category": "Marketing",
+            "Description": "Google Ads now supports click-to-WhatsApp messaging assets, allowing advertisers to directly engage with users on WhatsApp. This integration aims to enhance customer communication and drive conversions through a popular messaging platform.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818651831666450857",
+                "https://twitter.com/rustybrick/status/1818612824463024616"
+            ]
+        },
+        {
+            "Title": "Google Ads Performance Max Reporting Updates and AI Tools",
+            "Category": "Marketing",
+            "Description": "Google Ads is rolling out updates to Performance Max reporting, providing advertisers with more detailed insights into campaign performance. Additionally, new AI-powered generation tools are being introduced to streamline campaign management and optimization.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818651832107045249"
+            ]
+        },
+        {
+            "Title": "Microsoft Advertising Search Ad Revenue Up 19%",
+            "Category": "Business",
+            "Description": "Microsoft reports a 19% increase in search and advertising revenue for its fourth quarter of 2024. This growth is attributed to the performance of Microsoft Advertising, indicating positive momentum for the platform.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1818704680073281594",
+                "https://twitter.com/rustybrick/status/1818644282389274939",
+                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Rarely Appear in Trending News Searches",
+            "Category": "Technology",
+            "Description": "A study reveals that Google's AI Overviews, which provide summarized information at the top of search results, are displayed in only 3.9% of trending news searches. Health-related queries are most likely to trigger AI Overviews.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818193009135194564",
+                "https://www.searchenginejournal.com/googles-ai-overviews-appear-in-3-9-of-trending-news-searches-study-finds/523496/"
+            ]
+        },
+        {
+            "Title": "Google Expands \"About This Image\" Feature",
+            "Category": "Technology",
+            "Description": "Google enhances its \"About This Image\" feature, making it accessible through Circle to Search and Google Lens. This expansion provides users with more ways to obtain context and verify the authenticity of images found online.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818677322402119690",
+                "https://blog.google/products/search/google-about-this-image-update-july-2024/"
+            ]
+        },
+        {
+            "Title": "Spotify Increases Lyrics Access for Free Users",
+            "Category": "Media",
+            "Description": "Spotify expands lyrics access for free users, increasing the monthly limit on lyrics views. This change addresses user feedback and aims to improve the free listening experience on the platform.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818621714965889054"
+            ]
+        },
+        {
+            "Title": "Pinterest Q2 2024 Earnings Report",
+            "Category": "Business",
+            "Description": "Pinterest reports its second-quarter 2024 earnings, with revenue exceeding estimates. The company highlights a 21% year-on-year increase in revenue and a 12% growth in monthly active users.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818617070658928774"
+            ]
+        },
+        {
+            "Title": "Microsoft Q4 2024 Earnings Report",
+            "Category": "Business",
+            "Description": "Microsoft announces its fourth-quarter 2024 earnings, reporting a 15% year-on-year increase in revenue. Notably, search and news advertising revenue, excluding traffic acquisition costs, grew by 19%.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818616290560409824"
+            ]
+        },
+        {
+            "Title": "Perplexity to Share Ad Revenue with Publishers",
+            "Category": "Media",
+            "Description": "Perplexity, an AI-powered search engine, launches a revenue-sharing program for publishers. The program aims to address concerns about plagiarism and compensate publishers for the use of their content in search results.",
             "Links": [
                 "https://twitter.com/aleyda/status/1818395567090762142",
                 "https://digiday.com/media/perplexitys-new-rev-share-publisher-program-is-live-but-not-all-pubs-are-sold/"
             ]
         },
         {
-            "Title": "Microsoft Highlights AI's Role in Combating Election Misinformation",
+            "Title": "Google Mixes Ads into Organic Search Results",
             "Category": "Technology",
-            "Description": "A new report from Microsoft highlights key challenges, opportunities and urgencies that come with protecting people from the dangers of AI-generated content.",
+            "Description": "Data reveals that Google occasionally blends ads into organic search results, occurring in 0.31% of desktop searches and 0.01% of mobile searches. This practice highlights the evolving nature of search engine results pages.",
             "Links": [
-                "https://digiday.com/media/microsoft-report-highlights-ai-efforts-around-election-misinformation-and-harmful-deepfakes/"
+                "https://searchengineland.com/google-mix-ads-organic-results-data-444516"
             ]
         },
         {
-            "Title": "Google Search Experiencing High Ranking Volatility",
+            "Title": "SearchGPT's Impact on Google and SEO",
             "Category": "Technology",
-            "Description": "Google Search had an incredibly volatile month of July and it ended the month with a huge bang.  The volatility in the Google Search results yesterday, July 31st, going into today, August 1st, is heavy.  This may be Google testing a new Google search ranking algorithm update, maybe the expected core update, or maybe not...",
+            "Description": "The emergence of OpenAI's SearchGPT, an AI-powered search engine, is putting pressure on Google to innovate and improve its search product. SearchGPT's conversational approach to search could disrupt traditional SEO strategies.",
             "Links": [
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
-                "https://twitter.com/rustybrick/status/1819085942314999859"
+                "https://venturebeat.com/ai/searchgpt-will-force-google-and-seo-to-innovate/"
+            ]
+        },
+        {
+            "Title": "Apple Maps Listings Appear in Google SERPs",
+            "Category": "Technology",
+            "Description": "Apple Maps listings are now appearing in Google Search Engine Results Pages (SERPs), potentially impacting local SEO strategies. This integration of Apple Maps data into Google Search results could influence user behavior and business visibility.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1818254365322252595"
+            ]
+        },
+        {
+            "Title": "Google Advises Against Using M-Dot URLs as Canonical",
+            "Category": "Technology",
+            "Description": "Google's John Mueller reiterates that websites should not designate their mobile (m-dot) URLs as canonical, even with the full implementation of mobile-first indexing. This recommendation aims to avoid potential issues and maintain best practices for website structure.",
+            "Links": [
+                "https://www.seroundtable.com/google-m-dot-urls-the-canonical-37809.html"
+            ]
+        },
+        {
+            "Title": "Meta Rolls Out AI Studio for Chatbot Creation",
+            "Category": "Technology",
+            "Description": "Meta launches AI Studio in the US, empowering users to create and share AI-powered chatbots. Instagram creators can leverage this tool to automate responses to direct messages and story replies, enhancing audience engagement.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1818252592343814370"
+            ]
+        },
+        {
+            "Title": "Google to Fix Search Console Performance Report Filter Bug",
+            "Category": "Technology",
+            "Description": "Google acknowledges a bug in the Search Console Performance report's Search Appearance filter, preventing all available options from displaying. The company is working on a fix to address this issue.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-console-performance-report-search-appearance-filter-bug-37811.html"
             ]
         }
     ],
-    "date": "2024-08-01"
+    "date": "2024-08-02"
 }
