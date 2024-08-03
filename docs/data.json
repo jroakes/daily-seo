@@ -1,59 +1,23 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates",
+            "Title": "Google Updates Search Algorithm to Combat Deepfakes",
             "Category": "Search Engines",
-            "Description": "Google Search has seen intense ranking volatility, deepfake search algorithm updates, autocomplete prediction changes, and a new \"Explore more with search\" carousel.",
+            "Description": "Google has updated its algorithms to demote deepfake content in Google Search, making it easier to remove deepfakes and expanding \"About this image\" to Circle to Search and Google Lens. The search giant aims to make AI-generated or otherwise spoofed explicit content more difficult to discover and protect users from non-consensual imagery.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819387933285036257",
-                "https://www.seroundtable.com/august-2024-google-webmaster-report-37829.html",
-                "https://twitter.com/aleyda/status/1819361812749398177"
+                "https://twitter.com/rustybrick/status/1819082167072309689",
+                "https://twitter.com/rustybrick/status/1819021769631760614",
+                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
+                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
+                "https://www.searchenginejournal.com/google-search-algorithm-update-targeting-explicit-deepfakes/523478/",
+                "https://searchengineland.com/google-updates-deepfakes-search-algorithms-and-controls-and-expands-about-this-image-444531"
             ]
         },
         {
-            "Title": "Google Ads Updates",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads is experiencing an outage impacting ad reporting and some interfaces. Other updates include a new automated lead credit system for Local Service Ads, a 2.5% surcharge for Canadian advertisers, the removal of AI-based theming with separate ad groups, and the allowance of pubic hair grooming service ads in September.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1819468640485282219",
-                "https://twitter.com/rustybrick/status/1819380382971973774",
-                "https://twitter.com/rustybrick/status/1819376607347290482",
-                "https://twitter.com/rustybrick/status/1819372832909885935",
-                "https://twitter.com/rustybrick/status/1819366289611112731",
-                "https://twitter.com/rustybrick/status/1819150982951112891",
-                "https://twitter.com/rustybrick/status/1819102729572335808"
-            ]
-        },
-        {
-            "Title": "OpenAI's SearchGPT Blocked by News Sites",
-            "Category": "Artificial Intelligence",
-            "Description": "Several top news sites, including The New York Times, have blocked OpenAI's new SearchGPT web crawling bot from accessing their content.",
-            "Links": [
-                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
-            ]
-        },
-        {
-            "Title": "Google Acquires Character.AI Assets",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has agreed to pay a licensing fee to chatbot maker Character.AI for its models and will hire its cofounders and many of its researchers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1819463553255866500"
-            ]
-        },
-        {
-            "Title": "Game Informer Shut Down by GameStop",
-            "Category": "Gaming",
-            "Description": "GameStop has shut down Game Informer, the longest-running gaming magazine in the US, after 33 years.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1819462464909856884"
-            ]
-        },
-        {
-            "Title": "Reddit Restricts Search Engine Access",
+            "Title": "Reddit Blocks Microsoft Bing From Searching Site Without Payment",
             "Category": "Search Engines",
-            "Description": "Reddit is blocking search engines, including Microsoft Bing, from accessing its content unless they pay for commercial agreements. The move comes as Reddit seeks to prevent companies from using its data to train AI models without permission.",
+            "Description": "Reddit has blocked Microsoft Bing and other search engines from accessing its content unless they sign commercial agreements. The company says it doesn't want its data being used to train AI models without compensation.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1819356039088611556",
                 "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
                 "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai",
                 "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
@@ -61,42 +25,43 @@
             ]
         },
         {
-            "Title": "Google Combats Deepfakes",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has updated its algorithms to demote deepfake content in Google Search and expanded its \"About this image\" feature to provide more context about images, including potential deepfakes.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1819082167072309689",
-                "https://twitter.com/aleyda/status/1819312616478532087",
-                "https://www.nbcnews.com/tech/tech-news/google-announces-news-steps-combat-sexually-explicit-deepfakes-rcna164560",
-                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing's AI-Powered Search",
+            "Title": "Google Search Ranking Volatility Surging",
             "Category": "Search Engines",
-            "Description": "Microsoft Bing is showcasing the capabilities of AI-powered search engines with its latest features and updates.",
+            "Description": "Google Search has been experiencing high levels of ranking volatility, particularly in July. This could be a sign of a new algorithm update on the horizon.",
             "Links": [
-                "https://www.xda-developers.com/microsoft-bing-ai-powered-search-engines/"
+                "https://twitter.com/glenngabe/status/1818635116970725817",
+                "https://twitter.com/rustybrick/status/1819085942314999859",
+                "https://twitter.com/rustybrick/status/1819025544668688460",
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
             ]
         },
         {
-            "Title": "Outbrain Acquires Teads",
+            "Title": "Google Ads Reporting Outage",
             "Category": "Advertising Platforms",
-            "Description": "Outbrain has acquired Teads in a deal valued at over $1 billion.",
+            "Description": "Google Ads is experiencing an outage affecting ad reporting and some interfaces. Google is working on resolving the issue.",
             "Links": [
-                "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/",
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
-                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/"
+                "https://twitter.com/rustybrick/status/1819468640485282219",
+                "https://twitter.com/rustybrick/status/1819150982951112891",
+                "https://twitter.com/rustybrick/status/1819102729572335808"
             ]
         },
         {
-            "Title": "Wix Launches AI-Powered Blog Post Writer",
-            "Category": "Artificial Intelligence",
-            "Description": "Wix has announced a new AI tool that automates the process of creating blog posts, including SEO keyword integration.",
+            "Title": "Microsoft Bing Ad Revenue Up 19%",
+            "Category": "Advertising Platforms",
+            "Description": "Microsoft reported that its search and advertising revenue, primarily driven by Bing Ads, grew by 19% in the fourth quarter of 2024. This marks the highest quarterly growth for the segment in over two years.",
             "Links": [
-                "https://www.searchenginejournal.com/new-wix-ai-tool-scales-content-with-authenticity/523497/",
-                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts"
+                "https://twitter.com/glenngabe/status/1818616290560409824",
+                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
+            ]
+        },
+        {
+            "Title": "Outbrain Acquires Teads in $1 Billion Deal",
+            "Category": "Advertising & Marketing",
+            "Description": "Outbrain has officially acquired Teads in a deal valued at over $1 billion. The merger creates a larger entity in the content recommendation and native advertising space.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
+                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/",
+                "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/"
             ]
         }
     ],
