@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Updates Search Algorithm to Combat Deepfakes",
+            "Title": "Google Updates Algorithms to Combat Deepfakes",
             "Category": "Search Engines",
-            "Description": "Google has updated its algorithms to demote deepfake content in Google Search, making it easier to remove deepfakes and expanding \"About this image\" to Circle to Search and Google Lens. The search giant aims to make AI-generated or otherwise spoofed explicit content more difficult to discover and protect users from non-consensual imagery.",
+            "Description": "Google has updated its algorithms to demote deepfake content in Google Search, making it easier to remove deepfakes and expanding \"About this image\" to Circle to Search and Google Lens.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819082167072309689",
                 "https://twitter.com/rustybrick/status/1819021769631760614",
@@ -14,9 +14,20 @@
             ]
         },
         {
-            "Title": "Reddit Blocks Microsoft Bing From Searching Site Without Payment",
+            "Title": "Google Search Ranking Volatility Remains High",
             "Category": "Search Engines",
-            "Description": "Reddit has blocked Microsoft Bing and other search engines from accessing its content unless they sign commercial agreements. The company says it doesn't want its data being used to train AI models without compensation.",
+            "Description": "Google Search ranking volatility remained high throughout July, possibly indicating a new algorithm update.  SEOs and webmasters are observing significant fluctuations in website rankings.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819085942314999859",
+                "https://twitter.com/rustybrick/status/1819025544668688460",
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
+                "https://twitter.com/glenngabe/status/1818635116970725817"
+            ]
+        },
+        {
+            "Title": "Reddit Blocks Bing and Other Search Engines From Accessing Content Without Payment",
+            "Category": "Search Engines",
+            "Description": "Reddit has blocked search engines, including Microsoft's Bing, from accessing its content unless they sign commercial agreements. The policy change, which took effect last month, aims to prevent companies from using Reddit's data to train AI models without permission.",
             "Links": [
                 "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
                 "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai",
@@ -25,20 +36,9 @@
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Surging",
-            "Category": "Search Engines",
-            "Description": "Google Search has been experiencing high levels of ranking volatility, particularly in July. This could be a sign of a new algorithm update on the horizon.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1818635116970725817",
-                "https://twitter.com/rustybrick/status/1819085942314999859",
-                "https://twitter.com/rustybrick/status/1819025544668688460",
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
-            ]
-        },
-        {
             "Title": "Google Ads Reporting Outage",
             "Category": "Advertising Platforms",
-            "Description": "Google Ads is experiencing an outage affecting ad reporting and some interfaces. Google is working on resolving the issue.",
+            "Description": "Google Ads is experiencing an outage that is impacting ad reporting and some interfaces. Google is currently working on resolving the issue.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819468640485282219",
                 "https://twitter.com/rustybrick/status/1819150982951112891",
@@ -46,22 +46,55 @@
             ]
         },
         {
-            "Title": "Microsoft Bing Ad Revenue Up 19%",
-            "Category": "Advertising Platforms",
-            "Description": "Microsoft reported that its search and advertising revenue, primarily driven by Bing Ads, grew by 19% in the fourth quarter of 2024. This marks the highest quarterly growth for the segment in over two years.",
+            "Title": "Outbrain Acquires Teads in $1 Billion Deal",
+            "Category": "Advertising & Marketing",
+            "Description": "Outbrain has acquired Teads in a deal valued at over $1 billion. The deal brings together two major players in the native advertising space.",
+            "Links": [
+                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/",
+                "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/"
+            ]
+        },
+        {
+            "Title": "Microsoft Reports Strong Q4 Earnings, Advertising Revenue Up 19%",
+            "Category": "Business & Finance",
+            "Description": "Microsoft reported strong fourth-quarter 2024 earnings, with search and advertising revenue up 19%. This marks the highest quarterly growth for the segment in over two years.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1818616290560409824",
                 "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
             ]
         },
         {
-            "Title": "Outbrain Acquires Teads in $1 Billion Deal",
-            "Category": "Advertising & Marketing",
-            "Description": "Outbrain has officially acquired Teads in a deal valued at over $1 billion. The merger creates a larger entity in the content recommendation and native advertising space.",
+            "Title": "Google to Charge Canadian Advertisers 2.5% Surcharge",
+            "Category": "Advertising Platforms",
+            "Description": "Google will charge Canadian advertisers a 2.5% surcharge on top of their ad spend. This surcharge is new for Canada but not for several other countries.",
             "Links": [
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
-                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/",
-                "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/"
+                "https://twitter.com/rustybrick/status/1819376607347290482",
+                "https://twitter.com/rustybrick/status/1819335083809018021"
+            ]
+        },
+        {
+            "Title": "New York Times and Other News Sites Block OpenAI's SearchGPT Web Crawler",
+            "Category": "Artificial Intelligence",
+            "Description": "Several top news sites, including The New York Times, have blocked OpenAI's new SearchGPT web crawling bot. The move comes as publishers express concerns about the use of their content for AI training.",
+            "Links": [
+                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
+            ]
+        },
+        {
+            "Title": "Google Acquires Character.AI's Technology and Team",
+            "Category": "Artificial Intelligence",
+            "Description": "Google has agreed to pay a licensing fee to chatbot maker Character.AI for its models and will hire its cofounders and many of its researchers.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819463553255866500"
+            ]
+        },
+        {
+            "Title": "Wix Launches AI-Powered Blog Post Writer",
+            "Category": "Artificial Intelligence",
+            "Description": "Wix has announced a suite of AI tools that automate the process of cultivating organic traffic with authentic content, including a tool that can write entire blog posts with SEO keywords.",
+            "Links": [
+                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts",
+                "https://www.searchenginejournal.com/new-wix-ai-tool-scales-content-with-authenticity/523497/"
             ]
         }
     ],
