@@ -1,49 +1,53 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates and Tests",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has been busy with various search updates and tests, including algorithm adjustments to demote deepfake content, a new \"pill\" format for sitelinks on desktop, and a test of a new \"Explore more with search\" carousel. The company also shared insights into how Google Search indexes JavaScript websites and announced new reporting features in Google Merchant Center Next.",
+            "Title": "Google Search Updates and Volatility",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search has experienced high ranking volatility in recent days, potentially indicating algorithm updates or testing. The company also announced updates to demote deepfake content in search results and is testing a new \"pill\" format for sitelinks on desktop. Additionally, Google Merchant Center Next introduces new reporting features, including \"More found by Google,\" and Knowledge Panels are being tested with a \"videos from\" section.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1819025544668688460",
                 "https://twitter.com/rustybrick/status/1819021769631760614",
                 "https://twitter.com/rustybrick/status/1819017995332833417",
-                "https://twitter.com/rustybrick/status/1819330050870988814",
-                "https://twitter.com/rustybrick/status/1819074617987985435",
-                "https://twitter.com/rustybrick/status/1819006669818417305"
-            ]
-        },
-        {
-            "Title": "Google Search Ranking Volatility",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search rankings have experienced significant volatility, with some attributing it to potential algorithm updates or testing. Data from Advanced Web Ranking shows that the fluctuations have been particularly intense in recent days.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1819085942314999859",
-                "https://twitter.com/aleyda/status/1819361812749398177",
+                "https://twitter.com/rustybrick/status/1819014219909718052",
+                "https://twitter.com/rustybrick/status/1819010444738093140",
+                "https://twitter.com/rustybrick/status/1819010165300990101",
                 "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
             ]
         },
         {
-            "Title": "OpenAI's SearchGPT Blocked by News Sites",
-            "Category": "Artificial Intelligence",
-            "Description": "Several prominent news websites, including The New York Times, Wired, and The New Yorker, have blocked OpenAI's SearchGPT web crawler. This move comes as OpenAI launches its new search engine, signaling resistance from some publishers.",
+            "Title": "OpenAI's SearchGPT and Industry Reactions",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "OpenAI launched a new search engine, SearchGPT, prompting reactions from various players. Several top news sites, including The New York Times, Wired, and The New Yorker, have blocked OpenAI's web crawling bot associated with the new search engine. Microsoft has classified OpenAI as a competitor in AI and search. There is anticipation and discussion surrounding SearchGPT's capabilities and potential impact.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1819722247524716661",
-                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
+                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8",
+                "https://twitter.com/aleyda/status/1819059778775405039",
+                "https://twitter.com/glenngabe/status/1818978557550383374"
             ]
         },
         {
-            "Title": "Reddit Demands Payment for AI Training Data",
-            "Category": "Artificial Intelligence",
-            "Description": "Reddit is demanding payment from Microsoft and other companies if they want to use Reddit data to train their AI models. The platform blocked Bing's search engine crawler to prevent data scraping, emphasizing the value of its content for AI development.",
+            "Title": "Reddit's Stance on AI Data Scraping",
+            "Category": "Technology and Business",
+            "Description": "Reddit is demanding payment from Microsoft and other companies if they want to use Reddit data to train their AI models. The platform blocked Bing to prevent AI data scraping, not because of a deal with Google, according to Reddit's CEO. This highlights the growing tension between content platforms and companies seeking to utilize their data for AI development.",
             "Links": [
                 "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
                 "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai"
             ]
         },
         {
+            "Title": "Google's Handling of JavaScript in Search Indexing",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "A new report details how Google Search effectively indexes websites built with JavaScript, analyzing over 100,000 Googlebot fetches. The findings suggest that Google Search handles JavaScript incredibly well, almost as effectively as traditional web pages.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819067067808596080",
+                "https://twitter.com/rustybrick/status/1819006669818417305",
+                "https://www.seroundtable.com/google-search-indexes-javascript-37827.html"
+            ]
+        },
+        {
             "Title": "Google Ads Reporting Outage",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads experienced an outage affecting ad reporting and some interfaces. The issue persisted for some time, with Google working to resolve it.",
+            "Category": "Advertising and Marketing",
+            "Description": "Google Ads experienced an outage affecting ad reporting and some interfaces. Google is actively working on resolving the issue.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819468640485282219",
                 "https://twitter.com/rustybrick/status/1819150982951112891",
