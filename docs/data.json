@@ -1,44 +1,38 @@
 {
     "data": [
         {
-            "Title": "Google Updates Algorithms to Combat Deepfakes",
-            "Category": "Search Engines",
-            "Description": "Google has updated its algorithms to demote deepfake content in Google Search, making it easier to remove deepfakes and expanding \"About this image\" to Circle to Search and Google Lens.",
+            "Title": "Google Search Updates and Volatility",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google Search has experienced significant ranking volatility, potentially due to algorithm updates or testing. The volatility was observed across various countries and industries. Google also announced updates to its algorithms to demote deepfake content in search results and is testing a new \"pill\" format for sitelinks on desktop search results.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819082167072309689",
-                "https://twitter.com/rustybrick/status/1819021769631760614",
-                "https://www.theverge.com/2024/7/31/24210283/google-search-update-remove-explicit-deepfakes-results",
-                "https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/",
-                "https://www.searchenginejournal.com/google-search-algorithm-update-targeting-explicit-deepfakes/523478/",
-                "https://searchengineland.com/google-updates-deepfakes-search-algorithms-and-controls-and-expands-about-this-image-444531"
-            ]
-        },
-        {
-            "Title": "Google Search Ranking Volatility Remains High",
-            "Category": "Search Engines",
-            "Description": "Google Search ranking volatility remained high throughout July, possibly indicating a new algorithm update.  SEOs and webmasters are observing significant fluctuations in website rankings.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1819085942314999859",
                 "https://twitter.com/rustybrick/status/1819025544668688460",
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html",
-                "https://twitter.com/glenngabe/status/1818635116970725817"
+                "https://twitter.com/aleyda/status/1819361812749398177",
+                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
             ]
         },
         {
-            "Title": "Reddit Blocks Bing and Other Search Engines From Accessing Content Without Payment",
-            "Category": "Search Engines",
-            "Description": "Reddit has blocked search engines, including Microsoft's Bing, from accessing its content unless they sign commercial agreements. The policy change, which took effect last month, aims to prevent companies from using Reddit's data to train AI models without permission.",
+            "Title": "OpenAI's SearchGPT and Industry Reactions",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "OpenAI launched a new search engine, SearchGPT, but several top news sites, including The New York Times, Wired, and The New Yorker, have blocked its web crawling bot. Microsoft has classified OpenAI as a competitor in AI and search following this launch.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819722247524716661",
+                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8",
+                "https://twitter.com/glenngabe/status/1818978557550383374"
+            ]
+        },
+        {
+            "Title": "Reddit Blocks Bing, Demands Payment for AI Training Data",
+            "Category": "Technology and Business",
+            "Description": "Reddit has blocked Microsoft's Bing search engine from accessing its content to prevent the use of its data for AI model training without compensation. Reddit CEO Steve Huffman stated that the platform is demanding payment from Microsoft and other companies if they want to use Reddit data to train their AI models.",
             "Links": [
                 "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
-                "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai",
-                "https://www.bloomberg.com/news/articles/2024-08-01/reddit-blocks-microsoft-from-searching-site-without-paying",
-                "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search"
+                "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai"
             ]
         },
         {
             "Title": "Google Ads Reporting Outage",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads is experiencing an outage that is impacting ad reporting and some interfaces. Google is currently working on resolving the issue.",
+            "Category": "Advertising and Marketing",
+            "Description": "Google Ads experienced an outage that impacted ad reporting and some interfaces. Google acknowledged the issue and is working on a resolution.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1819468640485282219",
                 "https://twitter.com/rustybrick/status/1819150982951112891",
@@ -46,57 +40,24 @@
             ]
         },
         {
-            "Title": "Outbrain Acquires Teads in $1 Billion Deal",
-            "Category": "Advertising & Marketing",
-            "Description": "Outbrain has acquired Teads in a deal valued at over $1 billion. The deal brings together two major players in the native advertising space.",
+            "Title": "Google's Evolving Search Features and Algorithms",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google is testing a new \"Explore more with search\" carousel to encourage users to try new search queries. Additionally, Google has updated its algorithms to combat deepfakes, aiming to prevent such content from ranking highly in search results. The company also released its August 2024 webmaster report, covering topics like ranking volatility, indexing bugs, and autocomplete updates.",
             "Links": [
-                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/",
-                "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/"
+                "https://twitter.com/rustybrick/status/1819330050870988814",
+                "https://twitter.com/aleyda/status/1819312616478532087",
+                "https://www.seroundtable.com/august-2024-google-webmaster-report-37829.html"
             ]
         },
         {
-            "Title": "Microsoft Reports Strong Q4 Earnings, Advertising Revenue Up 19%",
-            "Category": "Business & Finance",
-            "Description": "Microsoft reported strong fourth-quarter 2024 earnings, with search and advertising revenue up 19%. This marks the highest quarterly growth for the segment in over two years.",
+            "Title": "Google's Handling of JavaScript in Search Indexing",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "A new report from Vercel and MERJ provides a deep dive into how Google Search indexes websites built with JavaScript. The analysis of over 100,000 Googlebot fetches indicates that Google Search handles JavaScript effectively, almost on par with traditional web pages.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1818616290560409824",
-                "https://www.seroundtable.com/microsoft-advertising-bing-ad-revenue-up-19-37816.html"
-            ]
-        },
-        {
-            "Title": "Google to Charge Canadian Advertisers 2.5% Surcharge",
-            "Category": "Advertising Platforms",
-            "Description": "Google will charge Canadian advertisers a 2.5% surcharge on top of their ad spend. This surcharge is new for Canada but not for several other countries.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1819376607347290482",
-                "https://twitter.com/rustybrick/status/1819335083809018021"
-            ]
-        },
-        {
-            "Title": "New York Times and Other News Sites Block OpenAI's SearchGPT Web Crawler",
-            "Category": "Artificial Intelligence",
-            "Description": "Several top news sites, including The New York Times, have blocked OpenAI's new SearchGPT web crawling bot. The move comes as publishers express concerns about the use of their content for AI training.",
-            "Links": [
-                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
-            ]
-        },
-        {
-            "Title": "Google Acquires Character.AI's Technology and Team",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has agreed to pay a licensing fee to chatbot maker Character.AI for its models and will hire its cofounders and many of its researchers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1819463553255866500"
-            ]
-        },
-        {
-            "Title": "Wix Launches AI-Powered Blog Post Writer",
-            "Category": "Artificial Intelligence",
-            "Description": "Wix has announced a suite of AI tools that automate the process of cultivating organic traffic with authentic content, including a tool that can write entire blog posts with SEO keywords.",
-            "Links": [
-                "https://www.theverge.com/2024/7/31/24210304/wix-ai-website-builder-seo-blog-posts",
-                "https://www.searchenginejournal.com/new-wix-ai-tool-scales-content-with-authenticity/523497/"
+                "https://twitter.com/rustybrick/status/1819067067808596080",
+                "https://www.seroundtable.com/google-search-indexes-javascript-37827.html"
             ]
         }
     ],
-    "date": "2024-08-03"
+    "date": "2024-08-04"
 }
