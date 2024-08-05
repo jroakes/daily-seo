@@ -259,6 +259,81 @@
             "Title": "SEO Aspects of Content Syndication",
             "Description": "Article discussing the impacts of content syndication on SEO, noting its benefits for referral traffic and brand visibility but limited impact on search engine optimization.",
             "Link": "https://www.practicalecommerce.com/seo-aspects-of-content-syndication"
+        },
+        {
+            "Title": "New Recommendations from Google Search Console",
+            "Description": "Google Search Console is rolling out a new feature that provides recommendations directly within the platform. These recommendations aim to make existing data more accessible and actionable for site owners.",
+            "Link": "https://twitter.com/aleyda/status/1820484794100375621"
+        },
+        {
+            "Title": "Google Search Console launches recommendations",
+            "Description": "Google Search Console is experimenting with a new feature that provides recommendations to site owners. The feature is still in its early stages and may not be visible to all users.",
+            "Link": "https://searchengineland.com/google-search-console-launches-recommendations-444711"
+        },
+        {
+            "Title": "Microsoft denied a Bing Search ranking algorithm update around May 29th",
+            "Description": "There were speculations about a Bing Search ranking algorithm update around May 29th based on observed volatility. However, Microsoft denied any significant update rollout during that period.",
+            "Link": "https://twitter.com/rustybrick/status/1820471321006096550"
+        },
+        {
+            "Title": "Google on the HTTP ratelimit header fields (not supported)",
+            "Description": "Google has clarified that it does not currently support HTTP ratelimit header fields.",
+            "Link": "https://twitter.com/rustybrick/status/1820467545897419240"
+        },
+        {
+            "Title": "Google dropped the \"see results about\" label in the mobile search results",
+            "Description": "Google has removed the \"see results about\" label from mobile search results.",
+            "Link": "https://twitter.com/rustybrick/status/1820463770818285889"
+        },
+        {
+            "Title": "The GenAI era of search. Who will take the lead?",
+            "Description": "This article explores the evolving landscape of search engines in the age of generative AI, discussing the challenges of balancing data, trust, and ethics.",
+            "Link": "https://www.techradar.com/pro/the-genai-era-of-search-who-will-take-the-lead"
+        },
+        {
+            "Title": "Report: Google Search traffic and queries not impacted by new competing AI search engines",
+            "Description": "A report suggests that Google Search traffic and queries remain largely unaffected by the emergence of new AI-powered search engines.",
+            "Link": "https://twitter.com/sengineland/status/1820459828864487908"
+        },
+        {
+            "Title": "Google Shopping product images with user review images in the carousel",
+            "Description": "Google Shopping carousels now feature product images alongside images from user reviews.",
+            "Link": "https://twitter.com/rustybrick/status/1820459996393467948"
+        },
+        {
+            "Title": "It's New: Aug 5: Google Ads Shopping Bug, Google Product Images From Reviews & Bing Search Update",
+            "Description": "A roundup of recent updates and news in the digital marketing world, including a Google Ads Shopping bug, the inclusion of user review images in Google Shopping, and a potential Bing Search update.",
+            "Link": "https://twitter.com/rustybrick/status/1820459856756674779"
+        },
+        {
+            "Title": "Google interactive card local knowledge panel layout",
+            "Description": "Google is testing a new interactive card layout for local knowledge panels.",
+            "Link": "https://twitter.com/rustybrick/status/1820456221226213620"
+        },
+        {
+            "Title": "Bing Generative Search: An In-Depth Analysis of Bing\u2019s Response to Google AI Overviews",
+            "Description": "This post provides a detailed analysis of Bing's Generative Search, exploring its functionality, impact on traditional search results, and implications for SEO.",
+            "Link": "https://twitter.com/glenngabe/status/1820434857794699707"
+        },
+        {
+            "Title": "Catch up on the past week with the SEO video recap covering the intense Google ranking volatility, deepfake search updates, autocomplete prediction Trump updates and more",
+            "Description": "This video recaps the most important SEO news and updates from the past week, including significant Google ranking fluctuations, developments in deepfake detection, changes in Google's autocomplete predictions, and more.",
+            "Link": "https://twitter.com/rustybrick/status/1820432062169457045"
+        },
+        {
+            "Title": "Lens update. Interesting -> Google Lens now lets you record videos to add voice context to your searches",
+            "Description": "Google Lens now allows users to record videos to provide voice context for their searches, enhancing the visual search experience.",
+            "Link": "https://twitter.com/glenngabe/status/1820429469267722575"
+        },
+        {
+            "Title": "OpenAI developed a watermarking method for detecting text written by ChatGPT with 99.9% reliability, but its launch has been mired in internal debates",
+            "Description": "OpenAI has developed a highly accurate watermarking technique to identify text generated by ChatGPT. However, the release of this tool has been delayed due to internal discussions and concerns.",
+            "Link": "https://twitter.com/glenngabe/status/1820427824303423827"
+        },
+        {
+            "Title": "Bing Search Ranking Algorithm Update May 29th",
+            "Description": "This article examines the possibility of a Bing Search ranking algorithm update around May 29th, analyzing data and expert opinions to determine the likelihood and potential impact of such an update.",
+            "Link": "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html"
         }
     ],
     "reviewed_urls": [
@@ -349,6 +424,32 @@
         "https://www.openpr.com/news/3608991/seo-power-solutions-celebrates-11-years-of-excellence-in",
         "https://www.practicalecommerce.com/seo-aspects-of-content-syndication",
         "https://www.eurosport.com/olympics/sport/badminton/event/women-singles/match/bdw001101/",
-        "https://twitter.com/aleyda/status/1820369726775706098"
+        "https://twitter.com/aleyda/status/1820369726775706098",
+        "https://digiday.com/marketing/why-warner-bros-and-fandango-are-selling-movie-tickets-inside-roblox/",
+        "https://twitter.com/aleyda/status/1820484794100375621",
+        "https://twitter.com/glenngabe/status/1820478885793862007",
+        "https://twitter.com/iPullRank/status/1820474075724034232",
+        "https://twitter.com/rustybrick/status/1820471831989768245",
+        "https://searchengineland.com/google-search-console-launches-recommendations-444711",
+        "https://twitter.com/rustybrick/status/1820471321006096550",
+        "https://twitter.com/sitebulb/status/1820469764113973668",
+        "https://twitter.com/rustybrick/status/1820467545897419240",
+        "https://twitter.com/rustybrick/status/1820463770818285889",
+        "https://www.techradar.com/pro/the-genai-era-of-search-who-will-take-the-lead",
+        "https://twitter.com/sengineland/status/1820459828864487908",
+        "https://twitter.com/rustybrick/status/1820459996393467948",
+        "https://twitter.com/rustybrick/status/1820459856756674779",
+        "https://twitter.com/rustybrick/status/1820456221226213620",
+        "https://twitter.com/rustybrick/status/1820452446952690025",
+        "https://twitter.com/rustybrick/status/1820451237122232550",
+        "https://twitter.com/TheMarketingAnu/status/1820447139811430558",
+        "https://www.indiatoday.in/sports/olympics/story/olympics-he-bing-jiao-pays-tribute-to-injured-carolina-marin-after-winning-silver-2577276-2024-08-05",
+        "https://twitter.com/glenngabe/status/1820434857794699707",
+        "https://twitter.com/glenngabe/status/1820433028344152069",
+        "https://twitter.com/rustybrick/status/1820432062169457045",
+        "https://twitter.com/glenngabe/status/1820429469267722575",
+        "https://twitter.com/glenngabe/status/1820427824303423827",
+        "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html",
+        "https://twitter.com/glenngabe/status/1820418341493706853"
     ]
 }
