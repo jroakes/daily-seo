@@ -1,71 +1,98 @@
 {
     "data": [
         {
-            "Title": "Google Search Ranking Volatility",
-            "Category": "Search Engine Optimization",
-            "Description": "Data from Advanced Web Ranking shows that Google search rankings have been extremely volatile in the past two days.",
+            "Title": "Google Search and Algorithm Updates",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Intense Google ranking volatility observed, potentially indicating upcoming algorithm changes. Google also released its August 2024 webmaster report, covering ranking volatility, indexing bugs, autocomplete updates, and deepfake algorithm changes.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819085942314999859",
-                "https://twitter.com/aleyda/status/1819361812749398177",
-                "https://www.seroundtable.com/google-search-ranking-volatility-bursting-37828.html"
+                "https://twitter.com/glenngabe/status/1819408508506210675",
+                "https://twitter.com/rustybrick/status/1819387933285036257",
+                "https://www.seroundtable.com/august-2024-google-webmaster-report-37829.html"
             ]
         },
         {
-            "Title": "Google Ads Reporting Outage",
+            "Title": "Bing Search Algorithm Update",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Glenn Gabe suggests a potential Bing search algorithm core update around May 29th, based on observed search ranking volatility.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819703777592492496"
+            ]
+        },
+        {
+            "Title": "Google Ads Outage",
             "Category": "Paid Advertising",
-            "Description": "Google Ads is experiencing an outage affecting ad reporting and some interfaces.",
+            "Description": "Barry Schwartz reports an ongoing Google Ads outage, providing updates and directing users to Search Engine Roundtable for more information.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819102729572335808",
-                "https://twitter.com/rustybrick/status/1819150982951112891",
-                "https://twitter.com/rustybrick/status/1820066094041780676"
+                "https://twitter.com/rustybrick/status/1820066094041780676",
+                "https://twitter.com/rustybrick/status/1819468640485282219"
             ]
         },
         {
-            "Title": "Reddit Blocks Bing Over AI Data Scraping",
-            "Category": "Artificial Intelligence",
-            "Description": "Reddit is demanding payment from Microsoft and other companies if they want to use Reddit data to train their AI models.",
+            "Title": "Google to Pay Licensing Fees to Chatbot Maker",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Glenn Gabe shares news about Google agreeing to pay licensing fees to a chatbot maker, hinting at potential developments in AI and search.",
             "Links": [
-                "https://mashable.com/article/reddit-microsoft-bing-search-engine-blocked-pay-ai-training-data",
-                "https://twitter.com/glenngabe/status/1819356039088611556",
-                "https://lifehacker.com/tech/reddit-content-pulled-from-search-about-ai"
+                "https://twitter.com/glenngabe/status/1819463553255866500"
             ]
         },
         {
-            "Title": "News Sites Block OpenAI's SearchGPT Bot",
-            "Category": "Artificial Intelligence",
-            "Description": "Several top news websites, including The New York Times, Wired, and The New Yorker, have blocked OpenAI's new web crawling bot, SearchGPT.",
+            "Title": "Google Trends SEO Insights",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Search Engine Journal highlights five SEO insights from Google, focusing on leveraging Google Trends data for website optimization and traffic analysis.",
             "Links": [
-                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8",
-                "https://twitter.com/glenngabe/status/1819722247524716661"
+                "https://www.searchenginejournal.com/google-gives-5-seo-insights-on-google-trends/523669/"
             ]
         },
         {
-            "Title": "Google Updates Algorithms to Demote Deepfakes",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has updated its search algorithms and controls to combat deepfakes, aiming to prevent such content from ranking highly in search results.",
+            "Title": "Google Local Service Ads Updates",
+            "Category": "Paid Advertising",
+            "Description": "Google introduces a new automated lead credit system for Local Service Ads, aiming to streamline lead management and dispute resolution.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819021769631760614",
-                "https://twitter.com/rustybrick/status/1819082167072309689",
+                "https://twitter.com/rustybrick/status/1819380382971973774",
+                "https://twitter.com/rustybrick/status/1819337600685298050"
+            ]
+        },
+        {
+            "Title": "Google Ads Policy Changes",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads announces upcoming policy changes, including allowing advertisements for pubic hair grooming services and implementing a 2.5% surcharge for Canadian advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1819376607347290482",
+                "https://twitter.com/rustybrick/status/1819328541080629622"
+            ]
+        },
+        {
+            "Title": "ChatGPT and Plagiarism Concerns",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Glenn Gabe raises concerns about ChatGPT citing plagiarized New York Times articles from a content mill, particularly relevant given the ongoing lawsuit between the NYT and OpenAI.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1819715279183597806"
+            ]
+        },
+        {
+            "Title": "News Outlets Block OpenAI's SearchGPT Web Crawler",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Business Insider reports that major news outlets, including The New York Times, have blocked OpenAI's SearchGPT web crawler from accessing their content.",
+            "Links": [
+                "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
+            ]
+        },
+        {
+            "Title": "Google Updates Deepfake Search Algorithms",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google updates its ranking system to combat deepfakes, ensuring such content doesn't rank highly in search results. They also expand the \"About this image\" feature to provide more context.",
+            "Links": [
                 "https://twitter.com/aleyda/status/1819312616478532087"
             ]
         },
         {
-            "Title": "Google Tests New Sitelinks \"Pill\" Format",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing a new \"pill\" format for sitelinks on desktop search results.",
+            "Title": "Robots.txt Ineffective Against Unauthorized Access",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's Gary Illyes confirms that robots.txt does not prevent unauthorized access to websites, clarifying its role in search engine crawling and indexing.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1819017995332833417",
-                "https://twitter.com/rustybrick/status/1819078392429359317"
-            ]
-        },
-        {
-            "Title": "Outbrain Acquires Teads for $1 Billion",
-            "Category": "Digital Advertising",
-            "Description": "Outbrain has confirmed its acquisition of Teads in a deal valued at over $1 billion.",
-            "Links": [
-                "https://digiday.com/media/outbrain-confirms-teads-purchase-in-a-deal-valued-at-1-billion/"
+                "https://www.searchenginejournal.com/google-confirms-robots-txt-is-ineffective-against-unauthorized-access/523632/"
             ]
         }
     ],
-    "date": "2024-08-04"
+    "date": "2024-08-05"
 }

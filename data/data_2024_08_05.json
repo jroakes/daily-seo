@@ -1,0 +1,287 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Good episode of 'Search Off The Record' covering a confusing topic for site owners and SEOs -- hreflang and internationalization. Includes... LDCP - 'Language demotion, country promotion', the lang attribute in html (and if Google cares about it), when and how to use x-default,\u2026",
+            "Description": "Glenn Gabe highlights a Google Search Off The Record podcast episode that delves into hreflang implementation for international SEO, covering topics like LDCP, the \"lang\" attribute, and x-default.",
+            "Link": "https://twitter.com/glenngabe/status/1820081609304952968"
+        },
+        {
+            "Title": "Another update for the Google Ads outage",
+            "Description": "Barry Schwartz provides an update on the ongoing Google Ads outage, directing users to Search Engine Roundtable for more information.",
+            "Link": "https://twitter.com/rustybrick/status/1820066094041780676"
+        },
+        {
+            "Title": "Today in the #SEOFOMO newsletter \ud83d\udc41 * A First Look at SearchGPT* \u200bHow to Optimize for LLMs and Get Cited in AI Outputs* \u200bHow ChatGPT Search Results Work* \u200bGoogle updates deepfakes search algorithms and controls and expands About this image* Much more, including SEO jobs,\u2026",
+            "Description": "Aleyda Solis shares the latest edition of the #SEOFOMO newsletter, featuring articles on SearchGPT, optimizing for large language models, Google's updates on deepfakes, and more.",
+            "Link": "https://twitter.com/aleyda/status/1820046504293269657"
+        },
+        {
+            "Title": "Oh boy, I can't imagine this is going over well at the NYT... -> Amid New York Times Lawsuit, ChatGPT Is Citing Plagiarized Versions of NYT Articles From A Content Mill I just checked a few examples from the article, and yep, it's citing that site...",
+            "Description": "Glenn Gabe discusses a report about ChatGPT citing plagiarized New York Times articles from a content mill, particularly relevant in light of the ongoing lawsuit between the NYT and OpenAI.",
+            "Link": "https://twitter.com/glenngabe/status/1819715279183597806"
+        },
+        {
+            "Title": "Heads-up. Looks like we might have had a core update... but not from Google. :) I think Bing launched a big update on May 29th. I'm seeing a ton of volatility across sites starting right on that date. The last time I saw something like that, Bing confirmed there was a broad core\u2026",
+            "Description": "Glenn Gabe observes significant search ranking volatility potentially indicating a Bing search algorithm core update around May 29th.",
+            "Link": "https://twitter.com/glenngabe/status/1819703777592492496"
+        },
+        {
+            "Title": "The New York Times and other top news sites block OpenAI's new SearchGPT web crawling bot",
+            "Description": "Business Insider reports that several major news outlets, including The New York Times, have blocked OpenAI's SearchGPT web crawler from accessing their content.",
+            "Link": "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8"
+        },
+        {
+            "Title": "Google Ads reporting outage update",
+            "Description": "Barry Schwartz shares an update on the Google Ads reporting outage, linking to Search Engine Roundtable for further details.",
+            "Link": "https://twitter.com/rustybrick/status/1819468640485282219"
+        },
+        {
+            "Title": "AI news -> Google has agreed to pay a licensing fee to chatbot maker",
+            "Description": "Glenn Gabe shares news about Google agreeing to pay licensing fees to a chatbot maker, indicating potential developments in AI and search.",
+            "Link": "https://twitter.com/glenngabe/status/1819463553255866500"
+        },
+        {
+            "Title": "Google Gives 5 SEO Insights On Google Trends",
+            "Description": "Search Engine Journal presents five SEO insights from Google, focusing on how to leverage Google Trends data for website optimization and traffic analysis.",
+            "Link": "https://www.searchenginejournal.com/google-gives-5-seo-insights-on-google-trends/523669/"
+        },
+        {
+            "Title": "Seems Big T might be way off on this one. :) No core update yet, but lots of volatility in the SERPs (which again, is probably testing leading up to the next core update). Stay tuned.",
+            "Description": "Glenn Gabe refutes rumors of an immediate Google core update, acknowledging search result volatility that might indicate upcoming algorithm changes.",
+            "Link": "https://twitter.com/glenngabe/status/1819408508506210675"
+        },
+        {
+            "Title": "SEO video recap: Intense Google ranking volatility, deepfake search updates, autocomplete prediction Trump updates and more",
+            "Description": "SEO video recap covering the intense Google ranking volatility, deepfake search updates, autocomplete prediction Trump updates and more",
+            "Link": "https://twitter.com/rustybrick/status/1819387933285036257"
+        },
+        {
+            "Title": "Google August 2024 webmaster report",
+            "Description": "Google August 2024 webmaster report",
+            "Link": "https://twitter.com/rustybrick/status/1819384157098704951"
+        },
+        {
+            "Title": "The new Google Local Service Ads automated lead credit system",
+            "Description": "The new Google Local Service Ads automated lead credit system",
+            "Link": "https://twitter.com/rustybrick/status/1819380382971973774"
+        },
+        {
+            "Title": "Google to charge Canadian advertisers a 2.5% surcharge on top of their ad spend",
+            "Description": "Google to charge Canadian advertisers a 2.5% surcharge on top of their ad spend",
+            "Link": "https://twitter.com/rustybrick/status/1819376607347290482"
+        },
+        {
+            "Title": "Separate ad groups in Google Ads can remove AI-based theming",
+            "Description": "Separate ad groups in Google Ads can remove AI-based theming",
+            "Link": "https://twitter.com/rustybrick/status/1819372832909885935"
+        },
+        {
+            "Title": "Google tests \"Explore more with search\" carousel",
+            "Description": "Google tests \"Explore more with search\" carousel",
+            "Link": "https://twitter.com/rustybrick/status/1819369057566474722"
+        },
+        {
+            "Title": "Google to allow pubic hair grooming service ads soon",
+            "Description": "Google to allow pubic hair grooming service ads soon",
+            "Link": "https://twitter.com/rustybrick/status/1819366289611112731"
+        },
+        {
+            "Title": "Yesterday & today show the highest Google's rankings volatility in the last 6 months across countries from @awebranking data",
+            "Description": "Yesterday & today show the highest Google's rankings volatility in the last 6 months across countries from @awebranking data",
+            "Link": "https://twitter.com/aleyda/status/1819361812749398177"
+        },
+        {
+            "Title": "Reddit continues to improve its ad platform to better monetize all of that surging Google traffic :) -&gt; Reddit Acquires Memorable AI To Build Its Own Version of Google PMax",
+            "Description": "Reddit continues to improve its ad platform to better monetize all of that surging Google traffic :) -&gt; Reddit Acquires Memorable AI To Build Its Own Version of Google PMax \"Reddit will make Memorable AI\u2019s tech available to all Reddit advertisers. As they set up their Reddit\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1819356039088611556"
+        },
+        {
+            "Title": "Focus on Local? -&gt; @philrozek provides a rundown of some common (and less-common) Local SEO mishaps that can hurt your local rankings, including how long it can take to recover",
+            "Description": "Focus on Local? -&gt; @philrozek provides a rundown of some common (and less-common) Local SEO mishaps that can hurt your local rankings, including how long it can take to recover",
+            "Link": "https://twitter.com/glenngabe/status/1819352752981414007"
+        },
+        {
+            "Title": "Is YouTube important for your business? Here's a playlist of three Shorts from Todd Beaupr\u00e9 (@hitsman), YouTube's senior director of growth and discovery, about Satisfaction and YT's Algorithm",
+            "Description": "Is YouTube important for your business? Here's a playlist of three Shorts from Todd Beaupr\u00e9 (@hitsman), YouTube's senior director of growth and discovery, about Satisfaction and YT's Algorithm",
+            "Link": "https://twitter.com/glenngabe/status/1819348624314101763"
+        },
+        {
+            "Title": "And Cook explained more about Apple Intelligence, which will include ChatGPT integration, a revamped Siri, etc. -&gt; Apple reports Q3 revenue up 5% YoY to $85.8B, net income up 8% to $21.4B",
+            "Description": "And Cook explained more about Apple Intelligence, which will include ChatGPT integration, a revamped Siri, etc. -&gt; Apple reports Q3 revenue up 5% YoY to $85.8B, net income up 8% to $21.4B \"Apple officially jumped into the AI arms race in June when it unveiled its plans for\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1819344433172582702"
+        },
+        {
+            "Title": "RT by @rustybrick: SEO video recap covering the intense Google ranking volatility, deepfake search updates, autocomplete prediction Trump updates and more youtube.com/watch?v=DGWxIu\u2026 Sponsored by @bruceclay (check out PreWriter dot ai with industry mentions of @JohnMu @Google_Comms @MerjCom @vercel\u2026",
+            "Description": "RT by @rustybrick: SEO video recap covering the intense Google ranking volatility, deepfake search updates, autocomplete prediction Trump updates and more youtube.com/watch?v=DGWxIu\u2026 Sponsored by @bruceclay (check out PreWriter dot ai with industry mentions of @JohnMu @Google_Comms @MerjCom @vercel\u2026",
+            "Link": "https://twitter.com/rustybrick/status/1819342750988620270"
+        },
+        {
+            "Title": "Study: A year after Meta blocked news content in Canada due to the Online News Act, Canadians' total engagement with news content on social media is down 43%",
+            "Description": "Study: A year after Meta blocked news content in Canada due to the Online News Act, Canadians' total engagement with news content on social media is down 43% \"Local news outlets, many of which rely on Facebook, have been especially hit hard \u2014 30 per cent of them are now\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1819340938323677208"
+        },
+        {
+            "Title": "The big Google August 2024 webmaster report - catch up on changes Google SEO here",
+            "Description": "The big Google August 2024 webmaster report - catch up on changes Google SEO here",
+            "Link": "https://twitter.com/rustybrick/status/1819340117137674300"
+        },
+        {
+            "Title": "August 2024 Google Webmaster Report: Super Volatility, Indexing Bugs, Autocomplete & Deepfakes",
+            "Description": "Here is the big monthly Google webmaster report, where I catch you up on what changes with Google Search related to Google updates, ranking volatility, SEO, Search Console, UI changes, local and much more.  This month we had intense ranking volatility all month, we had autocomplete updates, deepfakes algorithm changes and a big search indexing bug.",
+            "Link": "https://www.seroundtable.com/august-2024-google-webmaster-report-37829.html"
+        },
+        {
+            "Title": "Profit nearly doubled -&gt; Amazon reports Q2 revenue up 10% YoY to $148B, a $13.5B net income, vs. $6.7B YoY, $14.7B operating income, vs. $7.7B YoY, subscription sales up 10% to $10.9B",
+            "Description": "Profit nearly doubled -&gt; Amazon reports Q2 revenue up 10% YoY to $148B, a $13.5B net income, vs. $6.7B YoY, $14.7B operating income, vs. $7.7B YoY, subscription sales up 10% to $10.9B",
+            "Link": "https://twitter.com/glenngabe/status/1819339723250311643"
+        },
+        {
+            "Title": "Google Local Service Ads automated lead credit/dispute system is live",
+            "Description": "Google Local Service Ads automated lead credit/dispute system is live",
+            "Link": "https://twitter.com/rustybrick/status/1819337600685298050"
+        },
+        {
+            "Title": "Canadian advertisers will be charged a 2.5% surcharge from Google on top of their ad spend (new for Canada but not several other countries)",
+            "Description": "Canadian advertisers will be charged a 2.5% surcharge from Google on top of their ad spend (new for Canada but not several other countries)",
+            "Link": "https://twitter.com/rustybrick/status/1819335083809018021"
+        },
+        {
+            "Title": "Separate ad groups in Google Ads can help (or hurt) by removing AI-based theming",
+            "Description": "Separate ad groups in Google Ads can help (or hurt) by removing AI-based theming",
+            "Link": "https://twitter.com/rustybrick/status/1819332567293714756"
+        },
+        {
+            "Title": "Google \"Explore more with search\" carousel - tries to promote searchers try new queries on Google...",
+            "Description": "Google \"Explore more with search\" carousel - tries to promote searchers try new queries on Google...",
+            "Link": "https://twitter.com/rustybrick/status/1819330050870988814"
+        },
+        {
+            "Title": "Google Ads to allow pubic hair grooming service advertisements in September",
+            "Description": "Google Ads to allow pubic hair grooming service advertisements in September",
+            "Link": "https://twitter.com/rustybrick/status/1819328541080629622"
+        },
+        {
+            "Title": "Microsoft Bing is showing us what AI-powered search engines are capable of",
+            "Description": "In the world of search engines, AI is here to stay. I just hope that it's more like Bing's implementation than Google's.",
+            "Link": "https://www.xda-developers.com/microsoft-bing-ai-powered-search-engines/"
+        },
+        {
+            "Title": "Google updates deepfakes search algorithms and controls and expands About this image \ud83d\udc40",
+            "Description": "Google has updated Google Search around deepfakes in two ways; (1) updated its ranking system to help ensure deepfake content does not rank highly in Google Search. and (2) making it\u2026",
+            "Link": "https://twitter.com/aleyda/status/1819312616478532087"
+        },
+        {
+            "Title": "More South African flags, this now on Google ads - it is a new law there, so this makes sense",
+            "Description": "More South African flags, this now on Google ads - it is a new law there, so this makes sense",
+            "Link": "https://twitter.com/rustybrick/status/1819310702198202815"
+        },
+        {
+            "Title": "Google Confirms Robots.txt Can't Prevent Unauthorized Access",
+            "Description": "Google's Gary Illyes confirms that robots.txt does not protect websites from unauthorized access",
+            "Link": "https://www.searchenginejournal.com/google-confirms-robots-txt-is-ineffective-against-unauthorized-access/523632/"
+        },
+        {
+            "Title": "Weekly roundup: SEO tips from Neil Patel, MOF's AI blunder and more",
+            "Description": "Welcome to MARKETING-INTERACTIVE's weekly roundup, a podcast and article feature in which we take you through the biggest stories of the week.",
+            "Link": "https://www.marketing-interactive.com/weekly-roundup-seo-tips-neil-patel-mof-ai-blunder"
+        },
+        {
+            "Title": "\u2018Straight from the top\u2019: Criteo says Google won\u2019t pull an Apple when it asks whether people want third-party cookies",
+            "Description": "According to Criteo, whatever prompt Chrome users see about turning off third-party cookies will clearly outline the implications of opting out of being tracked.",
+            "Link": "https://digiday.com/marketing/straight-from-the-top-criteo-says-google-wont-pull-an-apple-when-it-asks-whether-people-want-third-party-cookies/"
+        },
+        {
+            "Title": "Brat Summer's sun might be setting, have marketers noticed?",
+            "Description": "Agencies are pitching tactical work to clients based on the Charli XCX-spawned trend. But time is running out.",
+            "Link": "https://digiday.com/marketing/brat-summers-sun-might-be-setting-have-marketers-noticed/"
+        },
+        {
+            "Title": "While AI isn't bad, it does have a serious branding problem",
+            "Description": "Platforms are desperate for people to see past the creepy Skynet version of AI and embrace their vision, but they just can't seem to make it happen.",
+            "Link": "https://digiday.com/marketing/while-ai-isnt-bad-it-does-have-a-serious-branding-problem/"
+        },
+        {
+            "Title": "From the Super Bowl to the Olympics, AI companies are spending more on AI-related advertising",
+            "Description": "Nearly 600 companies spent more than $107 million on AI-related ads in the first half of 2024, according to Media Radar data, a huge increase over the same period in 2023.",
+            "Link": "https://digiday.com/marketing/from-the-super-bowl-to-the-olympics-ai-companies-are-spending-more-on-ai-related-advertising/"
+        },
+        {
+            "Title": "Inside the deal structure of Outbrain and Teads\u2019 billion-dollar merger",
+            "Description": "The intricacies of \u2018one of the worst kept secrets in ad tech M&A\u2019 offer a curious insight into dealmaking in 2024.",
+            "Link": "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/"
+        }
+    ],
+    "reviewed_urls": [
+        "https://247sports.com/article/cb-khmari-bing-dissects-top-five-ahead-of-monday-commitment-234451328/",
+        "https://twitter.com/aleyda/status/1820131387254489174",
+        "https://twitter.com/glenngabe/status/1820081609304952968",
+        "https://twitter.com/rustybrick/status/1820066094041780676",
+        "https://twitter.com/aleyda/status/1820046504293269657",
+        "https://www.practicalecommerce.com/5-content-marketing-ideas-for-september",
+        "https://247sports.com/college/louisville/video/khmari-bing-baltimore-st-frances-2023-sophomore-season-highlights-12536819/",
+        "https://twitter.com/glenngabe/status/1819722247524716661",
+        "https://twitter.com/glenngabe/status/1819722247524716661",
+        "https://twitter.com/glenngabe/status/1819715279183597806",
+        "https://twitter.com/glenngabe/status/1819711252672729521",
+        "https://twitter.com/glenngabe/status/1819703777592492496",
+        "https://www.openpr.com/news/3609346/global-seo-agencies-market-size-share-analysis-by-product",
+        "https://www.businessinsider.com/several-top-news-sites-shun-openai-searchgpt-search-engine-2024-8",
+        "https://twitter.com/rustybrick/status/1819468640485282219",
+        "https://twitter.com/rustybrick/status/1819468146346246602",
+        "https://twitter.com/glenngabe/status/1819463553255866500",
+        "https://twitter.com/glenngabe/status/1819462464909856884",
+        "https://twitter.com/rustybrick/status/1819462159845445845",
+        "https://www.searchenginejournal.com/google-gives-5-seo-insights-on-google-trends/523669/",
+        "https://twitter.com/rustybrick/status/1819448330029588535",
+        "https://twitter.com/rustybrick/status/1819444555118174259",
+        "https://twitter.com/rustybrick/status/1819440780219424939",
+        "https://twitter.com/rustybrick/status/1819437005929173076",
+        "https://twitter.com/rustybrick/status/1819433230631637102",
+        "https://twitter.com/rustybrick/status/1819429455728718333",
+        "https://twitter.com/rustybrick/status/1819426687668703309",
+        "https://twitter.com/rustybrick/status/1819425681367093453",
+        "https://twitter.com/aleyda/status/1819422142687015277",
+        "https://twitter.com/glenngabe/status/1819408508506210675",
+        "https://twitter.com/rustybrick/status/1819387933285036257",
+        "https://twitter.com/rustybrick/status/1819384157098704951",
+        "https://www.trendhunter.com/trends/seotube",
+        "https://twitter.com/rustybrick/status/1819380382971973774",
+        "https://twitter.com/rustybrick/status/1819376607347290482",
+        "https://twitter.com/rustybrick/status/1819372832909885935",
+        "https://twitter.com/rustybrick/status/1819369057566474722",
+        "https://ciolook.com/the-ultimate-guide-to-seo-for-roofing-companies-in-boosting-your-online-visibility/",
+        "https://twitter.com/rustybrick/status/1819366289611112731",
+        "https://twitter.com/rustybrick/status/1819365283276247304",
+        "https://twitter.com/aleyda/status/1819361812749398177",
+        "https://twitter.com/glenngabe/status/1819356039088611556",
+        "https://twitter.com/glenngabe/status/1819352752981414007",
+        "https://twitter.com/glenngabe/status/1819348624314101763",
+        "https://twitter.com/glenngabe/status/1819344433172582702",
+        "https://twitter.com/rustybrick/status/1819342750988620270",
+        "https://www.pcmag.com/reviews/microsoft-copilot",
+        "https://twitter.com/glenngabe/status/1819340938323677208",
+        "https://www.psu.com/news/ai-powered-seo-unleashing-advanced-insights-with-machine-learning/",
+        "https://twitter.com/rustybrick/status/1819340117137674300",
+        "https://www.seroundtable.com/august-2024-google-webmaster-report-37829.html",
+        "https://twitter.com/glenngabe/status/1819339723250311643",
+        "https://www.practicalecommerce.com/beardbrand-perseveres-amid-challenges",
+        "https://twitter.com/rustybrick/status/1819337600685298050",
+        "https://twitter.com/rustybrick/status/1819335083809018021",
+        "https://twitter.com/rustybrick/status/1819332567293714756",
+        "https://twitter.com/rustybrick/status/1819330050870988814",
+        "https://twitter.com/rustybrick/status/1819328541080629622",
+        "https://www.xda-developers.com/microsoft-bing-ai-powered-search-engines/",
+        "https://twitter.com/rustybrick/status/1819327285796745395",
+        "https://twitter.com/aleyda/status/1819312616478532087",
+        "https://www.ncaa.org/news/2024/8/2/olympics-stanford-alum-kelsey-bing-balances-olympics-and-high-tech-career.aspx",
+        "https://twitter.com/rustybrick/status/1819310702198202815",
+        "https://www.searchenginejournal.com/google-confirms-robots-txt-is-ineffective-against-unauthorized-access/523632/",
+        "https://www.marketing-interactive.com/weekly-roundup-seo-tips-neil-patel-mof-ai-blunder",
+        "https://digiday.com/marketing/straight-from-the-top-criteo-says-google-wont-pull-an-apple-when-it-asks-whether-people-want-third-party-cookies/",
+        "https://digiday.com/marketing/brat-summers-sun-might-be-setting-have-marketers-noticed/",
+        "https://digiday.com/marketing/while-ai-isnt-bad-it-does-have-a-serious-branding-problem/",
+        "https://digiday.com/marketing/from-the-super-bowl-to-the-olympics-ai-companies-are-spending-more-on-ai-related-advertising/",
+        "https://digiday.com/media/inside-the-deal-structure-of-outbrain-and-teads-billion-dollar-merger/",
+        "https://www.einnews.com/pr_news/731458336/seo-firm-space-m-online-expands-operations-with-new-office-in-spain"
+    ]
+}
