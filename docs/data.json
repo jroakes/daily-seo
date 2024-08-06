@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Ruled a Monopoly in US Antitrust Case",
-            "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google acted illegally to maintain a monopoly in online search. The landmark decision could have significant implications for the tech giant and may lead to changes in how it operates.",
+            "Category": "Legal & Regulatory",
+            "Description": "A US federal judge has ruled that Google acted illegally to maintain a monopoly in online search. The landmark ruling could have significant implications for the tech giant and the future of search.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820535502170357921",
                 "https://twitter.com/glenngabe/status/1820536559772529134",
@@ -11,18 +11,28 @@
             ]
         },
         {
-            "Title": "Microsoft Sees Opportunity for Bing After Google Antitrust Ruling",
-            "Category": "Search Engines",
-            "Description": "Following the ruling against Google, some senior managers at Microsoft believe there is an opportunity for Bing to gain market share. The company is reportedly exploring ways to capitalize on the situation.",
+            "Title": "Microsoft Bing Sees Opportunity After Google Antitrust Ruling",
+            "Category": "Business & Finance",
+            "Description": "Following the court ruling against Google, Microsoft executives believe their Bing search engine could gain market share from the weakened tech giant.",
             "Links": [
                 "https://www.theinformation.com/articles/after-google-antitrust-loss-some-at-microsoft-see-an-opening-for-bing",
-                "https://www.avclub.com/google-monopoly-federal-court"
+                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/"
             ]
         },
         {
-            "Title": "Bing Search Algorithm Update Speculation",
-            "Category": "Search Engines",
-            "Description": "There is speculation that Bing may have implemented a significant search algorithm update around May 29th. While Microsoft has denied any unusual releases around that date, analysis of website volatility suggests otherwise.",
+            "Title": "Google Search Console Launches New Recommendations Feature",
+            "Category": "SEO & Search",
+            "Description": "Google Search Console has introduced a new \"Recommendations\" feature, offering website owners personalized SEO suggestions to enhance their site's performance in search results.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/",
+                "https://searchengineland.com/google-search-console-launches-recommendations-444711",
+                "https://twitter.com/aleyda/status/1820484794100375621"
+            ]
+        },
+        {
+            "Title": "Bing Search May Have Released Algorithm Update in May",
+            "Category": "SEO & Search",
+            "Description": "Data analysis suggests Bing may have implemented a significant search algorithm update around May 29th, potentially impacting website rankings.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820531718660436085",
                 "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html",
@@ -30,30 +40,36 @@
             ]
         },
         {
-            "Title": "Google Search Console Launches Recommendations Feature",
-            "Category": "SEO",
-            "Description": "Google Search Console has introduced a new experimental feature that provides personalized SEO recommendations to website owners. The feature aims to simplify website optimization by highlighting areas for improvement.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/",
-                "https://twitter.com/aleyda/status/1820484794100375621",
-                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
-            ]
-        },
-        {
             "Title": "YouTuber Files Class Action Lawsuit Against OpenAI for Video Transcript Scraping",
-            "Category": "AI & Law",
-            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging that the company scraped video transcripts without permission to train its AI models. The lawsuit comes amidst ongoing legal battles surrounding data scraping and copyright infringement in the AI industry.",
+            "Category": "Legal & Regulatory",
+            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging the company scraped video transcripts without permission for use in training its AI models.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1820498819941019845",
-                "https://twitter.com/glenngabe/status/1819715279183597806"
+                "https://twitter.com/glenngabe/status/1820498819941019845"
             ]
         },
         {
             "Title": "Warner Bros. and Fandango Partner to Sell Movie Tickets Within Roblox",
-            "Category": "Metaverse & Entertainment",
-            "Description": "Warner Bros. and Fandango are collaborating to sell movie tickets within the Roblox metaverse. The partnership allows users to purchase tickets for real-life screenings of \"Beetlejuice, Beetlejuice\" through a virtual box office within a Roblox experience.",
+            "Category": "Marketing & Advertising",
+            "Description": "Warner Bros. and Fandango are collaborating to sell real-world movie tickets within the Roblox platform, leveraging the metaverse for innovative marketing and ticketing experiences.",
             "Links": [
                 "https://digiday.com/marketing/why-warner-bros-and-fandango-are-selling-movie-tickets-inside-roblox/"
+            ]
+        },
+        {
+            "Title": "Google Ads Reporting Outage Intentional Due to Competitive Concerns",
+            "Category": "Technology & Software",
+            "Description": "Google admitted to intentionally causing a Google Ads reporting outage, citing concerns about competitive Merchant Center products. The company plans to issue credits to affected advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1820066094041780676",
+                "https://twitter.com/rustybrick/status/1820784635216802246"
+            ]
+        },
+        {
+            "Title": "Apple's New Safari Feature Impacts Website Design and Marketing",
+            "Category": "Technology & Software",
+            "Description": "Apple's latest Safari browser update introduces a feature that removes distracting elements from websites, potentially affecting user experience and digital marketing strategies.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1820791739491205159"
             ]
         }
     ],
