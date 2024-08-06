@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Ruled a Monopoly in US Antitrust Case",
-            "Category": "Legal & Antitrust",
-            "Description": "A federal judge has ruled that Google acted illegally to maintain a monopoly in online search, a decision that could significantly impact the tech giant's operations and the future of search.",
+            "Category": "Antitrust",
+            "Description": "A federal judge ruled that Google has acted illegally to maintain a monopoly in online search, a decision that could significantly impact the tech giant's operations and the broader landscape of the industry.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820535502170357921",
                 "https://twitter.com/glenngabe/status/1820536559772529134",
@@ -11,19 +11,19 @@
             ]
         },
         {
-            "Title": "Microsoft Bing Sees Opportunity After Google Antitrust Ruling",
-            "Category": "Business & Technology",
-            "Description": "With Google facing the consequences of being declared a monopoly, Microsoft's Bing search engine is presented with a potential opportunity to gain market share.",
+            "Title": "Microsoft Bing Sees Opportunity Following Google Antitrust Ruling",
+            "Category": "Antitrust",
+            "Description": "With Google facing potential repercussions from its antitrust loss, Microsoft executives see an opportunity for their Bing search engine to gain market share.",
             "Links": [
                 "https://www.theinformation.com/articles/after-google-antitrust-loss-some-at-microsoft-see-an-opening-for-bing",
-                "https://www.avclub.com/google-monopoly-federal-court",
-                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/"
+                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/",
+                "https://www.avclub.com/google-monopoly-federal-court"
             ]
         },
         {
-            "Title": "Google Search Console Launches New Recommendations Feature",
-            "Category": "SEO & Search",
-            "Description": "Google Search Console has introduced a new \"Recommendations\" feature, offering website owners personalized SEO suggestions to enhance their site's performance in search results.",
+            "Title": "Google Search Console Launches Recommendations Feature",
+            "Category": "SEO",
+            "Description": "Google Search Console introduces a new \"Recommendations\" feature, offering website owners personalized SEO suggestions to enhance their site's performance in search results.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/",
                 "https://searchengineland.com/google-search-console-launches-recommendations-444711",
@@ -31,65 +31,68 @@
             ]
         },
         {
-            "Title": "Google Ads Reporting Outage Intentional Due to Competitive Concerns",
-            "Category": "Advertising & Business",
-            "Description": "Google has confirmed that the recent Google Ads reporting outage was intentional, caused by concerns over ads serving competitive Merchant Center products. The company plans to issue credits to affected advertisers.",
+            "Title": "Google Search Ranking Volatility Increases",
+            "Category": "SEO",
+            "Description": "Google's search ranking algorithm experiences heightened volatility, potentially signaling an update or adjustments in how websites are ranked.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1820066094041780676",
-                "https://twitter.com/rustybrick/status/1820784635216802246",
-                "https://twitter.com/rustybrick/status/1820811098083209448"
+                "https://twitter.com/rustybrick/status/1820792185299595403",
+                "https://www.seroundtable.com/google-search-ranking-volatility-37851.html",
+                "https://twitter.com/glenngabe/status/1820794138834399694"
             ]
         },
         {
-            "Title": "YouTuber Files Class Action Lawsuit Against OpenAI for Video Transcript Scraping",
-            "Category": "AI & Legal",
-            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging the company scraped video transcripts without permission for training its AI models, raising concerns about copyright infringement.",
+            "Title": "SEO Scam Targets Website Owners with Promises to Fix Rankings",
+            "Category": "SEO",
+            "Description": "A new SEO scam preys on website owners by falsely claiming that Google charges a fee to improve search rankings, urging them to pay for nonexistent services.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1820787151811809529",
+                "https://www.seroundtable.com/seo-scam-pay-google-37848.html",
+                "https://twitter.com/rustybrick/status/1820829934367236362"
+            ]
+        },
+        {
+            "Title": "Google Ads Reporting Outage Intentional Due to Competitive Products",
+            "Category": "Advertising",
+            "Description": "Google acknowledges that a recent outage affecting Google Ads reporting was deliberate, citing concerns over competitive Merchant Center products and promising credits to affected advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1820784635216802246",
+                "https://twitter.com/rustybrick/status/1820811098083209448",
+                "https://twitter.com/rustybrick/status/1820826159120359434"
+            ]
+        },
+        {
+            "Title": "Google Trends Unveils Redesigned Trending Now Page",
+            "Category": "Search",
+            "Description": "Google Trends introduces a revamped design for its Trending Now section, enhancing user experience with improved sorting, filtering, and insights into trending topics.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1820782118919876757",
+                "https://twitter.com/aleyda/status/1820885188013879535",
+                "https://twitter.com/rustybrick/status/1820822384745816526"
+            ]
+        },
+        {
+            "Title": "YouTuber Sues OpenAI Over Alleged Scraping of Video Transcripts",
+            "Category": "AI & Law",
+            "Description": "A class action lawsuit filed by a YouTuber accuses OpenAI of scraping video transcripts without permission, raising concerns about copyright infringement and data privacy in the age of AI.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1820498819941019845",
                 "https://twitter.com/glenngabe/status/1819715279183597806"
             ]
         },
         {
-            "Title": "Warner Bros. and Fandango Partner to Sell Movie Tickets Within Roblox",
-            "Category": "Entertainment & Marketing",
-            "Description": "Warner Bros. and Fandango are experimenting with real-life commerce in the metaverse, selling movie tickets for the upcoming \"Beetlejuice\" film through a virtual box office within the Roblox platform.",
-            "Links": [
-                "https://digiday.com/marketing/why-warner-bros-and-fandango-are-selling-movie-tickets-inside-roblox/"
-            ]
-        },
-        {
-            "Title": "Bing Search Algorithm May Have Received Core Update in May",
-            "Category": "SEO & Search",
-            "Description": "Analysis of website ranking volatility suggests that Bing may have implemented a significant core update to its search algorithm around May 29th, potentially impacting search visibility for many websites.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820531718660436085",
-                "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html",
-                "https://twitter.com/glenngabe/status/1819703777592492496"
-            ]
-        },
-        {
-            "Title": "Google Search Ranking Volatility Increases Following Monopoly Ruling",
-            "Category": "SEO & Search",
-            "Description": "Following the recent court ruling declaring Google a monopoly, there has been a noticeable increase in Google Search ranking volatility, potentially indicating algorithm updates or adjustments.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820792185299595403",
-                "https://www.seroundtable.com/google-search-ranking-volatility-37851.html"
-            ]
-        },
-        {
-            "Title": "Elon Musk's X Files Antitrust Lawsuit Against GARM and Advertisers",
-            "Category": "Legal & Advertising",
-            "Description": "Elon Musk's X (formerly Twitter) has filed a federal antitrust lawsuit against the Global Alliance for Responsible Media (GARM) and several of its members, alleging anti-competitive practices related to advertising.",
+            "Title": "Elon Musk's X Sues Advertisers Over Alleged Antitrust Activity",
+            "Category": "Antitrust",
+            "Description": "Elon Musk's X platform files a federal antitrust lawsuit against a group of advertisers, alleging a conspiracy to harm the platform's advertising revenue.",
             "Links": [
                 "https://digiday.com/marketing/x-files-federal-antitrust-suit-against-garm-wfa-cvs-health-mars-orsted-unilever/"
             ]
         },
         {
-            "Title": "Apple's New Safari Feature Aims to Remove Distractions from Websites",
-            "Category": "Technology & User Experience",
-            "Description": "Apple has introduced a new feature in its Safari browser designed to eliminate distracting elements from websites, potentially impacting user experience and digital marketing strategies.",
+            "Title": "Warner Bros. and Fandango Sell Movie Tickets Within Roblox",
+            "Category": "Marketing & Metaverse",
+            "Description": "Warner Bros. and Fandango partner to sell movie tickets within the Roblox metaverse, showcasing a novel approach to promoting films and engaging with audiences in virtual environments.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1820791739491205159"
+                "https://digiday.com/marketing/why-warner-bros-and-fandango-are-selling-movie-tickets-inside-roblox/"
             ]
         }
     ],
