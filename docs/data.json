@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Ruled a Monopoly in US Antitrust Case",
-            "Category": "Legal & Antitrust",
-            "Description": "A US federal judge has ruled that Google acted illegally to maintain a monopoly in the online search and advertising markets. The landmark decision could have significant implications for the tech giant and may lead to changes in how it operates.",
+            "Category": "Antitrust",
+            "Description": "A federal judge has ruled that Google acted illegally to maintain a monopoly in online search. The landmark decision could have significant implications for the tech giant and may lead to changes in how it operates.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820535502170357921",
                 "https://twitter.com/glenngabe/status/1820536559772529134",
@@ -12,27 +12,17 @@
         },
         {
             "Title": "Microsoft Sees Opportunity for Bing After Google Antitrust Ruling",
-            "Category": "Business & Technology",
-            "Description": "Following the ruling against Google, some senior managers at Microsoft's Bing search engine believe there is an opportunity for Bing to gain market share at Google's expense.",
+            "Category": "Search Engines",
+            "Description": "Following the ruling against Google, some senior managers at Microsoft believe there is an opportunity for Bing to gain market share. The company is reportedly exploring ways to capitalize on the situation.",
             "Links": [
                 "https://www.theinformation.com/articles/after-google-antitrust-loss-some-at-microsoft-see-an-opening-for-bing",
                 "https://www.avclub.com/google-monopoly-federal-court"
             ]
         },
         {
-            "Title": "Google Search Console Launches New SEO Recommendations Feature",
-            "Category": "SEO & Search",
-            "Description": "Google has introduced a new feature in Search Console that provides personalized SEO recommendations to website owners, aiming to simplify website optimization and improve search visibility.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/",
-                "https://twitter.com/aleyda/status/1820484794100375621",
-                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
-            ]
-        },
-        {
-            "Title": "Bing Search May Have Rolled Out Algorithm Update in May",
-            "Category": "SEO & Search",
-            "Description": "Analysis of website ranking volatility suggests that Bing may have implemented a significant core update to its search algorithm around May 29th, potentially impacting website rankings.",
+            "Title": "Bing Search Algorithm Update Speculation",
+            "Category": "Search Engines",
+            "Description": "There is speculation that Bing may have implemented a significant search algorithm update around May 29th. While Microsoft has denied any unusual releases around that date, analysis of website volatility suggests otherwise.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820531718660436085",
                 "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html",
@@ -40,51 +30,30 @@
             ]
         },
         {
-            "Title": "YouTuber Files Class Action Lawsuit Against OpenAI Over Video Transcript Scraping",
-            "Category": "Legal & AI",
-            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging that the company scraped video transcripts from creators without permission for use in training its AI models.",
+            "Title": "Google Search Console Launches Recommendations Feature",
+            "Category": "SEO",
+            "Description": "Google Search Console has introduced a new experimental feature that provides personalized SEO recommendations to website owners. The feature aims to simplify website optimization by highlighting areas for improvement.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1820498819941019845"
+                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/",
+                "https://twitter.com/aleyda/status/1820484794100375621",
+                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
+            ]
+        },
+        {
+            "Title": "YouTuber Files Class Action Lawsuit Against OpenAI for Video Transcript Scraping",
+            "Category": "AI & Law",
+            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging that the company scraped video transcripts without permission to train its AI models. The lawsuit comes amidst ongoing legal battles surrounding data scraping and copyright infringement in the AI industry.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1820498819941019845",
+                "https://twitter.com/glenngabe/status/1819715279183597806"
             ]
         },
         {
             "Title": "Warner Bros. and Fandango Partner to Sell Movie Tickets Within Roblox",
-            "Category": "Marketing & Entertainment",
-            "Description": "Warner Bros. and Fandango are collaborating to sell movie tickets for the upcoming \"Beetlejuice\" film within the Roblox gaming platform, marking a novel approach to real-life commerce within a virtual environment.",
+            "Category": "Metaverse & Entertainment",
+            "Description": "Warner Bros. and Fandango are collaborating to sell movie tickets within the Roblox metaverse. The partnership allows users to purchase tickets for real-life screenings of \"Beetlejuice, Beetlejuice\" through a virtual box office within a Roblox experience.",
             "Links": [
                 "https://digiday.com/marketing/why-warner-bros-and-fandango-are-selling-movie-tickets-inside-roblox/"
-            ]
-        },
-        {
-            "Title": "Google Updates Deepfake Detection Algorithms and Expands \"About this Image\"",
-            "Category": "SEO & Search",
-            "Description": "Google has announced updates to its search algorithms and controls aimed at combating the spread of deepfakes. The company is also expanding its \"About this image\" feature to provide more context and transparency about image search results.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1820046504293269657"
-            ]
-        },
-        {
-            "Title": "AI-Driven Advertising Takes Center Stage in Earnings Season",
-            "Category": "Business & Technology",
-            "Description": "AI-powered advertising is emerging as a dominant theme during the current earnings cycle for major advertising platforms and AI technology providers.",
-            "Links": [
-                "https://digiday.com/media-buying/ai-briefing-heres-how-ai-is-showing-up-during-this-earnings-cycle/"
-            ]
-        },
-        {
-            "Title": "Google's Search Off The Record Podcast Discusses Hreflang and International SEO",
-            "Category": "SEO & Search",
-            "Description": "The latest episode of Google's Search Off The Record podcast focuses on hreflang implementation and best practices for international search engine optimization (SEO).",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820081609304952968"
-            ]
-        },
-        {
-            "Title": "ChatGPT Accused of Citing Plagiarized Content in New York Times Lawsuit",
-            "Category": "Legal & AI",
-            "Description": "Reports indicate that ChatGPT is citing plagiarized versions of New York Times articles sourced from a content mill, adding fuel to the ongoing lawsuit between the NYT and OpenAI regarding copyright infringement.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1819715279183597806"
             ]
         }
     ],
