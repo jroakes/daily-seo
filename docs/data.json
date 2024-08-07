@@ -3,45 +3,46 @@
         {
             "Title": "Google Ruled a Monopoly in US Antitrust Case",
             "Category": "Legal",
-            "Description": "A US federal judge ruled that Google has acted illegally to maintain a monopoly in the online search market.  The ruling could have significant implications for the tech giant and may lead to changes in how it operates.",
+            "Description": "A US federal judge ruled that Google has acted illegally to maintain a monopoly in online search. The ruling could have significant implications for the tech giant and the entire ad industry.",
             "Links": [
-                "https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown",
                 "https://twitter.com/glenngabe/status/1820536559772529134",
-                "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html"
+                "https://twitter.com/rustybrick/status/1820535502170357921",
+                "https://twitter.com/aleyda/status/1820540234141966820"
             ]
         },
         {
-            "Title": "Microsoft Bing Sees Opportunity Following Google Antitrust Ruling",
+            "Title": "Microsoft Bing Sees Opportunity After Google Antitrust Ruling",
             "Category": "Business & Technology",
-            "Description": "With Google facing potential consequences from its recent antitrust ruling, Microsoft executives believe there is an opening for its Bing search engine to gain market share.",
+            "Description": "Following the ruling that Google holds an illegal monopoly in search, Microsoft executives believe there is an opportunity for Bing to gain market share.",
             "Links": [
-                "https://mashable.com/article/apple-on-bing-antitrust-case",
                 "https://www.theinformation.com/articles/after-google-antitrust-loss-some-at-microsoft-see-an-opening-for-bing",
+                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/",
                 "https://www.avclub.com/google-monopoly-federal-court"
             ]
         },
         {
             "Title": "Apple Rejected Bing as Safari's Default Search Engine",
             "Category": "Business & Technology",
-            "Description": "Newly revealed details from the Google antitrust case show that Apple consistently refused to replace Google with Bing as the default search engine for Safari, citing Bing's poor quality.",
+            "Description": "Court documents from the Google antitrust case reveal that Apple refused to adopt Microsoft Bing as the default search engine for Safari, citing Bing's poor quality.",
             "Links": [
+                "https://mashable.com/article/apple-on-bing-antitrust-case",
                 "https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown",
-                "http://gigazine.net/gsc_news/en/20240807-apple-safari-search-engine-google-than-bing/",
-                "https://mashable.com/article/apple-on-bing-antitrust-case"
+                "http://gigazine.net/gsc_news/en/20240807-apple-safari-search-engine-google-than-bing"
             ]
         },
         {
-            "Title": "Elon Musk's X Sues Advertising Alliance Over Alleged Antitrust Violations",
+            "Title": "Elon Musk's X Sues Advertisers for Alleged Antitrust Activity",
             "Category": "Legal",
-            "Description": "Elon Musk's X (formerly Twitter) has filed a federal lawsuit against the Global Alliance for Responsible Media (GARM) and several of its members, alleging antitrust activity related to advertising practices.",
+            "Description": "Elon Musk's X has filed a federal lawsuit against a group of advertisers, including CVS Health, Mars, and Unilever, alleging antitrust behavior related to their involvement with the Global Alliance for Responsible Media (GARM).",
             "Links": [
-                "https://digiday.com/marketing/x-files-federal-antitrust-suit-against-garm-wfa-cvs-health-mars-orsted-unilever/"
+                "https://digiday.com/marketing/x-files-federal-antitrust-suit-against-garm-wfa-cvs-health-mars-orsted-unilever/",
+                "https://digiday.com/marketing/x-takes-legal-action-against-advertisers-to-challenge-media-status-quo/"
             ]
         },
         {
             "Title": "Google Search Console Launches New Recommendations Feature",
             "Category": "SEO & Search",
-            "Description": "Google Search Console is rolling out an experimental \"Recommendations\" feature, providing website owners with personalized suggestions to improve their site's performance in search results.",
+            "Description": "Google Search Console is rolling out a new feature that provides website owners with personalized SEO recommendations based on data from their sites.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html",
                 "https://twitter.com/rustybrick/status/1820789668616802810",
@@ -49,19 +50,19 @@
             ]
         },
         {
-            "Title": "Google Trends Gets a Design Refresh",
+            "Title": "Google Trends Gets a Redesign",
             "Category": "SEO & Search",
-            "Description": "Google Trends has introduced a redesigned interface for its trending now page, offering users enhanced filtering capabilities and more detailed keyword data.",
+            "Description": "Google Trends has rolled out a new design for its trending now page, offering more filter options and keyword data.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1820822384745816526",
                 "https://twitter.com/rustybrick/status/1820782118919876757",
-                "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html"
+                "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html",
+                "https://twitter.com/aleyda/status/1820885188013879535"
             ]
         },
         {
-            "Title": "Google Business Profiles Testing \"See Also\" Carousel with Competitors",
+            "Title": "Google Business Profiles Tests \"See Also\" Carousel",
             "Category": "SEO & Search",
-            "Description": "Google is experimenting with a new \"see also\" carousel on Google Business Profiles, potentially displaying local competitors directly beneath a business's listing.",
+            "Description": "Google is testing a \"see also\" carousel on Google Business Profiles, potentially showing competitors' listings directly beneath a business's own listing.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820818609049903379",
                 "https://twitter.com/rustybrick/status/1820779602400498111",
@@ -69,71 +70,32 @@
             ]
         },
         {
-            "Title": "Beware of SEO Scams Promising Paid Google Ranking Fixes",
+            "Title": "Google Ads Bug Served Ads for Competitors' Products",
             "Category": "SEO & Search",
-            "Description": "Google is warning users about an ongoing SEO scam where individuals are tricked into paying for fake services that claim to improve their website's ranking in Google Search.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820787151811809529",
-                "https://www.seroundtable.com/seo-scam-pay-google-37848.html"
-            ]
-        },
-        {
-            "Title": "Google Ads Bug Displayed Ads for Competing Merchants",
-            "Category": "SEO & Search",
-            "Description": "Google has acknowledged a bug in its Google Ads platform that resulted in some advertisers' ads being displayed alongside products from competing merchants. The company plans to issue credits to affected advertisers.",
+            "Description": "Google has acknowledged a bug in Google Ads that caused ads to be served for products from other merchants' Google Merchant Center accounts. The company will issue credits to affected advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820784635216802246",
                 "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html"
             ]
         },
         {
-            "Title": "Microsoft Denies Bing Search Algorithm Update in May",
+            "Title": "Bing Search Algorithm Update Detected in May",
             "Category": "SEO & Search",
-            "Description": "Microsoft has refuted claims of a significant Bing Search algorithm update around May 29th, stating that no unusual releases occurred during that period.",
+            "Description": "Data analysis suggests that Bing released a significant search algorithm update around May 29th, although Microsoft has denied any unusual releases around that time.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1820471321006096550",
-                "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html"
+                "https://www.seroundtable.com/bing-search-ranking-algorithm-update-may-29th-37840.html",
+                "https://twitter.com/glenngabe/status/1820418341493706853"
             ]
         },
         {
             "Title": "Google Search Traffic Remains Strong Despite AI Competition",
             "Category": "SEO & Search",
-            "Description": "A recent report indicates that Google's search traffic has continued to grow, showing no significant impact from the emergence of new AI-powered search engines.",
+            "Description": "Despite the emergence of new AI-powered search engines, Google's search traffic has continued to grow, according to a recent report.",
             "Links": [
                 "https://twitter.com/sengineland/status/1820459828864487908",
+                "https://www.seroundtable.com/recap-08-06-2024-37852.html",
                 "https://searchengineland.com/report-google-search-traffic-and-queries-not-impacted-by-new-competing-ai-search-engines-444707"
-            ]
-        },
-        {
-            "Title": "Google Lens Adds Voice Context to Video Searches",
-            "Category": "SEO & Search",
-            "Description": "Google Lens now allows users to record videos and add voice context to their searches, enhancing the visual search experience.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820429469267722575"
-            ]
-        },
-        {
-            "Title": "OpenAI Develops ChatGPT Watermarking Tool, But Hesitates to Release",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI has created a watermarking method that can identify text generated by ChatGPT with 99.9% accuracy, but internal debates have delayed its public release.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820427824303423827"
-            ]
-        },
-        {
-            "Title": "CNET Acquired by Ziff Davis for Over \\$100 Million",
-            "Category": "Business & Technology",
-            "Description": "Red Ventures has sold CNET, a pioneering online tech publication, to Ziff Davis, the parent company of Mashable, PC Mag, and other media brands.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820803606758519230"
-            ]
-        },
-        {
-            "Title": "Reddit Reports Strong Q2 Earnings with Revenue Growth",
-            "Category": "Business & Technology",
-            "Description": "Reddit's Q2 earnings revealed a 54% year-over-year increase in revenue, reaching \\$281.2 million. The platform also saw significant growth in daily active users.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820921163503009932"
             ]
         }
     ],
