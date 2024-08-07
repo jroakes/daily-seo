@@ -329,6 +329,61 @@
             "Title": "8 months in: How Rolls Royce and Conagra HR teams use gen AI for talent development",
             "Description": "It may be early days, but HR teams at major companies are getting more confident with how generative AI can assist them with tasks.",
             "Link": "https://digiday.com/marketing/8-months-in-how-rolls-royce-and-conagra-hr-teams-use-gen-ai-for-talent-development/"
+        },
+        {
+            "Title": "Five reasons why Apple refused to adopt Microsoft Bing as the default search engine for Safari",
+            "Description": "On August 5, 2024, the District of Columbia U.S. District Court ruled that 'Google effectively shuts out rival search engines due to its massive size, high capital costs, and control of major distribution channels,' acknowledging Google's antitrust violations. In its ruling, the court determined that the contract between Google and Apple played a key role in maintaining Google's monopoly position, and summarized why Apple did not adopt Microsoft Bing, a rival engine to Google.",
+            "Link": "http://gigazine.net/gsc_news/en/20240807-apple-safari-search-engine-google-than-bing/"
+        },
+        {
+            "Title": "Daily Search Forum Recap: August 6, 2024",
+            "Description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. \n\nThe DOJ ruled Google is a monopoly and action will be taken to limit that.  Google Search rankings are also heating up. Google Search Console has a new recommendations section. Google Business Profiles shows your competitors in the see also carousel. There is a new SEO scam going around. Google served ads for products from other merchants and will issue credits. Google Trends has a new design for trending now results...",
+            "Link": "https://www.seroundtable.com/recap-08-06-2024-37852.html"
+        },
+        {
+            "Title": "Google Served Ads For Products From Other Merchants",
+            "Description": "The big Google Ads reporting outage from the eve of August 1st was an intentional outage due to Google serving ads for products from other Google Merchant Center accounts. This was not just an ad spend issue but also a privacy and data issue for Google advertisers. But don't worry, Google will issue credits to the \"small fraction of advertisers\" that were impacted by this.",
+            "Link": "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html"
+        },
+        {
+            "Title": "Google Trends New Trending Now Design",
+            "Description": "Google Trends began rolling out a new design for the trending now page a day or so ago.  The new design seems to give you more filter options and provide more keyword data on the same page.",
+            "Link": "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html"
+        },
+        {
+            "Title": "Google Business Profiles Local Listings With See Also",
+            "Description": "Google is testing the \"see also\" carousel on Google Business Profiles. This means, someone can be looking directly at your local listing on Google, maybe because they searched for your company name, and Google can be suggesting competitors right under your listing.",
+            "Link": "https://www.seroundtable.com/google-business-profiles-see-also-37849.html"
+        },
+        {
+            "Title": "Google Is A Monopoly & Will Be Broken Up Or Face Serious Constraints",
+            "Description": "Judge Amit Mehta, a US federal judge ruled on Monday that Google is a monopoly. \"Google is a monopolist, and it has acted as one to maintain its monopoly,\" Judge Mehta wrote in his 286-page filing (PDF).",
+            "Link": "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html"
+        },
+        {
+            "Title": "Report: Google Search traffic and queries not impacted by new competing AI search engines",
+            "Description": "New data from Datos\u2019 clickstream panel analyzed by Sonata Insights showed Google traffic grew over the year, despite all the new AI competitors.",
+            "Link": "https://searchengineland.com/report-google-search-traffic-and-queries-not-impacted-by-new-competing-ai-search-engines-444707"
+        },
+        {
+            "Title": "Google Ignores RateLimit Header Fields for HTTP",
+            "Description": "Google seems to know handle or obey the RateLimit Header Fields for HTTP.  Mike Blazer asked John Mueller from Google about this and John said he never heard of it, so he assumes Google Search does not handle it.",
+            "Link": "https://www.seroundtable.com/google-ignores-ratelimit-header-fields-for-http-37839.html"
+        },
+        {
+            "Title": "Google Drops \"See Results About\" Title From Mobile Search Results",
+            "Description": "Google has dropped the title from the \"see results about\" disambiguous search feature in the mobile search results interface. The feature is still very much alive, but on mobile search, Google removed the title of it and just shows the feature. On desktop, the title of the search feature remains.",
+            "Link": "https://www.seroundtable.com/google-drops-see-results-about-title-mobile-37841.html"
+        },
+        {
+            "Title": "Google Shopping Product Images May Show User Review Images",
+            "Description": "Google seems to be showing photos from reviews from actual users in the Google Shopping product image carousel.  So when you click on a product listing and then swipe through the images, you may see actual photos submitted by users from their reviews.",
+            "Link": "https://www.seroundtable.com/google-shopping-product-images-user-review-images-37838.html"
+        },
+        {
+            "Title": "Google Local Knowledge Panel Interactive Card Layout",
+            "Description": "Google seems to have launched the interactive knowledge panel layout for local knowledge panels in Google Search. This design is from a couple of years ago but now seems to be rolling out for the local version of knowledge panels.",
+            "Link": "https://www.seroundtable.com/google-local-knowledge-panel-interactive-card-layout-37837.html"
         }
     ],
     "reviewed_urls": [
@@ -471,6 +526,18 @@
         "https://twitter.com/aleyda/status/1820131387254489174",
         "https://twitter.com/glenngabe/status/1820081609304952968",
         "https://twitter.com/aleyda/status/1820046504293269657",
-        "https://www.practicalecommerce.com/5-content-marketing-ideas-for-september"
+        "https://www.practicalecommerce.com/5-content-marketing-ideas-for-september",
+        "http://gigazine.net/gsc_news/en/20240807-apple-safari-search-engine-google-than-bing/",
+        "https://talkingbiznews.com/biz-news-help-wanted/wsj-seeks-associate-seo-editor/",
+        "https://www.seroundtable.com/recap-08-06-2024-37852.html",
+        "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html",
+        "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html",
+        "https://www.seroundtable.com/google-business-profiles-see-also-37849.html",
+        "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html",
+        "https://searchengineland.com/report-google-search-traffic-and-queries-not-impacted-by-new-competing-ai-search-engines-444707",
+        "https://www.seroundtable.com/google-ignores-ratelimit-header-fields-for-http-37839.html",
+        "https://www.seroundtable.com/google-drops-see-results-about-title-mobile-37841.html",
+        "https://www.seroundtable.com/google-shopping-product-images-user-review-images-37838.html",
+        "https://www.seroundtable.com/google-local-knowledge-panel-interactive-card-layout-37837.html"
     ]
 }
