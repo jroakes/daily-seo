@@ -1,29 +1,49 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly in US Antitrust Case",
+            "Title": "Google Declared a Monopoly in US Antitrust Case",
             "Category": "Antitrust",
-            "Description": "A US federal judge has ruled that Google holds a monopoly in the search market, setting the stage for potential actions to limit its dominance. The ruling could have significant implications for the tech giant and the search industry as a whole.",
+            "Description": "A US federal judge ruled that Google is a monopoly and has acted as one to maintain its dominance in the search market. The ruling could have significant implications for the company, potentially leading to limitations or a breakup.",
             "Links": [
                 "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html",
                 "https://www.avclub.com/google-monopoly-federal-court",
-                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/"
+                "https://apnews.com/article/google-antitrust-search-engine-verdict-apple-319a61f20fb11510097845a30abaefd8"
             ]
         },
         {
-            "Title": "Apple Rejects Bing as Default Search Engine, Even With Microsoft's Offer of Entire Company",
+            "Title": "Apple Refuses to Replace Google with Bing, Even for \"the Whole Company\"",
             "Category": "Search Engines",
-            "Description": "Apple has firmly rejected Microsoft's Bing as the default search engine for its Safari browser, even if Microsoft were to offer the entire company. Apple cites Bing's poor ad monetization and Google's unmatched revenue share as reasons for its decision.",
+            "Description": "Apple has rejected Microsoft's offer to replace Google with Bing as the default search engine on Safari, even if Microsoft offered the entire company. Apple cites Bing's poor quality and lack of revenue potential as reasons for sticking with Google.",
             "Links": [
                 "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/",
                 "https://www.imore.com/iphone/bing-is-so-bad-apple-says-theres-no-price-in-the-world-that-microsoft-could-offer-us-to-ditch-google-on-the-iphone",
-                "https://www.digitalinformationworld.com/2024/08/apples-denial-of-microsoft-bing-real.html"
+                "https://www.androidheadlines.com/2024/08/apple-bing-search.html"
             ]
         },
         {
-            "Title": "Google Ads to Transition Smart Campaigns Functionality to Performance Max",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns in the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
+            "Title": "Google Search Ranking Volatility Increases",
+            "Category": "Search Engines",
+            "Description": "Google Search ranking volatility is heating up again after a brief period of relative calm. This follows a period of significant volatility and coincides with the recent antitrust ruling against Google, although the two are not necessarily related.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-volatility-37851.html",
+                "https://twitter.com/rustybrick/status/1820792185299595403",
+                "https://twitter.com/glenngabe/status/1820794138834399694"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
+            "Category": "Search Engines",
+            "Description": "The Google Business Profiles performance report is no longer displaying the \"call\" tab, which provided data on calls generated from Google Search and Maps. This change may be related to the recent removal of the Google Business Profile call history feature.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821252720147480899",
+                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
+                "https://twitter.com/rustybrick/status/1821192321620185094"
+            ]
+        },
+        {
+            "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
+            "Category": "Advertising",
+            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns over the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821245169829556401",
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
@@ -31,102 +51,13 @@
             ]
         },
         {
-            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
-            "Category": "Local Search",
-            "Description": "The Google Business Profiles performance report has stopped displaying the \"call\" tab, which provided statistics and data on searchers who called businesses from Google Search and Google Maps. This change may be related to the recent removal of Google Business Profile call history.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821192321620185094",
-                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
-                "https://twitter.com/rustybrick/status/1821252720147480899"
-            ]
-        },
-        {
-            "Title": "Apple Maintains a Search Index of Billions of Websites",
+            "Title": "Google Search Console Introduces New Recommendations Feature",
             "Category": "Search Engines",
-            "Description": "Documents revealed during the DOJ's antitrust ruling against Google disclose that Apple maintains its own search index, encompassing billions of websites. The specific number remains redacted, but the revelation sheds light on Apple's search capabilities.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821196096875720799",
-                "https://twitter.com/rustybrick/status/1821256494349709707",
-                "https://www.seroundtable.com/apple-search-index-37855.html"
-            ]
-        },
-        {
-            "Title": "Google Ads Tests Displaying Advertiser's Name on Call Extensions",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads is experimenting with a new call extension ad format that displays the advertiser's name below the clickable phone number. This change aims to enhance the visibility of the phone number and the call-to-action for call extensions.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821188547053023706",
-                "https://www.seroundtable.com/google-ads-call-extensions-with-advertiser-name-37854.html",
-                "https://twitter.com/rustybrick/status/1821248945152270712"
-            ]
-        },
-        {
-            "Title": "Google Search Console Introduces \"Recommendations\" Feature",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console is rolling out a new \"Recommendations\" feature, providing website owners with personalized SEO advice. These recommendations, based on Search Console data, aim to enhance website performance in Google Search.",
+            "Description": "Google Search Console is rolling out a new feature called \"Recommendations.\" This experimental feature provides website owners with personalized suggestions for improving their site's performance in Google Search, based on data from Search Console.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html",
                 "https://twitter.com/rustybrick/status/1820789668616802810",
-                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/"
-            ]
-        },
-        {
-            "Title": "Google Ads to Issue Credits for Serving Ads with Incorrect Product Data",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads experienced a significant reporting outage on August 1st due to a bug that caused ads to display products from incorrect Google Merchant Center accounts. Google acknowledges the issue as a privacy and data concern and plans to issue credits to affected advertisers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820826159120359434",
-                "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html"
-            ]
-        },
-        {
-            "Title": "Google Trends Unveils Redesigned Trending Now Page",
-            "Category": "Search Trends",
-            "Description": "Google Trends has introduced a new design for its trending now page, offering enhanced filter options and more comprehensive keyword data on a single page.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820822384745816526",
-                "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html"
-            ]
-        },
-        {
-            "Title": "Google Business Profiles Testing \"See Also\" Carousel with Competitors",
-            "Category": "Local Search",
-            "Description": "Google is experimenting with a \"see also\" carousel on Google Business Profiles, potentially displaying competitor suggestions directly beneath a business's local listing. This feature could impact user behavior and competition among local businesses.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820818609049903379",
-                "https://www.seroundtable.com/google-business-profiles-see-also-37849.html"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing Receives AI-Powered Enhancements",
-            "Category": "Search Engines",
-            "Description": "Microsoft has updated its Bing search engine with AI capabilities, aiming to provide more accurate and relevant search results. The revamped Bing prioritizes publisher interests and accuracy over revenue generation, differentiating itself from Google's approach.",
-            "Links": [
-                "https://coingeek.com/microsoft-retrofits-bing-search-engine-with-ai/"
-            ]
-        },
-        {
-            "Title": "RIAA Supports AI Copyright Lawsuit Against Anthropic",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "The Recording Industry Association of America (RIAA) has expressed support for a copyright lawsuit against AI company Anthropic, drawing parallels to the Napster case. The lawsuit alleges that Anthropic's AI model, Claude, infringes on music copyrights.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1821223194646188114"
-            ]
-        },
-        {
-            "Title": "OpenAI Develops Watermarking Method for Detecting ChatGPT-Generated Text",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "OpenAI has created a watermarking technique that can identify text generated by its ChatGPT model with 99.9% accuracy. However, the company has yet to release the tool due to internal discussions and concerns about potential misuse.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820427824303423827"
-            ]
-        },
-        {
-            "Title": "YouTuber Initiates Class Action Lawsuit Against OpenAI for Scraping Video Transcripts",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "A YouTuber has filed a class action lawsuit against OpenAI, alleging that the company scraped video transcripts without permission to train its AI models. The lawsuit highlights growing concerns about data privacy and copyright infringement in the age of AI.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1820498819941019845"
+                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
             ]
         }
     ],
