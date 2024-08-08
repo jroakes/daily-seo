@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Declared a Monopoly in US Antitrust Case",
+            "Title": "Google Ruled a Monopoly in Search",
             "Category": "Antitrust",
-            "Description": "A US federal judge ruled that Google is a monopoly and has acted as one to maintain its dominance in the search market. The ruling could have significant implications for the company, potentially leading to limitations or a breakup.",
+            "Description": "A federal judge ruled that Google has a monopoly in the search market and illegally maintained its dominance by paying billions of dollars to companies like Apple to secure its position as the default search engine.",
             "Links": [
                 "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html",
                 "https://www.avclub.com/google-monopoly-federal-court",
@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Apple Refuses to Replace Google with Bing, Even for \"the Whole Company\"",
+            "Title": "Apple Rejects Bing, Even if Free",
             "Category": "Search Engines",
-            "Description": "Apple has rejected Microsoft's offer to replace Google with Bing as the default search engine on Safari, even if Microsoft offered the entire company. Apple cites Bing's poor quality and lack of revenue potential as reasons for sticking with Google.",
+            "Description": "Apple executives have stated that they would not replace Google with Bing as the default search engine on iPhones, even if Microsoft paid them or gave them the entire company. They cite Bing's poor quality and lack of ad revenue as reasons.",
             "Links": [
                 "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/",
                 "https://www.imore.com/iphone/bing-is-so-bad-apple-says-theres-no-price-in-the-world-that-microsoft-could-offer-us-to-ditch-google-on-the-iphone",
@@ -21,29 +21,9 @@
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Increases",
-            "Category": "Search Engines",
-            "Description": "Google Search ranking volatility is heating up again after a brief period of relative calm. This follows a period of significant volatility and coincides with the recent antitrust ruling against Google, although the two are not necessarily related.",
-            "Links": [
-                "https://www.seroundtable.com/google-search-ranking-volatility-37851.html",
-                "https://twitter.com/rustybrick/status/1820792185299595403",
-                "https://twitter.com/glenngabe/status/1820794138834399694"
-            ]
-        },
-        {
-            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
-            "Category": "Search Engines",
-            "Description": "The Google Business Profiles performance report is no longer displaying the \"call\" tab, which provided data on calls generated from Google Search and Maps. This change may be related to the recent removal of the Google Business Profile call history feature.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821252720147480899",
-                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
-                "https://twitter.com/rustybrick/status/1821192321620185094"
-            ]
-        },
-        {
             "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
-            "Category": "Advertising",
-            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns over the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
+            "Category": "Advertising Platforms",
+            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns over the coming months. Google claims that \"Performance Max provides all the same benefits of Smart campaigns and more.\"",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821245169829556401",
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
@@ -51,13 +31,43 @@
             ]
         },
         {
-            "Title": "Google Search Console Introduces New Recommendations Feature",
-            "Category": "Search Engines",
-            "Description": "Google Search Console is rolling out a new feature called \"Recommendations.\" This experimental feature provides website owners with personalized suggestions for improving their site's performance in Google Search, based on data from Search Console.",
+            "Title": "Google Business Profiles Performance Report Missing Call Data",
+            "Category": "Local Search",
+            "Description": "The Google Business Profiles performance report is no longer displaying the \"call\" tab, which provided data on calls generated from Google Search and Maps. This is suspected to be related to the recent removal of Google Business Profile call history.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821252720147480899",
+                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
+                "https://twitter.com/rustybrick/status/1821192321620185094"
+            ]
+        },
+        {
+            "Title": "Google Search Console Launches Recommendations Feature",
+            "Category": "SEO Tools",
+            "Description": "Google Search Console is rolling out a new feature called \"Recommendations.\" This experimental feature will provide website owners with personalized SEO recommendations based on data from Search Console.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html",
                 "https://twitter.com/rustybrick/status/1820789668616802810",
                 "https://searchengineland.com/google-search-console-launches-recommendations-444711"
+            ]
+        },
+        {
+            "Title": "Google Ads Issues Credits for Serving Ads with Incorrect Product Data",
+            "Category": "Advertising Platforms",
+            "Description": "Google Ads experienced a significant reporting outage on August 1st due to a bug that caused ads to be served with product data from other Google Merchant Center accounts. Google has acknowledged the issue and will be issuing credits to affected advertisers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1820826159120359434",
+                "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html",
+                "https://twitter.com/rustybrick/status/1821506572184387842"
+            ]
+        },
+        {
+            "Title": "Apple Confirmed to Have a Search Index of Billions of Websites",
+            "Category": "Search Engines",
+            "Description": "Documents from the Department of Justice's antitrust case against Google have revealed that Apple maintains its own search index containing billions of websites, though the exact number remains redacted.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821256494349709707",
+                "https://twitter.com/rustybrick/status/1821196096875720799",
+                "https://www.seroundtable.com/apple-search-index-37855.html"
             ]
         }
     ],
