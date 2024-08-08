@@ -2,84 +2,64 @@
     "data": [
         {
             "Title": "Google Ruled a Monopoly in US Antitrust Case",
-            "Category": "Legal",
-            "Description": "A US federal judge ruled that Google has acted illegally to maintain a monopoly in online search. The ruling could have significant implications for the tech giant, potentially leading to a breakup or serious constraints on its business practices. The judge found that Google's contracts with companies like Apple to be the default search engine on their devices were anti-competitive.",
+            "Category": "Antitrust",
+            "Description": "A US federal judge ruled that Google is a monopoly and has acted as one to maintain its dominance in the search market. The ruling could have significant implications for Google's business practices, including potential limitations or a breakup of the company.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1820536559772529134",
-                "https://twitter.com/rustybrick/status/1820535502170357921",
-                "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html"
+                "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html",
+                "https://www.avclub.com/google-monopoly-federal-court",
+                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/"
             ]
         },
         {
-            "Title": "Apple Refuses to Replace Google with Bing on Safari, Even for \"Free\"",
+            "Title": "Apple Refuses to Replace Google with Bing as Default Search Engine",
             "Category": "Search Engines",
-            "Description": "Despite Microsoft's offer to give Apple \"Bing for free,\" Apple has refused to replace Google as the default search engine on Safari.  An Apple executive stated that Bing's search quality is not on par with Google's, and the revenue loss from switching would be substantial. This decision highlights Google's dominance in the search market and the challenges faced by competitors like Bing.",
+            "Description": "Despite Microsoft's alleged offer to provide Bing for free, Apple remains steadfast in its partnership with Google as the default search engine for Safari.  Apple attributes its decision to Bing's inferior search quality and potential revenue loss.",
             "Links": [
-                "https://mashable.com/article/apple-on-bing-antitrust-case",
-                "https://www.theverge.com/24214574/google-antitrust-search-apple-microsoft-bing-ruling-breakdown",
-                "http://gigazine.net/gsc_news/en/20240807-apple-safari-search-engine-google-than-bing/"
+                "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/",
+                "https://www.imore.com/iphone/bing-is-so-bad-apple-says-theres-no-price-in-the-world-that-microsoft-could-offer-us-to-ditch-google-on-the-iphone",
+                "https://www.androidheadlines.com/2024/08/apple-bing-search.html"
             ]
         },
         {
-            "Title": "Microsoft Bing Sees Opportunity Following Google's Antitrust Ruling",
-            "Category": "Search Engines",
-            "Description": "Following the US court ruling that Google maintains an illegal monopoly in search, Microsoft executives see an opportunity for their search engine, Bing. The ruling could lead to changes in Google's business practices, potentially leveling the playing field for competitors. Microsoft has been investing in Bing, particularly with AI integration, and hopes to capitalize on any shifts in the search landscape.",
-            "Links": [
-                "https://coingeek.com/microsoft-retrofits-bing-search-engine-with-ai/",
-                "https://247wallst.com/technology-3/2024/08/06/google-ruling-could-give-huge-boost-to-microsoft-bing/",
-                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html"
-            ]
-        },
-        {
-            "Title": "Google Search Console Launches New Recommendations Feature",
+            "Title": "Google Search Console Introduces New Recommendations Feature",
             "Category": "SEO",
-            "Description": "Google Search Console is rolling out a new feature that provides website owners with personalized SEO recommendations. The feature aims to make it easier for site owners to improve their website's performance in Google Search results. The recommendations are based on data from Search Console and are tailored to each individual website.",
+            "Description": "Google Search Console is rolling out a new feature that provides personalized SEO recommendations to website owners. The recommendations are based on data from Search Console and aim to help improve website performance in Google Search results.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html",
                 "https://twitter.com/rustybrick/status/1820789668616802810",
-                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
+                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/"
             ]
         },
         {
-            "Title": "Google Trends Gets a Design Refresh",
-            "Category": "SEO",
-            "Description": "Google Trends has rolled out a new design for its trending now page. The updated design offers more filtering options and provides additional keyword data on a single page. The changes are aimed at making it easier for users to find and analyze trending search queries.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820822384745816526",
-                "https://twitter.com/rustybrick/status/1820782118919876757",
-                "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html"
-            ]
-        },
-        {
-            "Title": "Google Ads to Migrate Smart Campaigns to Performance Max",
+            "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
             "Category": "Advertising",
-            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns in the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more. This move is part of Google's ongoing efforts to simplify its advertising platform and provide advertisers with more powerful tools.",
+            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns in the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821144506747814189",
+                "https://twitter.com/rustybrick/status/1821245169829556401",
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
                 "https://twitter.com/rustybrick/status/1821184772040794289"
             ]
         },
         {
-            "Title": "Google Business Profiles Testing \"See Also\" Carousel, Showing Competitors",
-            "Category": "Local Search",
-            "Description": "Google is experimenting with a \"see also\" carousel on Google Business Profiles, which displays competitor suggestions directly beneath a business's listing. This means that users searching for a specific business on Google may be presented with recommendations for similar businesses in their area. This test highlights Google's ongoing efforts to provide users with a wider range of options in local search results.",
+            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
+            "Category": "Local SEO",
+            "Description": "The Google Business Profiles performance report has removed the \"call\" tab, which provided statistics and data on calls originating from Google Search and Google Maps. This change is suspected to be related to the recent removal of Google Business Profile call history.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1820818609049903379",
-                "https://twitter.com/rustybrick/status/1820779602400498111",
-                "https://www.seroundtable.com/google-business-profiles-see-also-37849.html"
+                "https://twitter.com/rustybrick/status/1821192321620185094",
+                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
+                "https://twitter.com/rustybrick/status/1821252720147480899"
             ]
         },
         {
-            "Title": "Elon Musk's X Sues Advertisers Over Alleged Antitrust Activity",
-            "Category": "Legal",
-            "Description": "Elon Musk's X (formerly Twitter) has filed a federal antitrust lawsuit against a group of advertisers and industry organizations, including the Global Alliance for Responsible Media (GARM). The lawsuit alleges that these entities conspired to harm X's advertising business by pressuring brands to boycott the platform. Musk claims that this boycott is an attempt to stifle competition and control the online advertising market.",
+            "Title": "Apple Maintains a Search Index of Billions of Websites",
+            "Category": "Search Engines",
+            "Description": "Documents revealed during the DOJ's antitrust case against Google disclose that Apple maintains its own search index, encompassing billions of websites. The exact number remains redacted, but the revelation highlights Apple's potential to compete in the search market.",
             "Links": [
-                "https://digiday.com/marketing/x-files-federal-antitrust-suit-against-garm-wfa-cvs-health-mars-orsted-unilever/",
-                "https://digiday.com/marketing/x-takes-legal-action-against-advertisers-to-challenge-media-status-quo/",
-                "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html"
+                "https://twitter.com/rustybrick/status/1821196096875720799",
+                "https://twitter.com/rustybrick/status/1821256494349709707",
+                "https://www.seroundtable.com/apple-search-index-37855.html"
             ]
         }
     ],
-    "date": "2024-08-07"
+    "date": "2024-08-08"
 }
