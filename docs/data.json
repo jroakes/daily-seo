@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly in Search",
-            "Category": "Antitrust",
-            "Description": "A federal judge ruled that Google has a monopoly in the search market and illegally maintained its dominance by paying billions of dollars to companies like Apple to secure its position as the default search engine.",
+            "Title": "Google Ruled a Monopoly in US Antitrust Case",
+            "Category": "Legal",
+            "Description": "A US federal judge ruled that Google is a monopoly and has acted as one to maintain its dominance in the search market. The ruling could have significant implications for the company, potentially leading to limitations or a breakup.",
             "Links": [
                 "https://www.seroundtable.com/google-is-a-monopoly-fed-rules-37850.html",
                 "https://www.avclub.com/google-monopoly-federal-court",
@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Apple Rejects Bing, Even if Free",
+            "Title": "Apple Rejects Bing as Default Search Engine, Even With a Hefty Offer",
             "Category": "Search Engines",
-            "Description": "Apple executives have stated that they would not replace Google with Bing as the default search engine on iPhones, even if Microsoft paid them or gave them the entire company. They cite Bing's poor quality and lack of ad revenue as reasons.",
+            "Description": "Apple has reportedly declined to replace Google with Microsoft Bing as the default search engine on iPhones, even when offered a significant financial incentive, including potentially the entire Microsoft company. Apple cites Bing's poor ad monetization and Google's superior revenue share as reasons for the decision.",
             "Links": [
                 "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/",
                 "https://www.imore.com/iphone/bing-is-so-bad-apple-says-theres-no-price-in-the-world-that-microsoft-could-offer-us-to-ditch-google-on-the-iphone",
@@ -22,8 +22,8 @@
         },
         {
             "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns over the coming months. Google claims that \"Performance Max provides all the same benefits of Smart campaigns and more.\"",
+            "Category": "Advertising",
+            "Description": "Google Ads will be transitioning the functionality of Smart Campaigns into Performance Max campaigns over the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821245169829556401",
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
@@ -31,43 +31,93 @@
             ]
         },
         {
-            "Title": "Google Business Profiles Performance Report Missing Call Data",
-            "Category": "Local Search",
-            "Description": "The Google Business Profiles performance report is no longer displaying the \"call\" tab, which provided data on calls generated from Google Search and Maps. This is suspected to be related to the recent removal of Google Business Profile call history.",
+            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
+            "Category": "SEO",
+            "Description": "The Google Business Profiles performance report has removed the \"call\" tab, which provided data on calls generated from Google Search and Maps. This change might be related to the previously reported removal of Google Business Profile call history.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821252720147480899",
+                "https://twitter.com/rustybrick/status/1821192321620185094",
                 "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html",
-                "https://twitter.com/rustybrick/status/1821192321620185094"
+                "https://twitter.com/rustybrick/status/1821252720147480899"
             ]
         },
         {
-            "Title": "Google Search Console Launches Recommendations Feature",
-            "Category": "SEO Tools",
-            "Description": "Google Search Console is rolling out a new feature called \"Recommendations.\" This experimental feature will provide website owners with personalized SEO recommendations based on data from Search Console.",
+            "Title": "Google Search Console Introduces New Recommendations Feature",
+            "Category": "SEO",
+            "Description": "Google Search Console is rolling out a new feature that provides personalized SEO recommendations. These recommendations, based on data from Search Console, aim to help website owners improve their site's performance in Google Search.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html",
                 "https://twitter.com/rustybrick/status/1820789668616802810",
-                "https://searchengineland.com/google-search-console-launches-recommendations-444711"
+                "https://www.searchenginejournal.com/googles-latest-tool-flags-seo-opportunities-youre-missing/523757/"
             ]
         },
         {
-            "Title": "Google Ads Issues Credits for Serving Ads with Incorrect Product Data",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads experienced a significant reporting outage on August 1st due to a bug that caused ads to be served with product data from other Google Merchant Center accounts. Google has acknowledged the issue and will be issuing credits to affected advertisers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1820826159120359434",
-                "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html",
-                "https://twitter.com/rustybrick/status/1821506572184387842"
-            ]
-        },
-        {
-            "Title": "Apple Confirmed to Have a Search Index of Billions of Websites",
+            "Title": "Apple Maintains a Large Search Index of Websites",
             "Category": "Search Engines",
-            "Description": "Documents from the Department of Justice's antitrust case against Google have revealed that Apple maintains its own search index containing billions of websites, though the exact number remains redacted.",
+            "Description": "Documents from the DOJ's antitrust case against Google reveal that Apple maintains its own search index containing billions of websites, although the exact number remains undisclosed.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821256494349709707",
                 "https://twitter.com/rustybrick/status/1821196096875720799",
-                "https://www.seroundtable.com/apple-search-index-37855.html"
+                "https://www.seroundtable.com/apple-search-index-37855.html",
+                "https://twitter.com/rustybrick/status/1821256494349709707"
+            ]
+        },
+        {
+            "Title": "Google Ads Tests Displaying Advertiser Names in Call Extensions",
+            "Category": "Advertising",
+            "Description": "Google Ads is experimenting with a new call extension format that displays the advertiser's name below the clickable phone number. This change aims to increase the visibility of both the phone number and the call-to-action.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821188547053023706",
+                "https://www.seroundtable.com/google-ads-call-extensions-with-advertiser-name-37854.html",
+                "https://twitter.com/rustybrick/status/1821248945152270712"
+            ]
+        },
+        {
+            "Title": "Google Ads to Show Photos in Local Service Ads, Potentially Boosting Ad Rank",
+            "Category": "Advertising",
+            "Description": "Google will now display photos from advertisers' Local Service Ads profiles within their ads. This change is expected to improve ad rank and provide users with a more visually appealing experience.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821514443953446949",
+                "https://twitter.com/rustybrick/status/1821558484229386666",
+                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html"
+            ]
+        },
+        {
+            "Title": "Google Tests Sending Users to Short Videos Tab When Clicking \"More Videos\"",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with redirecting users to the dedicated short videos tab when they click on the \"more videos\" button in search results, instead of dynamically loading more videos below the initial results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821511927954289044",
+                "https://twitter.com/rustybrick/status/1821554709981016129",
+                "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html"
+            ]
+        },
+        {
+            "Title": "Google Ads Experiences Bug Issuing Million-Dollar Credits",
+            "Category": "Advertising",
+            "Description": "Google Ads encountered a bug that resulted in some advertisers receiving credit notices for millions of dollars. The issue has been acknowledged as a bug, and Google is working on rectifying the incorrect credit amounts.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821504378123235424",
+                "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html",
+                "https://twitter.com/rustybrick/status/1821543384684617818"
+            ]
+        },
+        {
+            "Title": "Google Search Tests \"You May Like\" Label for Snippets",
+            "Category": "Search Engines",
+            "Description": "Google is testing a new \"you may like\" label for search result snippets. It is unclear how Google determines a user's preference for a particular snippet, potentially using browsing history or other personalization factors.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821506894273409215",
+                "https://www.seroundtable.com/google-search-you-like-label-37868.html",
+                "https://twitter.com/glenngabe/status/1821521355944161697"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Wallpaper App Pushes Users to Switch Browsers",
+            "Category": "Search Engines",
+            "Description": "Microsoft's Bing Wallpaper app is under scrutiny for allegedly using deceptive tactics to persuade Windows 11 users to switch their default browser to Bing. The app recommends \"different browser settings\" for faster and more secure searches, raising concerns about misleading users.",
+            "Links": [
+                "https://www.windowscentral.com/software-apps/browsing/microsoft-is-reportedly-using-deception-as-fair-game-to-get-windows-11-users-to-switch-to-bing",
+                "https://www.xda-developers.com/bing-wallpaper-pestering-people-sideload-extension-chrome/",
+                "https://twitter.com/rustybrick/status/1821294228494021016"
             ]
         }
     ],
