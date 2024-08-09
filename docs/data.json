@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly for Antitrust Violations",
+            "Title": "Google Ruled a Monopoly for Search Engine Market Dominance",
             "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google holds an illegal monopoly in the search engine market, primarily due to its agreements with companies like Apple to be the default search provider. The ruling could have significant implications for Google's business practices and the future of digital advertising.",
+            "Description": "A federal judge ruled that Google maintains an illegal monopoly in the search engine market, primarily through anti-competitive agreements with companies like Apple to be the default search provider.",
             "Links": [
                 "https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview",
                 "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules",
@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Apple Rejects Bing as Default Search, Even for a King's Ransom",
+            "Title": "Apple Rejects Bing as Default Search Engine, Even for \"Whole Company\"",
             "Category": "Search Engines",
-            "Description": "Apple has emphatically stated that it would not replace Google with Bing as the default search engine on its devices, even if Microsoft offered the entire company. This highlights Google's dominance in the search market and Apple's satisfaction with the revenue generated through its partnership with Google.",
+            "Description": "Apple has firmly stated that it will not replace Google with Bing as the default search engine on Safari, even if Microsoft offered the entire company. This decision highlights Apple's satisfaction with Google's revenue sharing and search quality.",
             "Links": [
                 "https://www.techradar.com/computing/theres-no-price-microsoft-could-pay-apple-says-dont-worry-safari-will-never-force-you-to-use-bing-for-search",
                 "https://www.phonearena.com/news/apple-doesnt-want-bing_id161242",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Google Local Service Ads Now Feature Photos",
+            "Title": "Google Local Service Ads Now Feature Photos for Improved Visibility",
             "Category": "Advertising",
-            "Description": "Google Local Service Ads will now display photos from advertisers' profiles, potentially improving ad rank and visibility. This change aims to provide a more visually appealing and informative experience for users.",
+            "Description": "Google Local Service Ads will now showcase photos from advertisers' profiles, potentially boosting ad rank and engagement. This update aims to provide a more visually appealing and informative experience for users.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821618882781802631",
                 "https://twitter.com/rustybrick/status/1821514443953446949",
@@ -33,7 +33,7 @@
         {
             "Title": "Google Tests New \"Short Videos\" Tab in Search Results",
             "Category": "Search Engines",
-            "Description": "Google is experimenting with a new way to display more videos in search results. Instead of dynamically loading additional videos, clicking on \"More Videos\" might redirect users to a dedicated \"Short Videos\" tab.",
+            "Description": "Google is experimenting with a new layout for accessing more videos in search results. Instead of dynamically loading, clicking \"More Videos\" might redirect users to a dedicated \"Short Videos\" tab.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821615107929206848",
                 "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html",
@@ -41,61 +41,30 @@
             ]
         },
         {
-            "Title": "Google Ads API Version 17.1 Released",
+            "Title": "Google Ads Experiences Bugs, Issues Million-Dollar Credits by Mistake",
             "Category": "Advertising",
-            "Description": "Google has announced the release of Google Ads API version 17.1, introducing new features and updates for advertisers and developers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821611332522610801",
-                "https://www.seroundtable.com/google-ads-api-version-17-1-37866.html",
-                "https://twitter.com/rustybrick/status/1821509410956386502"
-            ]
-        },
-        {
-            "Title": "Google Search Testing \"You May Like\" Snippet Labels",
-            "Category": "Search Engines",
-            "Description": "Google is experimenting with new labels in search result snippets, including a \"You May Like\" label that could indicate personalized recommendations based on user browsing history or preferences.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821607558177812678",
-                "https://www.seroundtable.com/google-search-you-like-label-37868.html",
-                "https://twitter.com/rustybrick/status/1821506894273409215"
-            ]
-        },
-        {
-            "Title": "Google Ads Issues Million-Dollar Credit Notices Due to Bug",
-            "Category": "Advertising",
-            "Description": "A technical glitch in Google Ads resulted in some advertisers receiving erroneous credit notices worth millions of dollars. Google has acknowledged the bug and is working to rectify the issue.",
+            "Description": "Google Ads faced a series of technical glitches, including a major reporting outage and erroneous credit notices worth millions of dollars sent to some advertisers. Google acknowledged the issues and is working on resolutions.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821603783081918975",
-                "https://twitter.com/rustybrick/status/1821504378123235424",
+                "https://www.seroundtable.com/recap-08-08-2024-37869.html",
                 "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html"
             ]
         },
         {
             "Title": "Google Search Console Introduces Site Improvement Recommendations",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search Console is rolling out a new feature that provides website owners with personalized recommendations for improving their site's performance in search results.",
+            "Category": "SEO",
+            "Description": "Google Search Console now offers personalized recommendations to help website owners enhance their site's performance in search results. These recommendations leverage data from Search Console to provide actionable insights.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html"
             ]
         },
         {
-            "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
+            "Title": "Google Ads to Migrate Smart Campaigns to Performance Max",
             "Category": "Advertising",
-            "Description": "Google Ads will be migrating the functionality of Smart Campaigns into Performance Max campaigns in the coming months, providing advertisers with enhanced capabilities and a more streamlined experience.",
+            "Description": "Google Ads will soon transition Smart Campaign features into Performance Max campaigns, aiming to streamline campaign management and offer enhanced capabilities to advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821245169829556401",
-                "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
-                "https://twitter.com/rustybrick/status/1821184772040794289"
-            ]
-        },
-        {
-            "Title": "Apple Maintains a Massive Search Index",
-            "Category": "Search Engines",
-            "Description": "Documents revealed in the Google antitrust case indicate that Apple maintains its own search index encompassing billions of websites, highlighting the company's potential to compete in the search market.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821256494349709707",
-                "https://twitter.com/rustybrick/status/1821196096875720799",
-                "https://www.seroundtable.com/apple-search-index-37855.html"
+                "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html"
             ]
         }
     ],

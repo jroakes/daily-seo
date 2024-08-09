@@ -574,6 +574,36 @@
             "Title": "Google Warns: URL Parameters Create Crawl Issues",
             "Description": "Google's Gary Illyes warns of URL parameter issues causing crawler inefficiencies, especially for e-commerce sites.",
             "Link": "https://www.searchenginejournal.com/google-warns-url-parameters-create-crawl-issues/523982/"
+        },
+        {
+            "Title": "Google Search Crawling & Improvements To Crawling",
+            "Description": "Google posted a new \"Search Off The Record\" podcast on the topic of crawling where John Mueller, Lizzi Sassman, and Gary Illyes spoke about how Google crawls, some ideas on how to make crawling more efficient and some misconceptions around crawl frequency and site quality.",
+            "Link": "https://www.seroundtable.com/google-search-crawling-improvements-37870.html"
+        },
+        {
+            "Title": "Google Doesn't Track How Expensive It Is To Crawl, Render, Index & Serve Individual Pages",
+            "Description": "There has been some confusion around how Google handles pages that might be more costly for Google Search to crawl, render, index and serve - i.e. JavaScript pages.  Google does not have a monetary budget per site, in terms of it will spend $X of crawling budget on your site.",
+            "Link": "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html"
+        },
+        {
+            "Title": "Example Of Google Featured Snippets With Emojis & Special Characters",
+            "Description": "It is not every day that you see a Google featured snippet with emojis and special Unicode characters.  Here is an example of one spotted by Nick Churick (hat tip Patrick Stox) that he posted on X.",
+            "Link": "https://www.seroundtable.com/google-featured-snippets-emojis-37503.html"
+        },
+        {
+            "Title": "Google Lens Speak Now To Ask About This Image",
+            "Description": "Google seems to be rolling out a new Google Lens feature that lets you record with your camera and also speak with your voice on top of that video. Then Google Lens will match the video or image with your spoken text to give you a set of search results or an AI Overview.",
+            "Link": "https://www.seroundtable.com/google-lens-speak-now-to-ask-about-this-image-37864.html"
+        },
+        {
+            "Title": "Bing Search Testing Opening Searches In New Window & Next Tab",
+            "Description": "Microsoft is testing a weird change to the Bing Search results user experience. Bing is testing that when you do a search from the home page, that it opens the search results in a new window, instead of loading those results on the same tab you are on. Bing is also testing opening a new window for when you click to the next page of the search results.",
+            "Link": "https://www.seroundtable.com/bing-search-new-window-37856.html"
+        },
+        {
+            "Title": "Apple will retain Google as default search engine in Safari; wont force its users to switch to Bing",
+            "Description": "Apple retains Google as Safari's default search engine despite lucrative deal, with no plans to switch to Bing.",
+            "Link": "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
         }
     ],
     "reviewed_urls": [
@@ -774,6 +804,20 @@
         "https://digiday.com/marketing/elon-musks-lawsuit-shatters-garm-revealing-industrys-fracture-and-fear/",
         "https://www.searchenginejournal.com/google-warns-url-parameters-create-crawl-issues/523982/",
         "https://www.screendaily.com/news/icarus-films-dgenerate-films-acquire-wang-bings-final-youth-instalments/5196103.article",
-        "https://twitter.com/gvy_dvpont/status/1821277306297651339"
+        "https://twitter.com/gvy_dvpont/status/1821277306297651339",
+        "https://www.seroundtable.com/google-search-crawling-improvements-37870.html",
+        "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html",
+        "https://twitter.com/rustybrick/status/1821871798989836310",
+        "https://www.seroundtable.com/google-featured-snippets-emojis-37503.html",
+        "https://www.openpr.com/news/3615709/brandveda-digital-marketing-institute-unveils-seo-genius-4-0",
+        "https://www.seroundtable.com/google-lens-speak-now-to-ask-about-this-image-37864.html",
+        "https://twitter.com/rustybrick/status/1821869282122203545",
+        "https://www.seroundtable.com/bing-search-new-window-37856.html",
+        "https://twitter.com/rustybrick/status/1821866765816643880",
+        "https://twitter.com/rustybrick/status/1821864009089659393",
+        "https://twitter.com/aleyda/status/1821854269051396459",
+        "https://twitter.com/aleyda/status/1821853862816346282",
+        "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece",
+        "https://www.asiaone.com/business/nashville-small-business-local-seo-agency-digital-marketing-service-updated"
     ]
 }
