@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly for Search Engine Market Dominance",
+            "Title": "Google Ruled a Monopoly for Antitrust Violations",
             "Category": "Antitrust",
-            "Description": "A federal judge ruled that Google maintains an illegal monopoly in the search engine market, primarily through anti-competitive agreements with companies like Apple to be the default search provider.",
+            "Description": "A federal judge ruled that Google holds an illegal monopoly in the internet search market due to its anticompetitive practices, such as paying billions to companies like Apple to remain the default search engine.",
             "Links": [
                 "https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview",
                 "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules",
@@ -13,7 +13,7 @@
         {
             "Title": "Apple Rejects Bing as Default Search Engine, Even for \"Whole Company\"",
             "Category": "Search Engines",
-            "Description": "Apple has firmly stated that it will not replace Google with Bing as the default search engine on Safari, even if Microsoft offered the entire company. This decision highlights Apple's satisfaction with Google's revenue sharing and search quality.",
+            "Description": "Apple executives have firmly stated that they will not replace Google with Bing as the default search engine on Safari, even if Microsoft offered the entire company.  They cite Bing's poor quality and lack of user data as reasons for their decision.",
             "Links": [
                 "https://www.techradar.com/computing/theres-no-price-microsoft-could-pay-apple-says-dont-worry-safari-will-never-force-you-to-use-bing-for-search",
                 "https://www.phonearena.com/news/apple-doesnt-want-bing_id161242",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Google Local Service Ads Now Feature Photos for Improved Visibility",
+            "Title": "Google Local Service Ads Now Feature Photos",
             "Category": "Advertising",
-            "Description": "Google Local Service Ads will now showcase photos from advertisers' profiles, potentially boosting ad rank and engagement. This update aims to provide a more visually appealing and informative experience for users.",
+            "Description": "Google will now display photos from advertisers' profiles directly within their Local Service Ads. This change aims to improve ad visibility and performance by providing a more visually appealing experience for users.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821618882781802631",
                 "https://twitter.com/rustybrick/status/1821514443953446949",
@@ -33,7 +33,7 @@
         {
             "Title": "Google Tests New \"Short Videos\" Tab in Search Results",
             "Category": "Search Engines",
-            "Description": "Google is experimenting with a new layout for accessing more videos in search results. Instead of dynamically loading, clicking \"More Videos\" might redirect users to a dedicated \"Short Videos\" tab.",
+            "Description": "Google is experimenting with a new way to display more videos in search results. Instead of dynamically loading additional videos, clicking \"More Videos\" might redirect users to a dedicated \"Short Videos\" tab.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821615107929206848",
                 "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html",
@@ -41,30 +41,222 @@
             ]
         },
         {
-            "Title": "Google Ads Experiences Bugs, Issues Million-Dollar Credits by Mistake",
+            "Title": "Google Ads API Version 17.1 Released",
             "Category": "Advertising",
-            "Description": "Google Ads faced a series of technical glitches, including a major reporting outage and erroneous credit notices worth millions of dollars sent to some advertisers. Google acknowledged the issues and is working on resolutions.",
+            "Description": "Google has released version 17.1 of the Google Ads API, introducing new features and updates for advertisers. These include shareable ad previews, removal of specific automatically created assets for Responsive Search Ads, and more.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821611332522610801",
+                "https://www.seroundtable.com/google-ads-api-version-17-1-37866.html",
+                "https://twitter.com/rustybrick/status/1821509410956386502"
+            ]
+        },
+        {
+            "Title": "Google Search Testing \"You May Like\" Snippet Labels",
+            "Category": "Search Engines",
+            "Description": "Google is testing a new label in search results snippets called \"You May Like.\" This label could indicate personalized recommendations based on user browsing history or preferences.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821607558177812678",
+                "https://www.seroundtable.com/google-search-you-like-label-37868.html",
+                "https://twitter.com/rustybrick/status/1821506894273409215"
+            ]
+        },
+        {
+            "Title": "Google Ads Issues Million-Dollar Credit Notices Due to Bug",
+            "Category": "Advertising",
+            "Description": "A technical glitch in Google Ads resulted in some advertisers receiving erroneous credit notices worth millions of dollars. Google has acknowledged the bug and is working to rectify the situation.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821603783081918975",
-                "https://www.seroundtable.com/recap-08-08-2024-37869.html",
+                "https://twitter.com/rustybrick/status/1821504378123235424",
                 "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html"
             ]
         },
         {
-            "Title": "Google Search Console Introduces Site Improvement Recommendations",
-            "Category": "SEO",
-            "Description": "Google Search Console now offers personalized recommendations to help website owners enhance their site's performance in search results. These recommendations leverage data from Search Console to provide actionable insights.",
+            "Title": "Google Discusses Web Crawling Challenges and Misconceptions",
+            "Category": "Search Engines",
+            "Description": "In a recent podcast episode, Google's John Mueller, Lizzi Sassman, and Gary Illyes discussed the challenges of crawling the web, common misconceptions about crawl frequency, and potential improvements to crawling efficiency.",
+            "Links": [
+                "https://twitter.com/googlesearchc/status/1821592210124509194",
+                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html",
+                "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html"
+            ]
+        },
+        {
+            "Title": "Google Play Store to Introduce \"Local Recommendations\" Ads",
+            "Category": "Advertising",
+            "Description": "Google is planning to display more ads on the Play Store under the guise of \"local recommendations.\" This move has raised concerns about increased advertising presence and potential privacy implications.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821580952352567515"
+            ]
+        },
+        {
+            "Title": "TikTok Launches \"Spotlight\" Feature for Movies and TV Shows",
+            "Category": "Social Media",
+            "Description": "TikTok is testing a new feature called \"Spotlight\" that creates in-app hubs for movies and TV shows. These hubs will automatically add links to relevant videos, providing users with more information and viewing options.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821579290070192374"
+            ]
+        },
+        {
+            "Title": "Reddit Explores Paywalled Subreddits",
+            "Category": "Social Media",
+            "Description": "Reddit is considering putting some subreddits behind paywalls, potentially impacting content accessibility and raising questions about Google's ability to index paywalled content from the platform.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821528656864280900"
+            ]
+        },
+        {
+            "Title": "LinkedIn Enables Sponsored User-Generated Newsletters",
+            "Category": "Social Media",
+            "Description": "After launching sponsored newsletters for company pages, LinkedIn is now allowing brands to sponsor user-generated newsletters. This move expands advertising opportunities on the platform and provides new avenues for content promotion.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821525643328123127"
+            ]
+        },
+        {
+            "Title": "YouTube Tests Google Gemini for Video Brainstorming",
+            "Category": "Artificial Intelligence",
+            "Description": "YouTube is running a limited test of a new feature that leverages Google Gemini to help creators brainstorm video ideas, titles, and thumbnails. This integration of AI aims to streamline the content creation process.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821517824235327611"
+            ]
+        },
+        {
+            "Title": "Google and Meta Investigated for Targeting Teenagers with Instagram Ads on YouTube",
+            "Category": "Advertising",
+            "Description": "Google and Meta are under investigation for a pilot program that targeted Instagram ads to teenagers on YouTube, violating YouTube's advertising policies. The program raises concerns about data privacy and the targeting of minors.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821515033643278583"
+            ]
+        },
+        {
+            "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
+            "Category": "Advertising",
+            "Description": "Google Ads will soon transition the functionality of Smart Campaigns into Performance Max campaigns. Google claims that Performance Max offers all the benefits of Smart Campaigns and more.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821245169829556401",
+                "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html",
+                "https://twitter.com/rustybrick/status/1821184772040794289"
+            ]
+        },
+        {
+            "Title": "Microsoft Accused of Deceptive Practices to Promote Bing",
+            "Category": "Search Engines",
+            "Description": "Microsoft is facing criticism for allegedly using deceptive tactics to persuade Windows 11 users to switch to Bing. The Bing Wallpaper app reportedly recommends changing browser settings for faster and more secure search results, raising concerns about misleading users.",
+            "Links": [
+                "https://www.windowscentral.com/software-apps/browsing/microsoft-is-reportedly-using-deception-as-fair-game-to-get-windows-11-users-to-switch-to-bing",
+                "https://www.xda-developers.com/bing-wallpaper-pestering-people-sideload-extension-chrome"
+            ]
+        },
+        {
+            "Title": "OpenAI Invests $60 Million in Hardware Startup Opal",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI is making a significant investment in hardware by leading a $60 million Series B funding round for Opal, a startup previously known as Opal Camera. The partnership aims to prototype new device ideas and advance AI hardware development.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821225123837309136"
+            ]
+        },
+        {
+            "Title": "RIAA Supports AI Copyright Lawsuit Against Anthropic",
+            "Category": "Artificial Intelligence",
+            "Description": "The Recording Industry Association of America (RIAA) is backing a copyright lawsuit against Anthropic, an AI company, alleging similarities to the Napster case. The lawsuit highlights growing concerns about copyright infringement in the age of AI-generated content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821223194646188114"
+            ]
+        },
+        {
+            "Title": "Apple Maintains a Search Index of \"Billions\" of Websites",
+            "Category": "Search Engines",
+            "Description": "Documents from the Google antitrust case revealed that Apple maintains its own search index, encompassing billions of websites. The exact size of the index remains undisclosed, but the revelation highlights Apple's growing presence in the search landscape.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821256494349709707",
+                "https://twitter.com/rustybrick/status/1821196096875720799",
+                "https://www.seroundtable.com/apple-search-index-37855.html"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Performance Report Missing Call Data",
+            "Category": "Search Engines",
+            "Description": "The \"call\" tab, which displays statistics and data on calls from Google Search and Maps, has disappeared from the Google Business Profiles performance report. This issue might be related to the recent removal of Google Business Profile call history.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821252720147480899",
+                "https://twitter.com/rustybrick/status/1821192321620185094",
+                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html"
+            ]
+        },
+        {
+            "Title": "Google Ads Experiments with Advertiser Names in Call Extensions",
+            "Category": "Advertising",
+            "Description": "Google is testing a new call extension ad format that displays the advertiser's name below the clickable phone number. This change aims to enhance visibility and encourage calls by providing users with more context.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821248945152270712",
+                "https://twitter.com/rustybrick/status/1821188547053023706",
+                "https://www.seroundtable.com/google-ads-call-extensions-with-advertiser-name-37854.html"
+            ]
+        },
+        {
+            "Title": "Google Ads Tests \"Featured Options\" Ad Format",
+            "Category": "Advertising",
+            "Description": "Google Ads is experimenting with a new ad format called \"featured options.\" This format presents ad listings in card layouts, potentially related to events, offering a more visually engaging way to display ads.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821241395195343234",
+                "https://twitter.com/rustybrick/status/1821180996957474940",
+                "https://www.seroundtable.com/google-ads-featured-options-37842.html"
+            ]
+        },
+        {
+            "Title": "Google Search Console Introduces New Recommendations Feature",
+            "Category": "Search Engines",
+            "Description": "Google Search Console is gradually rolling out a new recommendations feature to help website owners improve their site's performance in search results. These recommendations are based on data from Search Console and provide actionable insights.",
             "Links": [
                 "https://www.seroundtable.com/google-search-console-recommendations-37847.html"
             ]
         },
         {
-            "Title": "Google Ads to Migrate Smart Campaigns to Performance Max",
+            "Title": "Google Served Ads for Products from Other Merchants, Issues Credits",
             "Category": "Advertising",
-            "Description": "Google Ads will soon transition Smart Campaign features into Performance Max campaigns, aiming to streamline campaign management and offer enhanced capabilities to advertisers.",
+            "Description": "Google experienced a significant ad reporting outage due to a technical issue that caused ads to be served for products from incorrect Google Merchant Center accounts. Google is issuing credits to affected advertisers and addressing the privacy and data concerns raised by the incident.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821245169829556401",
-                "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html"
+                "https://www.seroundtable.com/google-served-ads-for-products-others-issue-credits-37846.html"
+            ]
+        },
+        {
+            "Title": "Google Trends Gets a Design Refresh",
+            "Category": "Search Engines",
+            "Description": "Google Trends has unveiled a new design for its trending now page, offering more filter options and providing additional keyword data on a single page. The redesign aims to enhance user experience and provide more comprehensive insights.",
+            "Links": [
+                "https://www.seroundtable.com/google-trends-new-trending-now-design-37844.html"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Testing \"See Also\" Carousel",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with a \"see also\" carousel on Google Business Profiles, potentially displaying competitors' listings directly beneath a business's listing. This change could impact user behavior and competition among local businesses.",
+            "Links": [
+                "https://www.seroundtable.com/google-business-profiles-see-also-37849.html"
+            ]
+        },
+        {
+            "Title": "Bing Search Tests Opening Results in New Windows and Tabs",
+            "Category": "Search Engines",
+            "Description": "Microsoft is testing a user interface change for Bing Search, where clicking on search results or navigating to the next page might open the content in new windows or tabs. This experimental feature could significantly alter the user experience.",
+            "Links": [
+                "https://www.seroundtable.com/bing-search-new-window-37856.html"
+            ]
+        },
+        {
+            "Title": "Perplexity AI Search Engine Shifts from Subscriptions to Advertising",
+            "Category": "Artificial Intelligence",
+            "Description": "Perplexity, an AI-powered search engine, is pivoting its business model from subscriptions to advertising. The company, which recently raised $250 million at a $3 billion valuation, is experiencing significant growth in query volume.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821877685955543245"
+            ]
+        },
+        {
+            "Title": "TikTok and Pinterest Partner with Amazon for In-App Shopping",
+            "Category": "E-commerce",
+            "Description": "TikTok and Pinterest are collaborating with Amazon to enable users to purchase items directly from Amazon ads within their apps. This partnership aims to provide a seamless shopping experience and boost e-commerce sales.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821876714659549430"
             ]
         }
     ],
