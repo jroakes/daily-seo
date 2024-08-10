@@ -7,13 +7,13 @@
             "Links": [
                 "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules",
                 "https://www.axios.com/2024/08/07/google-antitrust-ruling-end-era",
-                "https://www.scientificamerican.com/article/what-the-google-search-monopoly-ruling-means/"
+                "https://www.nydailynews.com/2024/08/08/google-the-word-monopoly-federal-judge-rules-against-illegal-market-control-for-internet-searching/"
             ]
         },
         {
-            "Title": "Apple Confirms Existence of Its Own Search Index",
+            "Title": "Apple Confirms Maintaining Its Own Web Search Index",
             "Category": "Search Engines",
-            "Description": "Documents revealed during the Google antitrust case have confirmed that Apple maintains its own search index of \"billions of websites.\" While Apple currently has no plans to launch its own search engine, the existence of this index suggests the company is exploring alternatives to Google.",
+            "Description": "As part of the DOJ's antitrust case against Google, it was revealed that Apple maintains its own search index of \"billions\" of websites. While the exact number was redacted, the revelation sheds light on Apple's potential search capabilities and future plans.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821256494349709707",
                 "https://www.seroundtable.com/apple-search-index-37855.html",
@@ -33,56 +33,62 @@
         {
             "Title": "Google Local Service Ads Now Display Photos, Impacting Ad Rank",
             "Category": "Advertising",
-            "Description": "Google Local Service Ads will now feature photos from advertisers' profiles, potentially influencing ad rankings. This update highlights the increasing importance of visual content for businesses advertising through Google.",
+            "Description": "Google Local Service Ads will now showcase photos from advertisers' profiles, potentially influencing ad ranking. This update emphasizes the importance of visual content optimization for businesses using Local Service Ads.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821558484229386666",
-                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html",
-                "https://twitter.com/rustybrick/status/1821514443953446949"
+                "https://twitter.com/rustybrick/status/1821514443953446949",
+                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html"
             ]
         },
         {
-            "Title": "Study Suggests Decline in Traffic for Websites Engaged in Backlink Selling",
+            "Title": "Study Suggests Traffic Decline for Websites Engaged in Backlink Selling",
             "Category": "SEO",
-            "Description": "A recent study indicates a decline in traffic for websites involved in selling backlinks, despite the practice being widespread in the SEO industry. This finding has ignited debate about the effectiveness and ethical implications of backlink purchasing for SEO.",
+            "Description": "A recent study indicates a decline in traffic for websites involved in selling backlinks, despite the practice being widespread. The findings have ignited debate within the SEO community regarding ethical SEO strategies and the effectiveness of backlink purchasing.",
             "Links": [
                 "https://www.digitalinformationworld.com/2024/08/study-shows-traffic-decline-for.html"
             ]
         },
         {
-            "Title": "Google Search Testing New Features and Updates",
+            "Title": "Google Search Testing \"You May Like\" Labels for Snippets",
             "Category": "Search Engines",
-            "Description": "Google is actively experimenting with several new features and updates for its search engine, including a \"You May Like\" label for search snippets, a dedicated tab for short videos, and a new call extension ad format that prominently displays the advertiser's name.",
+            "Description": "Google is experimenting with new \"You May Like\" labels for search result snippets, aiming to personalize search results and display content aligned with users' interests. The feature's functionality and how Google determines user preferences remain unclear.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821607558177812678",
-                "https://twitter.com/rustybrick/status/1821554709981016129",
-                "https://www.seroundtable.com/google-ads-call-extensions-with-advertiser-name-37854.html"
+                "https://twitter.com/rustybrick/status/1821547160657346848",
+                "https://www.seroundtable.com/google-search-you-like-label-37868.html"
             ]
         },
         {
-            "Title": "Google to Migrate Smart Campaigns to Performance Max",
+            "Title": "Googlebot's Crawling Behavior: Following Links or Collecting Them?",
+            "Category": "SEO",
+            "Description": "Google's Gary Illyes has sparked confusion by stating that Googlebot collects links rather than \"following\" them, contradicting official documentation. This discrepancy raises questions about Google's crawling mechanisms and how websites are indexed.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-mixed-messages-does-googlebot-really-follow-links/523955/"
+            ]
+        },
+        {
+            "Title": "Google Tests New Short Video Loading Behavior in Search Results",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with how short videos load in search results. Instead of dynamically loading them, Google is testing a method requiring users to click a \"more videos\" button to access a dedicated short videos tab.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821554709981016129",
+                "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html"
+            ]
+        },
+        {
+            "Title": "Google Ads to Migrate Smart Campaigns to Performance Max",
             "Category": "Advertising",
-            "Description": "Google Ads will soon transition the functionality of Smart Campaigns into Performance Max campaigns, aiming to provide advertisers with a more comprehensive and streamlined campaign management experience.",
+            "Description": "Google Ads will soon transition Smart Campaign functionality into Performance Max campaigns. Google claims that Performance Max offers all the benefits of Smart Campaigns and more, prompting advertisers to adapt to the platform update.",
             "Links": [
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html"
             ]
         },
         {
-            "Title": "Bing Wallpaper App Encourages Users to Switch from Chrome",
-            "Category": "Browsers",
-            "Description": "Microsoft's Bing Wallpaper app is reportedly prompting users to change their browser settings and install the Bing extension on Chrome, raising concerns about potentially deceptive tactics to increase Bing's market share.",
-            "Links": [
-                "https://www.windowscentral.com/software-apps/browsing/microsoft-is-reportedly-using-deception-as-fair-game-to-get-windows-11-users-to-switch-to-bing",
-                "https://www.xda-developers.com/bing-wallpaper-pestering-people-sideload-extension-chrome/"
-            ]
-        },
-        {
-            "Title": "Google's Crawling Practices and Efficiency Discussed in Podcast",
+            "Title": "Google Business Profiles Performance Report No Longer Shows Call Data",
             "Category": "SEO",
-            "Description": "Google's Search Off the Record podcast recently featured an episode dedicated to crawling, addressing common misconceptions about crawl frequency and exploring potential improvements to crawling efficiency.",
+            "Description": "The Google Business Profiles performance report has stopped displaying the \"call\" tab, which provided statistics and data on calls generated from Google Search and Maps. This change might be related to the previously reported removal of Google Business Profile call history.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821598013208539506",
-                "https://twitter.com/googlesearchc/status/1821592210124509194",
-                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html"
+                "https://www.seroundtable.com/google-business-profiles-performance-report-call-data-gone-37862.html"
             ]
         }
     ],
