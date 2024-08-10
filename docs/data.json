@@ -1,72 +1,90 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly for Antitrust Violations",
+            "Title": "Google Ruled a Monopoly for Search Engine Dominance",
             "Category": "Antitrust",
-            "Description": "A federal judge ruled that Google is a monopoly and engaged in illegal practices to maintain its dominance in the search engine market. The ruling could have significant implications for Google's business practices and the future of digital advertising.",
+            "Description": "A federal judge has ruled that Google is a monopolist, citing its practice of paying billions of dollars to companies like Apple to secure its position as the default search engine on various platforms. This landmark decision could have significant implications for Google's business practices and the future of internet search.",
             "Links": [
-                "https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview",
                 "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules",
-                "https://www.nydailynews.com/2024/08/08/google-the-word-monopoly-federal-judge-rules-against-illegal-market-control-for-internet-searching/"
+                "https://www.axios.com/2024/08/07/google-antitrust-ruling-end-era",
+                "https://www.scientificamerican.com/article/what-the-google-search-monopoly-ruling-means/"
             ]
         },
         {
-            "Title": "Apple Rejects Bing as Default Search Engine, Even for \"the Whole Company\"",
+            "Title": "Apple Confirms Existence of Its Own Search Index",
             "Category": "Search Engines",
-            "Description": "Apple has firmly rejected the possibility of replacing Google with Bing as the default search engine on its devices, even if Microsoft offered the entire company. Apple executives cited Bing's poor quality and lack of user engagement as reasons for their decision.",
+            "Description": "Documents revealed during the Google antitrust case have confirmed that Apple maintains its own search index of \"billions of websites.\" While Apple currently has no plans to launch its own search engine, the existence of this index suggests the company is exploring alternatives to Google.",
             "Links": [
-                "https://www.techradar.com/computing/theres-no-price-microsoft-could-pay-apple-says-dont-worry-safari-will-never-force-you-to-use-bing-for-search",
-                "https://www.phonearena.com/news/apple-doesnt-want-bing_id161242",
+                "https://twitter.com/rustybrick/status/1821256494349709707",
+                "https://www.seroundtable.com/apple-search-index-37855.html",
                 "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/"
             ]
         },
         {
-            "Title": "Google Local Service Ads Now Feature Photos to Improve Ad Rank",
+            "Title": "Google Ads Experiences Glitch, Issues Million-Dollar Credits by Mistake",
             "Category": "Advertising",
-            "Description": "Google Local Service Ads will now display photos from advertisers' profiles, potentially improving ad rank. This change aims to enhance ad visibility and performance by providing users with more visual information.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821618882781802631",
-                "https://twitter.com/rustybrick/status/1821514443953446949",
-                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html"
-            ]
-        },
-        {
-            "Title": "Google Ads Experiences Bugs, Issues Million Dollar Credits",
-            "Category": "Advertising",
-            "Description": "A technical glitch in Google Ads resulted in some advertisers receiving erroneous credit notices worth millions of dollars. Google acknowledged the bug and is working to rectify the issue. This incident highlights the potential financial impact of platform errors on advertisers.",
+            "Description": "Google Ads accidentally issued million-dollar ad credits to some Local Service Ads advertisers due to a bug. Google has acknowledged the error and is working to resolve the issue and correct the credit amounts.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1821603783081918975",
-                "https://twitter.com/rustybrick/status/1821504378123235424",
+                "https://twitter.com/rustybrick/status/1821543384684617818",
                 "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html"
             ]
         },
         {
-            "Title": "Google Tests Changes to Video Search Results Page",
-            "Category": "Search Engines",
-            "Description": "Google is experimenting with redirecting users to a dedicated \"Short Videos\" tab when they click \"More Videos\" in search results, instead of dynamically loading additional videos. This change could impact user experience and video visibility in search results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821615107929206848",
-                "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html",
-                "https://twitter.com/rustybrick/status/1821511927954289044"
-            ]
-        },
-        {
-            "Title": "Google Search Console Rolls Out New Recommendations Feature",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console is introducing a new recommendations feature to help website owners improve their site's performance in search results. The feature provides tailored suggestions based on data from Search Console, aiming to enhance visibility and user experience.",
-            "Links": [
-                "https://www.seroundtable.com/google-search-console-recommendations-37847.html"
-            ]
-        },
-        {
-            "Title": "Google Ads to Transition Smart Campaigns to Performance Max",
+            "Title": "Google Local Service Ads Now Display Photos, Impacting Ad Rank",
             "Category": "Advertising",
-            "Description": "Google Ads will be migrating the functionality of Smart Campaigns into Performance Max campaigns in the coming months. Google claims that Performance Max offers all the benefits of Smart Campaigns and more, providing advertisers with enhanced campaign management capabilities.",
+            "Description": "Google Local Service Ads will now feature photos from advertisers' profiles, potentially influencing ad rankings. This update highlights the increasing importance of visual content for businesses advertising through Google.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821245169829556401",
+                "https://twitter.com/rustybrick/status/1821558484229386666",
+                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html",
+                "https://twitter.com/rustybrick/status/1821514443953446949"
+            ]
+        },
+        {
+            "Title": "Study Suggests Decline in Traffic for Websites Engaged in Backlink Selling",
+            "Category": "SEO",
+            "Description": "A recent study indicates a decline in traffic for websites involved in selling backlinks, despite the practice being widespread in the SEO industry. This finding has ignited debate about the effectiveness and ethical implications of backlink purchasing for SEO.",
+            "Links": [
+                "https://www.digitalinformationworld.com/2024/08/study-shows-traffic-decline-for.html"
+            ]
+        },
+        {
+            "Title": "Google Search Testing New Features and Updates",
+            "Category": "Search Engines",
+            "Description": "Google is actively experimenting with several new features and updates for its search engine, including a \"You May Like\" label for search snippets, a dedicated tab for short videos, and a new call extension ad format that prominently displays the advertiser's name.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821607558177812678",
+                "https://twitter.com/rustybrick/status/1821554709981016129",
+                "https://www.seroundtable.com/google-ads-call-extensions-with-advertiser-name-37854.html"
+            ]
+        },
+        {
+            "Title": "Google to Migrate Smart Campaigns to Performance Max",
+            "Category": "Advertising",
+            "Description": "Google Ads will soon transition the functionality of Smart Campaigns into Performance Max campaigns, aiming to provide advertisers with a more comprehensive and streamlined campaign management experience.",
+            "Links": [
                 "https://www.seroundtable.com/google-ads-migrating-smart-campaigns-to-performance-max-37853.html"
+            ]
+        },
+        {
+            "Title": "Bing Wallpaper App Encourages Users to Switch from Chrome",
+            "Category": "Browsers",
+            "Description": "Microsoft's Bing Wallpaper app is reportedly prompting users to change their browser settings and install the Bing extension on Chrome, raising concerns about potentially deceptive tactics to increase Bing's market share.",
+            "Links": [
+                "https://www.windowscentral.com/software-apps/browsing/microsoft-is-reportedly-using-deception-as-fair-game-to-get-windows-11-users-to-switch-to-bing",
+                "https://www.xda-developers.com/bing-wallpaper-pestering-people-sideload-extension-chrome/"
+            ]
+        },
+        {
+            "Title": "Google's Crawling Practices and Efficiency Discussed in Podcast",
+            "Category": "SEO",
+            "Description": "Google's Search Off the Record podcast recently featured an episode dedicated to crawling, addressing common misconceptions about crawl frequency and exploring potential improvements to crawling efficiency.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1821598013208539506",
+                "https://twitter.com/googlesearchc/status/1821592210124509194",
+                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html"
             ]
         }
     ],
-    "date": "2024-08-09"
+    "date": "2024-08-10"
 }
