@@ -1,93 +1,92 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly in Antitrust Case",
-            "Category": "Legal & Antitrust",
-            "Description": "A federal judge has ruled that Google is a monopolist, a significant victory for the Department of Justice in its antitrust case against the tech giant.",
+            "Title": "Google Ruled a Monopoly",
+            "Category": "Antitrust",
+            "Description": "A federal judge has ruled that Google holds a monopoly in the search market, a significant victory for the Department of Justice.",
             "Links": [
                 "https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview",
-                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/",
-                "https://www.seroundtable.com/video-08-09-2024-37872.html"
+                "https://www.seroundtable.com/video-08-09-2024-37872.html",
+                "https://twitter.com/rustybrick/status/1821879211784896649"
             ]
         },
         {
-            "Title": "Google's Crawling Practices Spark Discussion and Debate",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's statements about its crawling practices, including the use of URL parameters and the concept of crawl budget, have generated discussion and debate among SEO professionals.",
+            "Title": "Google's Crawl Budget: Myths and Misconceptions",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller clarifies that Google doesn't track the cost of crawling individual pages and won't avoid crawling pages deemed \"more expensive,\" addressing concerns about crawl budget.",
             "Links": [
-                "https://www.searchenginejournal.com/google-warns-url-parameters-create-crawl-issues/523982/",
-                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html",
-                "https://www.searchenginejournal.com/googles-mixed-messages-does-googlebot-really-follow-links/523955/"
+                "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html",
+                "https://twitter.com/rustybrick/status/1821874315635429851",
+                "https://www.searchenginejournal.com/google-warns-url-parameters-create-crawl-issues/523982/"
             ]
         },
         {
-            "Title": "Google Search Updates and Features",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google continues to roll out new features and updates to its search engine, including changes to featured snippets, Google Lens, and Search Console.",
+            "Title": "Google Search Console Recommendations Feature",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console has introduced a new recommendations feature, providing website owners with insights and suggestions for improving their search performance.",
             "Links": [
-                "https://www.seroundtable.com/google-featured-snippets-emojis-37503.html",
+                "https://www.seroundtable.com/video-08-09-2024-37872.html",
+                "https://twitter.com/rustybrick/status/1821879211784896649"
+            ]
+        },
+        {
+            "Title": "Google's Hidden Gems Update Boosts Forums",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's recent \"hidden gems\" update has led to a surge in visibility and traffic for online forums, including Reddit, Quora, and many others.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822264048349581659",
+                "https://twitter.com/rustybrick/status/1821960369067188320",
+                "https://twitter.com/glenngabe/status/1821959948156174737"
+            ]
+        },
+        {
+            "Title": "Google Lens Enhances Visual Search with Speech",
+            "Category": "Artificial Intelligence",
+            "Description": "Google Lens now allows users to record videos and speak over them to search for related information, combining visual and audio input for more comprehensive search results.",
+            "Links": [
                 "https://www.seroundtable.com/google-lens-speak-now-to-ask-about-this-image-37864.html",
-                "https://www.seroundtable.com/recap-08-09-2024-37873.html"
+                "https://twitter.com/rustybrick/status/1821869282122203545"
             ]
         },
         {
-            "Title": "Bing Tests New Search Results Page Behavior",
+            "Title": "Bing Tests Opening Search Results in New Windows",
             "Category": "Search Engines",
             "Description": "Microsoft Bing is experimenting with opening search results in a new window when users click on results from the home page search box or pagination bar.",
             "Links": [
                 "https://www.seroundtable.com/bing-search-new-window-37856.html",
-                "https://twitter.com/rustybrick/status/1821966170427134220",
                 "https://twitter.com/rustybrick/status/1821866765816643880"
             ]
         },
         {
-            "Title": "Google's Hidden Gems Update Boosts Forum Visibility",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's recent \"hidden gems\" update has led to a surge in visibility for online forums, including Reddit, Quora, and many others.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1822264048349581659",
-                "https://twitter.com/glenngabe/status/1821959948156174737",
-                "https://twitter.com/rustybrick/status/1821960369067188320"
-            ]
-        },
-        {
-            "Title": "Substack Opens Up Publishing to All Users",
-            "Category": "Social Media & Content Creation",
-            "Description": "Substack now allows anyone with an account to publish posts on the platform, even if they don't have a newsletter.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1822253619367842256"
-            ]
-        },
-        {
-            "Title": "Amazon to Use AI for Product Description Compliance",
-            "Category": "E-commerce & Artificial Intelligence",
-            "Description": "Amazon will leverage AI to rewrite product descriptions that don't adhere to its guidelines, raising concerns among sellers.",
+            "Title": "Amazon to Rewrite Non-Compliant Product Descriptions Using AI",
+            "Category": "E-commerce",
+            "Description": "Amazon will start using AI to rewrite product descriptions that are deemed non-compliant with their guidelines, causing concern among sellers.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1821888066128077228"
             ]
         },
         {
-            "Title": "Apple Retains Google as Default Search Engine in Safari",
-            "Category": "Tech & Business",
-            "Description": "Despite a lucrative offer from Microsoft, Apple has chosen to keep Google as the default search engine in Safari, prioritizing user experience over potential financial gains.",
+            "Title": "Apple Sticks with Google as Default Search Engine in Safari",
+            "Category": "Tech",
+            "Description": "Despite a lucrative deal with Microsoft, Apple has decided to keep Google as the default search engine in Safari, opting not to force users to switch to Bing.",
             "Links": [
                 "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
             ]
         },
         {
-            "Title": "Elon Musk Sues GARM, Exposing Industry Rifts",
-            "Category": "Advertising & Media",
-            "Description": "Elon Musk's lawsuit against the Global Alliance for Responsible Media (GARM) has revealed deep divisions and anxieties within the advertising industry regarding responsible media practices and brand safety.",
+            "Title": "Elon Musk Sues GARM, Exposing Industry Divisions",
+            "Category": "Advertising",
+            "Description": "Elon Musk's lawsuit against the Global Alliance for Responsible Media (GARM) has exposed divisions and anxieties within the advertising industry regarding responsible media practices.",
             "Links": [
                 "https://digiday.com/marketing/elon-musks-lawsuit-shatters-garm-revealing-industrys-fracture-and-fear/"
             ]
         },
         {
-            "Title": "Backlink Selling Websites See Traffic Decline Despite Prevalence",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A new study reveals that websites selling backlinks are experiencing a decline in traffic, despite the practice being widespread and often suspected by SEO professionals.",
+            "Title": "Google's Cookie U-Turn: Impact on Retail Media",
+            "Category": "Advertising",
+            "Description": "Google has reversed its decision to phase out third-party cookies in Chrome, raising questions about the future of retail media and targeted advertising.",
             "Links": [
-                "https://www.digitalinformationworld.com/2024/08/study-shows-traffic-decline-for.html"
+                "https://digiday.com/marketing/what-googles-third-party-cookie-left-turn-means-for-retail-medias-growth-spurt/"
             ]
         }
     ],
