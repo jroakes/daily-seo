@@ -1,65 +1,87 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly for Antitrust Violations",
+            "Title": "Google Ruled a Monopoly",
             "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google is a monopolist, citing its practice of paying billions of dollars to companies like Apple to secure its position as the default search engine. This decision could have significant implications for Google's business practices and the entire ad media industry.",
+            "Description": "A federal judge has ruled that Google holds a monopoly in the search market, a significant victory for the Department of Justice in its antitrust case against the tech giant.",
             "Links": [
-                "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules",
-                "https://www.axios.com/2024/08/07/google-antitrust-ruling-end-era",
-                "https://www.nydailynews.com/2024/08/08/google-the-word-monopoly-federal-judge-rules-against-illegal-market-control-for-internet-searching/"
+                "https://www.theverge.com/24215684/doj-jonathan-kanter-antitrust-google-monopoly-verdict-win-decoder-podcast-interview",
+                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/",
+                "https://www.seroundtable.com/video-08-09-2024-37872.html"
             ]
         },
         {
-            "Title": "Apple Confirms Its Own Search Index of \"Billions\" of Websites",
-            "Category": "Search Engines",
-            "Description": "As part of the DOJ ruling that Google is a monopoly, documents revealed that Apple has its own search index consisting of \"billions\" of websites. The specific number was redacted, but it stated, \"Apple maintains an index of about X billion websites.\"",
+            "Title": "Google's Cookie Conundrum",
+            "Category": "Privacy & Tracking",
+            "Description": "Google has reversed course on its plan to phase out third-party cookies in Chrome, leaving users to decide if they want to be tracked. The move has sparked uncertainty and debate within the advertising industry.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821256494349709707",
-                "https://www.seroundtable.com/apple-search-index-37855.html",
-                "https://www.macobserver.com/news/apple-vp-no-bing-even-if-microsoft-give-us-the-whole-company/"
+                "https://digiday.com/marketing/ubers-1-billion-ad-business-expected-to-remain-untouched-amidst-googles-third-party-cookie-fallout/",
+                "https://digiday.com/media-buying/amid-uncertainties-silicon-alleys-leading-lights-collectively-shrug-at-googles-cookie-news-on-earnings-calls/",
+                "https://digiday.com/marketing/what-googles-third-party-cookie-left-turn-means-for-retail-medias-growth-spurt/"
             ]
         },
         {
-            "Title": "Google Ads Accidentally Issues Million-Dollar Credits in Bug",
-            "Category": "Advertising",
-            "Description": "Google Ads accidentally issued million-dollar ad credits to some Local Service Ads advertisers. Google has confirmed that these credits were a bug and is working to resolve the issue.",
+            "Title": "Google Search and Crawling Updates",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has been discussing various aspects of crawling, including how it crawls, ways to make it more efficient, and addressing misconceptions about crawl frequency and site quality.  They also confirmed that JavaScript pages are fine for Google Search and that they do not track the cost to crawl individual pages.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821603783081918975",
-                "https://twitter.com/rustybrick/status/1821543384684617818",
-                "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html"
-            ]
-        },
-        {
-            "Title": "Google Local Service Ads Now Display Photos, Potentially Impacting Ad Rank",
-            "Category": "Advertising",
-            "Description": "Google Local Service Ads will now display photos from advertisers' profiles. These photos can potentially improve an ad's ranking, making it more important for businesses to optimize their visual content.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821558484229386666",
-                "https://twitter.com/rustybrick/status/1821514443953446949",
-                "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html"
-            ]
-        },
-        {
-            "Title": "Google Search Testing \"You May Like\" Snippet Labels",
-            "Category": "Search Engines",
-            "Description": "Google is testing new labels for search snippets that say \"You may like.\" This appears to be a way to personalize search results and show users content that is more relevant to their interests.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821607558177812678",
-                "https://twitter.com/rustybrick/status/1821547160657346848",
-                "https://www.seroundtable.com/google-search-you-like-label-37868.html"
-            ]
-        },
-        {
-            "Title": "Googlebot Crawling: Factors That Influence Crawl Frequency",
-            "Category": "SEO",
-            "Description": "Google has affirmed three factors that can increase Googlebot crawling, prompting discussions about how search engines crawl the web and common misconceptions around crawl frequency.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1821598013208539506",
-                "https://twitter.com/googlesearchc/status/1821592210124509194",
+                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html",
+                "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html",
                 "https://www.searchenginejournal.com/3-ways-to-make-googlebot-crawl-more/524049/"
+            ]
+        },
+        {
+            "Title": "Google's 'Hidden Gems' Update Boosts Forums",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's recent 'hidden gems' update has led to a surge in traffic for online forums, with Reddit and Quora experiencing significant growth.  Many other forums are also seeing explosive growth as a result of the update.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821959948156174737",
+                "https://twitter.com/rustybrick/status/1821960369067188320",
+                "https://twitter.com/glenngabe/status/1822264048349581659"
+            ]
+        },
+        {
+            "Title": "Bing Tests New Search Results Behavior",
+            "Category": "Search Engines",
+            "Description": "Microsoft Bing is experimenting with opening search results in a new window when users click on results from the home page search box or pagination bar.",
+            "Links": [
+                "https://www.seroundtable.com/bing-search-new-window-37856.html",
+                "https://twitter.com/rustybrick/status/1821866765816643880",
+                "https://twitter.com/rustybrick/status/1821966170427134220"
+            ]
+        },
+        {
+            "Title": "Substack Opens Up Publishing to All",
+            "Category": "Social Media & Blogging",
+            "Description": "Substack has announced that anyone with an account can now publish posts on the platform, even if they don't have a newsletter. Users can collect free or paid subscriptions directly from their posts.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822253619367842256"
+            ]
+        },
+        {
+            "Title": "Amazon to Rewrite Non-Compliant Product Descriptions Using AI",
+            "Category": "Ecommerce",
+            "Description": "Amazon will begin using artificial intelligence to rewrite product descriptions that don't comply with its guidelines, raising concerns among sellers about potential inaccuracies and loss of control over their product listings.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1821888066128077228"
+            ]
+        },
+        {
+            "Title": "Apple Sticks with Google as Default Search Engine",
+            "Category": "Tech",
+            "Description": "Despite a lucrative offer from Microsoft, Apple has chosen to retain Google as the default search engine in Safari, opting not to force users to switch to Bing.",
+            "Links": [
+                "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
+            ]
+        },
+        {
+            "Title": "Elon Musk Sues GARM, Exposing Industry Rift",
+            "Category": "Advertising & Media",
+            "Description": "Elon Musk's lawsuit against the Global Alliance for Responsible Media (GARM) has revealed deep divisions and anxieties within the advertising industry regarding responsible media practices and brand safety.",
+            "Links": [
+                "https://digiday.com/marketing/elon-musks-lawsuit-shatters-garm-revealing-industrys-fracture-and-fear/"
             ]
         }
     ],
-    "date": "2024-08-10"
+    "date": "2024-08-11"
 }
