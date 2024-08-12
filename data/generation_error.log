@@ -29784,3 +29784,329 @@ Error occurred at 2024-08-11 00:11:14.784644:
 RESPONSE: 
 [{"Title": "Google Ads issues million dollar credits for Local Service Ads - these credit notices are bugs", "Description": "Reports surface of Google Ads issuing erroneous credit notices, some exceeding $16 million, for Local Service Ads, attributed to a bug.", "Link": "https://twitter.com/rustybrick/status/1821543384684617818"}, {"Title": "Google's Search Tie-ups Are Illegal, Judge Rules", "Description": "A judge rules that Google's practice of paying billions to companies like Apple to be the default search engine is illegal.", "Link": "https://www.practicalecommerce.com/googles-search-tie-ups-are-illegal-judge-rules"}, {"Title": "Google reduced the $16 million dollar ad credit by about $15,998,400", "Description": "Google corrects the substantial ad credit error, reducing it from $16 million to a significantly smaller amount.", "Link": "https://twitter.com/rustybrick/status/1821533056429105499"}, {"Title": "Paywalled Subreddits -&gt; Reddit might start putting some subreddits behind paywalls Also, would be easy to get Google that paywalled content for indexing since Google receives the Reddit firehose. No tinkering on the site would be necessary (with allowing a certain bot through or\u2026", "Description": "Reddit considers implementing paywalls for certain subreddits, potentially impacting content indexing by Google.", "Link": "https://twitter.com/glenngabe/status/1821528656864280900"}, {"Title": "After launching sponsored newsletters for company pages -&gt; LinkedIn Will Now Enable Brands To Sponsor User-Generated Newsletters \u201cWe\u2019re introducing sponsored newsletters as a way to extend the reach of your existing long-form newsletter content. You can now sponsor any member\u2019s\u2026", "Description": "LinkedIn expands its advertising options by allowing brands to sponsor user-generated newsletters, providing new opportunities for content promotion.", "Link": "https://twitter.com/glenngabe/status/1821525643328123127"}, {"Title": "A gentle nudge by Google to revisit a site based on your history. Well, I'm assuming that's based on history. :)", "Description": "Google tests a feature that suggests revisiting websites based on a user's browsing history, potentially influencing search behavior.", "Link": "https://twitter.com/glenngabe/status/1821521355944161697"}, {"Title": "\"Brainstorm with Gemini\". It's a small, limited test as of now -&gt; YouTube is testing a feature that lets creators use Google Gemini to brainstorm video ideas, titles, and thumbnails", "Description": "YouTube experiments with \"Brainstorm with Gemini,\" a feature leveraging Google's AI model to assist creators in generating video ideas and optimizing titles and thumbnails.", "Link": "https://twitter.com/glenngabe/status/1821517824235327611"}, {"Title": "\"Google told the Financial Times that it had initiated an investigation into the reports\" -&gt; Google and Meta ran a pilot program in the US in May 2024 to target Instagram ads to teenagers on YouTube, which prohibits targeting ads to under-18s", "Description": "Google and Meta face scrutiny for a pilot program that allegedly targeted Instagram ads to teenagers on YouTube, raising concerns about compliance with advertising regulations.", "Link": "https://twitter.com/glenngabe/status/1821515033643278583"}, {"Title": "Google Local Service Ads will show photos and they will improve ad rank", "Description": "Google announces the inclusion of photos in Local Service Ads, potentially impacting ad ranking and visibility for businesses.", "Link": "https://twitter.com/rustybrick/status/1821514443953446949"}, {"Title": "Google Will Show Photos In Your Local Service Ads From Your Profile (Improving Ad Rank)", "Description": "Google implements the display of photos from Local Service Ads profiles within ads, aiming to enhance ad performance and user experience.", "Link": "https://www.seroundtable.com/google-your-local-service-ads-photos-37865.html"}, {"Title": "Google Tests More Videos To Short Videos Tab Instead Of Dynamically Loading More Videos", "Description": "Google experiments with redirecting users to the short videos tab instead of dynamically loading more videos on the search results page, potentially affecting user engagement and video visibility.", "Link": "https://www.seroundtable.com/google-tests-more-videos-to-short-videos-tab-37845.html"}, {"Title": "Google Ads API version 17.1 is now available", "Description": "Google releases version 17.1 of the Google Ads API, introducing new features and updates for advertisers and developers.", "Link": "https://twitter.com/rustybrick/status/1821509410956386502"}, {"Title": "Google Ads API Version 17.1 Now Out", "Description": "Google Ads API version 17.1 is released, featuring shareable ad previews, enhanced asset management, offline conversion diagnostics, and more.", "Link": "https://www.seroundtable.com/google-ads-api-version-17-1-37866.html"}, {"Title": "Google Search \"you may like\" labels on search results (maybe similar to \"you visit often\" labels)", "Description": "Google tests a \"you may like\" label for search result snippets, potentially personalizing search results based on user preferences or browsing history.", "Link": "https://twitter.com/rustybrick/status/1821506894273409215"}, {"Title": "Google Search Snippets With \"You May Like\" Label", "Description": "Google experiments with a \"you may like\" label in search result snippets, potentially indicating personalized recommendations or connections to user interests.", "Link": "https://www.seroundtable.com/google-search-you-like-label-37868.html"}, {"Title": "Google Ads accidentally issued credits for millions dollars, some over $16 million, related to the recent Google Ads budget and reporting bug from last week", "Description": "Google Ads experiences a bug resulting in the issuance of large, erroneous ad credits, some exceeding $16 million, prompting concern and confusion among advertisers.", "Link": "https://twitter.com/rustybrick/status/1821504378123235424"}, {"Title": "Google Ads Bug Tells Advertisers They Are Getting Million Dollar Credits", "Description": "A Google Ads bug leads to advertisers receiving notifications of substantial, inaccurate ad credits, highlighting potential issues with the platform's reporting system.", "Link": "https://www.seroundtable.com/google-ads-million-dollar-credit-bug-37867.html"}, {"Title": "Bing on the brink of being the default search engine on iPhones? Absolutely not!", "Description": "Speculation arises regarding Bing potentially replacing Google as the default search engine on iPhones, but evidence suggests otherwise.", "Link": "https://www.phonearena.com/news/apple-doesnt-want-bing_id161242"}, {"Title": "Google the word \u2018monopoly\': Federal judge rules against illegal market control for internet searching", "Description": "A federal judge rules against Google in an antitrust case, finding that the company maintains its dominance in internet search through illegal market control.", "Link": "https://www.nydailynews.com/2024/08/08/google-the-word-monopoly-federal-judge-rules-against-illegal-market-control-for-internet-searching/"}]
 
+Error occurred at 2024-08-12 08:03:40.181695:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "The latest in SEO has been just sent in #SEOFOMO to 34.5K SEOs, featuring: * New Recommendations in Google Search Console * \u200bGoogle Is A Monopoly, Federal Judge Rules (What's Next) * Reddit Considers Adding AI-Powered Search Results * So Far, AI is Not Disrupting Search or",
+    "Description": "Tweet thread by Aleyda Solis mentioning recent SEO news including new Google Search Console recommendations, Google's monopoly ruling, Reddit's consideration of AI-powered search, and AI's impact on search.",
+    "Link": "https://twitter.com/aleyda/status/1822725628036272514"
+  },
+  {
+    "Title": "Like I said earlier, Google just needs to release the August core update already. RELEASE THE KRAKEN! :)",
+    "Description": "Glenn Gabe tweets about the anticipation for the August Google core update release.",
+    "Link": "https://twitter.com/glenngabe/status/1822613609681219695"
+  },
+  {
+    "Title": "Focus on Local? -> The Easiest (Advanced) Way To Claim A Service Area Business Listing On Google \"This workaround makes claiming the service area business (SAB) listing possible w/out creating a duplicate & it\u2019s also much faster...\"",
+    "Description": "Glenn Gabe shares a workaround for claiming a service area business listing on Google without creating duplicates.",
+    "Link": "https://twitter.com/glenngabe/status/1822612902353731786"
+  },
+  {
+    "Title": "Google Search ranking volatility movement over the weekend (big swings again) with no helpful content update movement (sadly)",
+    "Description": "Barry Schwartz notes intense Google Search ranking volatility over the weekend, unrelated to the helpful content update.",
+    "Link": "https://twitter.com/rustybrick/status/1822612645070922194"
+  },
+  {
+    "Title": "Google Search Ranking Algorithm Volatility August 9th and 10th",
+    "Description": "Article by Barry Schwartz discussing the intense spike in Google Search ranking volatility observed since August 9th, based on SEO community chatter and rank trackers.",
+    "Link": "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+  },
+  {
+    "Title": "Still a ton of volatility as we lead up to the next core update. Looks like 8/4 is another big date with many sites seeing movement then (with some reversing course based on previous tremors this summer). I have included some screenshots below of search visibility changes across\u2026",
+    "Description": "Glenn Gabe tweets about the ongoing search volatility leading up to the next Google core update, highlighting August 4th as a significant date for ranking fluctuations.",
+    "Link": "https://twitter.com/glenngabe/status/1822603221325541699"
+  },
+  {
+    "Title": "Best SEO for Dropshipping",
+    "Description": "Article suggesting a \"content-then-commerce\" approach for dropshipping merchants to improve organic search rankings.",
+    "Link": "https://www.practicalecommerce.com/best-seo-for-dropshipping"
+  },
+  {
+    "Title": "What the Google ruling means for Microsoft Bing; Amazon delivery dilemma; Seattle\u2019s return to office",
+    "Description": "GeekWire Podcast episode discussing the implications of the Google antitrust ruling, particularly for Microsoft Bing.",
+    "Link": "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/"
+  },
+  {
+    "Title": "Saturday AM is a great time to read my latest post covering the surge of forums since Google rolled out its hidden gems update in the fall of 2023. In my post, I explain how Reddit and Quora surged like mad... but other forums did too. I tracked 97 forums to see how that update\u2026",
+    "Description": "Glenn Gabe promotes his latest post analyzing the surge in forum visibility since Google's hidden gems update in 2023, focusing on Reddit, Quora, and 97 other forums.",
+    "Link": "https://twitter.com/glenngabe/status/1822264048349581659"
+  },
+  {
+    "Title": "More games showing up in Discover (following the Games chip at the top of the feed I covered last week). Saw this show up the other day in my feed. I'm sure Google is analyzing engagement there heavily as it weighs possibly adding more games to the Discover feed. Quick games are\u2026",
+    "Description": "Glenn Gabe observes an increase in games appearing in Google Discover, suggesting Google is experimenting with adding more games to the feed based on engagement analysis.",
+    "Link": "https://twitter.com/glenngabe/status/1822258134900994467"
+  },
+  {
+    "Title": "Interested in AI overviews? Here's a mountain of data from @SERanking based on their latest study tracking 100K queries -> AI Overviews Research: Analyzing sources in Google\u2019s AI-generated answers",
+    "Description": "Glenn Gabe shares an AI overviews research study by SE Ranking, analyzing sources used in Google's AI-generated answers based on 100,000 queries.",
+    "Link": "https://twitter.com/glenngabe/status/1822255349560189390"
+  },
+  {
+    "Title": "Interesting move by Substack -> Substack now lets anyone publish posts, even if they don\u2019t have a newsletter \"Now, anyone with a Substack account can share their writing, video or audio content on the platform. Users can collect free or paid subscriptions right from their\u2026",
+    "Description": "Glenn Gabe highlights Substack's decision to allow anyone to publish posts on the platform, even without a newsletter, enabling content sharing and subscription collection.",
+    "Link": "https://twitter.com/glenngabe/status/1822253619367842256"
+  },
+  {
+    "Title": "Really sad to hear about Susan Wojcicki -> Former YouTube CEO Susan Wojcicki has passed away at age 56 \"Wojcicki was among the first 20 employees of Google, which went on to acquire YouTube in 2006 for $1.65 billion \u2014 what seemed like an astronomical amount at the time. She\u2026",
+    "Description": "Glenn Gabe expresses sadness over the passing of former YouTube CEO Susan Wojcicki.",
+    "Link": "https://twitter.com/glenngabe/status/1822247303882703026"
+  },
+  {
+    "Title": "Google Confirms 3 Ways To Make Googlebot Crawl More",
+    "Description": "Article by Roger Montti outlining three Google-confirmed factors that can increase Googlebot crawling rate.",
+    "Link": "https://www.searchenginejournal.com/3-ways-to-make-googlebot-crawl-more/524049/"
+  },
+  {
+    "Title": "Google Business Profiles call tab performance data is now back",
+    "Description": "Barry Schwartz reports that Google Business Profiles call tab performance data is available again.",
+    "Link": "https://twitter.com/rustybrick/status/1821987264882499828"
+  },
+  {
+    "Title": "ICYMI: SEO Video Recap covering Google is a monopoly, its million dollar ad credit bug, Search Console recommendations and more",
+    "Description": "Barry Schwartz shares his SEO video recap covering topics like Google's monopoly ruling, ad credit bug, Search Console recommendations, and more.",
+    "Link": "https://twitter.com/rustybrick/status/1821985045609116127"
+  },
+  {
+    "Title": "ICYMI: Google Search on crawling, making it more efficient and \"new kind of chunked transfer\"",
+    "Description": "Barry Schwartz reminds about Google's focus on improving crawling efficiency and using a \"new kind of chunked transfer.\"",
+    "Link": "https://twitter.com/rustybrick/status/1821981270420943111"
+  },
+  {
+    "Title": "Study Shows Traffic Decline for Websites Selling Backlinks, Despite Common Practice",
+    "Description": "Survey: 9 out of 10 SEO experts suspect competitors buy backlinks, sparking debate over SEO practices.",
+    "Link": "https://www.digitalinformationworld.com/2024/08/study-shows-traffic-decline-for.html"
+  },
+  {
+    "Title": "Google featured snippets with emojis \ud83e\udd13 and special characters",
+    "Description": "ICYMI: Google featured snippets with emojis \ud83e\udd13 and special characters",
+    "Link": "https://twitter.com/rustybrick/status/1821973720296022222"
+  },
+  {
+    "Title": "Google Lens speak now to search the image or video",
+    "Description": "ICYMI: Google Lens speak now to search the image or video",
+    "Link": "https://twitter.com/rustybrick/status/1821969945577619534"
+  },
+  {
+    "Title": "Bing tests opening the search results page in a new window from the home page search box and pagination bar clicks",
+    "Description": "ICYMI: Bing tests opening the search results page in a new window from the home page search box and pagination bar clicks",
+    "Link": "https://twitter.com/rustybrick/status/1821966170427134220"
+  },
+  {
+    "Title": "Special Friday edition of @glenngabe on how Google Search is promoting not just Reddit or Quora but many many forums",
+    "Description": "Special Friday edition of @glenngabe on how Google Search is promoting not just Reddit or Quora but many many forums",
+    "Link": "https://twitter.com/rustybrick/status/1821960369067188320"
+  },
+  {
+    "Title": "Friday afternoon isn't a great time to publish a post, but here's my latest. :) I cover how it wasn't just Reddit and Quora surging like mad with Google's 'hidden gems' update. Many forums saw explosive growth. In my post, I explain how I've been tracking close to 100 forums and\u2026",
+    "Description": "Friday afternoon isn't a great time to publish a post, but here's my latest. :) I cover how it wasn't just Reddit and Quora surging like mad with Google's 'hidden gems' update. Many forums saw explosive growth. In my post, I explain how I've been tracking close to 100 forums and\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1821959948156174737"
+  },
+  {
+    "Title": "SEO Video Recap: Google is a monopoly, its million dollar ad credit bug, Search Console recommendations and more",
+    "Description": "SEO Video Recap: Google is a monopoly, its million dollar ad credit bug, Search Console recommendations and more",
+    "Link": "https://twitter.com/rustybrick/status/1821924647899951190"
+  },
+  {
+    "Title": "Google Search on crawling, making it more efficient and \"new kind of chunked transfer\"",
+    "Description": "Google Search on crawling, making it more efficient and \"new kind of chunked transfer\"",
+    "Link": "https://twitter.com/rustybrick/status/1821920872250404925"
+  },
+  {
+    "Title": "Google does not keep track of how expensive it is to crawl individual pages - so JavaScript pages are fine for Google Search",
+    "Description": "Google does not keep track of how expensive it is to crawl individual pages - so JavaScript pages are fine for Google Search",
+    "Link": "https://twitter.com/rustybrick/status/1821917097414283491"
+  },
+  {
+    "Title": "Google featured snippets with emojis \ud83e\udd13 and special characters",
+    "Description": "Google featured snippets with emojis \ud83e\udd13 and special characters",
+    "Link": "https://twitter.com/rustybrick/status/1821913322855526763"
+  },
+  {
+    "Title": "Google Lens speak now to search the image or video",
+    "Description": "Google Lens speak now to search the image or video",
+    "Link": "https://twitter.com/rustybrick/status/1821909547864166623"
+  },
+  {
+    "Title": "Daily Search Forum Recap: August 9, 2024",
+    "Description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle spoke about crawling, ways to make it more efficient and some questions around it. No, Google does not skip pages that are more expensive to crawl. Google Lens has this speak now to ask about this image feature.  Bing Search is testing opening searches and pagination in a new window.  Google featured snippets can show emojis.  Plus, I posted the weekly SEO video recap covering this weeks juicy news...",
+    "Link": "https://www.seroundtable.com/recap-08-09-2024-37873.html"
+  },
+  {
+    "Title": "AI's growing influence on SEO and earned media",
+    "Description": "Explore the escalating impact of Artificial Intelligence on Search Engine Optimization strategies and the profound transformation in earned media landscape.",
+    "Link": "https://www.dmnews.com/ais-growing-influence-on-seo-and-earned-media/"
+  },
+  {
+    "Title": "Bing tests opening the search results page in a new window from the home page search box and pagination bar clicks",
+    "Description": "Bing tests opening the search results page in a new window from the home page search box and pagination bar clicks",
+    "Link": "https://twitter.com/rustybrick/status/1821905772831502502"
+  },
+  {
+    "Title": "Whoa, Amazon will rewrite product descriptions via AI if it deems yours in non-compliant -&gt; Amazon Briefing: Gen AI is taking over product listings on Amazon &amp; sellers aren\u2019t happy about it \"As part of the changes, Amazon will use AI to rewrite product listings that are deemed\u2026",
+    "Description": "Whoa, Amazon will rewrite product descriptions via AI if it deems yours in non-compliant -&gt; Amazon Briefing: Gen AI is taking over product listings on Amazon &amp; sellers aren\u2019t happy about it \"As part of the changes, Amazon will use AI to rewrite product listings that are deemed\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1821888066128077228"
+  },
+  {
+    "Title": "Good episode of SOTR: How quality can impact crawling, is a new communication about url parameters coming??, Gary is watching the new 'chunked transfer proposal' which could make crawling more efficient, John explains why more site owners should check their Crawl Stats reporting\u2026",
+    "Description": "Good episode of SOTR: How quality can impact crawling, is a new communication about url parameters coming??, Gary is watching the new 'chunked transfer proposal' which could make crawling more efficient, John explains why more site owners should check their Crawl Stats reporting\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1821881881664610593"
+  },
+  {
+    "Title": "Video: Google Monopoly Ruling, Ranking Volatility, Million Dollar Ad Bugs, Search Console Recommendations & More",
+    "Description": "For the original iTunes version, click here.\n\nThis week, we covered the big ruling that Google is officially a monopoly, a federal judge ruled.  Google search ranking volatility heated up the day after that ruling.  Google served ads for products from other merchants, paid for by other advertisers, which is why they pulled down reporting.  Google then issued million dollar LSA credits, by accident, it was a bug also - Google fixed it all.  Google Search Console has a new recommendations feature that is rolling out slowly. Bing may have had a search algorithm update on May 29th but Microsoft denied it.  There is this new SEO scam going around...",
+    "Link": "https://www.seroundtable.com/video-08-09-2024-37872.html"
+  },
+  {
+    "Title": "SEO Video Recap covering where Google is a monopoly, its million dollar ad credit bug, Search Console recommendations and more",
+    "Description": "SEO Video Recap covering where Google is a monopoly, its million dollar ad credit bug, Search Console recommendations and more",
+    "Link": "https://twitter.com/rustybrick/status/1821879211784896649"
+  },
+  {
+    "Title": "Perplexity Rising (and pivoting from subscriptions to advertising) -&gt; Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation \"Now, the start-up is pivoting its business model from\u2026",
+    "Description": "Perplexity Rising (and pivoting from subscriptions to advertising) -&gt; Perplexity says its AI search engine answered ~250M queries in July vs. 500M in all of 2023; sources: Perplexity recently raised $250M at a $3B valuation \"Now, the start-up is pivoting its business model from\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1821877685955543245"
+  },
+  {
+    "Title": "Google Search Crawling & Improvements To Crawling",
+    "Description": "Google posted a new \"Search Off The Record\" podcast yesterday on the topic of crawling where John Mueller, Lizzi Sassman, and Gary Illyes spoke about how Google crawls, some ideas on how to make crawling more efficient and some misconceptions around crawl frequency and site quality.",
+    "Link": "https://www.seroundtable.com/google-search-crawling-improvements-37870.html"
+  },
+  {
+    "Title": "Google Search team @okaylizzi @JohnMu @methode on crawling, making it more efficient and \"new kind of chunked transfer\"",
+    "Description": "Google Search team @okaylizzi @JohnMu @methode on crawling, making it more efficient and \"new kind of chunked transfer\"",
+    "Link": "https://twitter.com/rustybrick/status/1821876832314290202"
+  },
+  {
+    "Title": "Frictionless shopping -&gt; TikTok and Pinterest partner with Amazon to let users buy items from Amazon ads without leaving the social media apps \"The social media ads also show more details a shopper would find on Amazon\u2019s site, including prices, estimated shipping times and\u2026",
+    "Description": "Frictionless shopping -&gt; TikTok and Pinterest partner with Amazon to let users buy items from Amazon ads without leaving the social media apps \"The social media ads also show more details a shopper would find on Amazon\u2019s site, including prices, estimated shipping times and\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1821876714659549430"
+  },
+  {
+    "Title": "Google Doesn't Track How Expensive It Is To Crawl, Render, Index & Serve Individual Pages",
+    "Description": "There has been some confusion around how Google handles pages that might be more costly for Google Search to crawl, render, index and serve - i.e. JavaScript pages.  Google does not have a monetary budget per site, in terms of it will spend $X of crawling budget on your site.",
+    "Link": "https://www.seroundtable.com/google-search-page-crawl-cost-37871.html"
+  },
+  {
+    "Title": "Google's @g33konaut says Google does not keep track of how expensive it is to crawl individual pages and Google won't avoid more expensive pages (a different kind of crawl \"budget\")",
+    "Description": "Google's @g33konaut says Google does not keep track of how expensive it is to crawl individual pages and Google won't avoid more expensive pages (a different kind of crawl \"budget\")",
+    "Link": "https://twitter.com/rustybrick/status/1821874315635429851"
+  },
+  {
+    "Title": "Emojis and special characters in Google featured snippets (how unprofessional of Google...)",
+    "Description": "Tweet from @rustybrick showing emojis and special characters appearing in Google featured snippets.",
+    "Link": "https://twitter.com/rustybrick/status/1821871798989836310"
+  },
+  {
+    "Title": "Example Of Google Featured Snippets With Emojis & Special Characters",
+    "Description": "Article discussing the appearance of emojis and Unicode characters in Google featured snippets, with an example spotted by Nick Churick.",
+    "Link": "https://www.seroundtable.com/google-featured-snippets-emojis-37503.html"
+  },
+  {
+    "Title": "Google Lens record with camera and then speak now to search the image or video",
+    "Description": "Tweet from @rustybrick about a new Google Lens feature that allows users to record video, add spoken text, and search based on both visual and audio input.",
+    "Link": "https://twitter.com/rustybrick/status/1821869282122203545"
+  },
+  {
+    "Title": "Google Lens Speak Now To Ask About This Image",
+    "Description": "Article detailing a new Google Lens feature that enables users to record video, speak over it, and search using both the video/image content and the spoken words.",
+    "Link": "https://www.seroundtable.com/google-lens-speak-now-to-ask-about-this-image-37864.html"
+  },
+  {
+    "Title": "Bing is testing opening the search results page in a new window from the home page search box and pagination bar clicks",
+    "Description": "Tweet from @rustybrick reporting that Bing is experimenting with opening search results and pagination links in new windows instead of the same tab.",
+    "Link": "https://twitter.com/rustybrick/status/1821866765816643880"
+  },
+  {
+    "Title": "Bing Search Testing Opening Searches In New Window & Next Tab",
+    "Description": "Article describing Bing's A/B test where searches from the homepage and clicks on pagination links open results in new browser windows.",
+    "Link": "https://www.seroundtable.com/bing-search-new-window-37856.html"
+  },
+  {
+    "Title": "What channels SEO consultants use to provide consultancy? From the 265 responses to The #SEOFOMO SEO Consulting Survey 2024 so far: * Most (90%) use video conference calls * Followed by team messaging platforms (like Slack, with 54%) * And Project Management systems (38%). *",
+    "Description": "Tweet from @aleyda sharing preliminary findings from the #SEOFOMO SEO Consulting Survey 2024, highlighting the most popular channels used by SEO consultants.",
+    "Link": "https://twitter.com/aleyda/status/1821853862816346282"
+  },
+  {
+    "Title": "Apple will retain Google as default search engine in Safari; wont force its users to switch to Bing",
+    "Description": "News article stating that Apple will keep Google as the default search engine in Safari despite a lucrative deal, choosing not to force users to switch to Bing.",
+    "Link": "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
+  },
+  {
+    "Title": "AI Briefing: What transparency could look like for AI-powered brand safety tech",
+    "Description": "Article discussing the need for increased transparency in AI-powered brand safety tools, addressing industry concerns about their functionality, effectiveness, and cost.",
+    "Link": "https://digiday.com/media-buying/ai-briefing-what-transparency-could-look-like-for-ai-powered-brand-safety-tech/"
+  },
+  {
+    "Title": "Digitas' media chief Megan Jones on adapting to the speed of AI and social trends",
+    "Description": "Article featuring insights from Digitas' media chief Megan Jones on the agency's shift to become a networked experience agency, emphasizing the need to adapt to rapid advancements in AI and evolving social trends.",
+    "Link": "https://digiday.com/media-buying/digitas-media-chief-megan-jones-on-adapting-to-the-speed-of-ai-and-social-trends/"
+  },
+  {
+    "Title": "Amid uncertainties, Silicon Alley\u2019s leading lights collectively shrug at Google's cookie news on\u00a0earnings calls",
+    "Description": "Article reporting on the muted response from industry leaders, including The Trade Desk's Jeff Green, to Google's recent announcement regarding its cookie deprecation plan, highlighting a prevailing sentiment of cautious optimism.",
+    "Link": "https://digiday.com/media-buying/amid-uncertainties-silicon-alleys-leading-lights-collectively-shrug-at-googles-cookie-news-on-earnings-calls/"
+  },
+  {
+    "Title": "Does anime's presence at the Paris Olympics signal the end of the jock-nerd divide?",
+    "Description": "Article exploring the increasing prominence of anime references at the Paris Olympics, particularly among athletes themselves, and examining whether this signifies a blurring of traditional cultural boundaries.",
+    "Link": "https://digiday.com/marketing/does-animes-presence-at-the-paris-olympics-signal-the-end-of-the-jock-nerd-divide/"
+  },
+  {
+    "Title": "Uber's $1 billion ad business expected to remain untouched amidst Google's third-party cookie fallout",
+    "Description": "Article analyzing the potential impact of Google's revised third-party cookie policy on Uber's advertising business, suggesting that Uber's reliance on its own data may shield it from significant disruption.",
+    "Link": "https://digiday.com/marketing/ubers-1-billion-ad-business-expected-to-remain-untouched-amidst-googles-third-party-cookie-fallout/"
+  },
+  {
+    "Title": "Elon Musk's lawsuit shatters GARM, revealing industry\u2019s fracture and fear",
+    "Description": "Article discussing the implications of Elon Musk's lawsuit against the Global Alliance for Responsible Media (GARM), arguing that it exposes existing divisions and anxieties within the advertising industry regarding brand safety and content moderation.",
+    "Link": "https://digiday.com/marketing/elon-musks-lawsuit-shatters-garm-revealing-industrys-fracture-and-fear/"
+  },
+  {
+    "Title": "CMO Strategies: Inside Reddit, Pinterest and Snapchat\u2019s efforts to court marketers",
+    "Description": "This is the second half of Digiday\u2019s CMO Strategies report on social media. In this report, we examine Pinterest, Reddit and Snapchat's efforts to attract marketers and how brand safety remains a concern across social media platforms.",
+    "Link": "https://digiday.com/marketing/cmo-strategies-inside-reddit-pinterest-and-snapchats-efforts-to-court-marketers/"
+  },
+  {
+    "Title": "TikTok, Snap offer influencer agencies access to data and creators to gain competitive advantage",
+    "Description": "Social platforms from TikTok to Snap are developing closer relationships with influencer agencies by offering direct access to first-party data and creator programs as Meta apps maintain their dominance.",
+    "Link": "https://digiday.com/media-buying/tiktok-snap-offer-influencer-agencies-access-to-data-and-creators-to-gain-competitive-advantage/"
+  },
+  {
+    "Title": "Why Apple is the Big Tech dark horse of adland",
+    "Description": "'Everybody's waiting on Apple to do something big.'",
+    "Link": "https://digiday.com/marketing/apple-is-the-big-tech-dark-horse-of-adland/"
+  },
+  {
+    "Title": "Media Buying Briefing: What the holding companies' H1 results indicate for the rest of 2024",
+    "Description": "Publicis Groupe, followed closely by Omnicom, posted strong six-month performances \u2014 and more importantly, expect solid mid-single digit organic growth in the second half of 2024.",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-what-the-holding-companies-h1-results-indicate-for-the-rest-of-2024/"
+  },
+  {
+    "Title": "Evaluating technical SEO data: Key segmentation approaches",
+    "Description": "Learn commonly used and lesser-known data segments to help you pinpoint technical SEO patterns and trends in enterprise websites.",
+    "Link": "https://searchengineland.com/evaluating-technical-seo-data-segmentation-444659"
+  },
+  {
+    "Title": "Microsoft (Nasdaq: MSFT) Has a $40 Billion Honey Pot Teed up",
+    "Description": ": Bing could gain market share as Google faces antitrust issues, making Microsoft a potential long-term buy. If Google is forced to break up or stop paying for default search status, Bing could benefit, especially with a deal with Apple. Microsoft could see a revenue boost, while Google (Alphabet) might become a long-term sell. [\u2026]",
+    "Link": "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-08-12 08:03:40.182136:
+RESPONSE: 
+{"stories": [{"Title": "Google Ruled a Monopoly in Federal Court", "Category": "Antitrust", "Description": "A federal judge has ruled that Google holds a monopoly in the search market. The ruling could have significant implications for the company, including potential changes to its business practices.", "Links": ["https://twitter.com/aleyda/status/1822725628036272514", "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/", "https://twitter.com/rustybrick/status/1821985045609116127"]}, {"Title": "Google Search Ranking Volatility Observed", "Category": "Search Engine Optimization", "Description": "Intense Google Search ranking volatility has been observed, with significant fluctuations in website rankings. The volatility is unrelated to the helpful content update and has been attributed to other factors.", "Links": ["https://twitter.com/glenngabe/status/1822613609681219695", "https://twitter.com/rustybrick/status/1822612645070922194", "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"]}, {"Title": "Google Search Console Recommendations Feature Rolling Out", "Category": "Search Engine Optimization", "Description": "Google Search Console is gradually rolling out a new recommendations feature. The feature provides website owners with insights and suggestions to improve their search performance.", "Links": ["https://twitter.com/aleyda/status/1822725628036272514", "https://twitter.com/rustybrick/status/1821985045609116127", "https://www.seroundtable.com/recap-08-09-2024-37873.html"]}, {"Title": "Google Improves Crawling Efficiency", "Category": "Search Engine Optimization", "Description": "Google is focusing on enhancing crawling efficiency by implementing a \"new kind of chunked transfer.\" This aims to optimize the process of discovering and indexing web pages.", "Links": ["https://twitter.com/rustybrick/status/1821981270420943111", "https://www.seroundtable.com/google-search-crawling-improvements-37870.html", "https://twitter.com/rustybrick/status/1821876832314290202"]}, {"Title": "Forum Visibility Surges After Google's Hidden Gems Update", "Category": "Search Engine Optimization", "Description": "Forums like Reddit and Quora have experienced a significant surge in visibility since Google's hidden gems update in 2023. The update appears to favor forum-based content, leading to increased traffic and engagement.", "Links": ["https://twitter.com/glenngabe/status/1822264048349581659", "https://twitter.com/rustybrick/status/1821960369067188320", "https://twitter.com/glenngabe/status/1821959948156174737"]}, {"Title": "Google Business Profiles Call Tab Performance Data Restored", "Category": "Local Search", "Description": "Google Business Profiles users can now access call tab performance data again. The data provides insights into customer calls generated through Google My Business listings.", "Links": ["https://twitter.com/rustybrick/status/1821987264882499828"]}, {"Title": "Substack Allows Publishing Without Newsletters", "Category": "Content Creation", "Description": "Substack now enables anyone to publish posts on its platform, even without having a newsletter. This change allows for broader content sharing and monetization options.", "Links": ["https://twitter.com/glenngabe/status/1822253619367842256"]}, {"Title": "Former YouTube CEO Susan Wojcicki Passes Away", "Category": "Industry News", "Description": "Susan Wojcicki, former CEO of YouTube, has passed away. She was a prominent figure in the tech industry and played a pivotal role in YouTube's growth and success.", "Links": ["https://twitter.com/glenngabe/status/1822247303882703026"]}, {"Title": "Amazon to Rewrite Non-Compliant Product Descriptions Using AI", "Category": "Ecommerce", "Description": "Amazon will utilize AI to rewrite product descriptions deemed non-compliant with its policies. This move aims to improve the quality and consistency of product information on the platform.", "Links": ["https://twitter.com/glenngabe/status/1821888066128077228"]}, {"Title": "Apple Retains Google as Default Search Engine in Safari", "Category": "Tech News", "Description": "Apple has decided to keep Google as the default search engine in Safari, despite a lucrative deal with Microsoft. The decision suggests Apple prioritizes user experience and existing partnerships.", "Links": ["https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"]}]}
