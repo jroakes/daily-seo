@@ -1,38 +1,38 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly in Federal Court",
+            "Title": "Google Ruled a Monopoly in US Court",
             "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google holds a monopoly in the search engine market. The ruling could have significant implications for the company, including potential antitrust actions and changes to its business practices.",
+            "Description": "A federal judge has ruled that Google holds a monopoly in the search market. The ruling could have significant implications for the company, including potential antitrust actions and increased competition from rivals like Microsoft Bing.",
             "Links": [
                 "https://twitter.com/aleyda/status/1822725628036272514",
                 "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/"
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Increases",
+            "Title": "Google Search Ranking Volatility Observed",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search ranking volatility has been intense over the past few days, with many sites experiencing significant fluctuations. The cause of the volatility is unclear, but it is not related to the helpful content update.",
+            "Description": "Intense fluctuations in Google Search ranking positions have been observed, particularly over the weekend of August 9th and 10th.  The volatility is unrelated to any confirmed Google algorithm updates and has SEOs on edge.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1822613609681219695",
                 "https://twitter.com/rustybrick/status/1822612645070922194",
-                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html",
+                "https://twitter.com/glenngabe/status/1822603221325541699"
             ]
         },
         {
-            "Title": "Google Improves Crawling Efficiency",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is focusing on improving the efficiency of its crawling process. The company is exploring new technologies and approaches to make crawling faster and more effective.",
+            "Title": "Google Discover Traffic to Publishers Increases",
+            "Category": "Content Distribution",
+            "Description": "While overall search traffic from Google to news publishers is down, Google Discover is sending an increasing amount of traffic their way. The trend suggests Google is prioritizing Discover as a content distribution channel.",
             "Links": [
-                "https://www.searchenginejournal.com/3-ways-to-make-googlebot-crawl-more/524049/",
-                "https://twitter.com/rustybrick/status/1821981270420943111",
-                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html"
+                "https://twitter.com/rustybrick/status/1823008035704312094",
+                "https://www.seroundtable.com/google-traffic-discover-search-newzdash-37879.html",
+                "https://twitter.com/rustybrick/status/1822963995453575313"
             ]
         },
         {
-            "Title": "Google's Hidden Gems Update Boosts Forum Visibility",
+            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
             "Category": "Search Engine Optimization",
-            "Description": "Google's hidden gems update, rolled out in the fall of 2023, has led to a surge in visibility for online forums. Reddit and Quora have seen significant growth, but other forums have also benefited.",
+            "Description": "Analysis of search results reveals that Google's \"hidden gems\" update, rolled out in late 2023, has significantly boosted the visibility of various online forums. While Reddit and Quora saw notable gains, many other forums experienced substantial traffic increases as well.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1822264048349581659",
                 "https://twitter.com/rustybrick/status/1821960369067188320",
@@ -40,29 +40,65 @@
             ]
         },
         {
-            "Title": "Bing Tests Opening Search Results in New Windows",
-            "Category": "Search Engines",
-            "Description": "Bing is experimenting with opening search results and pagination links in new browser windows instead of the same tab. This A/B test could change how users interact with search results on Bing.",
+            "Title": "Google Improves Crawling Efficiency with \"Effingo\"",
+            "Category": "Search Engine Technology",
+            "Description": "Google has revealed \"Effingo,\" a data transfer system capable of handling massive amounts of information at high speed. Effingo is used for various Google services, including Search, and plays a crucial role in transferring ranking signals, web indexes, and potentially even user photo data.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1821966170427134220",
-                "https://twitter.com/rustybrick/status/1821905772831502502",
-                "https://www.seroundtable.com/bing-search-new-window-37856.html"
+                "https://twitter.com/rustybrick/status/1821981270420943111",
+                "https://www.seroundtable.com/google-search-crawling-improvements-37870.html",
+                "https://www.seroundtable.com/google-effingo-speed-37877.html"
             ]
         },
         {
-            "Title": "Apple Retains Google as Default Search Engine in Safari",
-            "Category": "Search Engines",
-            "Description": "Despite a lucrative deal, Apple has decided to keep Google as the default search engine in Safari. The decision means that Apple users will not be forced to switch to Bing.",
+            "Title": "Google Search May Improve URL Parameter Handling",
+            "Category": "Search Engine Optimization",
+            "Description": "Google may be revisiting how it handles URL parameters in search, potentially leading to improvements in how websites using parameters are crawled and indexed. This comes after the retirement of the URL parameters tool in Google Search Console in 2022.",
             "Links": [
-                "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
+                "https://twitter.com/rustybrick/status/1822958962502783302",
+                "https://www.seroundtable.com/google-url-parameter-handling-37874.html"
             ]
         },
         {
-            "Title": "Amazon to Rewrite Product Descriptions Using AI",
+            "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns",
+            "Category": "Search Engine Marketing",
+            "Description": "Google Ads has confirmed that keywords within paused campaigns or ad groups will not be automatically paused, even if they have been inactive for over 13 months. This clarification addresses concerns about unintended keyword pausing and its impact on campaign performance.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823004260956549321",
+                "https://twitter.com/rustybrick/status/1822961479240585645",
+                "https://www.seroundtable.com/google-ads-pause-keywords-37876.html"
+            ]
+        },
+        {
+            "Title": "Google Search Displays \"srsltid\" URL Parameter in Bug",
+            "Category": "Search Engine Optimization",
+            "Description": "A bug in Google Search has been causing URLs with the \"srsltid\" parameter from Google Merchant Center to be displayed as canonical URLs. This issue raises concerns about potential canonicalization errors and their impact on website indexing and ranking.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1822953929480745386",
+                "https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html"
+            ]
+        },
+        {
+            "Title": "Amazon to Rewrite Product Descriptions with AI",
             "Category": "Ecommerce",
-            "Description": "Amazon will use AI to rewrite product descriptions that it deems non-compliant with its guidelines. The move has sparked concern among sellers who fear losing control over their product listings.",
+            "Description": "Amazon will now use artificial intelligence to rewrite product descriptions it deems non-compliant with its guidelines. The move has sparked debate among sellers, with some expressing concerns about the implications for their control over product listings.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1821888066128077228"
+            ]
+        },
+        {
+            "Title": "Substack Opens Platform to All Publishers",
+            "Category": "Content Creation",
+            "Description": "Substack has announced that anyone can now publish content on its platform, even without a pre-existing newsletter. This change allows users to share writing, video, and audio content while offering free or paid subscriptions directly through their Substack profiles.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822253619367842256"
+            ]
+        },
+        {
+            "Title": "Former YouTube CEO Susan Wojcicki Passes Away",
+            "Category": "Technology Industry",
+            "Description": "Susan Wojcicki, the former CEO of YouTube and one of Google's earliest employees, has passed away. Her contributions to the tech industry, particularly in shaping YouTube into a global phenomenon, are being remembered and celebrated.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822247303882703026"
             ]
         }
     ],
