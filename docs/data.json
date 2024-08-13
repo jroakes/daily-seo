@@ -1,45 +1,79 @@
 {
     "data": [
         {
-            "Title": "Google Search Updates and Bugs",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Search is seeing updates and bugs, including better handling of URL parameters, a bug showing \"srsltid\" URL parameters from Merchant Center, and intense ranking volatility over the weekend.",
+            "Title": "Google Declared a Monopoly in US Antitrust Case",
+            "Category": "Antitrust",
+            "Description": "A federal judge has ruled that Google holds a monopoly in the search engine market, potentially leading to significant changes in how the company operates. The ruling could have ripple effects across the tech industry and impact competitors like Microsoft Bing.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1823060884417384955",
-                "https://twitter.com/rustybrick/status/1822953929480745386",
+                "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/",
+                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html",
+                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/"
+            ]
+        },
+        {
+            "Title": "Google Search Algorithm Volatility",
+            "Category": "Search Engines",
+            "Description": "Google Search has been experiencing significant ranking volatility over the weekend, with many websites seeing large swings in their positions. While Google has not officially announced a core update, the volatility suggests one may be imminent.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822613609681219695",
+                "https://twitter.com/rustybrick/status/1822612645070922194",
                 "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
             ]
         },
         {
-            "Title": "Google Discover Traffic Increases for Publishers",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google Discover traffic to publishers is UP, while traffic from Web Search, News Search, and other sources is DOWN, according to a report from NewzDash.",
+            "Title": "Google Discover Traffic to Publishers Increases",
+            "Category": "Search Engines",
+            "Description": "Google Discover is sending more traffic to publishers, while traffic from other Google sources like Web Search and News Search is declining, according to a report.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823068433652515263",
+                "https://twitter.com/rustybrick/status/1823008035704312094",
                 "https://twitter.com/rustybrick/status/1822963995453575313"
             ]
         },
         {
-            "Title": "Google Ads Won't Pause Keywords in Paused Campaigns",
-            "Category": "Search Engine Marketing (SEM)",
-            "Description": "Google Ads has confirmed that it will not pause keywords that are already in paused campaigns or ad groups.",
+            "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns or Ad Groups",
+            "Category": "Advertising Platforms",
+            "Description": "Google Ads has confirmed that it will not automatically pause keywords that are already part of paused campaigns or ad groups.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823064659479703661",
+                "https://twitter.com/rustybrick/status/1823004260956549321",
                 "https://twitter.com/rustybrick/status/1822961479240585645"
             ]
         },
         {
-            "Title": "Google's AI Overviews Favor YouTube and LinkedIn",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "A new study reveals that Google's AI search overviews prioritize YouTube and LinkedIn content, shorten the displayed content, and primarily link to top organic search results.",
+            "Title": "Google Search to Improve Handling of URL Parameters",
+            "Category": "Search Engines",
+            "Description": "Google is reportedly working on improving how its search engine handles URL parameters, potentially bringing back functionality that was previously removed from Google Search Console.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
+                "https://twitter.com/rustybrick/status/1823060884417384955",
+                "https://twitter.com/rustybrick/status/1823000486225604939",
+                "https://www.seroundtable.com/google-url-parameter-handling-37874.html"
+            ]
+        },
+        {
+            "Title": "Google Search Bug Displays \"srsltid\" URL Parameters",
+            "Category": "Search Engines",
+            "Description": "A bug in Google Search is causing URLs with the \"srsltid\" parameter from Google Merchant Center to be displayed as canonical URLs in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823053334112035273",
+                "https://twitter.com/rustybrick/status/1822992936805818826",
+                "https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html"
+            ]
+        },
+        {
+            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
+            "Category": "Search Engines",
+            "Description": "Google's \"hidden gems\" update, rolled out in late 2023, has led to a surge in visibility for online forums, including Reddit and Quora, but also impacting a wider range of forums.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822969898235985949",
+                "https://twitter.com/glenngabe/status/1822264048349581659",
+                "https://www.fastcompany.com/91167160/consensus-scientific-research-ai-search-engine"
             ]
         },
         {
             "Title": "TikTok Adds Group Chat Feature",
             "Category": "Social Media",
-            "Description": "TikTok is introducing group chats, allowing users over 15 years old to create and participate in group conversations with up to 32 people.",
+            "Description": "TikTok is introducing group chats for users over 15 years old, allowing up to 32 people to chat within the app, potentially impacting messaging apps.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823078471737991611"
             ]
@@ -47,33 +81,39 @@
         {
             "Title": "Meta and Universal Music Group Expand Music Licensing Agreement",
             "Category": "Music and Technology",
-            "Description": "Meta and Universal Music Group (UMG) have expanded their music licensing agreement, enabling Meta users to share songs from UMG's music library across Meta's platforms.",
+            "Description": "Meta and Universal Music Group have expanded their licensing agreement, enabling users to share UMG's music library across Meta's platforms and addressing the use of AI in music.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823038973016699231"
             ]
         },
         {
-            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's \"hidden gems\" update, rolled out in the fall of 2023, has significantly increased the visibility of online forums in search results, with Reddit and Quora experiencing substantial surges.",
+            "Title": "Bing Develops AI-Powered Search Features",
+            "Category": "Search Engines",
+            "Description": "Microsoft has filed patents for AI-powered search features for Bing, including informational grounding, semantic search engine results pages, and streaming chat integration within search results.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1822969898235985949"
+                "https://twitter.com/glenngabe/status/1823041958878564585"
             ]
         },
         {
-            "Title": "Google Ruled a Monopoly: Implications for Bing and the Search Market",
-            "Category": "Antitrust and Competition",
-            "Description": "A federal judge has ruled that Google holds a monopoly in the search engine market, potentially impacting Microsoft Bing's market share and leading to changes in the search landscape.",
+            "Title": "Google's AI Search Overviews Prioritize YouTube and LinkedIn",
+            "Category": "Search Engines",
+            "Description": "A new study reveals that Google's AI-powered search overviews favor content from YouTube and LinkedIn, while reducing the prominence of Reddit and often linking to top organic search results.",
             "Links": [
-                "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/",
-                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html",
-                "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/"
+                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
             ]
         },
         {
-            "Title": "Google Deactivates Russia-Based AdSense Accounts",
-            "Category": "Advertising and Geopolitics",
-            "Description": "Google is deactivating AdSense accounts based in Russia.",
+            "Title": "Google Develops \"Effingo\" for High-Speed Data Transfers",
+            "Category": "Technology",
+            "Description": "Google has developed \"Effingo,\" a technology for ultra-fast data transfers, used for Google Search and other services, potentially involving ranking signals and user data.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1822956445660283112"
+            ]
+        },
+        {
+            "Title": "Google Suspends Russia-Based AdSense Accounts",
+            "Category": "Geopolitics and Technology",
+            "Description": "Google has announced the deactivation of AdSense accounts based in Russia.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823079715692790206"
             ]
