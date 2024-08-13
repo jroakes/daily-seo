@@ -1,29 +1,33 @@
 {
     "data": [
         {
-            "Title": "Google Declared a Monopoly in US Antitrust Case",
-            "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google holds a monopoly in the search engine market, potentially leading to significant changes in how the company operates. The ruling could have ripple effects across the tech industry and impact competitors like Microsoft Bing.",
+            "Title": "Google Deactivates Russia-Based AdSense Accounts",
+            "Category": "Business",
+            "Description": "Google says it is deactivating Russia-based AdSense accounts",
             "Links": [
-                "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/",
-                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html",
-                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/"
+                "https://twitter.com/rustybrick/status/1823079715692790206"
             ]
         },
         {
-            "Title": "Google Search Algorithm Volatility",
-            "Category": "Search Engines",
-            "Description": "Google Search has been experiencing significant ranking volatility over the weekend, with many websites seeing large swings in their positions. While Google has not officially announced a core update, the volatility suggests one may be imminent.",
+            "Title": "TikTok Adds Group Chat Feature",
+            "Category": "Technology",
+            "Description": "TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old \"While people often share TikTok videos with each other in group chats on messaging apps, TikTok is now letting users do so within its own\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1822613609681219695",
-                "https://twitter.com/rustybrick/status/1822612645070922194",
-                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+                "https://twitter.com/glenngabe/status/1823078471737991611"
             ]
         },
         {
-            "Title": "Google Discover Traffic to Publishers Increases",
-            "Category": "Search Engines",
-            "Description": "Google Discover is sending more traffic to publishers, while traffic from other Google sources like Web Search and News Search is declining, according to a report.",
+            "Title": "Google's AI Search Overviews Favor YouTube and LinkedIn",
+            "Category": "Technology",
+            "Description": "Google's AI search overviews favor YouTube and LinkedIn, shorten content, and mostly link to top organic results, a new study reveals.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
+            ]
+        },
+        {
+            "Title": "Google Discover Traffic to Publishers Increases, While Web Search and News Search Traffic Decreases",
+            "Category": "Technology",
+            "Description": "ICYMI: Google Discover traffic to publishers UP but Web Search, News Search, etc traffic to publishers DOWN",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823068433652515263",
                 "https://twitter.com/rustybrick/status/1823008035704312094",
@@ -32,8 +36,8 @@
         },
         {
             "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns or Ad Groups",
-            "Category": "Advertising Platforms",
-            "Description": "Google Ads has confirmed that it will not automatically pause keywords that are already part of paused campaigns or ad groups.",
+            "Category": "Technology",
+            "Description": "ICYMI: Google Ads won't pause keywords already in paused campaigns or ad groups",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823064659479703661",
                 "https://twitter.com/rustybrick/status/1823004260956549321",
@@ -42,80 +46,266 @@
         },
         {
             "Title": "Google Search to Improve Handling of URL Parameters",
-            "Category": "Search Engines",
-            "Description": "Google is reportedly working on improving how its search engine handles URL parameters, potentially bringing back functionality that was previously removed from Google Search Console.",
+            "Category": "Technology",
+            "Description": "ICYMI: Google Search to get better at handling URL parameters",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823060884417384955",
                 "https://twitter.com/rustybrick/status/1823000486225604939",
-                "https://www.seroundtable.com/google-url-parameter-handling-37874.html"
+                "https://twitter.com/rustybrick/status/1822958962502783302"
             ]
         },
         {
-            "Title": "Google Search Bug Displays \"srsltid\" URL Parameters",
-            "Category": "Search Engines",
-            "Description": "A bug in Google Search is causing URLs with the \"srsltid\" parameter from Google Merchant Center to be displayed as canonical URLs in search results.",
+            "Title": "Google Search Bug Displays srsltid URL Parameters from Merchant Center",
+            "Category": "Technology",
+            "Description": "ICYMI: Google Search bug shows srsltid URL parameters from Merchant Center",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823053334112035273",
                 "https://twitter.com/rustybrick/status/1822992936805818826",
-                "https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html"
+                "https://twitter.com/rustybrick/status/1822953929480745386"
             ]
         },
         {
-            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
-            "Category": "Search Engines",
-            "Description": "Google's \"hidden gems\" update, rolled out in late 2023, has led to a surge in visibility for online forums, including Reddit and Quora, but also impacting a wider range of forums.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1822969898235985949",
-                "https://twitter.com/glenngabe/status/1822264048349581659",
-                "https://www.fastcompany.com/91167160/consensus-scientific-research-ai-search-engine"
-            ]
-        },
-        {
-            "Title": "TikTok Adds Group Chat Feature",
-            "Category": "Social Media",
-            "Description": "TikTok is introducing group chats for users over 15 years old, allowing up to 32 people to chat within the app, potentially impacting messaging apps.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1823078471737991611"
-            ]
-        },
-        {
-            "Title": "Meta and Universal Music Group Expand Music Licensing Agreement",
-            "Category": "Music and Technology",
-            "Description": "Meta and Universal Music Group have expanded their licensing agreement, enabling users to share UMG's music library across Meta's platforms and addressing the use of AI in music.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1823038973016699231"
-            ]
-        },
-        {
-            "Title": "Bing Develops AI-Powered Search Features",
-            "Category": "Search Engines",
-            "Description": "Microsoft has filed patents for AI-powered search features for Bing, including informational grounding, semantic search engine results pages, and streaming chat integration within search results.",
+            "Title": "Bing Files Patents for AI Search Features",
+            "Category": "Technology",
+            "Description": "Bing AI search patents",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823041958878564585"
             ]
         },
         {
-            "Title": "Google's AI Search Overviews Prioritize YouTube and LinkedIn",
-            "Category": "Search Engines",
-            "Description": "A new study reveals that Google's AI-powered search overviews favor content from YouTube and LinkedIn, while reducing the prominence of Reddit and often linking to top organic search results.",
+            "Title": "Meta and Universal Music Group Expand Music Licensing Agreement to Address AI Music",
+            "Category": "Business",
+            "Description": "\"Meta and Universal Music Group (UMG) announced on Monday the expansion of their multi-year music licensing agreement, which enables users to share songs from UMG\u2019s music library across Meta\u2019s\u2026",
             "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
+                "https://twitter.com/glenngabe/status/1823038973016699231"
             ]
         },
         {
-            "Title": "Google Develops \"Effingo\" for High-Speed Data Transfers",
+            "Title": "DebugBear Releases Free INP Debugger for Core Web Vitals Assessment",
             "Category": "Technology",
-            "Description": "Google has developed \"Effingo,\" a technology for ultra-fast data transfers, used for Google Search and other services, potentially involving ranking signals and user data.",
+            "Description": "Easily check any page Interaction to Next Paint (INP) for free for your CWV assessment with the @DebugBear INP Debugger \ud83d\udc40 it shows the input delay, processing time and presentation delay simulating interactions with the page key elements, whether on mobile or desktop! Check it\u2026",
             "Links": [
+                "https://twitter.com/aleyda/status/1823021426187907429"
+            ]
+        },
+        {
+            "Title": "New Report Analyzes Local SEO for Contractors in the United States",
+            "Category": "Business",
+            "Description": "A groundbreaking study analyzing 9,782 contractor Google Business Profiles across the United States has revealed critical insights into the online presence and customer satisfaction of local contractors.",
+            "Links": [
+                "https://groundbreakcarolinas.com/2024-state-of-local-seo-for-contractors-report/"
+            ]
+        },
+        {
+            "Title": "SEO Tools for Analyzing HTML Headings",
+            "Category": "Technology",
+            "Description": "HTML headings such as H2 and H3 help Google understand a page and are thus powerful ranking signals.",
+            "Links": [
+                "https://www.practicalecommerce.com/seo-tools-to-analyze-html-headings"
+            ]
+        },
+        {
+            "Title": "Google's \"Hidden Gems\" Update Boosts Visibility of Forums",
+            "Category": "Technology",
+            "Description": "In case you missed my post from Friday afternoon, I cover how Google's 'hidden gems' update from the fall of 2023 caused many forums to surge in visibility (and NOT just Reddit and Quora). Sure, those two surged like crazy, but many others did too. I'm tracking 97 different\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822969898235985949"
+            ]
+        },
+        {
+            "Title": "Meta Explores AI-Powered Campaign Creation",
+            "Category": "Technology",
+            "Description": "\"Mark Zuckerberg said on a call last week over the long term advertisers will basically just be able to tell us a business objective and a budget and\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822968389767209408"
+            ]
+        },
+        {
+            "Title": "Google's \"Effingo\" Enables Super-Fast Data Transfers for Search and Other Services",
+            "Category": "Technology",
+            "Description": "Including some ranking signals - \"Effingo is transferring a little over 1 exabytes of data per day at Google, data like some of our ranking signals, our web and media indexes, maybe the raw bytes of people's photos.\"",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822966421883662716",
                 "https://twitter.com/rustybrick/status/1822956445660283112"
             ]
         },
         {
-            "Title": "Google Suspends Russia-Based AdSense Accounts",
-            "Category": "Geopolitics and Technology",
-            "Description": "Google has announced the deactivation of AdSense accounts based in Russia.",
+            "Title": "Reddit Explores AI-Powered Search Results",
+            "Category": "Technology",
+            "Description": "The latest in Digital Marketing in today's #MarketingFOMO: * Reddit Considers Adding AI-Powered Search Results* Google declared a monopoly: industry reactions and implications* TikTok partners with Amazon for in-app shopping* Elon Musk\u2019s X sues advertisers over alleged\u2026",
             "Links": [
-                "https://twitter.com/rustybrick/status/1823079715692790206"
+                "https://twitter.com/aleyda/status/1822943414876291224"
+            ]
+        },
+        {
+            "Title": "Google's \"Branded Search\" Patent Uses Branded Queries as Ranking Signal",
+            "Category": "Technology",
+            "Description": "A patent describes using branded search queries as a ranking signal. Though not new, it has generally been overlooked",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-branded-search-patent-for-ranking-search-results/524083/"
+            ]
+        },
+        {
+            "Title": "New Ecommerce Tools Released: August 12, 2024",
+            "Category": "Business",
+            "Description": "New merchant tools this week include AI writing assistant, biometric payments, social commerce, fraud protection, and cross-border payments.",
+            "Links": [
+                "https://www.practicalecommerce.com/new-ecommerce-tools-august-12-2024"
+            ]
+        },
+        {
+            "Title": "Reddit, Pinterest, and Snapchat Court Marketers Amidst Brand Safety Concerns",
+            "Category": "Business",
+            "Description": "This is the second half of Digiday\u2019s CMO Strategies report on social media. In this report, we examine Pinterest, Reddit and Snapchat's efforts to attract marketers and how brand safety remains a concern across social media platforms.",
+            "Links": [
+                "https://digiday.com/marketing/cmo-strategies-inside-reddit-pinterest-and-snapchats-efforts-to-court-marketers/"
+            ]
+        },
+        {
+            "Title": "TikTok and Snap Offer Influencer Agencies Access to Data and Creators to Compete with Meta",
+            "Category": "Business",
+            "Description": "Social platforms from TikTok to Snap are developing closer relationships with influencer agencies by offering direct access to first-party data and creator programs as Meta apps maintain their dominance.",
+            "Links": [
+                "https://digiday.com/media-buying/tiktok-snap-offer-influencer-agencies-access-to-data-and-creators-to-gain-competitive-advantage/"
+            ]
+        },
+        {
+            "Title": "Apple Emerges as a Dark Horse in the Advertising Industry",
+            "Category": "Business",
+            "Description": "'Everybody's waiting on Apple to do something big.'",
+            "Links": [
+                "https://digiday.com/marketing/apple-is-the-big-tech-dark-horse-of-adland/"
+            ]
+        },
+        {
+            "Title": "Holding Companies' H1 Results Signal Strong Growth for Media Buying in 2024",
+            "Category": "Business",
+            "Description": "Publicis Groupe, followed closely by Omnicom, posted strong six-month performances \u2014 and more importantly, expect solid mid-single digit organic growth in the second half of 2024.",
+            "Links": [
+                "https://digiday.com/media-buying/media-buying-briefing-what-the-holding-companies-h1-results-indicate-for-the-rest-of-2024/"
+            ]
+        },
+        {
+            "Title": "Brands Prioritize Paralympic Games in Marketing Efforts",
+            "Category": "Business",
+            "Description": "Three advertisers discuss how and why they\u2019re making the Paralympics a priority.",
+            "Links": [
+                "https://digiday.com/marketing/heres-how-brands-are-approaching-the-paralympic-games/"
+            ]
+        },
+        {
+            "Title": "Ahrefs to Introduce \"Patches\" Feature for Easier SEO Audit Implementation",
+            "Category": "Technology",
+            "Description": "Ahrefs is developing a new \"Patches\" feature for their Site Audit tool. This feature aims to simplify the implementation of SEO audit recommendations, allowing users to fix various website issues more easily.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1823304014882304447"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Poised to Gain Market Share as Google Faces Antitrust Issues",
+            "Category": "Business",
+            "Description": "Microsoft (Nasdaq: MSFT) Has a $40 Billion Honey Pot Teed up: Bing could gain market share as Google faces antitrust issues, making Microsoft a potential long-term buy. If Google is forced to break up or stop paying for default search status, Bing could benefit, especially with a deal with Apple. Microsoft could see a revenue boost, while Google (Alphabet) might become a long-term sell. [\u2026]",
+            "Links": [
+                "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/",
+                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html",
+                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/",
+                "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/"
+            ]
+        },
+        {
+            "Title": "Google Search Experiences Volatility Ahead of Next Core Update",
+            "Category": "Technology",
+            "Description": "Google Search Ranking Algorithm Volatility August 9th and 10th: Since Friday, August 9th, I have been seeing yet another intense spike in Google Search ranking volatility. This is based on the SEO chatter within the communities and of course, the third-party Google Search rank volatility trackers.  And no, we still do not have a new core update officially released by Google but it is coming soon, weeks away...",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+            ]
+        },
+        {
+            "Title": "Content-First Approach to SEO Recommended for Dropshipping Businesses",
+            "Category": "Business",
+            "Description": "Best SEO for Dropshipping: For merchants selling dropshipped goods, a \"content-then-commerce\" approach could improve organic search rankings.",
+            "Links": [
+                "https://www.practicalecommerce.com/best-seo-for-dropshipping"
+            ]
+        },
+        {
+            "Title": "Consensus AI Search Engine Challenges ChatGPT and Gemini by Focusing on Scientific Research",
+            "Category": "Technology",
+            "Description": "Google who? This new service actually gets AI search right: By scouring published scientific research, Consensus makes ChatGPT and Gemini look like ill-informed rubes by comparison.",
+            "Links": [
+                "https://www.fastcompany.com/91167160/consensus-scientific-research-ai-search-engine"
+            ]
+        },
+        {
+            "Title": "Amazon Sellers Prepare Inventory for Extended Holiday Season",
+            "Category": "Business",
+            "Description": "Black Friday is more than three months away, but Amazon\u2019s third-party sellers are already scrambling to plan ahead.",
+            "Links": [
+                "https://digiday.com/marketing/amazon-sellers-plan-inventory-for-a-long-holiday-season/"
+            ]
+        },
+        {
+            "Title": "Marketers Adapt to Shifting Holiday and Seasonal Promotion Cycles",
+            "Category": "Business",
+            "Description": "Marketing Briefing: Why marketers aren't confined to traditional holiday and seasonal promotion cycles anymore: The timeline for holidays and traditional promotional cycles like say Black Friday and Cyber Monday that made up seasonal marketing efforts have changed and stretched out in recent years.",
+            "Links": [
+                "https://digiday.com/marketing/marketing-briefing-why-marketers-arent-confined-to-traditional-holiday-and-seasonal-promotion-cycles-anymore/"
+            ]
+        },
+        {
+            "Title": "Instagram Surpasses Facebook in Brand Perception, According to Digiday+ Research",
+            "Category": "Business",
+            "Description": "Digiday+ Research: Instagram is head and shoulders above Facebook in the eyes of brands: While brands' Facebook usage and spend remain strong, the platform is being eclipsed by Meta sibling Instagram.",
+            "Links": [
+                "https://digiday.com/marketing/digiday-research-instagram-is-head-and-shoulders-above-facebook-in-the-eyes-of-brands/"
+            ]
+        },
+        {
+            "Title": "Baked by Melissa CEO Emphasizes Authenticity Over Strategy in Social Media",
+            "Category": "Business",
+            "Description": "'We don't have a social media strategy': How Baked by Melissa's CEO and co-founder Melissa Ben-Ishay went from founder to influencer: With so many changes happening across the digital marketing landscape, sometimes the best strategy is to have no strategy at all \u2014 at least when it comes to social media, according Melissa Ben-Ishay, co-founder and CEO of dessert company Baked By Melissa.",
+            "Links": [
+                "https://digiday.com/podcasts/we-dont-have-a-social-media-strategy-how-baked-by-melissas-ceo-and-co-founder-melissa-ben-ishay-went-from-founder-to-influencer/"
+            ]
+        },
+        {
+            "Title": "AI-Agnostic Optimization: Leveraging AI for Content Creation and Brand Authority",
+            "Category": "Technology",
+            "Description": "AI Agnostic Optimization: Content For Topical Authority And Citations: Learn how AI is shaping content creation and brand authority. Stay competitive with AI citations and gain an edge in consumer interactions.",
+            "Links": [
+                "https://www.searchenginejournal.com/ai-agnostic-optimization-content-for-topical-authority-and-citations/523283/"
+            ]
+        },
+        {
+            "Title": "Bing Outperformed Google in Mobile Query Speed in 2017, According to Google Document",
+            "Category": "Technology",
+            "Description": "Bing Was Faster Than Google In 2017: A Google document that came out of the DOJ trails said that back in 2017, Bing Search was faster than Google was specifically looking at mobile queries.  The document was an internal Google document and went through 10 elements of latency.",
+            "Links": [
+                "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"
+            ]
+        },
+        {
+            "Title": "Google Tests Mini Knowledge Panel Cards in Search Results",
+            "Category": "Technology",
+            "Description": "Google is testing mini knowledge panel cards.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823321350980923666"
+            ]
+        },
+        {
+            "Title": "Google Experiments with Increased Outbound Links in AI Overviews",
+            "Category": "Technology",
+            "Description": "Google AI Overviews, which usually don't include many outbound links, are being tested with around 20 links.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823318833748168901"
+            ]
+        },
+        {
+            "Title": "Google Knowledge Panels to Feature \"Connections\"",
+            "Category": "Technology",
+            "Description": "Google Knowledge Panels are testing a \"connections\" feature.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823316317526733016"
             ]
         }
     ],
