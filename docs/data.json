@@ -2,8 +2,8 @@
     "data": [
         {
             "Title": "Google Deactivates Russian AdSense Accounts",
-            "Category": "Business",
-            "Description": "Google has announced the deactivation of all Russia-based AdSense accounts. The company plans to issue July payments in the coming weeks.",
+            "Category": "World News",
+            "Description": "Google says it is deactivating Russia-based AdSense accounts",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823079715692790206",
                 "https://twitter.com/rustybrick/status/1823366648851484736",
@@ -11,30 +11,17 @@
             ]
         },
         {
-            "Title": "TikTok Launches Group Chat Feature",
+            "Title": "TikTok Adds Group Chat Feature",
             "Category": "Technology",
-            "Description": "TikTok is introducing group chats for users over 15 years old, allowing up to 32 people to chat within the app. This feature aims to enhance user engagement and content sharing.",
+            "Description": "TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old \"While people often share TikTok videos with each other in group chats on messaging apps, TikTok is now letting users do so within its own\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823078471737991611"
             ]
         },
         {
-            "Title": "Google Search Updates and Tests",
-            "Category": "Technology",
-            "Description": "Google Search is receiving several updates and undergoing testing. These include improved handling of URL parameters, a potential fix for a bug displaying \"srsltid\" parameters, and experiments with mini knowledge panel cards and a \"connections\" feature in Knowledge Panels.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1823060884417384955",
-                "https://twitter.com/rustybrick/status/1823053334112035273",
-                "https://twitter.com/rustybrick/status/1822953929480745386",
-                "https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html",
-                "https://twitter.com/rustybrick/status/1823362874334728562",
-                "https://twitter.com/rustybrick/status/1823355324088111464"
-            ]
-        },
-        {
-            "Title": "Google Discover Traffic to Publishers Increases",
-            "Category": "Technology",
-            "Description": "While traffic from Google Web Search and News Search to publishers has declined, Google Discover traffic has seen an upward trend.",
+            "Title": "Google Discover Traffic Up, Other Search Traffic Down for Publishers",
+            "Category": "Search",
+            "Description": "Google Discover traffic to publishers UP but Web Search, News Search, etc traffic to publishers DOWN",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823068433652515263",
                 "https://twitter.com/rustybrick/status/1823008035704312094",
@@ -42,9 +29,9 @@
             ]
         },
         {
-            "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns",
-            "Category": "Technology",
-            "Description": "Google Ads has confirmed that keywords within paused campaigns or ad groups will not be automatically paused.",
+            "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns or Ad Groups",
+            "Category": "Search",
+            "Description": "ICYMI: Google Ads won't pause keywords already in paused campaigns or ad groups",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823064659479703661",
                 "https://twitter.com/rustybrick/status/1823004260956549321",
@@ -52,61 +39,145 @@
             ]
         },
         {
-            "Title": "Bing AI Search Patents Focus on Enhanced Search Experience",
+            "Title": "Google Search to Improve Handling of URL Parameters",
+            "Category": "Search",
+            "Description": "Google Search may get better at handling URL parameters (after ditching the URL parameter tool in GSC years ago)",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823060884417384955",
+                "https://twitter.com/rustybrick/status/1823000486225604939",
+                "https://twitter.com/rustybrick/status/1822958962502783302"
+            ]
+        },
+        {
+            "Title": "Google Search Bug Displays 'srsltid' URL Parameters from Merchant Center",
+            "Category": "Search",
+            "Description": "Google Search listing the srsltid URL parameters from Merchant Center - seems to be a bug",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823053334112035273",
+                "https://twitter.com/rustybrick/status/1822992936805818826",
+                "https://twitter.com/rustybrick/status/1822953929480745386"
+            ]
+        },
+        {
+            "Title": "Bing Develops AI-Powered Search Features",
             "Category": "Technology",
-            "Description": "Microsoft has filed patents related to Bing AI search, aiming to improve informational grounding, create semantic search engine results pages, and enable streaming of chat series within search results.",
+            "Description": "Bing AI search patents",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823041958878564585"
             ]
         },
         {
             "Title": "Meta and Universal Music Group Expand Music Licensing Agreement",
-            "Category": "Business",
-            "Description": "Meta and Universal Music Group (UMG) have expanded their music licensing agreement, allowing users to share UMG's music library across Meta's platforms. The agreement also addresses the use of AI in music.",
+            "Category": "Music",
+            "Description": "\"Meta and Universal Music Group (UMG) announced on Monday the expansion of their multi-year music licensing agreement, which enables users to share songs from UMG\u2019s music library across Meta\u2019s\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1823038973016699231"
             ]
         },
         {
-            "Title": "Google's AI Overviews Shift Focus from Reddit to YouTube",
-            "Category": "Technology",
-            "Description": "A recent study reveals that Google's AI search overviews now prioritize YouTube and LinkedIn over Reddit. The overviews also feature shorter content and primarily link to top organic search results.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
-            ]
-        },
-        {
-            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
-            "Category": "Technology",
-            "Description": "Google's \"hidden gems\" update, released in the fall of 2023, has significantly increased the visibility of online forums in search results. While Reddit and Quora experienced substantial surges, other forums also benefited from the update.",
+            "Title": "Google's 'Hidden Gems' Update Boosts Forum Visibility",
+            "Category": "Search",
+            "Description": "In case you missed my post from Friday afternoon, I cover how Google's 'hidden gems' update from the fall of 2023 caused many forums to surge in visibility (and NOT just Reddit and Quora). Sure, those two surged like crazy, but many others did too. I'm tracking 97 different\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1822969898235985949",
                 "https://twitter.com/glenngabe/status/1822264048349581659"
             ]
         },
         {
-            "Title": "Ahrefs to Introduce \"Patches\" Feature for Site Audit Tool",
+            "Title": "Google's 'Effingo' Enables Super-Fast Data Transfers",
             "Category": "Technology",
-            "Description": "Ahrefs is developing a new \"Patches\" feature for their Site Audit tool to simplify the implementation of SEO audit recommendations. This feature will enable users to address various website issues more efficiently.",
+            "Description": "Google Effingo - super fast data transfers used by Google Search and more via @methode",
             "Links": [
-                "https://twitter.com/aleyda/status/1823304014882304447"
+                "https://twitter.com/rustybrick/status/1822956445660283112"
             ]
         },
         {
-            "Title": "YouTube Experiments with Merging Shorts and Long-Form Videos",
+            "Title": "Reddit Explores AI-Powered Search Results",
             "Category": "Technology",
-            "Description": "YouTube is testing a new feature that merges Shorts and long-form videos into a single feed. This move aims to leverage the popularity of Shorts, which generate 70 billion daily views, to increase engagement with longer content.",
+            "Description": "The latest in Digital Marketing in today's #MarketingFOMO: * Reddit Considers Adding AI-Powered Search Results* Google declared a monopoly: industry reactions and implications* TikTok partners with Amazon for in-app shopping* Elon Musk\u2019s X sues advertisers over alleged\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1823328806662238525"
+                "https://twitter.com/aleyda/status/1822943414876291224"
+            ]
+        },
+        {
+            "Title": "Google Deemed a Monopoly: Impact and Future Implications",
+            "Category": "Business",
+            "Description": "The latest in SEO has been just sent in #SEOFOMO to 34.5K SEOs, featuring: * New Recommendations in Google Search Console* \u200bGoogle Is A Monopoly, Federal Judge Rules (What's Next)* Reddit Considers Adding AI-Powered Search Results* So Far, AI is Not Disrupting Search or\u2026",
+            "Links": [
+                "https://twitter.com/aleyda/status/1822725628036272514"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Poised to Gain Market Share Amidst Google Antitrust Issues",
+            "Category": "Business",
+            "Description": ": Bing could gain market share as Google faces antitrust issues, making Microsoft a potential long-term buy. If Google is forced to break up or stop paying for default search status, Bing could benefit, especially with a deal with Apple. Microsoft could see a revenue boost, while Google (Alphabet) might become a long-term sell. [\u2026]",
+            "Links": [
+                "https://247wallst.com/investing/2024/08/11/microsoft-nasdaq-msft-has-a-40-billion-honey-pot-teed-up/"
+            ]
+        },
+        {
+            "Title": "Bing vs. Google: AI Competition Intensifies in Search",
+            "Category": "Technology",
+            "Description": "The search-engine landscape is undergoing a big shift as Bing AI challenges Google's longstanding dominance. Napa internet marketing expert Janet Peischel explains.",
+            "Links": [
+                "https://napavalleyregister.com/news/local/business/ai-bing-google-search-engine-results/article_28253440-5034-11ef-8626-d3f4db137ac4.html"
+            ]
+        },
+        {
+            "Title": "Google Search Experiences Ranking Volatility",
+            "Category": "Search",
+            "Description": "Google Search Ranking Algorithm Volatility August 9th and 10th",
+            "Links": [
+                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+            ]
+        },
+        {
+            "Title": "Consensus AI Search Engine Garners Praise",
+            "Category": "Technology",
+            "Description": "By scouring published scientific research, Consensus makes ChatGPT and Gemini look like ill-informed rubes by comparison.",
+            "Links": [
+                "https://www.fastcompany.com/91167160/consensus-scientific-research-ai-search-engine"
+            ]
+        },
+        {
+            "Title": "Search Engine Wars Heat Up: Google's Monopoly Challenged",
+            "Category": "Business",
+            "Description": "A story that dives into a recent ruling that could shake up Google\u2019s search engine monopoly.",
+            "Links": [
+                "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/"
             ]
         },
         {
             "Title": "Bing Outpaced Google in Mobile Search Speed in 2017",
             "Category": "Technology",
-            "Description": "An internal Google document from 2017, revealed during the DOJ antitrust trials, indicates that Bing Search was faster than Google Search for mobile queries at that time. The document analyzed ten elements of latency.",
+            "Description": "Bing was faster than Google in mobile search in 2017 according to a Google document",
             "Links": [
                 "https://www.seroundtable.com/bing-was-faster-than-google-37888.html",
                 "https://twitter.com/rustybrick/status/1823326383298285904"
+            ]
+        },
+        {
+            "Title": "Ahrefs to Introduce 'Patches' Feature for Easier SEO Audit Implementation",
+            "Category": "Technology",
+            "Description": "Ahrefs is developing a new \"Patches\" feature for their Site Audit tool. This feature aims to simplify the implementation of SEO audit recommendations, allowing users to fix various website issues more easily.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1823304014882304447"
+            ]
+        },
+        {
+            "Title": "OpenAI Releases Updated ChatGPT Model with Enhanced Reasoning Abilities",
+            "Category": "Technology",
+            "Description": "\"While the ChatGPT App account declined to state further what precisely was different between the newly updated ChatGPT chatbot and prior versions, intrepid users have already found that it\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1823396058753532367"
+            ]
+        },
+        {
+            "Title": "Apple Plans to Expand 'Look Around' Feature in Maps App",
+            "Category": "Technology",
+            "Description": "\"The expansion into some of these places aligns with sightings of Apple mapping vehicles in 2023\" -> Apple Planning to Expand Maps App's 'Look Around' Feature \"Apple's 'Look Around' feature offers high-resolution, interactive street-level imagery in the Maps\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1823394272302993604"
             ]
         }
     ],
