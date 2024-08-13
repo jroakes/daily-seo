@@ -1,84 +1,93 @@
 {
     "data": [
         {
-            "Title": "Google Ruled a Monopoly in Landmark Antitrust Case",
-            "Category": "Antitrust",
-            "Description": "A federal judge has ruled that Google holds a monopoly in the search market, a decision with potentially significant implications for the company's future.",
+            "Title": "Google Deactivates Russia-Based AdSense Accounts",
+            "Category": "Business",
+            "Description": "Google says it is deactivating Russia-based AdSense accounts",
             "Links": [
-                "https://twitter.com/aleyda/status/1822725628036272514",
-                "https://www.geekwire.com/2024/what-the-google-ruling-means-for-microsoft-bing-amazon-delivery-dilemma-seattles-return-to-office/"
+                "https://twitter.com/rustybrick/status/1823079715692790206"
             ]
         },
         {
-            "Title": "Google Search Ranking Volatility Surges Ahead of August Core Update",
-            "Category": "Search Engine Optimization",
-            "Description": "Intense fluctuations in Google Search rankings have been observed, with SEO experts attributing the volatility to the upcoming August core update.",
+            "Title": "TikTok Adds Group Chat Feature",
+            "Category": "Technology",
+            "Description": "TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old \"While people often share TikTok videos with each other in group chats on messaging apps, TikTok is now letting users do so within its own\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1822613609681219695",
-                "https://twitter.com/rustybrick/status/1822612645070922194",
-                "https://www.seroundtable.com/google-search-ranking-volatility-weekend-37878.html"
+                "https://twitter.com/glenngabe/status/1823078471737991611"
             ]
         },
         {
-            "Title": "Google Discover Traffic to Publishers Increases While Search Traffic Declines",
-            "Category": "Search Engine Optimization",
-            "Description": "A new report reveals that Google Discover is sending more traffic to publishers, while traffic from Google Web Search, News Search, and other areas is decreasing.",
+            "Title": "Meta and Universal Music Group Expand Music Licensing Agreement",
+            "Category": "Business",
+            "Description": "\"Meta and Universal Music Group (UMG) announced on Monday the expansion of their multi-year music licensing agreement, which enables users to share songs from UMG\u2019s music library across Meta\u2019s\u2026",
             "Links": [
+                "https://twitter.com/glenngabe/status/1823038973016699231"
+            ]
+        },
+        {
+            "Title": "Google Discover Traffic to Publishers Increases While Other Sources Decline",
+            "Category": "Technology",
+            "Description": "Google Discover traffic to publishers UP but Web Search, News Search, etc traffic to publishers DOWN",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823068433652515263",
                 "https://twitter.com/rustybrick/status/1823008035704312094",
-                "https://www.seroundtable.com/google-traffic-discover-search-newzdash-37879.html"
-            ]
-        },
-        {
-            "Title": "Google's \"Hidden Gems\" Update Boosts Visibility for Online Forums",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's \"hidden gems\" update, rolled out in late 2023, has led to a surge in visibility for various online forums, including Reddit, Quora, and many others.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1822264048349581659",
-                "https://twitter.com/glenngabe/status/1821959948156174737"
-            ]
-        },
-        {
-            "Title": "Google Search to Improve Handling of URL Parameters",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is reportedly working on enhancing how its search engine handles URL parameters, potentially addressing concerns related to crawling and indexing.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1822958962502783302",
-                "https://www.seroundtable.com/google-url-parameter-handling-37874.html"
+                "https://twitter.com/rustybrick/status/1822963995453575313"
             ]
         },
         {
             "Title": "Google Ads Will Not Pause Keywords in Paused Campaigns or Ad Groups",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads has confirmed that keywords within paused campaigns or ad groups will not be automatically paused, even if they have been inactive for an extended period.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1822961479240585645",
-                "https://www.seroundtable.com/google-ads-pause-keywords-37876.html"
-            ]
-        },
-        {
-            "Title": "Substack Opens Up Publishing to All Users, Even Without Newsletters",
-            "Category": "Content Creation",
-            "Description": "Substack has announced that any user with an account can now publish posts on the platform, regardless of whether they have an existing newsletter.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1822253619367842256"
-            ]
-        },
-        {
-            "Title": "Amazon to Use AI to Rewrite Non-Compliant Product Descriptions",
-            "Category": "Ecommerce",
-            "Description": "Amazon is reportedly implementing AI to automatically rewrite product descriptions deemed non-compliant with its guidelines, raising concerns among sellers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1821888066128077228"
-            ]
-        },
-        {
-            "Title": "Apple Retains Google as Default Search Engine in Safari, Rejecting Bing Switch",
             "Category": "Technology",
-            "Description": "Despite a lucrative deal, Apple has decided to keep Google as the default search engine in Safari, opting not to force users to switch to Microsoft's Bing.",
+            "Description": "ICYMI: Google Ads won't pause keywords already in paused campaigns or ad groups",
             "Links": [
-                "https://www.thehindu.com/sci-tech/technology/apple-will-retain-google-as-default-search-engine-in-safari-wont-force-its-users-to-switch-to-bing/article68505240.ece"
+                "https://twitter.com/rustybrick/status/1823064659479703661",
+                "https://twitter.com/rustybrick/status/1823004260956549321",
+                "https://twitter.com/rustybrick/status/1822961479240585645"
+            ]
+        },
+        {
+            "Title": "Google Search to Improve Handling of URL Parameters",
+            "Category": "Technology",
+            "Description": "Google Search to get better at handling URL parameters",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823060884417384955",
+                "https://twitter.com/rustybrick/status/1823000486225604939",
+                "https://twitter.com/rustybrick/status/1822958962502783302"
+            ]
+        },
+        {
+            "Title": "Google Search Bug Displays \"srsltid\" URL Parameters from Merchant Center",
+            "Category": "Technology",
+            "Description": "Google Search listing the srsltid URL parameters from Merchant Center - seems to be a bug",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823053334112035273",
+                "https://twitter.com/rustybrick/status/1822992936805818826",
+                "https://twitter.com/rustybrick/status/1822953929480745386"
+            ]
+        },
+        {
+            "Title": "Bing Develops AI-Powered Search Features",
+            "Category": "Technology",
+            "Description": "Informational grounding, semantic search engine results pages, and streaming a series of chats in a SERP \"The company also filed a similar patent application for generating a \u201csemantic search engine results page.\u201d Like the above, this tech would use a\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1823041958878564585"
+            ]
+        },
+        {
+            "Title": "Google's AI Search Overviews Prioritize YouTube and LinkedIn",
+            "Category": "Technology",
+            "Description": "Google's AI search overviews favor YouTube and LinkedIn, shorten content, and mostly link to top organic results, a new study reveals.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
+            ]
+        },
+        {
+            "Title": "Google's \"Hidden Gems\" Update Boosts Forum Visibility",
+            "Category": "Technology",
+            "Description": "In case you missed my post from Friday afternoon, I cover how Google's 'hidden gems' update from the fall of 2023 caused many forums to surge in visibility (and NOT just Reddit and Quora). Sure, those two surged like crazy, but many others did too. I'm tracking 97 different\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1822969898235985949"
             ]
         }
     ],
-    "date": "2024-08-12"
+    "date": "2024-08-13"
 }
