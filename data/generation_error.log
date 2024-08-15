@@ -30427,3 +30427,385 @@ Error occurred at 2024-08-14 08:04:04.913358:
 RESPONSE: 
 {"stories": [{"Title": "U.S. Considers Forcing a Google Breakup", "Category": "Antitrust", "Description": "The U.S. Department of Justice is considering forcing a Google breakup, a rare move that could have significant implications for the tech industry. This comes after a jury found Google illegally monopolized the app store market.", "Links": ["https://twitter.com/sengineland/status/1823472504511283490", "https://twitter.com/rustybrick/status/1823465947732078834", "https://twitter.com/rustybrick/status/1823463151179870686"]}, {"Title": "Bing Was Faster Than Google in 2017", "Category": "Search Engine Performance", "Description": "A Google document from the DOJ trials revealed that Bing's search engine performance was faster than Google's in 2017, specifically for mobile queries. The document, an internal Google document, analyzed 10 elements of latency.", "Links": ["https://twitter.com/rustybrick/status/1823430821904310291", "https://twitter.com/rustybrick/status/1823370424052560383", "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"]}, {"Title": "Google Deactivates Russian-Based AdSense Accounts", "Category": "Geopolitics and Tech", "Description": "Google has taken action by deactivating AdSense accounts based in Russia.", "Links": ["https://twitter.com/rustybrick/status/1823427047483695189", "https://twitter.com/rustybrick/status/1823366648851484736"]}, {"Title": "Google Tests Mini Knowledge Panel Cards", "Category": "Search Engine Features", "Description": "Google is experimenting with a new, smaller format for its knowledge panel cards, making them more compact.", "Links": ["https://twitter.com/rustybrick/status/1823423271779422389", "https://twitter.com/rustybrick/status/1823362874334728562"]}, {"Title": "Google AI Overviews Enhance Search Results", "Category": "Search Engine Features", "Description": "Google is enhancing its search results with AI-powered overviews that provide comprehensive information and numerous links.", "Links": ["https://twitter.com/rustybrick/status/1823419497795219604", "https://twitter.com/rustybrick/status/1823359100186739190"]}, {"Title": "Google Knowledge Panels to Feature \"Connections\"", "Category": "Search Engine Features", "Description": "Google is adding a \"connections\" feature to knowledge panels, highlighting relationships between entities.", "Links": ["https://twitter.com/rustybrick/status/1823415722023788821"]}, {"Title": "OpenAI Updates ChatGPT with Multi-Step Reasoning", "Category": "Artificial Intelligence", "Description": "OpenAI has updated its ChatGPT chatbot to a new model that demonstrates improved multi-step reasoning capabilities.", "Links": ["https://twitter.com/glenngabe/status/1823396058753532367"]}, {"Title": "Apple to Expand Maps App's 'Look Around' Feature", "Category": "Maps and Navigation", "Description": "Apple is planning to expand the availability of its 'Look Around' feature in the Maps app, providing street-level imagery in more locations.", "Links": ["https://twitter.com/glenngabe/status/1823394272302993604"]}, {"Title": "Google Ignores Canonicals, Study Finds", "Category": "SEO", "Description": "A study of 595,000 domains reveals that Google often ignores canonical tags with specific attributes, highlighting potential issues for SEO.", "Links": ["https://twitter.com/MerjCom/status/1823360068643119500"]}, {"Title": "Profound: AI Search Optimization for Brands", "Category": "SEO", "Description": "Profound is a new tool that helps brands optimize their online presence for AI search tools like Claude and ChatGPT, signaling a potential shift in SEO strategies.", "Links": ["https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/"]}, {"Title": "State of SEO Report 2025", "Category": "SEO", "Description": "Discover the State of SEO in 2025. Uncover the pressing challenges, emerging trends, and strategies that SEO professionals are implementing for success.", "Links": ["https://www.searchenginejournal.com/state-of-seo-report-2025/523463/"]}, {"Title": "Google's 'Hidden Gems' Update Boosts Forum Visibility", "Category": "SEO", "Description": "Google's 'hidden gems' update from fall 2023 caused many forums to surge in visibility, not just Reddit and Quora. Glenn Gabe is tracking 97 different forums that saw significant visibility increases.", "Links": ["https://twitter.com/glenngabe/status/1822969898235985949"]}, {"Title": "Meta to Offer AI-Created Campaigns", "Category": "Artificial Intelligence", "Description": "Mark Zuckerberg stated that in the future, advertisers will be able to simply provide a business objective and budget, and Meta's AI will create entire campaigns.", "Links": ["https://twitter.com/glenngabe/status/1822968389767209408"]}, {"Title": "Google Effingo: Super-Fast Data Transfers", "Category": "Google Infrastructure", "Description": "Google Effingo is a super-fast data transfer system used by Google Search and other services. It transfers over 1 exabyte of data per day, including ranking signals, web and media indexes, and potentially raw bytes of user photos.", "Links": ["https://twitter.com/glenngabe/status/1822966421883662716", "https://twitter.com/rustybrick/status/1822956445660283112"]}, {"Title": "Google Search May Improve URL Parameter Handling", "Category": "SEO", "Description": "Google may be developing new ways to handle URL parameters in search, after retiring the URL parameter tool in Google Search Console years ago.", "Links": ["https://twitter.com/glenngabe/status/1822965223797453148", "https://twitter.com/rustybrick/status/1822958962502783302", "https://www.seroundtable.com/google-url-parameter-handling-37874.html"]}, {"Title": "Google Discover Traffic to Publishers Increases", "Category": "Search Engine Traffic", "Description": "A report from Newsdash states that Google is sending more traffic to publishers from Discover, but less traffic from Web Search, News Search, and other sources.", "Links": ["https://twitter.com/rustybrick/status/1822963995453575313"]}, {"Title": "Google Ads Won't Pause Keywords in Paused Campaigns", "Category": "Search Engine Advertising", "Description": "Google Ads liaison confirmed that the platform will not pause keywords that are already in paused campaigns or ad groups.", "Links": ["https://twitter.com/rustybrick/status/1822961479240585645"]}, {"Title": "Google Search Showing 'srsltid' URL Parameter", "Category": "Search Engine Bugs", "Description": "Google Search has been displaying URLs with the \"srsltid\" URL parameter from Merchant Center, which appears to be a bug.", "Links": ["https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html", "https://twitter.com/rustybrick/status/1822953929480745386"]}, {"Title": "Aleyda Solis's SEOFOMO Newsletter Features 'Crawling Mondays'", "Category": "SEO", "Description": "Aleyda Solis's latest SEOFOMO newsletter features a section called \"Crawling Mondays.\"", "Links": ["https://twitter.com/sitebulb/status/182294722572498126"]}, {"Title": "#MarketingFOMO Covers Latest Digital Marketing News", "Category": "Digital Marketing", "Description": "Aleyda Solis's #MarketingFOMO newsletter covers the latest digital marketing news, including Reddit considering AI-powered search results, Google being declared a monopoly, TikTok partnering with Amazon, and Elon Musk's X suing advertisers.", "Links": ["https://twitter.com/aleyda/status/1822943414876291224"]}, {"Title": "Google's 'Branded Search' Patent", "Category": "SEO", "Description": "Google has a patent that describes using branded search queries as a ranking signal, which has been generally overlooked.", "Links": ["https://www.searchenginejournal.com/googles-branded-search-patent-for-ranking-search-results/524083/"]}, {"Title": "AI Agnostic Optimization: Content for Topical Authority", "Category": "Artificial Intelligence", "Description": "This article explores how AI is shaping content creation and brand authority, specifically focusing on AI citations and their impact on consumer interactions.", "Links": ["https://www.searchenginejournal.com/ai-agnostic-optimization-content-for-topical-authority-and-citations/523283/"]}, {"Title": "Google's AI Overviews Favor YouTube, Study Finds", "Category": "Search Engine Features", "Description": "Google's AI search overviews favor YouTube and LinkedIn, shorten content, and mostly link to top organic results, a new study reveals.", "Links": ["https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"]}, {"Title": "Trends Shaping the Future of SEO", "Category": "SEO", "Description": "Discover how the evolving SEO landscape, driven by AI, voice search, and user experience, is reshaping digital marketing strategies for businesses.", "Links": ["https://www.intelligentliving.co/trends-that-will-define-the-future-of-seo/"]}, {"Title": "2024 State of Local SEO for Contractors Report", "Category": "SEO", "Description": "A groundbreaking study analyzing 9,782 contractor Google Business Profiles across the United States has revealed critical insights into the online presence and customer satisfaction of local contractors.", "Links": ["https://groundbreakcarolinas.com/2024-state-of-local-seo-for-contractors-report/"]}]}
 
+Error occurred at 2024-08-15 00:11:03.871023:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Common misconfigurations found in websites that dropped with the latest Core and HCU updates: two case studies",
+    "Description": "A tweet thread discussing common misconfigurations found in websites that experienced ranking drops following recent Google Core and HCU updates, featuring two case studies.",
+    "Link": "https://twitter.com/aleyda/status/1823803764085592084"
+  },
+  {
+    "Title": "Google\u2019s Internal Documents Claim Bing Was Faster At Generating Answers To Mobile Queries",
+    "Description": "DOJ trial verdict reveals Google acknowledged Bing's faster mobile query response, sparked by 2017 internal document.",
+    "Link": "https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html"
+  },
+  {
+    "Title": "DOJ may break up Google",
+    "Description": "Article discussing the potential breakup of Google by the Department of Justice.",
+    "Link": "https://twitter.com/rustybrick/status/1823793210038346181"
+  },
+  {
+    "Title": "Google hotel listings come under siege by hijackers",
+    "Description": "Article reporting on the issue of hijacked Google hotel listings.",
+    "Link": "https://twitter.com/rustybrick/status/1823789434698945003"
+  },
+  {
+    "Title": "Google Gemini Research with citations and links to websites",
+    "Description": "Article discussing Google Gemini Research, including citations and links to websites.",
+    "Link": "https://twitter.com/rustybrick/status/1823785660148596881"
+  },
+  {
+    "Title": "Does Google Search Console only show 35% of your data? It depends. Most sites see most/all of their data Google said",
+    "Description": "Article exploring whether Google Search Console shows only a portion of website data and providing insights from Google.",
+    "Link": "https://twitter.com/rustybrick/status/1823781885073367374"
+  },
+  {
+    "Title": "Apple Business Connect Showcase updates and enhancements",
+    "Description": "Article outlining updates and enhancements to Apple Business Connect Showcase.",
+    "Link": "https://twitter.com/rustybrick/status/1823778109818056769"
+  },
+  {
+    "Title": "It's New: Aug 14: US To Break Up Google, Gemini Research, Search Console Data & Hijacked Hotels",
+    "Description": "A roundup of newsworthy items related to Google, including potential breakup by the US government, Gemini Research, Search Console data, and hijacked hotel listings.",
+    "Link": "https://twitter.com/rustybrick/status/1823721442367955275"
+  },
+  {
+    "Title": "She\u2019ll Overhaul Your SEO Strategy",
+    "Description": "An article about Michelle Symonds, who launched her own marketing business leveraging her experience in various industries.",
+    "Link": "https://thestoryexchange.org/michelle-symonds-ditto-digital/"
+  },
+  {
+    "Title": "Hot take: Why SEO\u2019s oldest tactic must evolve now",
+    "Description": "In the time it takes you to finish that cup of coffee, you\u2019ll hear a bulletproof case for ditching the outdated editorial calendar in favor of a better, faster, and more impactful path to SEO results.",
+    "Link": "https://searchengineland.com/hot-take-why-seos-oldest-tactic-must-evolve-now-445196"
+  },
+  {
+    "Title": "Charts: Global Economic Outlook Q3 2024",
+    "Description": "We recap the latest forecasts from the International Monetary Fund on global economic growth.",
+    "Link": "https://www.practicalecommerce.com/charts-global-economic-conditions-outlook"
+  },
+  {
+    "Title": "Common Organic Search Traffic Forecasting Mistake \ud83d\udea8 Overestimating organic search traffic potential due to a high search volume, many times including those of similar terms variations, not taking into account zero click searches (which can be obtained through tools such as\u2026",
+    "Description": "Common Organic Search Traffic Forecasting Mistake \ud83d\udea8 Overestimating organic search traffic potential due to a high search volume, many times including those of similar terms variations, not taking into account zero click searches (which can be obtained through tools such as\u2026",
+    "Link": "https://twitter.com/aleyda/status/1823702735369158675"
+  },
+  {
+    "Title": "Even with Reddit's Google surge, it faces serious questions from Wall Street -&gt; Reddit\u2019s increased reliance on Google traffic has Wall Street anxious to see if visitors sign up And: \"Reddit acknowledges in its filings that \u201cchanges in internet search engine algorithms and\u2026",
+    "Description": "Even with Reddit's Google surge, it faces serious questions from Wall Street -&gt; Reddit\u2019s increased reliance on Google traffic has Wall Street anxious to see if visitors sign up And: \"Reddit acknowledges in its filings that \u201cchanges in internet search engine algorithms and\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823697607010423064"
+  },
+  {
+    "Title": "Focus on advertising? Reddit news -&gt; Reddit Announces Updates To Its Agency Partner Program \"Reddit has announced an update to its agency partner program, which will see approved partners awarded with new badges that they can display in their communications, as part of Reddit\u2019s\u2026",
+    "Description": "Focus on advertising? Reddit news -&gt; Reddit Announces Updates To Its Agency Partner Program \"Reddit has announced an update to its agency partner program, which will see approved partners awarded with new badges that they can display in their communications, as part of Reddit\u2019s\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823696224911770020"
+  },
+  {
+    "Title": "Yep, important news about an upcoming Gemini feature that I'm sure will yield many people letting Gemini research topics for them. It's rolling out in the coming months. Like I said in my tweet yesterday, we may have a new definition for a *user* when referencing the user\u2026",
+    "Description": "Yep, important news about an upcoming Gemini feature that I'm sure will yield many people letting Gemini research topics for them. It's rolling out in the coming months. Like I said in my tweet yesterday, we may have a new definition for a *user* when referencing the user\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823692288486158660"
+  },
+  {
+    "Title": "DOJ may break up Google; separating Android and Chrome and maybe even Google Ads - or may decide to require Google to share data with competitors",
+    "Description": "DOJ may break up Google; separating Android and Chrome and maybe even Google Ads - or may decide to require Google to share data with competitors",
+    "Link": "https://twitter.com/rustybrick/status/1823688771184787484"
+  },
+  {
+    "Title": "Regarding the potential breakup of Google -&gt; \"They are discussing various proposals, including breaking off parts of Google, such as its Chrome browser or Android smartphone operating system, two of the people said. Other scenarios under consideration include forcing Google to\u2026",
+    "Description": "Regarding the potential breakup of Google -&gt; \"They are discussing various proposals, including breaking off parts of Google, such as its Chrome browser or Android smartphone operating system, two of the people said. Other scenarios under consideration include forcing Google to\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823688727366963251"
+  },
+  {
+    "Title": "Some Google hotel listings come under siege by hijackers who add fake WhatsApp numbers and mark the hotels as permanently closed",
+    "Description": "Some Google hotel listings come under siege by hijackers who add fake WhatsApp numbers and mark the hotels as permanently closed",
+    "Link": "https://twitter.com/rustybrick/status/1823686254975971800"
+  },
+  {
+    "Title": "The Best Search Engines You Can Always Rely On: Google, Bing, Perplexity And More",
+    "Description": "Here are the best search engines that you can use to explore the World Wide Web, including Google, Bing, Brave Search, Perplexity and more.",
+    "Link": "https://www.augustman.com/in/gear/tech/best-search-engines-google-bing-perplexity/"
+  },
+  {
+    "Title": "Google Gemini Research, with citations and links to websites - is this the future of Google Search or nah?",
+    "Description": "Google Gemini Research, with citations and links to websites - is this the future of Google Search or nah?",
+    "Link": "https://twitter.com/rustybrick/status/1823683738502619282"
+  },
+  {
+    "Title": "Google Search Console only shows 35% of your data? @JohnMu says it depends and most sites see most/all of their data and don't forget the @ahrefs study that said it was closer to 50% (so not really new)",
+    "Description": "Google Search Console only shows 35% of your data? @JohnMu says it depends and most sites see most/all of their data and don't forget the @ahrefs study that said it was closer to 50% (so not really new)",
+    "Link": "https://twitter.com/rustybrick/status/1823681221941190924"
+  },
+  {
+    "Title": "Just tested @HubSpot new free AI Search Grader, which allows you to assess your brand sentiment and share of voice in GPT-4o results - Useful to have an overview of the overall visibility of your brand, and although with a few challenges (natural since it has been just released)\u2026",
+    "Description": "Just tested @HubSpot new free AI Search Grader, which allows you to assess your brand sentiment and share of voice in GPT-4o results - Useful to have an overview of the overall visibility of your brand, and although with a few challenges (natural since it has been just released)\u2026",
+    "Link": "https://twitter.com/aleyda/status/1823636266761539756"
+  },
+  {
+    "Title": "Earnings wrap-up: A tumultuous time for the gaming industry",
+    "Description": "The fundamental uncertainties that caused the gaming industry\u2019s recent run of layoffs were on full display during this quarter\u2019s earnings calls, both for endemic gaming companies and for the tech giants such as Netflix and Microsoft that hope to capture more gaming business.",
+    "Link": "https://digiday.com/marketing/earnings-wrap-up-a-tumultuous-time-for-the-gaming-industry/"
+  },
+  {
+    "Title": "Criteo is holding M&A discussions with Skai to bolster its retail media play",
+    "Description": "Investing hundreds of millions of dollars in the outfit, formerly known as Kenshoo, would enhance its turnaround strategy with new measurement capabilities.",
+    "Link": "https://digiday.com/media-buying/criteo-is-holding-ma-discussions-with-skai-to-bolster-its-retail-media-play/"
+  },
+  {
+    "Title": "Future of TV Briefing: Disney, Paramount and Warner Bros. Discovery quantify the TV-streaming divide",
+    "Description": "This week\u2019s Future of TV Briefing looks at how the second quarter of 2024 may have marked an inflection point for companies\u2019 traditional TV and streaming businesses.",
+    "Link": "https://digiday.com/future-of-tv/future-of-tv-briefing-disney-paramount-and-warner-bros-discovery-quantify-the-tv-streaming-divide/"
+  },
+  {
+    "Title": "Breaking down influencer marketing, from Joe Rogan to Selena Gomez to MrBeast",
+    "Description": "As investment in influencers takes up a bigger share of marketing and media budgets, it's worth exploring the differences among the several types of influencers that have emerged across different platforms \u2014 all the way from TikTok personalities to podcast hosts.",
+    "Link": "https://digiday.com/marketing/breaking-down-influencer-marketing-from-joe-rogan-to-selena-gomez-to-mrbeast/"
+  },
+  {
+    "Title": "WTF is surveillance pricing?",
+    "Description": "Why the rise of retail media networks and first-party data has caught the attention of the FTC.",
+    "Link": "https://digiday.com/marketing/wtf-is-surveillance-pricing/"
+  },
+  {
+    "Title": "Report: U.S. considering forcing a Google breakup",
+    "Description": "The U.S. Justice Department is considering breaking up Google.",
+    "Link": "https://twitter.com/sengineland/status/1823472504511283490"
+  },
+  {
+    "Title": "FTC Outlines Remedy Concerns in Amicus Brief After Jury Finds Google Illegally Monopolized App Store",
+    "Description": "The FTC has filed a brief outlining concerns about remedies after a jury found Google illegally monopolized the app store.",
+    "Link": "https://twitter.com/rustybrick/status/1823465947732078834"
+  },
+  {
+    "Title": "The US Justice Department is considering the rare move to break up Google",
+    "Description": "The US Justice Department is considering breaking up Google.",
+    "Link": "https://twitter.com/rustybrick/status/1823463151179870686"
+  },
+  {
+    "Title": "Google\u2019s Gemini Live AI Sounds So Human, I Almost Forgot It Was a Bot Oh, and glasses with AI are probably coming w/in the next two years. Interesting. :)",
+    "Description": "Google's Gemini Live AI is a new conversational AI that sounds very human-like.",
+    "Link": "https://twitter.com/glenngabe/status/1823438791392051520"
+  },
+  {
+    "Title": "Bing was faster than Google in 2017...",
+    "Description": "Bing was faster than Google in 2017.",
+    "Link": "https://twitter.com/rustybrick/status/1823430821904310291"
+  },
+  {
+    "Title": "Google deactivates Russian-based AdSense accounts",
+    "Description": "Google has deactivated AdSense accounts based in Russia.",
+    "Link": "https://twitter.com/rustybrick/status/1823427047483695189"
+  },
+  {
+    "Title": "Google tests mini knowledge panel cards (before/after attached)",
+    "Description": "Google is testing mini knowledge panel cards in search results.",
+    "Link": "https://twitter.com/rustybrick/status/1823423271779422389"
+  },
+  {
+    "Title": "Google AI Overviews with tons of links",
+    "Description": "Google is showing AI-powered overviews in search results with many links.",
+    "Link": "https://twitter.com/rustybrick/status/1823419497795219604"
+  },
+  {
+    "Title": "Gemini Live makes your mobile device a powerful AI assistant \"Gemini Live is a mobile conversational experience that lets you have free-flowing conversations with Gemini. Want to brainstorm potential jobs that\u2026",
+    "Description": "Google's Gemini Live is a new mobile conversational AI that acts as a powerful AI assistant.",
+    "Link": "https://twitter.com/glenngabe/status/1823416744129581278"
+  },
+  {
+    "Title": "Google Knowledge Panels with \"connections\"",
+    "Description": "Google is adding a \"connections\" feature to Knowledge Panels.",
+    "Link": "https://twitter.com/rustybrick/status/1823415722023788821"
+  },
+  {
+    "Title": "OpenAI updates ChatGPT to new model that exhibits multi-step reasoning \"While the ChatGPT App account declined to state further what precisely was different between the newly updated ChatGPT chatbot and prior versions, intrepid users have already found that it\u2026",
+    "Description": "OpenAI has updated ChatGPT to a new model that exhibits multi-step reasoning.",
+    "Link": "https://twitter.com/glenngabe/status/1823396058753532367"
+  },
+  {
+    "Title": "Apple Planning to Expand Maps App's 'Look Around' Feature \"Apple's 'Look Around' feature offers high-resolution, interactive street-level imagery in the Maps\u2026",
+    "Description": "Apple is planning to expand the 'Look Around' feature in its Maps app.",
+    "Link": "https://twitter.com/glenngabe/status/1823394272302993604"
+  },
+  {
+    "Title": "BrightEdge Data Shows Industry-Specific Improvements in Google AI Overviews",
+    "Description": "BrightEdge has released data showing industry-specific improvements in Google's AI Overviews.",
+    "Link": "https://finance.yahoo.com/news/brightedge-data-shows-industry-specific-160000384.html"
+  },
+  {
+    "Title": "OK, here is the first 'GSC recommendation' I have seen. And I have checked many properties in Search Console since the announcement... I guess it is slowly rolling out... but this is proof it is indeed rolling out. :)",
+    "Description": "Google Search Console recommendations are slowly rolling out.",
+    "Link": "https://twitter.com/glenngabe/status/1823374435199393948"
+  },
+  {
+    "Title": "Microsoft is not doing any favors with its new Bing strategy",
+    "Description": "Microsoft is being criticized for its intrusive tactics with its new Bing strategy.",
+    "Link": "https://www.xda-developers.com/microsoft-not-doing-favors-bing-strategy/"
+  },
+  {
+    "Title": "Contractor Lead Partners 2024 State of Local SEO for Contractors Report: Unveils Top and Bottom Performing Cities Nationwide",
+    "Description": "A new report by Contractor Lead Partners reveals the top and bottom performing cities nationwide for contractor local SEO.",
+    "Link": "https://www.prweb.com/releases/contractor-lead-partners-2024-state-of-local-seo-for-contractors-report-unveils-top-and-bottom-performing-cities-nationwide-302219688.html"
+  },
+  {
+    "Title": "\ud83d\udea8 SEO Research - Google ignores canonicals Our study of 595K domains found:1) Google ignores canonicals with hreflang, lang, media, or type attributes.2) 210 unique attributes used in canonicals across the set.3) Many SEO tools do not report on it.",
+    "Description": "A new study has found that Google ignores canonicals with certain attributes.",
+    "Link": "https://twitter.com/MerjCom/status/1823360068643119500"
+  },
+  {
+    "Title": "Move over SEO, Profound is helping brands with AI search optimization",
+    "Description": "Profound is a new tool that helps brands optimize for AI search engines like Claude and ChatGPT.",
+    "Link": "https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/"
+  },
+  {
+    "Title": "State Of SEO Report: Top Insights For 2025 Success",
+    "Description": "Discover the State of SEO in 2025. Uncover the pressing challenges, emerging trends, and strategies that SEO professionals are implementing for success.",
+    "Link": "https://www.searchenginejournal.com/state-of-seo-report-2025/523463/"
+  },
+  {
+    "Title": "Bing Was Faster Than Google In 2017",
+    "Description": "A Google document that came out of the DOJ trails said that back in 2017, Bing Search was faster than Google was specifically looking at mobile queries.  The document was an internal Google document and went through 10 elements of latency.",
+    "Link": "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"
+  },
+  {
+    "Title": "Marketing Briefing: Why marketers aren't confined to traditional holiday and seasonal promotion cycles anymore",
+    "Description": "The timeline for holidays and traditional promotional cycles like say Black Friday and Cyber Monday that made up seasonal marketing efforts have changed and stretched out in recent years.",
+    "Link": "https://digiday.com/marketing/marketing-briefing-why-marketers-arent-confined-to-traditional-holiday-and-seasonal-promotion-cycles-anymore/"
+  },
+  {
+    "Title": "'We don't have a social media strategy': How Baked by Melissa's CEO and co-founder Melissa Ben-Ishay went from founder to influencer",
+    "Description": "With so many changes happening across the digital marketing landscape, sometimes the best strategy is to have no strategy at all \u2014 at least when it comes to social media, according Melissa Ben-Ishay, co-founder and CEO of dessert company Baked By Melissa.",
+    "Link": "https://digiday.com/podcasts/we-dont-have-a-social-media-strategy-how-baked-by-melissas-ceo-and-co-founder-melissa-ben-ishay-went-from-founder-to-influencer/"
+  },
+  {
+    "Title": "Amazon sellers plan inventory for a long holiday season",
+    "Description": "Black Friday is more than three months away, but Amazon\u2019s third-party sellers are already scrambling to plan ahead.",
+    "Link": "https://digiday.com/marketing/amazon-sellers-plan-inventory-for-a-long-holiday-season/"
+  },
+  {
+    "Title": "Digiday+ Research: Instagram is head and shoulders above Facebook in the eyes of brands",
+    "Description": "While brands' Facebook usage and spend remain strong, the platform is being eclipsed by Meta sibling Instagram.",
+    "Link": "https://digiday.com/marketing/digiday-research-instagram-is-head-and-shoulders-above-facebook-in-the-eyes-of-brands/"
+  },
+  {
+    "Title": "The search engine wars are intensifying!",
+    "Description": "A story that dives into a recent ruling that could shake up Google\u2019s search engine monopoly.",
+    "Link": "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/"
+  },
+  {
+    "Title": "Semrush vs Ubersuggest: We Have a Winner!",
+    "Description": "Here's our in-depth Semrush vs Ubersuggest comparison. Which one to choose - Ubersuggest or Semrush? The answer is here, so read on.",
+    "Link": "https://www.01net.com/en/seo/tools/semrush-vs-ubersuggest/"
+  },
+  {
+    "Title": "Is Personalized Shopping Private?",
+    "Description": "Ecommerce merchants must balance the benefits of personalized selling with customer privacy.",
+    "Link": "https://www.practicalecommerce.com/is-personalized-shopping-private"
+  },
+  {
+    "Title": "Google's AI Overviews Ditch Reddit, Embrace YouTube [Study]",
+    "Description": "Google's AI search overviews favor YouTube and LinkedIn, shorten content, and mostly link to top organic results, a new study reveals.",
+    "Link": "https://www.searchenginejournal.com/googles-ai-overviews-ditch-reddit-embrace-youtube-study/524200/"
+  },
+  {
+    "Title": "Trends That Will Define The Future of SEO",
+    "Description": "Discover how the evolving SEO landscape, driven by AI, voice search, and user experience, is reshaping digital marketing strategies for businesses.",
+    "Link": "https://www.intelligentliving.co/trends-that-will-define-the-future-of-seo/"
+  },
+  {
+    "Title": "Bing AI search patents -> Informational grounding, semantic search engine results pages, and streaming a series of chats in a SERP \"The company also filed a similar patent application for generating a \u201csemantic search engine results page.\u201d Like the above, this tech would use a\u2026",
+    "Description": "Bing AI search patents -> Informational grounding, semantic search engine results pages, and streaming a series of chats in a SERP \"The company also filed a similar patent application for generating a \u201csemantic search engine results page.\u201d Like the above, this tech would use a\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823041958878564585"
+  },
+  {
+    "Title": "Meta, Universal Music Group (UMG) address AI music in new licensing agreement \"Meta and Universal Music Group (UMG) announced on Monday the expansion of their multi-year music licensing agreement, which enables users to share songs from UMG\u2019s music library across Meta\u2019s\u2026",
+    "Description": "Meta, Universal Music Group (UMG) address AI music in new licensing agreement \"Meta and Universal Music Group (UMG) announced on Monday the expansion of their multi-year music licensing agreement, which enables users to share songs from UMG\u2019s music library across Meta\u2019s\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1823038973016699231"
+  },
+  {
+    "Title": "Easily check any page Interaction to Next Paint (INP) for free for your CWV assessment with the @DebugBear INP Debugger \ud83d\udc40 it shows the input delay, processing time and presentation delay simulating interactions with the page key elements, whether on mobile or desktop! Check it\u2026",
+    "Description": "Easily check any page Interaction to Next Paint (INP) for free for your CWV assessment with the @DebugBear INP Debugger \ud83d\udc40 it shows the input delay, processing time and presentation delay simulating interactions with the page key elements, whether on mobile or desktop! Check it\u2026",
+    "Link": "https://twitter.com/aleyda/status/1823021426187907429"
+  },
+  {
+    "Title": "SEO Tools to Analyze HTML Headings",
+    "Description": "HTML headings such as H2 and H3 help Google understand a page and are thus powerful ranking signals.",
+    "Link": "https://www.practicalecommerce.com/seo-tools-to-analyze-html-headings"
+  },
+  {
+    "Title": "In case you missed my post from Friday afternoon, I cover how Google's 'hidden gems' update from the fall of 2023 caused many forums to surge in visibility (and NOT just Reddit and Quora). Sure, those two surged like crazy, but many others did too. I'm tracking 97 different\u2026",
+    "Description": "In case you missed my post from Friday afternoon, I cover how Google's 'hidden gems' update from the fall of 2023 caused many forums to surge in visibility (and NOT just Reddit and Quora). Sure, those two surged like crazy, but many others did too. I'm tracking 97 different\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1822969898235985949"
+  },
+  {
+    "Title": "Love the reaction of the @MarketingOClock crew when they cover the possibility of future Meta campaigns created entirely by AI -> \"Mark Zuckerberg said on a call last week over the long term advertisers will basically just be able to tell us a business objective and a budget and\u2026",
+    "Description": "Love the reaction of the @MarketingOClock crew when they cover the possibility of future Meta campaigns created entirely by AI -> \"Mark Zuckerberg said on a call last week over the long term advertisers will basically just be able to tell us a business objective and a budget and\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1822968389767209408"
+  },
+  {
+    "Title": "Including some ranking signals -> \"Effingo is transferring a little over 1 exabytes of data per day at Google, data like some of our ranking signals, our web and media indexes, maybe the raw bytes of people's photos.\"",
+    "Description": "Including some ranking signals -> \"Effingo is transferring a little over 1 exabytes of data per day at Google, data like some of our ranking signals, our web and media indexes, maybe the raw bytes of people's photos.\"",
+    "Link": "https://twitter.com/glenngabe/status/1822966421883662716"
+  },
+  {
+    "Title": "Yep, I found that part of the podcast pretty interesting, especially since Google removed the URL parameters tool in April of 2022. I'm eager to hear what Google shares about this (if they do)... Also, Gary issued a reminder that site owners can use robots.txt directives to block\u2026",
+    "Description": "Yep, I found that part of the podcast pretty interesting, especially since Google removed the URL parameters tool in April of 2022. I'm eager to hear what Google shares about this (if they do)... Also, Gary issued a reminder that site owners can use robots.txt directives to block\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1822965223797453148"
+  },
+  {
+    "Title": "Will Google Come Out With New URL Parameter Handling In Search",
+    "Description": "As part of the Search Off The Record podcast from Google on crawling, which we briefly covered on Friday, Gary Illyes from Google said he is investigating ways for Google to handle URL parameters better.",
+    "Link": "https://www.seroundtable.com/google-url-parameter-handling-37874.html"
+  },
+  {
+    "Title": "Google Search Showing srsltid URL Parameters From Merchant Center",
+    "Description": "Over the past couple of weeks, there has been an increase in complaints around Google Search listing URLs with the srsltid URL parameter tagged along to the URL, as the canonical URL in Google Search. In fact, Google matches on hundreds of thousands of these URLs now and does serve them in the search results under that parameter.",
+    "Link": "https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html"
+  },
+  {
+    "Title": "RT by @aleyda: Make sure to check out Crawling Mondays in @aleyda's latest SEOFOMO newsletter. Oh alright, here's the link:",
+    "Description": "RT by @aleyda: Make sure to check out Crawling Mondays in @aleyda's latest SEOFOMO newsletter. Oh alright, here's the link:",
+    "Link": "https://twitter.com/sitebulb/status/1822947225724498126"
+  },
+  {
+    "Title": "The latest in Digital Marketing in today's #MarketingFOMO: * Reddit Considers Adding AI-Powered Search Results* Google declared a monopoly: industry reactions and implications* TikTok partners with Amazon for in-app shopping* Elon Musk\u2019s X sues advertisers over alleged\u2026",
+    "Description": "The latest in Digital Marketing in today's #MarketingFOMO: * Reddit Considers Adding AI-Powered Search Results* Google declared a monopoly: industry reactions and implications* TikTok partners with Amazon for in-app shopping* Elon Musk\u2019s X sues advertisers over alleged\u2026",
+    "Link": "https://twitter.com/aleyda/status/1822943414876291224"
+  },
+  {
+    "Title": "Google's \"Branded Search\" Patent For Ranking Search Results",
+    "Description": "A patent describes using branded search queries as a ranking signal. Though not new, it has generally been overlooked",
+    "Link": "https://www.searchenginejournal.com/googles-branded-search-patent-for-ranking-search-results/524083/"
+  },
+  {
+    "Title": "TikTok, Snap offer influencer agencies access to data and creators to gain competitive advantage",
+    "Description": "Social platforms from TikTok to Snap are developing closer relationships with influencer agencies by offering direct access to first-party data and creator programs as Meta apps maintain their dominance.",
+    "Link": "https://digiday.com/media-buying/tiktok-snap-offer-influencer-agencies-access-to-data-and-creators-to-gain-competitive-advantage/"
+  },
+  {
+    "Title": "Media Buying Briefing: What the holding companies' H1 results indicate for the rest of 2024",
+    "Description": "Publicis Groupe, followed closely by Omnicom, posted strong six-month performances \u2014 and more importantly, expect solid mid-single digit organic growth in the second half of 2024.",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-what-the-holding-companies-h1-results-indicate-for-the-rest-of-2024/"
+  },
+  {
+    "Title": "CMO Strategies: Inside Reddit, Pinterest and Snapchat\u2019s efforts to court marketers",
+    "Description": "This is the second half of Digiday\u2019s CMO Strategies report on social media. In this report, we examine Pinterest, Reddit and Snapchat's efforts to attract marketers and how brand safety remains a concern across social media platforms.",
+    "Link": "https://digiday.com/marketing/cmo-strategies-inside-reddit-pinterest-and-snapchats-efforts-to-court-marketers/"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-08-15 00:11:03.871383:
+RESPONSE: 
+{"stories": [{"Title": "DOJ May Break Up Google", "Category": "Antitrust", "Description": "The U.S. Justice Department is considering breaking up Google, potentially separating Android, Chrome, and even Google Ads.  Other scenarios include forcing Google to share data with competitors.", "Links": ["https://twitter.com/rustybrick/status/1823793210038346181", "https://twitter.com/sengineland/status/1823472504511283490", "https://twitter.com/rustybrick/status/1823463151179870686"]}, {"Title": "Google Gemini Research", "Category": "Search", "Description": "Google Gemini Research is an upcoming feature that will allow users to research topics using AI.  It will include citations and links to websites.", "Links": ["https://twitter.com/rustybrick/status/1823785660148596881", "https://twitter.com/rustybrick/status/1823683738502619282", "https://twitter.com/glenngabe/status/1823692288486158660"]}, {"Title": "Google Search Console Data Visibility", "Category": "Search", "Description": "There are questions about whether Google Search Console shows only a portion of website data. Google's John Mu says it depends and most sites see most/all of their data.  A previous study by Ahrefs suggested it was closer to 50%.", "Links": ["https://twitter.com/rustybrick/status/1823781885073367374", "https://twitter.com/rustybrick/status/1823681221941190924"]}, {"Title": "Google Hotel Listings Hijacked", "Category": "Search", "Description": "Some Google hotel listings are being hijacked by scammers who add fake WhatsApp numbers and mark the hotels as permanently closed.", "Links": ["https://twitter.com/rustybrick/status/1823789434698945003", "https://twitter.com/rustybrick/status/1823686254975971800"]}, {"Title": "Bing Was Faster Than Google in 2017", "Category": "Search", "Description": "A Google internal document from 2017 revealed during the DOJ trial acknowledged that Bing Search was faster than Google, specifically for mobile queries.", "Links": ["https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html", "https://twitter.com/rustybrick/status/1823430821904310291", "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"]}, {"Title": "Google Gemini Live AI", "Category": "AI", "Description": "Google's Gemini Live is a new conversational AI that sounds very human-like.  It will be available on mobile devices and act as a powerful AI assistant.", "Links": ["https://twitter.com/glenngabe/status/1823438791392051520", "https://twitter.com/glenngabe/status/1823416744129581278"]}, {"Title": "OpenAI Updates ChatGPT with Multi-Step Reasoning", "Category": "AI", "Description": "OpenAI has updated ChatGPT to a new model that exhibits multi-step reasoning, although the specific differences from prior versions are not yet fully clear.", "Links": ["https://twitter.com/glenngabe/status/1823396058753532367"]}, {"Title": "Apple to Expand Maps 'Look Around' Feature", "Category": "Maps", "Description": "Apple is planning to expand the 'Look Around' feature in its Maps app, which offers high-resolution, interactive street-level imagery.", "Links": ["https://twitter.com/glenngabe/status/1823394272302993604"]}, {"Title": "Google Search Console Recommendations Rolling Out", "Category": "Search", "Description": "Google Search Console recommendations are slowly rolling out to users.", "Links": ["https://twitter.com/glenngabe/status/1823374435199393948"]}, {"Title": "Google May Change URL Parameter Handling", "Category": "Search", "Description": "Google's Gary Illyes has indicated that he is investigating ways for Google to handle URL parameters better, potentially leading to changes in how they are handled in search.", "Links": ["https://www.seroundtable.com/google-url-parameter-handling-37874.html"]}, {"Title": "Google Search Showing 'srsltid' URL Parameter", "Category": "Search", "Description": "Google Search has been observed increasingly listing URLs with the 'srsltid' URL parameter as the canonical URL, leading to complaints and questions about its purpose.", "Links": ["https://www.seroundtable.com/google-search-srsltid-url-parameters-37875.html"]}, {"Title": "Google's 'Branded Search' Patent", "Category": "Search", "Description": "A Google patent describes using branded search queries as a ranking signal, a concept that has been generally overlooked despite not being new.", "Links": ["https://www.searchenginejournal.com/googles-branded-search-patent-for-ranking-search-results/524083/"]}]}
+
