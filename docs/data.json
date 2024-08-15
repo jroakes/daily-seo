@@ -1,29 +1,29 @@
 {
     "data": [
         {
-            "Title": "DOJ May Break Up Google",
+            "Title": "Google August 2024 Core Update Rolling Out",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has begun rolling out its August 2024 core update, which is expected to take up to a month to complete. The update aims to improve the quality of search results and may impact website rankings. Google stated that this update incorporates feedback from creators and aims to benefit small and independent publishers.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1824098807199523286",
+                "https://twitter.com/rustybrick/status/1824104993990889848",
+                "https://twitter.com/glenngabe/status/1824103327568916796"
+            ]
+        },
+        {
+            "Title": "DOJ Considers Breaking Up Google",
             "Category": "Antitrust",
-            "Description": "The US Department of Justice is considering breaking up Google, potentially separating Android, Chrome, and Google Ads.  Other scenarios include forcing Google to share data with competitors.",
+            "Description": "The US Department of Justice is considering a potential breakup of Google, alleging illegal monopolization. Proposals include separating Chrome, Android, or Google Ads, or requiring data sharing with competitors. This move follows a jury's finding that Google illegally monopolized the app store market.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823732811800699147",
-                "https://twitter.com/rustybrick/status/1823688771184787484",
-                "https://twitter.com/glenngabe/status/1823688727366963251"
+                "https://twitter.com/sengineland/status/1823472504511283490",
+                "https://twitter.com/rustybrick/status/1823463151179870686"
             ]
         },
         {
-            "Title": "Bing Was Faster Than Google in 2017",
-            "Category": "Search Engine Competition",
-            "Description": "Internal Google documents from 2017, revealed during the DOJ antitrust trials, acknowledged that Bing Search was faster than Google, particularly for mobile searches.",
-            "Links": [
-                "https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html",
-                "https://twitter.com/rustybrick/status/1823430821904310291",
-                "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"
-            ]
-        },
-        {
-            "Title": "Google Gemini Research to Feature Citations and Website Links",
-            "Category": "Search Engine Features",
-            "Description": "Google Gemini Research will soon allow users to research topics and receive citations and links to websites, potentially changing how users interact with search results.",
+            "Title": "Google Gemini Research: AI-Powered Search",
+            "Category": "Artificial Intelligence",
+            "Description": "Google is developing Gemini, an AI-powered search feature that aims to revolutionize how users find information. Gemini will enable users to research topics with citations and links to websites, potentially changing the definition of a \"user\" in search.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1823725261717659743",
                 "https://twitter.com/glenngabe/status/1823692288486158660",
@@ -31,44 +31,58 @@
             ]
         },
         {
-            "Title": "Google Hotel Listings Targeted by Hijackers",
-            "Category": "Search Engine Manipulation",
-            "Description": "Google hotel listings are being hijacked with fake WhatsApp numbers added and hotels falsely marked as permanently closed.",
+            "Title": "Google AI Overviews Expand with New Features and Countries",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is expanding its AI-generated search summaries, known as AI Overviews, to six new countries. The company has addressed initial accuracy concerns and is introducing new features, including a Perplexity-like link treatment and source citations. Google is also testing AI Overviews in incognito mode.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1823729037187113370",
-                "https://twitter.com/rustybrick/status/1823686254975971800"
+                "https://finance.yahoo.com/news/google-brings-ai-answers-search-100206919.html",
+                "https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout",
+                "https://twitter.com/glenngabe/status/1824094120538767463"
             ]
         },
         {
-            "Title": "Google Search Console Recommendations Rolling Out",
-            "Category": "SEO Tools",
-            "Description": "Google Search Console is rolling out a new recommendations feature, providing website owners with actionable insights to improve their search performance.",
+            "Title": "Bing Search Outperformed Google in Speed in 2017",
+            "Category": "Search Engines",
+            "Description": "Internal Google documents from 2017, revealed during the DOJ antitrust trials, acknowledged that Microsoft Bing Search was faster than Google, particularly for mobile queries. This revelation highlights the competitive landscape of search engines at that time.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1823374435199393948"
+                "https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html",
+                "https://twitter.com/rustybrick/status/1823430821904310291",
+                "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"
             ]
         },
         {
-            "Title": "Google AI Overviews Volatility Continues",
-            "Category": "Search Engine Algorithms",
-            "Description": "Google's AI Overviews continue to fluctuate, with increased overlap in search results and changes in trigger patterns for different industries.",
+            "Title": "Google Search Console Data Transparency Questioned",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Search Console's data transparency is under scrutiny as the platform reveals it may only show 35% of a website's performance data. This revelation raises concerns about the completeness of data provided to website owners for SEO analysis and improvement.",
             "Links": [
-                "https://searchengineland.com/google-ai-overviews-volatility-continues-rise-fall-repeat-445177"
+                "https://twitter.com/rustybrick/status/1823721487196418528",
+                "https://twitter.com/rustybrick/status/1823681221941190924",
+                "https://www.seroundtable.com/google-search-console-35-percent-data-37901.html"
             ]
         },
         {
-            "Title": "Publishers Report Positive Q2 Earnings",
-            "Category": "Media & Advertising",
-            "Description": "Publishers are experiencing a strong second quarter in 2024, with AI deals and an improved ad market contributing to positive earnings.",
+            "Title": "Publishers See Strong Q2 Earnings Driven by AI and Ad Market",
+            "Category": "Publishing & Advertising",
+            "Description": "Publishers are reporting positive Q2 earnings, attributed to growth in AI deals and an improved advertising market. This trend suggests a potential rebound for the publishing industry after facing challenges in recent years.",
             "Links": [
                 "https://digiday.com/media/media-briefing-pubs-q2-earnings-look-rosy-thanks-to-ai-deals-and-an-improved-ad-market/"
             ]
         },
         {
-            "Title": "Political Ad Spending Favors Connected TV",
-            "Category": "Media & Advertising",
-            "Description": "Connected TV (CTV) is emerging as a major beneficiary of political ad spending, with publishers, agencies, and ad tech vendors reporting increased investment.",
+            "Title": "Political Ad Spending Boosts Connected TV",
+            "Category": "Advertising & Media",
+            "Description": "Connected TV (CTV) is emerging as a major beneficiary of increased political ad spending. Publishers, agencies, and ad tech vendors report a surge in political ad dollars flowing towards CTV platforms.",
             "Links": [
                 "https://digiday.com/media-buying/as-political-ad-spend-faucet-opens-ctv-media-stands-to-be-a-major-winner/"
+            ]
+        },
+        {
+            "Title": "Hijackers Target Google Hotel Listings",
+            "Category": "Cybersecurity",
+            "Description": "Google hotel listings are being targeted by hijackers who are adding fake WhatsApp numbers and marking hotels as permanently closed. This malicious activity poses a threat to both businesses and consumers using Google's hotel booking services.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1823729037187113370",
+                "https://twitter.com/rustybrick/status/1823686254975971800"
             ]
         }
     ],
