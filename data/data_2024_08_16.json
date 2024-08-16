@@ -1,0 +1,482 @@
+{
+    "valid_articles": [
+        {
+            "Title": "Publishers report 'negligible' traffic impact of Google AI Overviews",
+            "Description": "Tweet from @rustybrick reporting that publishers are seeing minimal impact on their traffic from Google's AI Overviews.",
+            "Link": "https://twitter.com/rustybrick/status/1824159675543114105"
+        },
+        {
+            "Title": "Google Search ranking volatility combusting (Google later announced the core update)",
+            "Description": "Tweet from @rustybrick mentioning high volatility in Google Search rankings, which was later attributed to a core update.",
+            "Link": "https://twitter.com/rustybrick/status/1824155597127757966"
+        },
+        {
+            "Title": "Google now showing AI Overviews in Incognito in the US",
+            "Description": "Tweet from @aleyda stating that Google is now displaying AI Overviews in incognito mode for users in the US, potentially indicating a broader rollout.",
+            "Link": "https://twitter.com/aleyda/status/1824154784699650226"
+        },
+        {
+            "Title": "Google Search with fewer top stories for political figures and election news",
+            "Description": "Tweet from @rustybrick reporting that Google Search is displaying fewer Top Stories carousels for queries related to political figures and election news.",
+            "Link": "https://twitter.com/rustybrick/status/1824148047636644003"
+        },
+        {
+            "Title": "Google Ads confirms testing shopping ads with 18 or so ads to \"promote greater discovery\"",
+            "Description": "Tweet from @rustybrick sharing that Google Ads is experimenting with showing up to 18 shopping ads in search results, aiming to increase product visibility.",
+            "Link": "https://twitter.com/rustybrick/status/1824144273568305176"
+        },
+        {
+            "Title": "And... it's confirmed. Again, big changes right when the August core update is rolling out. AIOs for users not logged in, and AIOS expanding to 6 more countries. Good luck out there. :)",
+            "Description": "Tweet from @glenngabe confirming significant changes in Google Search, including the rollout of AI Overviews for users not logged in and expansion to new countries, coinciding with the August core update.",
+            "Link": "https://twitter.com/glenngabe/status/1824138132381376918"
+        },
+        {
+            "Title": "Google confirmed with me just now they are showing AI Overviews in the US for signed-out users",
+            "Description": "Tweet from @rustybrick confirming that Google has confirmed showing AI Overviews to users in the US who are not signed in to their Google accounts.",
+            "Link": "https://twitter.com/rustybrick/status/1824136745857728528"
+        },
+        {
+            "Title": "Of course, this seems to be rolling out right when the August core update rolls out. And, AI Overviews are expanding to 6 more countries too. And all of this can impact your visibility, clicks from Search, etc. Again, \"Welcome To Google Land.\" :)",
+            "Description": "Tweet from @glenngabe highlighting the impact of Google's updates, including the rollout of AI Overviews for logged-out users and expansion to new countries, coinciding with the August core update, and how these changes can affect website visibility and traffic.",
+            "Link": "https://twitter.com/glenngabe/status/1824136307691393444"
+        },
+        {
+            "Title": "I just reproduced this. It's a big deal, since AI Overviews were not triggering when not logged in. Now they are (at least for some) -&gt; Google Tests AI Overviews In Incognito Mode (Not Signed In)",
+            "Description": "Tweet from @glenngabe confirming that Google is indeed testing AI Overviews in incognito mode, marking a significant change as this feature was previously not active for users not logged in.",
+            "Link": "https://twitter.com/glenngabe/status/1824132154072371567"
+        },
+        {
+            "Title": "I am now seeing AI Overviews while not signed into Google - super weird - waiting on Google on when this changed... Maybe it is a bug....",
+            "Description": "Tweet from @rustybrick observing that AI Overviews are now appearing in search results even when not signed in to a Google account, speculating whether this is a new change or a potential bug.",
+            "Link": "https://twitter.com/rustybrick/status/1824134011322511699"
+        },
+        {
+            "Title": "Google has just announced many AI Overviews Updates",
+            "Description": "Tweet from @aleyda announcing multiple updates related to Google's AI Overviews, including new link display on desktop and mobile, and testing of additional features.",
+            "Link": "https://twitter.com/aleyda/status/1824161483384819906"
+        },
+        {
+            "Title": "Google's latest changes to AI Overviews make it look more like OpenAI's search engine prototype as competition heats up",
+            "Description": "Google AI Overviews now show up differently in your search results. It's part of an ongoing battle with OpenAI's SearchGPT.",
+            "Link": "https://www.businessinsider.com/google-ai-overviews-search-engine-new-openai-searchgpt-competition-2024-8"
+        },
+        {
+            "Title": "Google brings the AI feature that told Americans to eat rocks to six more countries",
+            "Description": "AI Overviews are now available in India, Japan, Mexico, Indonesia, Brazil and the United Kingdom.",
+            "Link": "https://www.engadget.com/ai/google-brings-the-ai-feature-that-told-americans-to-eat-rocks-to-six-more-countries-160025221.html"
+        },
+        {
+            "Title": "How long will people wait for websites to load in 2024? Survey says...",
+            "Description": "If your webpages load too slowly or are unresponsive, you risk frustrating searchers and losing them to a competitor.",
+            "Link": "https://searchengineland.com/people-wait-website-load-2024-stat-445223"
+        },
+        {
+            "Title": "Google\u2019s AI-generated search summaries change how they show their sources",
+            "Description": "And if a summary is too complicated, Google can fix that.",
+            "Link": "https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout"
+        },
+        {
+            "Title": "AI \"Snake Oil\" Sorts Promise from Hype",
+            "Description": "A new book from Princeton University Press aims to separate reality from hype.",
+            "Link": "https://www.practicalecommerce.com/ai-snake-oil-sorts-promise-from-hype"
+        },
+        {
+            "Title": "Google AI Overviews gains new citations and links, plus more",
+            "Description": "Google is also rolling out AI Overviews in United Kingdom, India, Japan, Indonesia, Mexico and Brazil and expanding Search labs features and availability.",
+            "Link": "https://searchengineland.com/google-ai-overviews-gains-new-citations-and-links-plus-more-445211"
+        },
+        {
+            "Title": "Google Search ranking volatility combusting over the past 24 hours or so - no core update and no helpful content recoveries yet - what are you all seeing?",
+            "Description": "Google Search ranking volatility combusting over the past 24 hours or so - no core update and no helpful content recoveries yet - what are you all seeing?",
+            "Link": "https://twitter.com/rustybrick/status/1824051159382057266"
+        },
+        {
+            "Title": "Google testing AI Overviews in incognito mode (not signed in)",
+            "Description": "Google testing AI Overviews in incognito mode (not signed in)",
+            "Link": "https://twitter.com/rustybrick/status/1824048642803765263"
+        },
+        {
+            "Title": "Google showing fewer top stories for political figures and election news?",
+            "Description": "Google showing fewer top stories for political figures and election news?",
+            "Link": "https://twitter.com/rustybrick/status/1824046126208532509"
+        },
+        {
+            "Title": "Google's @adsliaison confirms testing shopping ads with 18 or so ads to \"promote greater discovery\"",
+            "Description": "Google's @adsliaison confirms testing shopping ads with 18 or so ads to \"promote greater discovery\"",
+            "Link": "https://twitter.com/rustybrick/status/1824043609903321254"
+        },
+        {
+            "Title": "The Long-Term Strategy of Building A Personal Brand Through Content And Value With Eric Enge",
+            "Description": "Learn how to build a personal brand through content and establish yourself as an authority in your industry.",
+            "Link": "https://www.searchenginejournal.com/long-term-strategy-building-personal-brand-through-content-and-value-eric-enge/524258/"
+        },
+        {
+            "Title": "Google brings AI answers in Search to new countries",
+            "Description": "Google parent Alphabet said on Thursday it was expanding its AI-generated summaries for search queries to six new countries, just two months after it rolled back some capabilities following a problem-riddled launch.  The search giant made AI Overviews - which are displayed atop a search results page before traditional links to the Web - available to all U.S. users in May after spending one year trialing a limited earlier version.  The feature was widely panned after screenshots of factually inaccurate answers circulated across the internet, such as a pizza recipe that listed glue as an ingredient and an answer claiming that former U.S. President Barack Obama is Muslim.",
+            "Link": "https://finance.yahoo.com/news/google-brings-ai-answers-search-100206919.html"
+        },
+        {
+            "Title": "Google vs Microsoft Bing: A Detailed Comparison Of Two Search Engines",
+            "Description": "Google vs Microsoft Bing: Which search engine should you focus on? Explore the differences, market share, and AI integration to make an informed decision.",
+            "Link": "https://www.searchenginejournal.com/google-vs-microsoft-bing-detailed-comparison-search-engines/518605/"
+        },
+        {
+            "Title": "So, @marfeel just released their Google Discover (and Social Monitoring) and I'm mind-blown \ud83d\ude2f you can monitor in real-time posts trending in Discover anywhere in the world (it's up to you to set the rules), and also browse per country and language, topics, cities and even hosts\u2026",
+            "Description": "So, @marfeel just released their Google Discover (and Social Monitoring) and I'm mind-blown \ud83d\ude2f you can monitor in real-time posts trending in Discover anywhere in the world (it's up to you to set the rules), and also browse per country and language, topics, cities and even hosts\u2026",
+            "Link": "https://twitter.com/aleyda/status/1824012910022054253"
+        },
+        {
+            "Title": "Media Briefing: Pubs Q2 earnings look rosy thanks to AI deals and an improved ad market",
+            "Description": "So far, so good for (some) publishers' bottom lines in 2024.",
+            "Link": "https://digiday.com/media/media-briefing-pubs-q2-earnings-look-rosy-thanks-to-ai-deals-and-an-improved-ad-market/"
+        },
+        {
+            "Title": "As political ad spend faucet opens, CTV media stands to be a major winner",
+            "Description": "Publishers, media agencies and ad tech vendors say political ad dollars are flowing toward connected TV.",
+            "Link": "https://digiday.com/media-buying/as-political-ad-spend-faucet-opens-ctv-media-stands-to-be-a-major-winner/"
+        },
+        {
+            "Title": "The Rundown: What is Causeway Solutions?",
+            "Description": "Digiday did a a deep dive to understand the source behind those recent X user numbers.",
+            "Link": "https://digiday.com/marketing/the-rundown-what-is-causeway-solutions/"
+        },
+        {
+            "Title": "A study on AI motivates PHD to create generative publishing platform to guide Omnicom clients",
+            "Description": "The study fits into a broader initiative by the media agency to become a hub of learning and experimentation around gen AI that\u2019s accessible to all Omnicom clients (not just PHD or OMG) as well as the general public.",
+            "Link": "https://digiday.com/media-buying/a-study-on-ai-motivates-phd-to-create-generative-publishing-platform-to-guide-omnicom-clients/"
+        },
+        {
+            "Title": "Future Search Trends and the Impact of Gen AI [Infographic]",
+            "Description": "Insights into evolving search trends, and the impact of gen AI, from SEMRush.",
+            "Link": "https://www.socialmediatoday.com/news/future-search-trends-and-the-impact-of-gen-ai-infographic/724316/"
+        },
+        {
+            "Title": "A must read \u2022 Common misconfigurations found in websites that dropped with the latest Core and HCU updates: two case studies \u2022 by the awesome @gfiorelli1 * A progressive decline in the technical quality of the website due to a more relaxed attention that caused an\u2026",
+            "Description": "A must read \u2022 Common misconfigurations found in websites that dropped with the latest Core and HCU updates: two case studies \u2022 by the awesome @gfiorelli1 * A progressive decline in the technical quality of the website due to a more relaxed attention that caused an\u2026",
+            "Link": "https://twitter.com/aleyda/status/1823803764085592084"
+        },
+        {
+            "Title": "Google\u2019s Internal Documents Claim Bing Was Faster At Generating Answers To Mobile Queries",
+            "Description": "DOJ trial verdict reveals Google acknowledged Bing's faster mobile query response, sparked by 2017 internal document.",
+            "Link": "https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html"
+        },
+        {
+            "Title": "ICYMI: DOJ may break up Google",
+            "Description": "ICYMI: DOJ may break up Google",
+            "Link": "https://twitter.com/rustybrick/status/1823793210038346181"
+        },
+        {
+            "Title": "RT by @aleyda: \ud83d\udcc8 Discover how to compare terms and topics trending in Google Search and Youtube so that you can better understand what people are interested in around the world. \u2192",
+            "Description": "RT by @aleyda: \ud83d\udcc8 Discover how to compare terms and topics trending in Google Search and Youtube so that you can better understand what people are interested in around the world. \u2192",
+            "Link": "https://twitter.com/googlesearchc/status/1823766538014331328"
+        },
+        {
+            "Title": "Hot take: Why SEO\u2019s oldest tactic must evolve now",
+            "Description": "In the time it takes you to finish that cup of coffee, you\u2019ll hear a bulletproof case for ditching the outdated editorial calendar in favor of a better, faster, and more impactful path to SEO results.",
+            "Link": "https://searchengineland.com/hot-take-why-seos-oldest-tactic-must-evolve-now-445196"
+        },
+        {
+            "Title": "Charts: Global Economic Outlook Q3 2024",
+            "Description": "We recap the latest forecasts from the International Monetary Fund on global economic growth.",
+            "Link": "https://www.practicalecommerce.com/charts-global-economic-conditions-outlook"
+        },
+        {
+            "Title": "Common Organic Search Traffic Forecasting Mistake \ud83d\udea8 Overestimating organic search traffic potential due to a high search volume, many times including those of similar terms variations, not taking into account zero click searches (which can be obtained through tools such as\u2026",
+            "Description": "Common Organic Search Traffic Forecasting Mistake \ud83d\udea8 Overestimating organic search traffic potential due to a high search volume, many times including those of similar terms variations, not taking into account zero click searches (which can be obtained through tools such as\u2026",
+            "Link": "https://twitter.com/aleyda/status/1823702735369158675"
+        },
+        {
+            "Title": "Even with Reddit's Google surge, it faces serious questions from Wall Street -> Reddit\u2019s increased reliance on Google traffic has Wall Street anxious to see if visitors sign up And: \"Reddit acknowledges in its filings that \u201cchanges in internet search engine algorithms and\u2026",
+            "Description": "Even with Reddit's Google surge, it faces serious questions from Wall Street -> Reddit\u2019s increased reliance on Google traffic has Wall Street anxious to see if visitors sign up And: \"Reddit acknowledges in its filings that \u201cchanges in internet search engine algorithms and\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1823697607010423064"
+        },
+        {
+            "Title": "Focus on advertising? Reddit news -> Reddit Announces Updates To Its Agency Partner Program \"Reddit has announced an update to its agency partner program, which will see approved partners awarded with new badges that they can display in their communications, as part of Reddit\u2019s\u2026",
+            "Description": "Focus on advertising? Reddit news -> Reddit Announces Updates To Its Agency Partner Program \"Reddit has announced an update to its agency partner program, which will see approved partners awarded with new badges that they can display in their communications, as part of Reddit\u2019s\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1823696224911770020"
+        },
+        {
+            "Title": "Regarding the potential breakup of Google -> \"They are discussing various proposals, including breaking off parts of Google, such as its Chrome browser or Android smartphone operating system, two of the people said. Other scenarios under consideration include forcing Google to\u2026",
+            "Description": "Regarding the potential breakup of Google -> \"They are discussing various proposals, including breaking off parts of Google, such as its Chrome browser or Android smartphone operating system, two of the people said. Other scenarios under consideration include forcing Google to\u2026",
+            "Link": "https://twitter.com/glenngabe/status/1823688727366963251"
+        },
+        {
+            "Title": "The Best Search Engines You Can Always Rely On: Google, Bing, Perplexity And More",
+            "Description": "Here are the best search engines that you can use to explore the World Wide Web, including Google, Bing, Brave Search, Perplexity and more.",
+            "Link": "https://www.augustman.com/in/gear/tech/best-search-engines-google-bing-perplexity/"
+        },
+        {
+            "Title": "Google Search Console Only Shows 35% Of Your Data? It Depends.",
+            "Description": "When Google announced the new Google Search Console recommendations, one of the examples of the recommendations was to bulk export your data because \"Search Console only shows 35% of your performance data.\"  Now, this is not new, we knew Google anonymized way too much of your data in Search Console, but now Google is showing how much in this example report.",
+            "Link": "https://www.seroundtable.com/google-search-console-35-percent-data-37901.html"
+        },
+        {
+            "Title": "Just tested @HubSpot new free AI Search Grader, which allows you to assess your brand sentiment and share of voice in GPT-4o results - Useful to have an overview of the overall visibility of your brand, and although with a few challenges (natural since it has been just released)\u2026",
+            "Description": "Just tested @HubSpot new free AI Search Grader, which allows you to assess your brand sentiment and share of voice in GPT-4o results - Useful to have an overview of the overall visibility of your brand, and although with a few challenges (natural since it has been just released)\u2026",
+            "Link": "https://twitter.com/aleyda/status/1823636266761539756"
+        },
+        {
+            "Title": "Breaking down influencer marketing, from Joe Rogan to Selena Gomez to MrBeast",
+            "Description": "As investment in influencers takes up a bigger share of marketing and media budgets, it's worth exploring the differences among the several types of influencers that have emerged across different platforms \u2014 all the way from TikTok personalities to podcast hosts.",
+            "Link": "https://digiday.com/marketing/breaking-down-influencer-marketing-from-joe-rogan-to-selena-gomez-to-mrbeast/"
+        },
+        {
+            "Title": "WTF is surveillance pricing?",
+            "Description": "Why the rise of retail media networks and first-party data has caught the attention of the FTC.",
+            "Link": "https://digiday.com/marketing/wtf-is-surveillance-pricing/"
+        },
+        {
+            "Title": "Google AI Overviews volatility continues: Rise, fall, repeat",
+            "Description": "The overlap of AI Overviews with Google's search results increased. Travel and entertainment queries no longer triggered AI Overviews.",
+            "Link": "https://searchengineland.com/google-ai-overviews-volatility-continues-rise-fall-repeat-445177"
+        },
+        {
+            "Title": "Move over SEO, Profound is helping brands with AI search optimization",
+            "Description": "Profound helps brands and marketing agencies discover how they are showing up in AI search tools like Claude and ChatGPT.",
+            "Link": "https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/"
+        },
+        {
+            "Title": "Is Personalized Shopping Private?",
+            "Description": "Ecommerce merchants must balance the benefits of personalized selling with customer privacy.",
+            "Link": "https://www.practicalecommerce.com/is-personalized-shopping-private"
+        },
+        {
+            "Title": "ChatGPT vs. Microsoft Copilot vs. Gemini: Which is the best AI chatbot?",
+            "Description": "AI chatbots are more popular than ever, but with new updates coming out every few months, how do you determine which one is the best?",
+            "Link": "https://www.zdnet.com/article/chatgpt-vs-microsoft-copilot-vs-gemini-which-is-the-best-ai-chatbot/"
+        },
+        {
+            "Title": "Microsoft is not doing any favors with its new Bing strategy",
+            "Description": "Microsoft Bing has come a long way since its release, but the company's intrusive tactics sure haven't.",
+            "Link": "https://www.xda-developers.com/microsoft-not-doing-favors-bing-strategy/"
+        },
+        {
+            "Title": "YouTube Tests Merging Shorts and Long-Form Video in a Single Feed",
+            "Description": "YouTube is testing merging Shorts and long-form video in a single feed. This seems to contradict the whole concept, but with Shorts generating 70 billion views daily, it also makes some sense that YouTube would be looking to use...",
+            "Link": "https://twitter.com/glenngabe/status/1823328806662238525"
+        },
+        {
+            "Title": "More testing of AIO link treatment",
+            "Description": "More testing of AIO link treatment. I can't reproduce this one, but Lily picked it up recently. My favorite test so far was the one that was similar to Perplexity (where Google triggered an overlay of links). Let's see what eventually rolls out. :)",
+            "Link": "https://twitter.com/glenngabe/status/1823328077201469748"
+        },
+        {
+            "Title": "Bing Was Faster Than Google In 2017",
+            "Description": "A Google document that came out of the DOJ trails said that back in 2017, Bing Search was faster than Google was specifically looking at mobile queries.  The document was an internal Google document and went through 10 elements of latency.",
+            "Link": "https://www.seroundtable.com/bing-was-faster-than-google-37888.html"
+        },
+        {
+            "Title": "Coming soon: Patch issues in @ahrefs Site Audit",
+            "Description": "Coming soon: Patch issues in @ahrefs Site Audit \ud83d\udc40 Everyone knows that the most difficult part of any SEO audit is implementing changes. Ahrefs is working on a solution for this problem with their new \u201cPatches\u201d feature.\u200bIt will allow users to fix various issues on a website\u2026",
+            "Link": "https://twitter.com/aleyda/status/1823304014882304447"
+        },
+        {
+            "Title": "Planning to attend SEO events in the next months?",
+            "Description": "Planning to attend SEO events in the next months? Check out the hashtag#SEOFOMO Hub SEO Events list \ud83d\udc4c See you at the next SEOFOMO Meetup, RIMC, Tech SEO Connect, Ahrefs Evolve, SERP Conf, International Search Summit, SM Connect \ud83d\udc40 Check out these and more \ud83d\udc47\u2026",
+            "Link": "https://twitter.com/aleyda/status/1823257778598678919"
+        },
+        {
+            "Title": "'We don't have a social media strategy': How Baked by Melissa's CEO and co-founder Melissa Ben-Ishay went from founder to influencer",
+            "Description": "With so many changes happening across the digital marketing landscape, sometimes the best strategy is to have no strategy at all \u2014 at least when it comes to social media, according Melissa Ben-Ishay, co-founder and CEO of dessert company Baked By Melissa.",
+            "Link": "https://digiday.com/podcasts/we-dont-have-a-social-media-strategy-how-baked-by-melissas-ceo-and-co-founder-melissa-ben-ishay-went-from-founder-to-influencer/"
+        },
+        {
+            "Title": "Amazon sellers plan inventory for a long holiday season",
+            "Description": "Black Friday is more than three months away, but Amazon\u2019s third-party sellers are already scrambling to plan ahead.",
+            "Link": "https://digiday.com/marketing/amazon-sellers-plan-inventory-for-a-long-holiday-season/"
+        },
+        {
+            "Title": "Digiday+ Research: Instagram is head and shoulders above Facebook in the eyes of brands",
+            "Description": "While brands' Facebook usage and spend remain strong, the platform is being eclipsed by Meta sibling Instagram.",
+            "Link": "https://digiday.com/marketing/digiday-research-instagram-is-head-and-shoulders-above-facebook-in-the-eyes-of-brands/"
+        },
+        {
+            "Title": "Marketing Briefing: Why marketers aren't confined to traditional holiday and seasonal promotion cycles anymore",
+            "Description": "The timeline for holidays and traditional promotional cycles like say Black Friday and Cyber Monday that made up seasonal marketing efforts have changed and stretched out in recent years.",
+            "Link": "https://digiday.com/marketing/marketing-briefing-why-marketers-arent-confined-to-traditional-holiday-and-seasonal-promotion-cycles-anymore/"
+        },
+        {
+            "Title": "The search engine wars are intensifying!",
+            "Description": "A story that dives into a recent ruling that could shake up Google\u2019s search engine monopoly.",
+            "Link": "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/"
+        },
+        {
+            "Title": "Semrush vs Ubersuggest: We Have a Winner!",
+            "Description": "Here's our in-depth Semrush vs Ubersuggest comparison. Which one to choose - Ubersuggest or Semrush? The answer is here, so read on.",
+            "Link": "https://www.01net.com/en/seo/tools/semrush-vs-ubersuggest/"
+        }
+    ],
+    "reviewed_urls": [
+        "https://twitter.com/rustybrick/status/1824202228803994014",
+        "https://www.newsfilecorp.com/release/220079/WEB20-Ranker-LLC-Effective-CTR-Manipulation-into-Ultimate-and-Xtreme-GBP-Campaigns-SEO-Testing-Shows-Strong-Results",
+        "https://www.dmnews.com/google-analytics-4-enhances-seo-strategy-through-comprehensive-insights/",
+        "https://twitter.com/glenngabe/status/1824170680419860536",
+        "https://twitter.com/aleyda/status/1824161483384819906",
+        "https://twitter.com/rustybrick/status/1824160982874386514",
+        "https://twitter.com/rustybrick/status/1824159675543114105",
+        "https://twitter.com/rustybrick/status/1824155597127757966",
+        "https://twitter.com/aleyda/status/1824154784699650226",
+        "https://www.dmnews.com/annual-seo-trends-report-highlights-ai-integration-mobile-optimization/",
+        "https://twitter.com/rustybrick/status/1824151822807994477",
+        "https://twitter.com/rustybrick/status/1824148047636644003",
+        "https://twitter.com/glenngabe/status/1824147452699742553",
+        "https://twitter.com/rustybrick/status/1824147443455496309",
+        "https://twitter.com/rustybrick/status/1824146809188651056",
+        "https://twitter.com/glenngabe/status/1824144670290743520",
+        "https://twitter.com/rustybrick/status/1824144273568305176",
+        "https://twitter.com/rustybrick/status/1824140497645916308",
+        "https://twitter.com/glenngabe/status/1824138132381376918",
+        "https://twitter.com/rustybrick/status/1824136745857728528",
+        "https://twitter.com/rustybrick/status/1824136722898166130",
+        "https://twitter.com/glenngabe/status/1824136307691393444",
+        "https://twitter.com/glenngabe/status/1824135713098457280",
+        "https://twitter.com/glenngabe/status/1824135299624022507",
+        "https://twitter.com/rustybrick/status/1824134011322511699",
+        "https://twitter.com/glenngabe/status/1824133387218719141",
+        "https://twitter.com/glenngabe/status/1824132841673822393",
+        "https://twitter.com/glenngabe/status/1824132154072371567",
+        "https://twitter.com/glenngabe/status/1824131484258533602",
+        "https://twitter.com/rustybrick/status/1824128103024644501",
+        "https://www.businessinsider.com/google-ai-overviews-search-engine-new-openai-searchgpt-competition-2024-8",
+        "https://twitter.com/rustybrick/status/1824123438023221602",
+        "https://twitter.com/rustybrick/status/1824122109360251121",
+        "https://twitter.com/rustybrick/status/1824121527568081073",
+        "https://twitter.com/rustybrick/status/1824121261015867804",
+        "https://twitter.com/rustybrick/status/1824120960175218692",
+        "https://twitter.com/rustybrick/status/1824120245570675130",
+        "https://twitter.com/rustybrick/status/1824120177220296863",
+        "https://twitter.com/aleyda/status/1824118852940181947",
+        "https://twitter.com/aleyda/status/1824110206038561122",
+        "https://twitter.com/glenngabe/status/1824106972561772805",
+        "https://twitter.com/rustybrick/status/1824104993990889848",
+        "https://twitter.com/glenngabe/status/1824103327568916796",
+        "https://twitter.com/glenngabe/status/1824102645382218202",
+        "https://twitter.com/rustybrick/status/1824101687029891266",
+        "https://twitter.com/glenngabe/status/1824098807199523286",
+        "https://twitter.com/rustybrick/status/1824098762630811764",
+        "https://twitter.com/rustybrick/status/1824098762630811764",
+        "https://twitter.com/rustybrick/status/1824095199305323001",
+        "https://twitter.com/glenngabe/status/1824094866801885241",
+        "https://www.engadget.com/ai/google-brings-the-ai-feature-that-told-americans-to-eat-rocks-to-six-more-countries-160025221.html",
+        "https://twitter.com/glenngabe/status/1824094120538767463",
+        "https://searchengineland.com/people-wait-website-load-2024-stat-445223",
+        "https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout",
+        "https://twitter.com/rustybrick/status/1824091425128304867",
+        "https://twitter.com/rustybrick/status/1824087649633681461",
+        "https://variety.com/2024/film/reviews/youth-hard-times-review-1236107485/",
+        "https://twitter.com/rustybrick/status/1824083875498528961",
+        "https://twitter.com/rustybrick/status/1824083613282861538",
+        "https://twitter.com/rustybrick/status/1824080100088033460",
+        "https://twitter.com/rustybrick/status/1824076325046382982",
+        "https://www.practicalecommerce.com/ai-snake-oil-sorts-promise-from-hype",
+        "https://twitter.com/rustybrick/status/1824053064707313808",
+        "https://twitter.com/rustybrick/status/1824052883236462815",
+        "https://searchengineland.com/google-ai-overviews-gains-new-citations-and-links-plus-more-445211",
+        "https://twitter.com/rustybrick/status/1824051159382057266",
+        "https://twitter.com/rustybrick/status/1824048642803765263",
+        "https://twitter.com/rustybrick/status/1824046126208532509",
+        "https://twitter.com/rustybrick/status/1824045413764132993",
+        "https://twitter.com/rustybrick/status/1824044126041440662",
+        "https://twitter.com/rustybrick/status/1824043609903321254",
+        "https://twitter.com/rustybrick/status/1824041092754337970",
+        "https://www.searchenginejournal.com/long-term-strategy-building-personal-brand-through-content-and-value-eric-enge/524258/",
+        "https://twitter.com/rustybrick/status/1824038330402517468",
+        "https://twitter.com/rustybrick/status/1824033963175825539",
+        "https://twitter.com/aleyda/status/1824027870814949431",
+        "https://twitter.com/aleyda/status/1824027008193425532",
+        "https://finance.yahoo.com/news/google-brings-ai-answers-search-100206919.html",
+        "https://www.searchenginejournal.com/google-vs-microsoft-bing-detailed-comparison-search-engines/518605/",
+        "https://twitter.com/rustybrick/status/1824020594830213148",
+        "https://twitter.com/rustybrick/status/1824019987914178713",
+        "https://twitter.com/aleyda/status/1824012910022054253",
+        "https://twitter.com/aleyda/status/1823991457969066072",
+        "https://www.theglobeandmail.com/investing/markets/markets-news/Plentisoft/28028706/novato-ca-local-seo-services-strategies-for-latest-google-core-update-announced/",
+        "https://digiday.com/media/media-briefing-pubs-q2-earnings-look-rosy-thanks-to-ai-deals-and-an-improved-ad-market/",
+        "https://digiday.com/media-buying/as-political-ad-spend-faucet-opens-ctv-media-stands-to-be-a-major-winner/",
+        "https://digiday.com/marketing/the-rundown-what-is-causeway-solutions/",
+        "https://digiday.com/media-buying/a-study-on-ai-motivates-phd-to-create-generative-publishing-platform-to-guide-omnicom-clients/",
+        "https://pressreleasenetwork.com/site/2024/08/15/backlinks-are-vital-for-effective-seo/",
+        "https://twitter.com/rustybrick/status/1823862989100843376",
+        "https://localnews8.com/news/idaho/2024/08/14/incredible-survival-how-89-year-old-bing-olbums-family-reacted-to-his-safe-return/",
+        "https://www.socialmediatoday.com/news/future-search-trends-and-the-impact-of-gen-ai-infographic/724316/",
+        "https://twitter.com/rustybrick/status/1823821473771086151",
+        "https://twitter.com/rustybrick/status/1823817176299774205",
+        "https://twitter.com/rustybrick/status/1823815908051312678",
+        "https://twitter.com/aleyda/status/1823803764085592084",
+        "https://www.digitalinformationworld.com/2024/08/googles-internal-documents-claim-bing.html",
+        "https://twitter.com/rustybrick/status/1823794770767999394",
+        "https://twitter.com/rustybrick/status/1823793210038346181",
+        "https://twitter.com/googlesearchc/status/1823766538014331328",
+        "https://twitter.com/aleyda/status/1823751451253858798",
+        "https://thestoryexchange.org/michelle-symonds-ditto-digital/",
+        "https://twitter.com/aleyda/status/1823716291229966741",
+        "https://searchengineland.com/hot-take-why-seos-oldest-tactic-must-evolve-now-445196",
+        "https://twitter.com/aleyda/status/1823706435202765291",
+        "https://www.practicalecommerce.com/charts-global-economic-conditions-outlook",
+        "https://twitter.com/aleyda/status/1823703237570203842",
+        "https://twitter.com/aleyda/status/1823702735369158675",
+        "https://twitter.com/glenngabe/status/1823697607010423064",
+        "https://twitter.com/glenngabe/status/1823697607010423064",
+        "https://twitter.com/glenngabe/status/1823696224911770020",
+        "https://twitter.com/glenngabe/status/1823692288486158660",
+        "https://twitter.com/glenngabe/status/1823688727366963251",
+        "https://www.augustman.com/in/gear/tech/best-search-engines-google-bing-perplexity/",
+        "https://www.seroundtable.com/google-search-console-35-percent-data-37901.html",
+        "https://twitter.com/aleyda/status/1823636266761539756",
+        "https://www.martechcube.com/brightedge-data-shows-industry-specific-improvements-in-google-aios/",
+        "https://digiday.com/future-of-tv/future-of-tv-briefing-disney-paramount-and-warner-bros-discovery-quantify-the-tv-streaming-divide/",
+        "https://digiday.com/marketing/breaking-down-influencer-marketing-from-joe-rogan-to-selena-gomez-to-mrbeast/",
+        "https://digiday.com/marketing/earnings-wrap-up-a-tumultuous-time-for-the-gaming-industry/",
+        "https://digiday.com/marketing/wtf-is-surveillance-pricing/",
+        "https://digiday.com/media-buying/criteo-is-holding-ma-discussions-with-skai-to-bolster-its-retail-media-play/",
+        "https://www.jdsupra.com/legalnews/apple-business-connect-improve-your-law-6357830/",
+        "https://www.binghamton.edu/news/story/5082/meet-bing-real-life-bearcat-joins-binghamtons-mascot-lineup",
+        "https://twitter.com/glenngabe/status/1823474537100665085",
+        "https://www.idahostatesman.com/news/northwest/idaho/article291026280.html",
+        "https://twitter.com/glenngabe/status/1823442030426747259",
+        "https://www.indiewire.com/criticism/movies/youth-hard-times-review-wang-bing-1235035862/",
+        "https://twitter.com/glenngabe/status/1823438791392051520",
+        "https://www.zdnet.com/article/chatgpt-vs-microsoft-copilot-vs-gemini-which-is-the-best-ai-chatbot/",
+        "https://twitter.com/glenngabe/status/1823416744129581278",
+        "https://www.wndu.com/2024/08/13/will-survive-hiker-89-found-alive-after-he-was-missing-10-days/",
+        "https://twitter.com/glenngabe/status/1823396058753532367",
+        "https://twitter.com/glenngabe/status/1823394272302993604",
+        "https://lbbonline.com/news/assembly-mena-named-seo-web-analytics-and-uxui-agency-of-record-for-al-futtaim-automotive",
+        "https://searchengineland.com/google-ai-overviews-volatility-continues-rise-fall-repeat-445177",
+        "https://finance.yahoo.com/news/brightedge-data-shows-industry-specific-160000384.html",
+        "https://twitter.com/glenngabe/status/1823374435199393948",
+        "https://www.yardbarker.com/entertainment/articles/the_20_funniest_chandler_bing_moments_on_friends/s1__39492887",
+        "https://www.xda-developers.com/microsoft-not-doing-favors-bing-strategy/",
+        "https://www.prweb.com/releases/contractor-lead-partners-2024-state-of-local-seo-for-contractors-report-unveils-top-and-bottom-performing-cities-nationwide-302219688.html",
+        "https://twitter.com/MerjCom/status/1823360068643119500",
+        "https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/",
+        "https://www.prunderground.com/value-check-cashing-enlists-help-of-seo-national-to-boost-search-engine-rankings/00339853/",
+        "https://www.practicalecommerce.com/is-personalized-shopping-private",
+        "https://www.hindustantimes.com/sports/olympics/paris-olympics-silver-medallist-he-bing-jiao-announces-retirement-from-international-badminton-at-27-101723555450690.html",
+        "https://twitter.com/glenngabe/status/1823343912926269838",
+        "https://twitter.com/glenngabe/status/1823340302591017055",
+        "https://twitter.com/glenngabe/status/1823336378152726907",
+        "https://twitter.com/glenngabe/status/1823334700850577775",
+        "https://twitter.com/glenngabe/status/1823332896595206241",
+        "https://twitter.com/glenngabe/status/1823330542676320589",
+        "https://twitter.com/glenngabe/status/1823328806662238525",
+        "https://twitter.com/glenngabe/status/1823328077201469748",
+        "https://www.seroundtable.com/bing-was-faster-than-google-37888.html",
+        "https://twitter.com/aleyda/status/1823305174074499459",
+        "https://twitter.com/aleyda/status/1823304014882304447",
+        "https://www.openpr.com/news/3620055/small-seo-tool-online-is-offering-free-google-sitemap-validator",
+        "https://www.outlookindia.com/sports/badminton/paris-olympics-2024-chinese-shuttler-he-bing-jiao-calls-time-on-her-playing-career-after-silver-medal-campaign",
+        "https://pune.news/sports/he-bing-jiao-retires-from-international-badminton-after-paris-olympics-silver-medal-campaign-212193/",
+        "https://sportstar.thehindu.com/badminton/paris-olympics-silver-medallist-he-bing-jiao-retires-from-international-badminton-at-27/article68519613.ece",
+        "https://indianexpress.com/article/sports/sport-others/chinese-shuttler-he-bing-jiao-retires-paris-olympics-silver-medal-9511182/",
+        "https://twitter.com/aleyda/status/1823257778598678919",
+        "https://twitter.com/aleyda/status/1823253499192164796",
+        "https://digiday.com/podcasts/we-dont-have-a-social-media-strategy-how-baked-by-melissas-ceo-and-co-founder-melissa-ben-ishay-went-from-founder-to-influencer/",
+        "https://digiday.com/marketing/amazon-sellers-plan-inventory-for-a-long-holiday-season/",
+        "https://digiday.com/marketing/digiday-research-instagram-is-head-and-shoulders-above-facebook-in-the-eyes-of-brands/",
+        "https://digiday.com/marketing/marketing-briefing-why-marketers-arent-confined-to-traditional-holiday-and-seasonal-promotion-cycles-anymore/",
+        "https://finshots.in/archive/search-engine-wars-intensifying-google-monopoly-apple-microsoft-bing-duckduckgo/",
+        "https://www.01net.com/en/seo/tools/semrush-vs-ubersuggest/",
+        "https://twitter.com/Suzzicks/status/1823161481795396093"
+    ]
+}
