@@ -31458,3 +31458,300 @@ RESPONSE:
   }
 ]
 
+Error occurred at 2024-08-19 16:03:22.259516:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "Google's search ranking bug is still ongoing after 2.5+ days",
+    "Description": "Barry Schwartz reports that Google's search ranking bug is still ongoing after 2.5+ days.",
+    "Link": "https://twitter.com/rustybrick/status/1825245972345033070"
+  },
+  {
+    "Title": "Google August 2024 Core Update: Early Observations and Analysis",
+    "Description": "Aleyda Solis reports on the early observations and analysis of Google's August 2024 Core Update, noting major shifts and reversals in rankings.",
+    "Link": "https://twitter.com/aleyda/status/1825195159312592960"
+  },
+  {
+    "Title": "Flywheels Ease Content, Social Media Marketing",
+    "Description": "Article on PracticalEcommerce.com discussing how flywheels can simplify content and social media marketing by creating a cyclical process where social media ideas can be expanded into long-form articles, which in turn, generate new social media ideas.",
+    "Link": "https://www.practicalecommerce.com/flywheels-ease-content-social-media-marketing"
+  },
+  {
+    "Title": "Google Search Ranking Bug and August Core Update: Insights from Glenn Gabe",
+    "Description": "Glenn Gabe shares his observations on the ongoing Google search ranking bug and its potential connection to the August core update, suggesting that Google might be addressing the bug while also rolling out the update.",
+    "Link": "https://twitter.com/glenngabe/status/1825149181352087712"
+  },
+  {
+    "Title": "Understanding Google's August Core Update and Ranking Bug",
+    "Description": "Glenn Gabe provides insights into Google's August core update and the ranking bug, offering advice for those potentially affected and emphasizing the difficulty of determining the exact impact due to the bug.",
+    "Link": "https://twitter.com/glenngabe/status/1825131548292575261"
+  },
+  {
+    "Title": "Dejan Marketing Article on Query Interpretation",
+    "Description": "Dejan SEO shares an article from Dejan Marketing that delves into the intricacies of how Google interprets search queries, providing valuable insights for SEO professionals.",
+    "Link": "https://twitter.com/dejanseo/status/1825038845873709457"
+  },
+  {
+    "Title": "SEOFOMO Newsletter: August 2024 Core Update and More",
+    "Description": "Aleyda Solis announces the latest edition of her SEOFOMO newsletter, covering the Google August 2024 Core Update, Google AI Overviews in Incognito Mode, and other SEO updates.",
+    "Link": "https://twitter.com/aleyda/status/1825261689505251440"
+  },
+  {
+    "Title": "A Comprehensive Local SEO Guide for Businesses in 2024",
+    "Description": "Digitalization has elevated the role of local SEO as an essential strategy for businesses looking to attract nearby customers. This comprehensive Loca",
+    "Link": "https://ventsmagazine.com/2024/08/17/a-comprehensive-local-seo-guide-for-businesses-in-2024/"
+  },
+  {
+    "Title": "SEO Landscape Shifts: 22% Cite Algorithm Changes as Major 2024 Challenge, AI Disruption Looms Large",
+    "Description": "SEOs face challenges with algorithm changes and content creation; AI and budget issues are prominent.",
+    "Link": "https://www.digitalinformationworld.com/2024/08/seo-landscape-shifts-22-cite-algorithm.html"
+  },
+  {
+    "Title": "Native Advertising: Learn How to Leverage Google\u2019s 2024 Changes for Success",
+    "Description": "CHARLOTTESVILLE, VA (CVILLE RIGHT NOW) - In early 2024, Google updated its SEO strategy, focusing more on content quality. These changes prioritize content that aligns with user intent and improves the user experience. As a result, well-crafted native advertising\u2014or sponsored content\u2014is more likely to perform better in Google\u2019s search rankings. Native advertising can take various",
+    "Link": "https://cvillerightnow.com/news/208802-native-advertising-learn-how-to-leverage-googles-2024-changes-for-success/"
+  },
+  {
+    "Title": "Topic Authority Rules SEO\u2014Here\u2019s How You Build It",
+    "Description": "How to think about topic authority in SEO, the most important rankings factor of 2024.",
+    "Link": "https://chiefmarketer.com/topic-authority-rules-seo-heres-how-do-you-build-it/"
+  },
+  {
+    "Title": "AI Overviews have started to be shown in @awebranking Google SERP Features Tools for 0.02% of their (non-logged in) tracked queries",
+    "Description": "AI Overviews have started to be shown in @awebranking Google SERP Features Tools for 0.02% of their (non-logged in) tracked queries \ud83d\udc40\ud83d\udc47 advancedwebranking.com/free-seo-tools\u2026",
+    "Link": "https://twitter.com/aleyda/status/1824485393435120060"
+  },
+  {
+    "Title": "RT by @aleyda: Google posted an update on the big search ranking bug saying they are still working on a fix and the next update will be within 3 days?! full story updated at seroundtable.com/google-search-\u2026",
+    "Description": "RT by @aleyda: Google posted an update on the big search ranking bug saying they are still working on a fix and the next update will be within 3 days?! full story updated at seroundtable.com/google-search-\u2026",
+    "Link": "https://twitter.com/rustybrick/status/1824484809256653177"
+  },
+  {
+    "Title": "Google posted an update on the big search ranking bug saying they are still working on a fix and the next update will be within 3 days?! full story updated at",
+    "Description": "Google posted an update on the big search ranking bug saying they are still working on a fix and the next update will be within 3 days?! full story updated at",
+    "Link": "https://twitter.com/rustybrick/status/1824484809256653177"
+  },
+  {
+    "Title": "Google is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico",
+    "Description": "After bringing AI overviews to the U.S., Google is expanding the AI-powered search summaries to six more countries: India, Brazil, Japan, the U.K., Indonesia and Mexico. These markets will also get local language support for AI overviews. The search giant is rethinking how it displays source material links, as well. It's adding a view on the upper right-hand side showing icons of sites above the AI overview on both desktop and mobile. Users can tap on those icons to go to links cited in an AI ov",
+    "Link": "https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/"
+  },
+  {
+    "Title": "ICYMI: Google Search ranking bug impacting a large number of the Google search results - unrelated to the core update",
+    "Description": "ICYMI: Google Search ranking bug impacting a large number of the Google search results - unrelated to the core update",
+    "Link": "https://twitter.com/rustybrick/status/1824474448142991668"
+  },
+  {
+    "Title": "SEO video recap: August 2024 Google core update, huge ranking bug, DOJ may break up Google, AI Overviews updates, Gemini Research, ads and much more",
+    "Description": "SEO video recap: August 2024 Google core update, huge ranking bug, DOJ may break up Google, AI Overviews updates, Gemini Research, ads and much more",
+    "Link": "https://twitter.com/rustybrick/status/1824461363114283486"
+  },
+  {
+    "Title": "Google August 2024 core update is rolling out",
+    "Description": "Google August 2024 core update is rolling out",
+    "Link": "https://twitter.com/rustybrick/status/1824457587162570948"
+  },
+  {
+    "Title": "Google AI Overviews new link interface, save features, simpler mode and expands to six new countries",
+    "Description": "Google AI Overviews new link interface, save features, simpler mode and expands to six new countries",
+    "Link": "https://twitter.com/rustybrick/status/1824453812372844915"
+  },
+  {
+    "Title": "Google doesn't technically follow links",
+    "Description": "Google doesn't technically follow links",
+    "Link": "https://twitter.com/rustybrick/status/1824450037767868804"
+  },
+  {
+    "Title": "FTC bans fake reviews",
+    "Description": "FTC bans fake reviews",
+    "Link": "https://twitter.com/rustybrick/status/1824446263443722702"
+  },
+  {
+    "Title": "Google highlighting review content in the search results snippets",
+    "Description": "Google highlighting review content in the search results snippets",
+    "Link": "https://twitter.com/rustybrick/status/1824442488146604461"
+  },
+  {
+    "Title": "Created or improved 850M pieces of data -> Walmart executives say generative AI is 100 times more productive at updating product pages than people \"Walmart president and CEO Doug McMillon told investors during its fiscal second-quarter earnings call on Aug. 15 that the company\u2026",
+    "Description": "Created or improved 850M pieces of data -> Walmart executives say generative AI is 100 times more productive at updating product pages than people \"Walmart president and CEO Doug McMillon told investors during its fiscal second-quarter earnings call on Aug. 15 that the company\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1824429468821188894"
+  },
+  {
+    "Title": "International SEO Best Practices In 2024",
+    "Description": "English is the most spoken language worldwide. However, it\u2019s reported that native English speakers represent only 5% of the global population. For businesses looking to attract customers beyond the U.S., international SEO (search engine optimization) is essential to appeal to global consumers.\n\nHo",
+    "Link": "https://www.forbes.com/advisor/business/software/international-seo/"
+  },
+  {
+    "Title": "If you're seeing these urls in GSC, and many are, then it's worth reading John's update on the topic. From John: \"This doesn't affect crawling, indexing, or ranking - it's basically just for analytics for merchants. While not necessary, you can use the link rel=canonical\u2026",
+    "Description": "If you're seeing these urls in GSC, and many are, then it's worth reading John's update on the topic. From John: \"This doesn't affect crawling, indexing, or ranking - it's basically just for analytics for merchants. While not necessary, you can use the link rel=canonical\u2026",
+    "Link": "https://twitter.com/glenngabe/status/1824420775731892302"
+  },
+  {
+    "Title": "There's an ongoing issue with ranking in Google Search",
+    "Description": "There's an ongoing issue with ranking in Google Search that's affecting a large number of search results. Google has identified the root cause. This issue is unrelated to the ongoing core update rollout. Google is working on a fix.",
+    "Link": "https://twitter.com/googlesearchc/status/1824331519910973501"
+  },
+  {
+    "Title": "As the presidential election approaches, where do influencers come in?",
+    "Description": "Influencers and creators were invited to both political parties' national conventions, and the White House this week hosted a conference devoted to the creator economy.",
+    "Link": "https://digiday.com/media-buying/as-the-presidential-election-approaches-where-do-influencers-come-in/"
+  },
+  {
+    "Title": "GARM\u2019s legacy in flux as sustainability standards forge ahead amid uncertainty",
+    "Description": "Ad Net Zero will now steer the framework, backed by a strong coalition including Scope 3, and IAB Europe.",
+    "Link": "https://digiday.com/marketing/garm-crumbles-as-industry-grapples-with-the-future-of-ad-standards/"
+  },
+  {
+    "Title": "AI Briefing: How tech companies are talking about AI on social media",
+    "Description": "From sponsoring the Olympics and major film festivals to buying ads that run on TVs and in taxis, AI providers have spent the past year looking for ways to break through the noise. But what does the volume of conversation look like for the masses on social media?",
+    "Link": "https://digiday.com/media/ai-briefing-how-tech-companies-are-talking-about-ai-on-social-media/"
+  },
+  {
+    "Title": "How Google ending continuous scroll could impact ORM",
+    "Description": "Here's how individuals and brands can adjust online reputation management (ORM) strategies to adapt to a post-continuous scroll world.",
+    "Link": "https://searchengineland.com/google-continuous-scroll-orm-445239"
+  },
+  {
+    "Title": "Media Buying Briefing: As sports enjoys a moment, buyers find new ways to get in via influencers and CTV",
+    "Description": "Media agencies with clients investing in sports need to do a bit of rethinking on how to approach those investments. As a result they're developing new practices and opportunities to integrate with leagues and athletes.",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-as-sports-enjoys-a-moment-buyers-find-new-ways-to-get-in-via-influencers-and-ctv/"
+  },
+  {
+    "Title": "Manchester United\u2019s back-of-shirt sponsor points to future of sports jersey placements",
+    "Description": "In a fragmented media landscape, teams in the U.S. and U.K. look to provide new space for sponsor brands.",
+    "Link": "https://digiday.com/marketing/manchester-uniteds-back-of-shirt-sponsor-points-to-future-of-sports-jersey-placements/"
+  },
+  {
+    "Title": "'There needs to be an AI clause': AI hype sparks influencer contract overhauls for name, image and likeness",
+    "Description": "Amid AI hype, influencers and content creators are taking a closer look at their contracts with brands.",
+    "Link": "https://digiday.com/marketing/there-needs-to-be-an-ai-clause-ai-hype-sparks-influencer-contract-overhauls-for-name-image-and-likeness/"
+  },
+  {
+    "Title": "Google is facing a potential breakup; what are the likely outcomes?",
+    "Description": "As the Justice Department considers pursuing a breakup of the largest company in online advertising, Digiday readers share their views.",
+    "Link": "https://digiday.com/media-buying/google-is-facing-a-potential-breakup-what-are-the-likely-outcomes/"
+  },
+  {
+    "Title": "Google testing hover-over effects for the search results snippets where the background color changes from white to blue",
+    "Description": "Google is testing hover-over effects for search result snippets, changing the background color from white to blue.",
+    "Link": "https://twitter.com/rustybrick/status/1825498677537841631"
+  },
+  {
+    "Title": "Thumbnails Returning To Google Search Result Snippets For Many",
+    "Description": "After months of complaints from websites, image thumbnails are returning to Google Search result snippets following the August 2024 core update.",
+    "Link": "https://www.seroundtable.com/thumbnails-return-google-search-37918.html"
+  },
+  {
+    "Title": "Thumbnails returning to the Google Search results snippets, rich results, after the August 2024 core update",
+    "Description": "Thumbnails are returning to Google Search result snippets and rich results after the August 2024 core update.",
+    "Link": "https://twitter.com/rustybrick/status/1825495677436055621"
+  },
+  {
+    "Title": "Google mentioned in key answers search feature",
+    "Description": "Google is now being mentioned in key answers search features.",
+    "Link": "https://twitter.com/rustybrick/status/1825493160815960567"
+  },
+  {
+    "Title": "Google's JohnMu uploads an audio version of his robots.txt where he reads his robots directives out loud - kinda funny",
+    "Description": "Google's John Mueller has uploaded an audio version of his robots.txt file, where he reads his robots directives out loud.",
+    "Link": "https://twitter.com/rustybrick/status/1825490644229312683"
+  },
+  {
+    "Title": "Google art structures tile explanations",
+    "Description": "Google has released tile explanations for its art structures.",
+    "Link": "https://twitter.com/rustybrick/status/1825487886696812675"
+  },
+  {
+    "Title": "The ranking bug is still ongoing. Hard to believe, but I just saw this a few minutes ago in the search status dashboard. Nothing like a core update and a ranking bug going live at the same time......",
+    "Description": "A Google search ranking bug is still ongoing, even after the August 2024 core update.",
+    "Link": "https://twitter.com/glenngabe/status/1825482310944166024"
+  },
+  {
+    "Title": "Google Cookies Are Here to Stay: What This Means for SEO",
+    "Description": "With Google's decision to keep cookies, this article explores the unexpected impacts on SEO and digital marketing.",
+    "Link": "https://www.cmswire.com/digital-marketing/google-cookies-are-here-to-stay-what-this-means-for-seo/"
+  },
+  {
+    "Title": "The Google search ranking bug post August core update release is still not fixed but it\u2019s still being worked on. Wow. Thought Google would fix it by now. More at",
+    "Description": "The Google search ranking bug that appeared after the August core update is still not fixed, but Google is working on it.",
+    "Link": "https://twitter.com/rustybrick/status/1825480833685168396"
+  },
+  {
+    "Title": "Google August 2024 core update - what we're seeing early on",
+    "Description": "Some sites hit by the September 2023 helpful content update are seeing some small signs of life but will it last...",
+    "Link": "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"
+  },
+  {
+    "Title": "Thumbnails returning to the Google Search results snippets",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825540976607387664"
+  },
+  {
+    "Title": "Google tests blue background highlights of search results snippets on hover",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825540976523522557"
+  },
+  {
+    "Title": "Google Search \"mentioned in key answers\"",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825533426482466907"
+  },
+  {
+    "Title": "How publishers reduce the risk of political ads to drive revenue",
+    "Description": "Gavin Dunaway, marketing director, The Media Trust Good news for local media, particularly news sites, has been in short supply for the last several years. However, the estimated $16 billion in U.S. political advertising spend expected in 2024 may be a lifeline for digital publications dealing with advertisers\u2019 economic anxiety and overzealous brand safety blocking.",
+    "Link": "https://digiday.com/sponsored/how-publishers-reduce-the-risk-of-political-ads-to-drive-revenue/"
+  },
+  {
+    "Title": "John Mueller uploads an audio version of his robots.txt",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825529651797827888"
+  },
+  {
+    "Title": "Google structures explanations",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825525877150810515"
+  },
+  {
+    "Title": "7 Essential SEO Metrics To Track In 2024",
+    "Description": "If you\u2019re just getting started with SEO or you have recently implemented an SEO strategy for your website, you\u2019ll need to know whether or not it\u2019s working. SEO metrics can tell you how visitors are engaging with your website and reveal valuable insights that can help you tailor your website to bette",
+    "Link": "https://www.forbes.com/advisor/business/software/seo-metrics/"
+  },
+  {
+    "Title": "For the first time since Sep. helpful content update, we are seeing some resurrections with this Google August core update (although it is still super early and there is a ranking bug)",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825507468576788513"
+  },
+  {
+    "Title": "Catch up on last week with the SEO video recap covering the August 2024 Google core update, huge ranking bug, DOJ may break up Google, AI Overviews updates, Gemini Research, ads and much more",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1825505743681822955"
+  },
+  {
+    "Title": "\ud83d\udea8 Google just updated that they're still working on fixing their ranking issue. Status here: status.search.google.com/incidents/42XC\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1825496024929976464"
+  },
+  {
+    "Title": "\ud83d\udc40 The release of AI Overviews to non-logged in users will likely be pivotal in their impact on sites traffic! The good news: Most rank trackers will be able to track their inclusion now (like @awebranking). Although the Search Console still doesn't provide a filter to assess\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1825480395669860791"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-08-19 16:03:22.259929:
+RESPONSE: 
+{"stories": [{"Title": "Google Search Ranking Bug Persists", "Category": "Search Engine Optimization", "Description": "Google has been experiencing a search ranking bug for several days, impacting a large number of search results. The bug is unrelated to the August 2024 core update and Google is actively working on a fix.", "Links": ["https://twitter.com/rustybrick/status/1825245972345033070", "https://twitter.com/glenngabe/status/1825149181352087712", "https://twitter.com/glenngabe/status/1825131548292575261"]}, {"Title": "Google Releases August 2024 Core Update", "Category": "Search Engine Optimization", "Description": "Google has begun rolling out its August 2024 core update, which is expected to bring significant ranking shifts and reversals. Early observations suggest some sites impacted by the September 2023 helpful content update may be seeing minor recoveries.", "Links": ["https://twitter.com/aleyda/status/1825195159312592960", "https://twitter.com/rustybrick/status/1824457587162570948", "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"]}, {"Title": "Google Expands AI Overviews to More Countries", "Category": "Artificial Intelligence", "Description": "Google is expanding its AI-powered search summaries, known as AI Overviews, to six more countries: India, Brazil, Japan, the U.K., Indonesia, and Mexico. These markets will also receive local language support for the feature.", "Links": ["https://twitter.com/aleyda/status/1824485393435120060", "https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/", "https://twitter.com/rustybrick/status/1824453812372844915"]}, {"Title": "Thumbnails Return to Google Search Snippets", "Category": "Search Engine Optimization", "Description": "After months of complaints, image thumbnails are returning to Google Search result snippets following the August 2024 core update. This change is expected to improve the user experience and provide more visual context for search results.", "Links": ["https://twitter.com/rustybrick/status/1825495677436055621", "https://www.seroundtable.com/thumbnails-return-google-search-37918.html", "https://twitter.com/rustybrick/status/1825540976607387664"]}, {"Title": "Google Tests New Hover Effects for Search Results", "Category": "Search Engine Optimization", "Description": "Google is experimenting with hover-over effects for search result snippets, changing the background color from white to blue when a user hovers their mouse over a result. This subtle visual cue could enhance the user experience and make it easier to scan search results.", "Links": ["https://twitter.com/rustybrick/status/1825498677537841631", "https://twitter.com/rustybrick/status/1825540976523522557", "https://twitter.com/rustybrick/status/1825533426482466907"]}]}
+
