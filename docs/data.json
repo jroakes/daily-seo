@@ -2,38 +2,38 @@
     "data": [
         {
             "Title": "Google August 2024 Core Update Impacts and Observations",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update is causing significant ranking shifts, with some sites seeing recoveries from previous updates, while others experience declines.  There are also reports of a ranking bug coinciding with the update.",
+            "Category": "SEO",
+            "Description": "Google's August 2024 core update is causing significant ranking shifts, with some sites seeing recoveries from previous updates and others experiencing drops.  There is speculation about the impact of AI-generated content and the resurgence of sites affected by the September 2023 helpful content update.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1825566511760597260",
-                "https://twitter.com/rustybrick/status/1825544751103508858",
+                "https://twitter.com/glenngabe/status/1825535315789943231",
+                "https://twitter.com/BrockbankJames/status/1825464727134511277",
                 "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"
             ]
         },
         {
-            "Title": "Google Search Experiencing Ongoing Ranking Bug",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has acknowledged an ongoing search ranking bug that is impacting website rankings. The bug was first reported alongside the August 2024 core update, and while Google says it is working on a fix, it is still causing fluctuations in search results.",
+            "Title": "Google Resolves Search Ranking Bug After Extended Outage",
+            "Category": "SEO",
+            "Description": "Google has addressed a search ranking bug that was causing fluctuations and inaccurate results for several days. The bug, which coincided with the August 2024 core update rollout, has now been fully resolved.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1825563018790576533",
-                "https://twitter.com/glenngabe/status/1825482310944166024",
+                "https://twitter.com/rustybrick/status/1825869860787683613",
+                "https://twitter.com/aleyda/status/1825908039087481142",
                 "https://twitter.com/rustybrick/status/1825245972345033070"
             ]
         },
         {
-            "Title": "Google Tests New Search Features and UI Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is actively testing several new search features and user interface updates, including blue background highlights for search result snippets on hover, the return of thumbnails in search results, a \"mentioned in key answers\" feature, and rounded outlines for local packs and images.",
+            "Title": "Google Tests New Search Features and User Interface Elements",
+            "Category": "SEO",
+            "Description": "Google is experimenting with several new search features, including a \"Listen\" button for AI Overviews, a \"you may also need\" refinement option, rounded outlines for search snippets, and a \"hidden gems\" search box refinement.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1825601374454951951",
-                "https://twitter.com/rustybrick/status/1825597598998176068",
-                "https://twitter.com/rustybrick/status/1825593824988770418"
+                "https://twitter.com/rustybrick/status/1825860582400245857",
+                "https://twitter.com/rustybrick/status/1825858065826267510",
+                "https://twitter.com/rustybrick/status/1825855548765487140"
             ]
         },
         {
-            "Title": "AI Overviews Expand to Non-Logged-In Users",
-            "Category": "Artificial Intelligence",
-            "Description": "Google's AI Overviews, which provide concise summaries of complex queries, are now being shown to users who are not logged in. This expansion is expected to significantly impact website traffic, as AI Overviews often appear prominently in search results.",
+            "Title": "Google AI Overviews Expand with Increased Visibility",
+            "Category": "AI",
+            "Description": "Google's AI Overviews, which provide concise summaries for complex queries, are becoming more prominent in search results.  The feature has seen increased usage, particularly for informational queries in the health and safety industries, and is now being released to non-logged-in users.",
             "Links": [
                 "https://twitter.com/aleyda/status/1825622917666971842",
                 "https://twitter.com/aleyda/status/1825480395669860791",
@@ -42,37 +42,22 @@
         },
         {
             "Title": "The Impact of AI on SEO and Content Creation",
-            "Category": "Artificial Intelligence",
-            "Description": "The use of AI in content creation is raising questions about its impact on SEO. Some experts believe that AI-generated content can be detrimental to search rankings if it is not high-quality and original, while others see it as a valuable tool for streamlining content production.",
+            "Category": "AI",
+            "Description": "The use of AI-generated content is raising concerns about its impact on SEO.  While some argue that AI can streamline content creation and improve efficiency, others worry about the potential for low-quality content and the challenges of optimizing AI-generated text for search engines.",
             "Links": [
                 "https://bdaily.co.uk/articles/2024/08/19/is-ai-content-bad-for-seo-in-2024",
                 "https://searchengineland.com/billion-dollar-one-person-seo-agency-445273",
-                "https://twitter.com/glenngabe/status/1825535315789943231"
+                "https://thenewstack.io/how-ai-generated-content-is-challenging-seo-and-web-operators/"
             ]
         },
         {
-            "Title": "Google Cookies Remain, Impacting SEO Strategies",
-            "Category": "Search Engine Optimization",
-            "Description": "Despite earlier plans to phase them out, Google cookies are here to stay. This decision has significant implications for SEO, as cookies play a crucial role in tracking user behavior, personalizing search results, and measuring the effectiveness of marketing campaigns.",
+            "Title": "Google Addresses Data Leak from Shopping Ads Bug",
+            "Category": "Advertising",
+            "Description": "Google is asking advertisers to delete competitor data that was accidentally exposed due to a bug in its shopping ads platform. The bug reportedly allowed some advertisers to access sensitive information from their competitors' campaigns.",
             "Links": [
-                "https://www.cmswire.com/digital-marketing/google-cookies-are-here-to-stay-what-this-means-for-seo/"
-            ]
-        },
-        {
-            "Title": "John Mueller Shares Insights on Robots.txt",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller has released an audio version of his robots.txt file, providing an engaging way for website owners and SEO professionals to understand how to use this file to control how search engines crawl and index their websites.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1825590049808986184",
-                "https://twitter.com/rustybrick/status/1825490644229312683"
-            ]
-        },
-        {
-            "Title": "Removing Unwanted Content from Google Search",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller offers advice on how to remove unwanted content from search results, addressing concerns about outdated or sensitive information appearing in search listings.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-john-mueller-on-removing-unwanted-content-from-search/524815/"
+                "https://twitter.com/rustybrick/status/1825863098827509976",
+                "https://twitter.com/rustybrick/status/1825907138553594028",
+                "https://twitter.com/glenngabe/status/1825865571113611367"
             ]
         }
     ],
