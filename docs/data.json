@@ -1,63 +1,51 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Impacts and Reactions",
+            "Title": "Google August 2024 Core Update Impacts and Ongoing Ranking Bug",
             "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update is causing major ranking shifts, with some sites seeing resurrections from previous updates while others experience significant drops. The update has sparked discussion about the impact of AI-generated content and the effectiveness of Google's helpful content update.",
+            "Description": "Google released its August 2024 core update, causing significant ranking shifts and some sites impacted by the September 2023 helpful content update are seeing recoveries.  The update coincided with a significant search ranking bug that Google is still working to fully resolve.",
             "Links": [
-                "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290",
-                "https://twitter.com/glenngabe/status/1825535315789943231",
-                "https://twitter.com/BrockbankJames/status/1825464727134511277"
+                "https://twitter.com/rustybrick/status/1825544751103508858",
+                "https://twitter.com/glenngabe/status/1825566511760597260",
+                "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"
             ]
         },
         {
-            "Title": "Google Search Ranking Bug Persists After Core Update",
+            "Title": "Google Search Features: AI Overviews, Snippet Highlights, and \"Mentioned In\"",
             "Category": "Search Engine Optimization",
-            "Description": "A search ranking bug emerged alongside Google's August 2024 core update, causing further volatility in search results. While Google acknowledges the issue and is working on a fix, it remains unresolved after several days, adding to the challenges faced by website owners and SEO professionals.",
+            "Description": "Google is rolling out new features in search results, including AI-powered overviews for informational queries, blue background highlights for snippets on hover, and a \"mentioned in key answers\" feature.  AI Overviews are expanding to non-logged-in users, potentially impacting site traffic.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1825480833685168396",
-                "https://twitter.com/glenngabe/status/1825482310944166024",
-                "https://twitter.com/aleyda/status/1825496024929976464"
+                "https://twitter.com/aleyda/status/1825622917666971842",
+                "https://twitter.com/rustybrick/status/1825601374454951951",
+                "https://twitter.com/rustybrick/status/1825593824988770418"
             ]
         },
         {
-            "Title": "Google AI Overviews Expand to Non-Logged-In Users",
+            "Title": "Image Thumbnails Return to Google Search Snippets",
+            "Category": "Search Engine Optimization",
+            "Description": "After months of complaints, image thumbnails are returning to Google Search result snippets for many websites, coinciding with the August 2024 core update.  Many publishers, particularly smaller ones, are seeing their images reappear in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1825597598998176068",
+                "https://twitter.com/rustybrick/status/1825540976607387664",
+                "https://www.seroundtable.com/thumbnails-return-google-search-37918.html"
+            ]
+        },
+        {
+            "Title": "The Impact of AI on SEO and Content Creation",
             "Category": "Artificial Intelligence",
-            "Description": "Google's AI Overviews, which provide concise summaries of search queries using generative AI, are now being rolled out to users who are not logged in. This expansion increases the visibility and potential impact of AI-generated content in search results, raising questions about its implications for website traffic and user experience.",
+            "Description": "The use of AI in content creation is raising questions about its impact on SEO.  While some argue that AI-generated content can be beneficial, others believe it could harm search rankings.  The industry is also discussing the potential for AI-powered SEO agencies and the need for AI clauses in influencer contracts.",
             "Links": [
-                "https://twitter.com/aleyda/status/1825480395669860791",
-                "https://timesofindia.indiatimes.com/technology/tech-news/explained-what-are-ai-overviews-how-googles-ai-is-changing-search-experience-for-users/articleshow/112573354.cms",
-                "https://twitter.com/aleyda/status/1825622917666971842"
-            ]
-        },
-        {
-            "Title": "Google Tests New Visual Features in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with new visual elements in its search results, including blue background highlights for snippets on hover and the return of image thumbnails for many websites. These changes aim to enhance the visual appeal and informativeness of search results, potentially impacting user engagement and click-through rates.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1825540976523522557",
-                "https://www.seroundtable.com/thumbnails-return-google-search-37918.html",
-                "https://twitter.com/rustybrick/status/1825498677537841631"
-            ]
-        },
-        {
-            "Title": "AI and the Future of SEO",
-            "Category": "Artificial Intelligence",
-            "Description": "The rise of AI is transforming the SEO landscape, with discussions around the potential for billion-dollar, one-person SEO agencies powered by AI and the ongoing debate about the impact of AI-generated content on search rankings. As AI continues to evolve, its role in SEO is expected to become increasingly significant.",
-            "Links": [
-                "https://searchengineland.com/billion-dollar-one-person-seo-agency-445273",
                 "https://bdaily.co.uk/articles/2024/08/19/is-ai-content-bad-for-seo-in-2024",
-                "https://www.digitalinformationworld.com/2024/08/seo-landscape-shifts-22-cite-algorithm.html"
+                "https://searchengineland.com/billion-dollar-one-person-seo-agency-445273",
+                "https://digiday.com/marketing/there-needs-to-be-an-ai-clause-ai-hype-sparks-influencer-contract-overhauls-for-name-image-and-likeness/"
             ]
         },
         {
             "Title": "Google Faces Potential Breakup by DOJ",
             "Category": "Antitrust",
-            "Description": "The U.S. Justice Department is considering pursuing a breakup of Google, raising concerns about the potential impact on the digital advertising industry. The move highlights the growing scrutiny of Google's dominance in online advertising and the potential for regulatory action to reshape the tech landscape.",
+            "Description": "The U.S. Justice Department is considering breaking up Google, potentially impacting the online advertising landscape.  The move is driven by concerns over Google's dominance in the digital ad market.",
             "Links": [
-                "https://digiday.com/media-buying/google-is-facing-a-potential-breakup-what-are-the-likely-outcomes/",
-                "https://twitter.com/rustybrick/status/1825505743681822955",
-                "https://twitter.com/aleyda/status/1825261689505251440"
+                "https://digiday.com/media-buying/google-is-facing-a-potential-breakup-what-are-the-likely-outcomes/"
             ]
         }
     ],
