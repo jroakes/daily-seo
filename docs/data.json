@@ -1,9 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Fixes Search Ranking Bug",
-            "Category": "Search Engines",
-            "Description": "Google has addressed a search ranking bug that emerged alongside the August core update, resolving the issue after four days.",
+            "Title": "Google August 2024 Core Update",
+            "Category": "Search Engine Optimization",
+            "Description": "Google released its August 2024 core update, impacting website rankings and search visibility. The update initially overlapped with a ranking bug, requiring website owners to wait for the complete rollout before assessing its full effects. Some websites previously affected by the September 2023 helpful content update are reportedly seeing signs of recovery.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1825507468576788513",
+                "https://twitter.com/glenngabe/status/1825880679231467864",
+                "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"
+            ]
+        },
+        {
+            "Title": "Google Search Ranking Bug Resolved",
+            "Category": "Search Engine Optimization",
+            "Description": "Google confirmed a search ranking bug emerged alongside the August 2024 core update. The bug was addressed and resolved after four days. Google advised website owners to wait for the complete rollout of the core update before evaluating its effects due to the initial overlap with the ranking bug.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1825910914157027514",
                 "https://twitter.com/aleyda/status/1825908039087481142",
@@ -11,49 +21,55 @@
             ]
         },
         {
-            "Title": "Google August 2024 Core Update",
-            "Category": "Search Engines",
-            "Description": "Google has released the August 2024 core update, and SEOs are already observing its impact on website rankings, including potential recoveries for sites previously affected by the September 2023 helpful content update.",
+            "Title": "Google AI Overviews Now in Incognito Mode",
+            "Category": "Artificial Intelligence",
+            "Description": "Google's AI Overviews, a feature providing summarized information at the top of search results, are now accessible in incognito mode. This expansion makes the feature available to users who are not logged into their Google accounts, potentially impacting website traffic and user behavior.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1825880679231467864",
-                "https://twitter.com/glenngabe/status/1825873261541868027",
-                "https://searchengineland.com/google-august-2024-core-update-what-were-seeing-early-on-445290"
-            ]
-        },
-        {
-            "Title": "Google Tests New Search Features",
-            "Category": "Search Engines",
-            "Description": "Google is experimenting with several new search features, including a \"you may also need\" refinement, rounded outlines for search snippets, a \"hidden gems\" refinement, and a \"Listen\" button with AI Overviews.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1825899589465158038",
-                "https://twitter.com/rustybrick/status/1825895814910324827",
-                "https://twitter.com/rustybrick/status/1825892039151554687"
+                "https://twitter.com/aleyda/status/1825480395669860791",
+                "https://twitter.com/glenngabe/status/1825865571113611367",
+                "https://searchengineland.com/google-ai-overviews-organic-results-overlap-99-445374"
             ]
         },
         {
             "Title": "Cond\u00e9 Nast Partners with OpenAI",
             "Category": "Artificial Intelligence",
-            "Description": "Cond\u00e9 Nast has signed a multiyear agreement with OpenAI, allowing ChatGPT and SearchGPT to utilize content from publications like The New Yorker, Vogue, and Wired.",
+            "Description": "Cond\u00e9 Nast announced a multiyear partnership with OpenAI, integrating ChatGPT and SearchGPT to surface content from its publications, including The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired. This collaboration aims to enhance content discovery and user experience by leveraging OpenAI's language models.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1825985626165985632"
             ]
         },
         {
-            "Title": "AI Overviews' Impact on Search",
-            "Category": "Artificial Intelligence",
-            "Description": "Analysis indicates that Google AI Overviews now have a 99% overlap with organic search results, raising questions about their impact on website traffic and visibility.",
+            "Title": "Google Tests New Search Refinement Features",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is experimenting with new search refinement features, including \"you may also need\" and a \"hidden gems\" filter. These features aim to provide users with more relevant and tailored search results based on their queries and interests.",
             "Links": [
-                "https://searchengineland.com/google-ai-overviews-organic-results-overlap-99-445374"
+                "https://twitter.com/rustybrick/status/1825899589465158038",
+                "https://twitter.com/rustybrick/status/1825892039151554687",
+                "https://twitter.com/rustybrick/status/1825853032065593748"
             ]
         },
         {
-            "Title": "SEO Tips and Strategies",
+            "Title": "Google Updates Maps Design",
             "Category": "Search Engine Optimization",
-            "Description": "Experts offer advice on prioritizing SEO strategies, including focusing on content quality, server performance, and adapting to algorithm updates like the rise of AI Overviews.",
+            "Description": "Google has updated the design of its maps across various features, including local packs, knowledge panel maps, and Google Search. The updated design aims to improve user experience and provide a more visually appealing and informative map interface.",
             "Links": [
-                "https://www.searchenginejournal.com/googles-martin-splitt-on-why-pages-arent-indexed/524937/",
-                "https://searchengineland.com/prioritizing-seo-strategies-focus-445281",
-                "https://www.itnewsafrica.com/2024/08/boost-your-rankings-7-essential-seo-tips-for-success/"
+                "https://twitter.com/rustybrick/status/1826254427184857490"
+            ]
+        },
+        {
+            "Title": "Meta Launches New Web Crawler for AI",
+            "Category": "Artificial Intelligence",
+            "Description": "Meta has introduced a new web crawler to gather data from the open web for training its AI models. This development raises concerns about data privacy and the potential impact on website owners, as the crawler collects information to improve Meta's AI capabilities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1826235397451461045"
+            ]
+        },
+        {
+            "Title": "Google Introduces Google-CloudVertexBot Crawler",
+            "Category": "Artificial Intelligence",
+            "Description": "Google launched the Google-CloudVertexBot crawler, designed to crawl websites at the request of site owners for building Vertex AI Agents. This crawler assists in developing AI-powered agents by gathering data from websites with the consent of their owners.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1826231734574449112"
             ]
         }
     ],
