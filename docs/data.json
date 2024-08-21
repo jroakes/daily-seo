@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Search Ranking Bug Fixed",
+            "Title": "Google Fixes Search Ranking Bug",
             "Category": "Search Engines",
-            "Description": "Google has addressed a search ranking bug that was impacting the visibility of websites in search results. The issue has been fully resolved, and Google is working to ensure no further impact.",
+            "Description": "Google has addressed a search ranking bug that was impacting the visibility of websites in its search results. The bug, which was first reported on [Date], caused fluctuations in rankings and affected numerous websites. Google has confirmed that the issue has been resolved and rankings should return to normal.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1825910914157027514",
                 "https://twitter.com/aleyda/status/1825908039087481142",
@@ -11,19 +11,9 @@
             ]
         },
         {
-            "Title": "Google Tests New Search Refinement Features",
+            "Title": "Google August 2024 Core Update: Early Observations and Impacts",
             "Category": "Search Engines",
-            "Description": "Google is experimenting with new search refinement features, including \"you may also need\" and \"hidden gems,\" to enhance the search experience and help users discover more relevant results.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1825899589465158038",
-                "https://twitter.com/rustybrick/status/1825892039151554687",
-                "https://twitter.com/rustybrick/status/1825858065826267510"
-            ]
-        },
-        {
-            "Title": "Google August 2024 Core Update: Early Observations",
-            "Category": "Search Engines",
-            "Description": "The August 2024 Google core update is rolling out, and early observations suggest some sites impacted by the September 2023 helpful content update are seeing minor recoveries. However, it's still early, and the full impact remains to be seen.",
+            "Description": "Google's August 2024 core update is rolling out, and early observations suggest potential impacts on websites previously affected by the September 2023 helpful content update. Some travel publishers and blogs are seeing signs of recovery, while others are experiencing fluctuations in rankings.  SEO professionals are closely monitoring the situation as the update continues to roll out.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1825880679231467864",
                 "https://twitter.com/glenngabe/status/1825873261541868027",
@@ -31,37 +21,64 @@
             ]
         },
         {
-            "Title": "Cond\u00e9 Nast Partners with OpenAI for Content Integration",
+            "Title": "Google Tests New Search Features: \"You May Also Need\" Refinement and Rounded Outlines",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with new search features, including a \"you may also need\" refinement option and rounded outlines for search snippets. The \"you may also need\" feature aims to provide users with additional search suggestions related to their initial query, while the rounded outlines are a visual change to the appearance of search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1825899589465158038",
+                "https://twitter.com/rustybrick/status/1825895814910324827",
+                "https://twitter.com/rustybrick/status/1825858065826267510"
+            ]
+        },
+        {
+            "Title": "Google's AI Overviews Expand to Incognito Mode and Feature a \"Listen\" Button",
             "Category": "Artificial Intelligence",
-            "Description": "Cond\u00e9 Nast has signed a multiyear deal with OpenAI, allowing ChatGPT and SearchGPT to surface stories from its publications, including The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired.",
+            "Description": "Google is expanding its AI Overviews feature, making it available in incognito mode and adding a \"Listen\" button for audio playback. The expansion to incognito mode suggests that Google is making AI Overviews a more integral part of the search experience, while the \"Listen\" button hints at potential integration with conversational search capabilities.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1825865571113611367",
+                "https://twitter.com/rustybrick/status/1825860582400245857",
+                "https://twitter.com/aleyda/status/1825480395669860791"
+            ]
+        },
+        {
+            "Title": "Cond\u00e9 Nast Partners with OpenAI to Integrate Content into ChatGPT and SearchGPT",
+            "Category": "Artificial Intelligence",
+            "Description": "Cond\u00e9 Nast has announced a multiyear partnership with OpenAI, allowing ChatGPT and SearchGPT to access and surface content from its publications, including The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired. The deal highlights the growing trend of AI companies partnering with publishers to enhance their language models with high-quality content.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1825985626165985632"
             ]
         },
         {
-            "Title": "Google Tests \"Listen\" Button with AI Overviews",
-            "Category": "Artificial Intelligence",
-            "Description": "Google is testing a \"Listen\" button with its AI Overviews feature, potentially integrating it with Gemini Live for conversational search experiences. This feature could enhance accessibility and provide a new way to interact with search results.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1825865571113611367",
-                "https://twitter.com/rustybrick/status/1825860582400245857"
-            ]
-        },
-        {
-            "Title": "AI Overviews' Impact on Traffic Remains Negligible, Say Publishers",
-            "Category": "Artificial Intelligence",
-            "Description": "Early reports suggest that Google's AI Overviews feature has had a minimal impact on publishers' traffic. While the feature's long-term effects are still being evaluated, it appears not to be causing significant disruptions at this stage.",
-            "Links": [
-                "https://martech.org/google-ai-overviews-have-negligible-impact-on-traffic-say-publishers/"
-            ]
-        },
-        {
             "Title": "Image Thumbnails Return to Google Search Snippets",
             "Category": "Search Engines",
-            "Description": "After months of complaints from website owners, image thumbnails are reappearing in Google Search result snippets. The return of thumbnails coincides with the August 2024 core update and is expected to improve the visual appeal and click-through rates of search listings.",
+            "Description": "After months of complaints from website owners, image thumbnails are reappearing in Google Search result snippets. The return of thumbnails is a welcome change for many publishers who rely on visually appealing search results to attract clicks and drive traffic to their websites.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1825597598998176068",
                 "https://www.seroundtable.com/thumbnails-return-google-search-37918.html"
+            ]
+        },
+        {
+            "Title": "Google's Gary Illyes Warns About URL Parameter Crawl Issues",
+            "Category": "Search Engines",
+            "Description": "Google's Gary Illyes is reminding SEO professionals and website owners about the importance of managing URL parameters to avoid crawl issues. URL parameters can create duplicate content and make it difficult for Google to index websites effectively. Illyes' warning serves as a reminder for website owners to regularly review and optimize their URL parameter handling.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-gary-illyes-continues-to-warn-about-url-parameter-issues/524924/"
+            ]
+        },
+        {
+            "Title": "Google's John Mueller Offers Advice on Removing Unwanted Content from Search",
+            "Category": "Search Engines",
+            "Description": "Google's John Mueller has provided guidance on how individuals and businesses can request the removal of unwanted content from Google Search results. Mueller's advice focuses on using Google's tools and processes to address issues such as outdated information, legal concerns, or content that violates Google's policies.",
+            "Links": [
+                "https://www.searchenginejournal.com/googles-john-mueller-on-removing-unwanted-content-from-search/524815/"
+            ]
+        },
+        {
+            "Title": "Apple Launches Web App for Podcasts",
+            "Category": "Technology",
+            "Description": "Apple has released a web app for its Podcasts platform, allowing users to listen to, manage, and discover podcasts directly from their web browsers. The web app provides a convenient alternative to the dedicated Podcasts app and expands the accessibility of Apple's podcasting ecosystem.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1825862042164588702"
             ]
         }
     ],
