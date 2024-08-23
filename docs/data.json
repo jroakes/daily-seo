@@ -1,19 +1,29 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update: Gains Vanishing and Reversals Reported",
+            "Title": "Google August 2024 Core Update: Gains Reversing, Impacts AI Overviews",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Some site owners and SEOs are reporting that the gains they initially saw from the Google August 2024 core update are starting to disappear or reverse. While some sites experienced a surge in rankings, others are observing those gains decline. Google advises waiting until the update is fully rolled out before assessing its complete impact.",
+            "Description": "Google's August 2024 core update, released on August 15th, is showing signs of volatility with some sites experiencing a reversal of initial gains. Additionally, the update appears to be impacting Google's AI Overviews, with sites seeing ranking fluctuations in this feature alongside broader core update effects. Google advises waiting until the update is fully rolled out before assessing its full impact.",
             "Links": [
                 "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html",
-                "https://twitter.com/rustybrick/status/1826692312354738312",
-                "https://twitter.com/rustybrick/status/1826631914641371641"
+                "https://twitter.com/glenngabe/status/1826226577182441855",
+                "https://www.searchenginejournal.com/googles-mueller-on-august-core-update-vs-ranking-bug-effects/524995/"
             ]
         },
         {
-            "Title": "Google Testing Blue Verification Icons in Organic Search Results",
+            "Title": "Google Search Ranking Bug Resolved",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google is experimenting with blue verification icons within the free organic search results. This move aims to enhance trust and authenticity for users.",
+            "Description": "A Google Search ranking bug that surfaced around the same time as the August core update has been resolved after more than four days. The bug's impact and its relation to the core update are still being analyzed.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1825908039087481142",
+                "https://searchengineland.com/google-search-ranking-bug-is-now-resolved-445317",
+                "https://www.seroundtable.com/video-08-23-2024-37961.html"
+            ]
+        },
+        {
+            "Title": "Google Tests Blue Verification Icons in Organic Search Results",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google is experimenting with blue verification icons within its free organic search results. The move aims to enhance trust and authenticity for users.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1826677213376512146",
                 "https://twitter.com/rustybrick/status/1826616815583383938"
@@ -22,16 +32,16 @@
         {
             "Title": "Unanswered Comments Don't Impact Google Search Rankings",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's Martin Splitt has confirmed that having unanswered comments on a website does not negatively affect its search rankings. Google Search does not consider whether comments receive responses.",
+            "Description": "Google's Martin Splitt has confirmed that having unanswered comments on a website does not negatively affect its search engine rankings. Google Search does not consider whether comments receive responses as a ranking factor.",
             "Links": [
-                "https://www.seroundtable.com/unanswered-comments-google-seo-37945.html",
-                "https://twitter.com/rustybrick/status/1826684762590769209"
+                "https://twitter.com/rustybrick/status/1826684762590769209",
+                "https://www.seroundtable.com/unanswered-comments-google-seo-37945.html"
             ]
         },
         {
-            "Title": "Google Ads Bug Misattributes Traffic to Nonexistent \"Smart Matching\"",
+            "Title": "Google Ads Bug Misattributes Traffic, Credits Advertisers",
             "Category": "Paid Advertising",
-            "Description": "A bug in Google Ads incorrectly attributed traffic to \"smart matching,\" a feature that doesn't exist. Google plans to issue credits to affected advertisers.",
+            "Description": "A bug in Google Ads incorrectly attributed traffic to \"smart matching,\" a feature that doesn't exist. Google is aware of the issue and will be crediting affected advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1826680988170080718"
             ]
@@ -39,40 +49,23 @@
         {
             "Title": "Perplexity AI Search Engine to Introduce Ads in Q4",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "AI-powered search engine Perplexity has revealed plans to launch ads in the fourth quarter of 2024. The platform intends to use a cost-per-thousand impressions (CPM) model, with prices reportedly exceeding $50. Advertisers will have the opportunity to sponsor \"related questions\" within search results.",
+            "Description": "AI-powered search engine Perplexity has revealed plans to launch ads in the fourth quarter of 2024. The platform intends to use a cost-per-thousand impressions (CPM) model with prices exceeding $50, and will allow advertisers to sponsor \"related questions.\"",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826696596043825304"
             ]
         },
         {
-            "Title": "SearchGPT's Potential to Disrupt Search Patterns",
+            "Title": "Microsoft to Release 'Recall' AI Search Feature to Testers",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Data suggests that OpenAI's SearchGPT could significantly alter search behavior and disrupt the traditional notion of organic search.",
+            "Description": "Microsoft will release its controversial \"Recall\" AI search feature to testers in October. Recall captures screenshots of on-screen activity, enabling users to search for previously viewed information.",
             "Links": [
-                "https://www.searchenginejournal.com/data-confirms-disruptive-potential-of-searchgpt/525122/"
+                "https://twitter.com/glenngabe/status/1826339075328270821"
             ]
         },
         {
-            "Title": "Websites Ranking Well in Google Search Attract More Links in AI Overviews",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A new report indicates that websites performing well in Google Search tend to receive a higher number of links within Google's AI Overviews, highlighting the importance of organic search ranking for AI-driven features.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826688537552376186"
-            ]
-        },
-        {
-            "Title": "Google AI Overviews Impacted by Core Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "AI overviews, a search feature, are being affected by major algorithm updates, including broad core updates. Analysis shows that sites experiencing ranking fluctuations due to core updates are also seeing corresponding changes in their AI overview visibility.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826226577182441855",
-                "https://twitter.com/rustybrick/status/1826261976827170981"
-            ]
-        },
-        {
-            "Title": "Google Introduces \"Google-CloudVertexBot\" Crawler for Vertex AI Agents",
+            "Title": "Google Introduces 'Google-CloudVertexBot' Crawler for Vertex AI",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Google has launched a new web crawler, \"Google-CloudVertexBot,\" designed to crawl websites at the request of site owners when building Vertex AI Agents. This crawler assists in gathering data for training and improving AI-powered agents.",
+            "Description": "Google has launched a new web crawler, \"Google-CloudVertexBot,\" designed to crawl websites at the request of site owners for building Vertex AI Agents.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826231734574449112"
             ]
@@ -80,9 +73,60 @@
         {
             "Title": "Meta Launches New Web Crawler for AI Model Data Collection",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Meta has deployed a new web crawler to collect more data from the open web, aiming to enhance its AI models. This move has raised concerns among some website owners regarding data privacy and potential scraping activities.",
+            "Description": "Meta has deployed a new web crawler to gather more data from the open web, aiming to enhance its AI models. The move has sparked discussions about data privacy and website owner control over data scraping.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826235397451461045"
+            ]
+        },
+        {
+            "Title": "Cond\u00e9 Nast Partners with OpenAI for Content Integration",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Cond\u00e9 Nast has signed a multiyear agreement with OpenAI, granting ChatGPT and SearchGPT access to surface stories from renowned publications like The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1825985626165985632"
+            ]
+        },
+        {
+            "Title": "Google Updates Maps Design in Search Results",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has refreshed the design of its maps displayed within search results, including local packs and knowledge panel maps.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826254427184857490"
+            ]
+        },
+        {
+            "Title": "Bing Image Search Introduces Refinement Cards",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Bing Image Search now features refinement cards directly within its results interface. These cards provide users with refinement options for their queries, accompanied by example photos for potential refined searches.",
+            "Links": [
+                "https://www.seroundtable.com/bing-images-search-refinement-cards-37927.html",
+                "https://twitter.com/rustybrick/status/1826940195641385273"
+            ]
+        },
+        {
+            "Title": "Google Search Console Data Persists After Domain Expiration",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has clarified that Search Console data remains accessible even after a domain expires. There is currently no option to reset this data, although temporarily removing the site from Search Console can hide it.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-search-console-data-survives-after-domain-expiration/525025/"
+            ]
+        },
+        {
+            "Title": "Google Analytics Experiences Data Outage, Real-Time Unaffected",
+            "Category": "Web Analytics",
+            "Description": "Google Analytics encountered a temporary data outage, with historical data unavailable while real-time data remained functional. The issue has since been resolved.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826922225489817654",
+                "https://twitter.com/rustybrick/status/1826996135501693208"
+            ]
+        },
+        {
+            "Title": "Google to Migrate All Merchants to Google Merchant Center Next",
+            "Category": "Ecommerce",
+            "Description": "Google will be transitioning all merchants to its new Google Merchant Center Next platform in September 2024.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826994302418813307",
+                "https://twitter.com/rustybrick/status/1826950262042325466"
             ]
         }
     ],
