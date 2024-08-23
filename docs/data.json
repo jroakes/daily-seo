@@ -3,7 +3,7 @@
         {
             "Title": "Google August 2024 Core Update: Gains Vanishing and Reversals Reported",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "Some site owners and SEOs are reporting that the gains they initially saw from the Google August 2024 core update are starting to disappear or reverse. While some sites experienced a surge in rankings, others are observing those improvements decline. Google advises waiting until the update is fully rolled out before assessing its complete impact.",
+            "Description": "Some site owners and SEOs are reporting that the gains they initially saw from the Google August 2024 core update are starting to disappear or reverse. While some sites experienced a surge in rankings, others are observing those gains decline. Google advises waiting until the update is fully rolled out before assessing its complete impact.",
             "Links": [
                 "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html",
                 "https://twitter.com/rustybrick/status/1826692312354738312",
@@ -31,23 +31,15 @@
         {
             "Title": "Google Ads Bug Misattributes Traffic to Nonexistent \"Smart Matching\"",
             "Category": "Paid Advertising",
-            "Description": "A bug in Google Ads incorrectly attributed traffic to \"smart matching,\" a feature that doesn't exist. Google has acknowledged the issue and will credit affected advertisers.",
+            "Description": "A bug in Google Ads incorrectly attributed traffic to \"smart matching,\" a feature that doesn't exist. Google plans to issue credits to affected advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1826680988170080718"
             ]
         },
         {
-            "Title": "Websites Ranking Well in Google Search Receive More Links in AI Overviews",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "A new report indicates that websites already performing well in Google Search tend to attract more links within the AI Overviews section. This suggests that Google's AI features may reinforce existing search rankings.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826688537552376186"
-            ]
-        },
-        {
-            "Title": "Perplexity AI Search Engine to Introduce Ads in Q4 2024",
+            "Title": "Perplexity AI Search Engine to Introduce Ads in Q4",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "AI-powered search engine Perplexity has revealed plans to launch ads in the fourth quarter of 2024. The company intends to use a cost-per-thousand impressions (CPM) model, with prices reportedly exceeding $50. Advertisers will have the opportunity to sponsor \"related questions\" within search results.",
+            "Description": "AI-powered search engine Perplexity has revealed plans to launch ads in the fourth quarter of 2024. The platform intends to use a cost-per-thousand impressions (CPM) model, with prices reportedly exceeding $50. Advertisers will have the opportunity to sponsor \"related questions\" within search results.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826696596043825304"
             ]
@@ -55,15 +47,23 @@
         {
             "Title": "SearchGPT's Potential to Disrupt Search Patterns",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Data suggests that OpenAI's SearchGPT could significantly alter how people search for information online, potentially disrupting the established concept of organic search.",
+            "Description": "Data suggests that OpenAI's SearchGPT could significantly alter search behavior and disrupt the traditional notion of organic search.",
             "Links": [
                 "https://www.searchenginejournal.com/data-confirms-disruptive-potential-of-searchgpt/525122/"
             ]
         },
         {
+            "Title": "Websites Ranking Well in Google Search Attract More Links in AI Overviews",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "A new report indicates that websites performing well in Google Search tend to receive a higher number of links within Google's AI Overviews, highlighting the importance of organic search ranking for AI-driven features.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826688537552376186"
+            ]
+        },
+        {
             "Title": "Google AI Overviews Impacted by Core Updates",
             "Category": "Search Engine Optimization (SEO)",
-            "Description": "AI overviews, a prominent feature in Google Search, are being affected by major algorithm updates, including broad core updates. This observation suggests that AI overviews are integral to Google's search algorithms and subject to ranking fluctuations.",
+            "Description": "AI overviews, a search feature, are being affected by major algorithm updates, including broad core updates. Analysis shows that sites experiencing ranking fluctuations due to core updates are also seeing corresponding changes in their AI overview visibility.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826226577182441855",
                 "https://twitter.com/rustybrick/status/1826261976827170981"
@@ -72,7 +72,7 @@
         {
             "Title": "Google Introduces \"Google-CloudVertexBot\" Crawler for Vertex AI Agents",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Google has launched a new web crawler, \"Google-CloudVertexBot,\" designed to crawl websites at the request of site owners specifically for building Vertex AI Agents. This crawler caters to the data needs of Google's AI development platform.",
+            "Description": "Google has launched a new web crawler, \"Google-CloudVertexBot,\" designed to crawl websites at the request of site owners when building Vertex AI Agents. This crawler assists in gathering data for training and improving AI-powered agents.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826231734574449112"
             ]
@@ -80,25 +80,9 @@
         {
             "Title": "Meta Launches New Web Crawler for AI Model Data Collection",
             "Category": "Artificial Intelligence (AI)",
-            "Description": "Meta has deployed a new web crawler to gather more data from the open web, aiming to enhance its AI models. This move highlights the increasing demand for data in training and improving AI systems.",
+            "Description": "Meta has deployed a new web crawler to collect more data from the open web, aiming to enhance its AI models. This move has raised concerns among some website owners regarding data privacy and potential scraping activities.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826235397451461045"
-            ]
-        },
-        {
-            "Title": "Microsoft to Release \"Recall\" AI Search Feature to Testers in October",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Microsoft is set to release its controversial \"Recall\" AI search feature to testers in October. Recall captures screenshots of on-screen activity, enabling users to search for information they encountered previously. This feature has raised privacy concerns.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826339075328270821"
-            ]
-        },
-        {
-            "Title": "Cond\u00e9 Nast Partners with OpenAI, Granting ChatGPT and SearchGPT Access to Publications",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Cond\u00e9 Nast has entered into a multiyear agreement with OpenAI, allowing ChatGPT and SearchGPT to surface stories from renowned publications like The New Yorker, Vogue, Vanity Fair, Bon Appetit, and Wired. This partnership reflects the growing integration of AI into content distribution and discovery.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1825985626165985632"
             ]
         }
     ],
