@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google Confirms AI Overviews Affected By Core Updates",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's John Mueller confirms core updates impact the search engine's AI-powered overviews.",
+            "Title": "Google Confirms Core Updates Impact AI Overviews",
+            "Category": "Search Engines",
+            "Description": "Google's John Mueller has confirmed that core updates impact the search engine's AI-powered overviews, providing insights for website owners and SEOs.",
             "Links": [
                 "https://www.searchenginejournal.com/google-confirms-ai-overviews-affected-by-core-updates/525239/",
                 "https://www.seroundtable.com/video-08-23-2024-37961.html",
@@ -11,44 +11,36 @@
             ]
         },
         {
-            "Title": "Google August 2024 Core Update",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google released its August 2024 core update on Thursday, August 15th, followed shortly after by a large search ranking bug. SEOs and site owners are asking how we can differentiate between the two.",
-            "Links": [
-                "https://www.seroundtable.com/video-08-23-2024-37961.html",
-                "https://twitter.com/glenngabe/status/1826966138753806669",
-                "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html"
-            ]
-        },
-        {
             "Title": "Baidu Blocks Google and Bing From Scraping Content",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Wikipedia-style service Baidu Baike recently barred the search engine crawlers of Google and Bing from indexing its online content.",
+            "Category": "Search Engines",
+            "Description": "Baidu Baike, a Wikipedia-style service, has barred Google and Bing's search engine crawlers from indexing its content, raising concerns about data access for AI projects.",
             "Links": [
                 "https://www.scmp.com/tech/big-tech/article/3275717/baidu-blocks-google-bing-scraping-content-amid-demand-data-used-ai-projects"
             ]
         },
         {
-            "Title": "Perplexity's AI Search to Feature Ads",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "AI search engine Perplexity told advertisers it plans to start running ads in Q4; a source says Perplexity's CPM prices will be $50+ \"Advertisers will be able to sponsor \u201crelated\u2026",
+            "Title": "Perplexity to Introduce AI Search Ads with CPM Model",
+            "Category": "Search Engines",
+            "Description": "AI search startup Perplexity plans to launch ads in Q4 2024, utilizing a CPM model with prices starting at $50. Advertisers will have the opportunity to sponsor \"related questions\" within search results.",
             "Links": [
                 "https://digiday.com/media-buying/perplexitys-pitch-deck-offers-advertisers-a-new-vision-for-ai-search/",
                 "https://twitter.com/glenngabe/status/1826696596043825304"
             ]
         },
         {
-            "Title": "Bing Image Creator Adds New Resize Feature",
-            "Category": "Artificial Intelligence (AI)",
-            "Description": "Bing Image Creator now allows users to resize images from square to landscape.",
+            "Title": "Google August 2024 Core Update: Gains Vanishing, Impact Assessment",
+            "Category": "Search Engines",
+            "Description": "Google's August 2024 core update, released on August 15th, was followed by a ranking bug, causing confusion among SEOs. Google advises waiting until the update is fully rolled out before assessing its impact.",
             "Links": [
-                "https://www.digitalinformationworld.com/2024/08/how-to-convert-bing-ai-generated-square-images-to-landscape-by-selecting-resize-much-needed-feature.html"
+                "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html",
+                "https://www.searchenginejournal.com/googles-mueller-on-august-core-update-vs-ranking-bug-effects/524995/",
+                "https://www.seroundtable.com/google-wait-august-core-update-complete-37935.html"
             ]
         },
         {
-            "Title": "Bing Image Search Gets Refinement Cards",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Microsoft now has these refinement cards or boxes directly in the Bing Image Search results interface. In these cards, Bing will show you a refinement option for your query with example photos you might find for that refined search query.",
+            "Title": "Bing Image Search Introduces Refinement Cards",
+            "Category": "Search Engines",
+            "Description": "Bing Image Search now features refinement cards within its results interface, offering users refined search options with example photos for a more targeted search experience.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1826979203457376712",
                 "https://www.seroundtable.com/bing-images-search-refinement-cards-37927.html",
@@ -56,48 +48,52 @@
             ]
         },
         {
-            "Title": "Reddit's Advertising Strategy Targets Subreddits",
-            "Category": "Digital Marketing",
-            "Description": "Reddit is winning over advertisers with interest-based targeting via subreddits, instead of personal data; Analysis: Reddit's ad revenue to reach $1.1B+ in 2024.",
+            "Title": "Google Merchant Center Next Migration in September",
+            "Category": "Ecommerce",
+            "Description": "Google will migrate all merchants to Google Merchant Center Next in September, introducing changes to the platform's interface and features.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826950262042325466"
+            ]
+        },
+        {
+            "Title": "Reddit's Advertising Strategy: Interest-Based Targeting and Projected Revenue",
+            "Category": "Advertising and Marketing",
+            "Description": "Reddit is leveraging its vast network of subreddits for interest-based targeting, attracting advertisers and projecting ad revenue to exceed $1.1 billion in 2024.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826961684860108942",
                 "https://digiday.com/marketing/five-key-signs-that-reddit-is-getting-ready-to-launch-its-own-search-ads-business/"
             ]
         },
         {
-            "Title": "YouTube is the Most Popular Podcast Listening Platform in the US",
-            "Category": "Digital Marketing",
-            "Description": "A Cumulus Media Study of 603 weekly podcast consumers found that YouTube was the most popular podcast listening platform in the US with 31% of respondents saying they use it, followed by Spotify at 21% and Apple at 12%.",
+            "Title": "YouTube Emerges as Top Podcast Listening Platform in the US",
+            "Category": "Digital Media",
+            "Description": "A Cumulus Media study reveals that YouTube is the most popular platform for podcast listening in the US, surpassing Spotify and Apple Podcasts.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1826951262178341017"
             ]
         },
         {
-            "Title": "Google to Migrate All Merchants to Google Merchant Center Next in September",
-            "Category": "Ecommerce",
-            "Description": "Google will be migrating all merchants to Google Merchant Center Next in September.",
+            "Title": "Bing Image Creator Adds Square-to-Landscape Image Resizing",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft Bing Image Creator now allows users to easily resize AI-generated images from square to landscape format, enhancing the tool's versatility.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1826950262042325466"
+                "https://www.digitalinformationworld.com/2024/08/how-to-convert-bing-ai-generated-square-images-to-landscape-by-selecting-resize-much-needed-feature.html"
             ]
         },
         {
-            "Title": "Hardbacon.ca Impacted by Google Updates and Bankruptcy",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Hardbacon.ca experienced significant traffic fluctuations due to Google's September helpful content update, bankruptcy filing, and the August core update.",
+            "Title": "Google Disputes Common SEO Audit Advice",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has questioned the validity of certain SEO audit recommendations provided by automated tools, urging website owners to exercise caution and prioritize manual review.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1826949086727037076",
-                "https://twitter.com/seroundtable/status/1826948136637485128",
-                "https://twitter.com/rustybrick/status/1826947745711853925"
+                "https://www.searchenginejournal.com/google-disputes-specific-seo-audit-advice/525036/"
             ]
         },
         {
-            "Title": "Having Many Noindexed Pages Is Not a Sign of Low Quality",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google's John Mueller and other SEO experts clarify that having a large number of noindexed pages does not necessarily indicate low website quality.",
+            "Title": "Google Antitrust Ruling Sparks Debate on AI Content Use",
+            "Category": "Legal and Regulatory",
+            "Description": "A recent antitrust ruling against Google has ignited debate among online publishers and SEO experts regarding the use of their content for AI-generated search results.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1826982978473607376",
-                "https://twitter.com/glenngabe/status/1826954250573779082",
-                "https://twitter.com/rustybrick/status/1826942712551203313"
+                "https://www.pymnts.com/google/2024/google-antitrust-ruling-sparks-debate-among-online-publishers-and-seo-experts/"
             ]
         }
     ],
