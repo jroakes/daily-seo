@@ -1,150 +1,136 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update: Gains Reversing, Impact on AI Overviews",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update, released on August 15th, is showing signs of volatility with initial ranking gains vanishing or reversing for some websites.  There are also reports that Google's AI Overviews, a new search feature, are being impacted by the core update, with sites surging or dropping in visibility within the AI Overviews section. Google advises waiting until the core update is fully rolled out before assessing its full impact.",
+            "Title": "Google Confirms Core Updates Impact AI Overviews",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's John Mueller has confirmed that core updates impact the search engine's AI-powered overviews, meaning these overviews are subject to the same ranking fluctuations as traditional search results.",
             "Links": [
-                "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html",
-                "https://twitter.com/glenngabe/status/1826226577182441855",
-                "https://twitter.com/rustybrick/status/1826261976827170981"
-            ]
-        },
-        {
-            "Title": "Google Search Console: Understanding \"Discovered - Currently Not Indexed\" Status",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console's \"Discovered - Currently Not Indexed\" status indicates that Google is aware of a webpage's existence but has chosen not to index it. Google's Martin Splitt explains that this status doesn't necessarily mean the page is low quality.  Reasons for this status include the page being too new, low word count, already having a canonical version indexed, or Googlebot being unable to crawl it due to server issues.",
-            "Links": [
-                "https://www.seroundtable.com/google-on-discovered-currently-not-indexed-37931.html",
-                "https://twitter.com/rustybrick/status/1826265751893709195",
-                "https://searchengineland.com/fix-crawled-currently-not-indexed-error-google-search-console-445344"
-            ]
-        },
-        {
-            "Title": "Unanswered Comments Don't Impact Google Search Rankings",
-            "Category": "Search Engine Optimization",
-            "Description": "Contrary to some SEO beliefs, Google's Martin Splitt confirms that having unanswered comments on a webpage does not negatively affect its search ranking. Google Search does not consider whether comments receive responses as a ranking factor.",
-            "Links": [
-                "https://www.seroundtable.com/unanswered-comments-google-seo-37945.html",
-                "https://twitter.com/rustybrick/status/1826684762590769209"
-            ]
-        },
-        {
-            "Title": "Google Tests Blue Verification Icons in Organic Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with blue verification icons within the free organic search results. This move aims to help users identify authentic and authoritative sources.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826616815583383938",
-                "https://twitter.com/rustybrick/status/1826677213376512146"
-            ]
-        },
-        {
-            "Title": "Google Ads Bug Misattributes Traffic, Promises Credits to Advertisers",
-            "Category": "Paid Advertising",
-            "Description": "A recent bug in Google Ads incorrectly attributed traffic to \"smart matching,\" a feature that doesn't exist. Google acknowledges the error and is working to credit affected advertisers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826680988170080718"
-            ]
-        },
-        {
-            "Title": "Perplexity AI Search Engine to Introduce Ads in Q4 2024",
-            "Category": "Artificial Intelligence",
-            "Description": "Perplexity, an AI-powered search engine, has revealed plans to launch advertising in the fourth quarter of 2024. The company's pitch deck outlines a CPM (cost per thousand impressions) model with prices exceeding $50. Advertisers will have the opportunity to sponsor \"related questions\" alongside search results.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826696596043825304"
-            ]
-        },
-        {
-            "Title": "Microsoft to Release \"Recall\" AI Search Feature to Testers in October",
-            "Category": "Artificial Intelligence",
-            "Description": "Microsoft is set to release its controversial \"Recall\" AI search feature to testers in October. Recall captures screenshots of on-screen activity, enabling users to search for previously viewed information. This feature has raised privacy concerns.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826339075328270821"
-            ]
-        },
-        {
-            "Title": "Google Antitrust Ruling Sparks Debate on AI Content Use",
-            "Category": "Artificial Intelligence",
-            "Description": "A recent antitrust ruling against Google has ignited debate among online publishers and SEO experts. The ruling requires Google to obtain consent from publishers before using their content for AI-generated search results, raising questions about copyright and fair use.",
-            "Links": [
-                "https://www.pymnts.com/google/2024/google-antitrust-ruling-sparks-debate-among-online-publishers-and-seo-experts/"
-            ]
-        },
-        {
-            "Title": "Cond\u00e9 Nast Partners with OpenAI, Granting Access to Content for ChatGPT and SearchGPT",
-            "Category": "Artificial Intelligence",
-            "Description": "Cond\u00e9 Nast has entered a multiyear agreement with OpenAI, allowing ChatGPT and SearchGPT to surface stories from renowned publications like The New Yorker, Vogue, Vanity Fair, Bon App\u00e9tit, and Wired. This partnership highlights the growing trend of AI companies seeking access to high-quality content.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1825985626165985632"
-            ]
-        },
-        {
-            "Title": "Google Introduces \"Google-CloudVertexBot\" Crawler for Vertex AI Agents",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has launched a new web crawler, \"Google-CloudVertexBot,\" designed to crawl websites at the request of site owners for building Vertex AI Agents. This crawler, identifiable by its user agent substring, signals Google's ongoing efforts to enhance its AI capabilities.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826231734574449112"
-            ]
-        },
-        {
-            "Title": "Meta Launches New Web Crawler for AI Model Data Collection",
-            "Category": "Artificial Intelligence",
-            "Description": "Meta has deployed a new web crawler to gather more data from the open web, aiming to improve its AI models. This move has sparked privacy concerns, with some website owners using tools to block known scrapers.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1826235397451461045"
-            ]
-        },
-        {
-            "Title": "Google Updates Maps Design in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has refreshed the design of its maps within search results, impacting local packs, knowledge panel maps, and other map integrations. The updated design aims to provide a more visually appealing and user-friendly experience.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826254427184857490"
-            ]
-        },
-        {
-            "Title": "Google AI Overviews Show High Overlap with Organic Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "A recent analysis reveals that Google's AI Overviews now heavily rely on top organic search results, with an overlap of 99%. This suggests that websites ranking well in organic search are more likely to be featured in AI Overviews.",
-            "Links": [
+                "https://www.searchenginejournal.com/google-confirms-ai-overviews-affected-by-core-updates/525239/",
+                "https://www.searchenginejournal.com/googles-mueller-on-august-core-update-vs-ranking-bug-effects/524995/",
                 "https://searchengineland.com/google-ai-overviews-organic-results-overlap-99-445374"
             ]
         },
         {
-            "Title": "Google Search Ranking Bug Resolved",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has addressed a significant search ranking bug that emerged alongside the August core update. The bug, which lasted for over four days, has now been resolved.",
+            "Title": "Baidu Blocks Google and Bing From Scraping Content",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Baidu Baike, a Wikipedia-style service, has blocked Google and Bing's search engine crawlers from indexing its content. This move comes amid growing demand for data used in AI projects.",
             "Links": [
-                "https://searchengineland.com/google-search-ranking-bug-is-now-resolved-445317",
-                "https://twitter.com/aleyda/status/1825908039087481142"
+                "https://www.scmp.com/tech/big-tech/article/3275717/baidu-blocks-google-bing-scraping-content-amid-demand-data-used-ai-projects"
+            ]
+        },
+        {
+            "Title": "Perplexity to Introduce Ads with CPM Model and Sponsored Questions",
+            "Category": "Search Engine Marketing (SEM)",
+            "Description": "AI search startup Perplexity plans to launch ads in Q4 2023 using a CPM model with prices starting at $50. Advertisers will be able to sponsor \"related questions\" within the platform.",
+            "Links": [
+                "https://digiday.com/media-buying/perplexitys-pitch-deck-offers-advertisers-a-new-vision-for-ai-search/",
+                "https://twitter.com/glenngabe/status/1826696596043825304"
+            ]
+        },
+        {
+            "Title": "Google August 2024 Core Update: Gains Vanishing, Impact Assessment",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's August 2024 core update, released on August 15th, was followed by a search ranking bug, creating confusion about their individual impacts. Some early gains seem to be vanishing. Google advises waiting until the update is fully rolled out before assessing its effects.",
+            "Links": [
+                "https://www.seroundtable.com/video-08-23-2024-37961.html",
+                "https://www.seroundtable.com/google-august-core-update-gains-reversing-37952.html",
+                "https://www.seroundtable.com/google-wait-august-core-update-complete-37935.html"
+            ]
+        },
+        {
+            "Title": "Bing Image Search Introduces Refinement Cards",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Bing Image Search now features refinement cards within its results interface. These cards offer refinement options for search queries with example photos to guide users.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826979203457376712",
+                "https://twitter.com/rustybrick/status/1826940195641385273",
+                "https://www.seroundtable.com/bing-images-search-refinement-cards-37927.html"
             ]
         },
         {
             "Title": "Google Merchant Center Next Migration in September",
             "Category": "Ecommerce",
-            "Description": "Google is migrating all merchants to its new Google Merchant Center Next platform in September. This mandatory transition will introduce a redesigned interface and new features for managing product feeds and shopping campaigns.",
+            "Description": "Google will migrate all merchants to Google Merchant Center Next in September 2024.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1826994302418813307",
                 "https://twitter.com/rustybrick/status/1826950262042325466"
             ]
         },
         {
-            "Title": "Bing Image Search Introduces Refinement Cards",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing Image Search now features refinement cards within its results interface. These cards provide users with refinement options for their search queries, accompanied by example photos to illustrate potential results.",
+            "Title": "Reddit's Advertising Strategy: Interest-Based Targeting and Projected Revenue",
+            "Category": "Digital Marketing",
+            "Description": "Reddit is attracting advertisers with its interest-based targeting approach, leveraging its vast network of subreddits. The platform is projected to surpass $1.1 billion in ad revenue in 2024.",
             "Links": [
-                "https://www.seroundtable.com/bing-images-search-refinement-cards-37927.html",
-                "https://twitter.com/rustybrick/status/1826940195641385273"
+                "https://twitter.com/glenngabe/status/1826961684860108942",
+                "https://twitter.com/glenngabe/status/1826696596043825304",
+                "https://digiday.com/marketing/five-key-signs-that-reddit-is-getting-ready-to-launch-its-own-search-ads-business/"
+            ]
+        },
+        {
+            "Title": "No-Indexed Pages Don't Indicate Low Quality, Says Google",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's John Mueller clarifies that having a large number of no-indexed pages on a website does not necessarily signify low quality content. This statement addresses a common misconception among website owners.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1826982978473607376",
+                "https://twitter.com/glenngabe/status/1826954250573779082",
+                "https://twitter.com/rustybrick/status/1826942712551203313"
+            ]
+        },
+        {
+            "Title": "YouTube Dominates as the Most Popular Podcast Listening Platform in the US",
+            "Category": "Digital Media",
+            "Description": "A recent study by Cumulus Media reveals that YouTube is the leading platform for podcast consumption in the United States, capturing 31% of respondents. Spotify follows with 21% and Apple with 12%.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1826951262178341017"
+            ]
+        },
+        {
+            "Title": "Bing Image Creator Adds Square-to-Landscape Resizing Feature",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Microsoft's Bing Image Creator now allows users to easily resize AI-generated images from square to landscape format, providing greater flexibility for content creation.",
+            "Links": [
+                "https://www.digitalinformationworld.com/2024/08/how-to-convert-bing-ai-generated-square-images-to-landscape-by-selecting-resize-much-needed-feature.html"
+            ]
+        },
+        {
+            "Title": "Unanswered Comments Don't Impact Google Search Rankings",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google's Martin Splitt confirms that unanswered comments on websites do not negatively affect search rankings. Google Search does not consider whether comments receive responses.",
+            "Links": [
+                "https://www.seroundtable.com/unanswered-comments-google-seo-37945.html"
+            ]
+        },
+        {
+            "Title": "Google Disputes Common SEO Audit Advice",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has questioned the validity of certain SEO audit recommendations provided by automated tools, suggesting that some advice may not be entirely accurate or beneficial.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-disputes-specific-seo-audit-advice/525036/"
+            ]
+        },
+        {
+            "Title": "Google Antitrust Ruling Sparks Debate on AI Content Use",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "A recent antitrust ruling against Google requires online publishers to explicitly consent to the use of their content for AI-generated search results, sparking debate about data rights and fair use.",
+            "Links": [
+                "https://www.pymnts.com/google/2024/google-antitrust-ruling-sparks-debate-among-online-publishers-and-seo-experts/"
             ]
         },
         {
             "Title": "Google Search Console Data Persists After Domain Expiration",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has clarified that Search Console data remains accessible even after a domain expires. There is no option to reset this data, and temporarily removing the property from Search Console only hides it from view.",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google warns that Search Console data remains accessible even after a domain expires, and there is no option to reset it. Temporarily removing the site from Search Console can hide data for expired domains.",
             "Links": [
                 "https://www.searchenginejournal.com/google-search-console-data-survives-after-domain-expiration/525025/"
             ]
+        },
+        {
+            "Title": "Google Launches New AI Crawler for Commercial Use",
+            "Category": "Artificial Intelligence (AI)",
+            "Description": "Google has introduced a new web crawler specifically designed for its commercial AI customers. The company has also released documentation for website owners to monitor the crawler's activity on their sites.",
+            "Links": [
+                "https://www.searchenginejournal.com/google-vertex-ai-crawler/524956/"
+            ]
         }
     ],
-    "date": "2024-08-23"
+    "date": "2024-08-24"
 }
