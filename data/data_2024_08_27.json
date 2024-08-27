@@ -304,6 +304,51 @@
             "Title": "Marketing Briefing: Inside some of advertisers' challenges in the 2024 election cycle",
             "Description": "Advertisers have come to expect the unexpected this election cycle and ad buyers are keeping an even closer eye on how the election cycle is shaking out.",
             "Link": "https://digiday.com/marketing/marketing-briefing-inside-some-of-advertisers-challenges-in-the-2024-election-cycle/"
+        },
+        {
+            "Title": "AWS S3 blocked Googlebot, resulting in images not working in Google Search & Discover",
+            "Description": "In mid-June, AWS S3 blocked Googlebot, causing images to stop working in Google Search & Discover. While AWS eventually fixed the issue, the incident serves as a rare case study of the potential consequences.",
+            "Link": "https://twitter.com/rustybrick/status/1828399813794374015"
+        },
+        {
+            "Title": "Google Local Knowledge Panel maps is testing not taking you to Google Maps but rather expanding the map on the search results page",
+            "Description": "Google is testing a new feature for Local Knowledge Panel maps where instead of redirecting users to Google Maps, the map expands directly on the search results page.",
+            "Link": "https://twitter.com/rustybrick/status/1828397296830038202"
+        },
+        {
+            "Title": "Google updates organization structured data developer docs to clarify logo usage and more",
+            "Description": "Google has updated its developer documentation for organization structured data, clarifying guidelines on logo usage and providing additional information.",
+            "Link": "https://twitter.com/rustybrick/status/1828394780335739093"
+        },
+        {
+            "Title": "Googlebot doesn't generally make up variations of URLs",
+            "Description": "According to John Mueller from Google, Googlebot does not typically try variations of URLs to see if they work. For example, if a URL is domain.com/pagegoeshere1/, Googlebot won't try domain.com/pagegoeshere2/ out of curiosity.",
+            "Link": "https://twitter.com/rustybrick/status/1828392263849771210"
+        },
+        {
+            "Title": "Google Doesn't Try Variations Of URLs",
+            "Description": "In a recent SEO office hours session, John Mueller confirmed that Googlebot does not experiment with URL variations. This means Googlebot won't try accessing different versions of a URL to see if they exist.",
+            "Link": "https://www.seroundtable.com/googlebot-variations-of-urls-37947.html"
+        },
+        {
+            "Title": "Google on getting your login page as a sitelink in the Google search results",
+            "Description": "Google addresses a question about how to ensure a website's login page appears as a sitelink in search results. This is particularly relevant for businesses with customer portals or SaaS companies.",
+            "Link": "https://twitter.com/rustybrick/status/1828389747225395258"
+        },
+        {
+            "Title": "Google On Login Page As A Sitelink In Search Results",
+            "Description": "Many websites, especially those with customer portals, want their login page to be easily accessible from search results. Google provides insights on how to increase the chances of a login page appearing as a sitelink.",
+            "Link": "https://www.seroundtable.com/google-sitelink-login-page-37949.html"
+        },
+        {
+            "Title": "Google's AI overviews in Hindi need a quality upgrade",
+            "Description": "Google's AI-generated overviews in Hindi are facing criticism for their quality. The issue highlights the challenges of accurately translating and presenting content in diverse languages.",
+            "Link": "https://techcrunch.com/2024/08/27/googles-ai-overviews-in-hindi-need-a-quality-upgrade/"
+        },
+        {
+            "Title": "Survey Shows Where SEOs Get Their Clients",
+            "Description": "A recent survey reveals the primary sources of new clients for SEO professionals. The survey also provides insights into the types of clients SEOs work with and the most in-demand services.",
+            "Link": "https://www.searchenginejournal.com/survey-shows-where-seos-get-their-clients/525399/"
         }
     ],
     "reviewed_urls": [
@@ -406,6 +451,25 @@
         "https://digiday.com/podcasts/amid-layoffs-and-cost-cutting-time-ceo-jessica-sibley-is-expecting-a-very-strong-second-half/",
         "https://digiday.com/marketing/marketing-briefing-inside-some-of-advertisers-challenges-in-the-2024-election-cycle/",
         "https://twitter.com/glenngabe/status/1828181948574896247",
-        "https://twitter.com/glenngabe/status/1828164643958989302"
+        "https://twitter.com/glenngabe/status/1828164643958989302",
+        "https://twitter.com/rustybrick/status/1828399813794374015",
+        "https://twitter.com/aleyda/status/1828398220923359303",
+        "https://twitter.com/rustybrick/status/1828397296830038202",
+        "https://twitter.com/rustybrick/status/1828394780335739093",
+        "https://www.practicalecommerce.com/open-source-content-management-systems",
+        "https://twitter.com/rustybrick/status/1828392263849771210",
+        "https://www.seroundtable.com/googlebot-variations-of-urls-37947.html",
+        "https://twitter.com/rustybrick/status/1828389747225395258",
+        "https://www.seroundtable.com/google-sitelink-login-page-37949.html",
+        "https://twitter.com/rustybrick/status/1828386986521952303",
+        "https://twitter.com/rustybrick/status/1828385437825589646",
+        "https://twitter.com/rustybrick/status/1828380462395306420",
+        "https://twitter.com/aleyda/status/1828377225055400221",
+        "https://twitter.com/rustybrick/status/1828374398522274132",
+        "https://twitter.com/rustybrick/status/1828374278053515721",
+        "https://techcrunch.com/2024/08/27/googles-ai-overviews-in-hindi-need-a-quality-upgrade/",
+        "https://www.eu-startups.com/job/search-engine-optimization-manager/",
+        "https://twitter.com/rustybrick/status/1828209580997742835",
+        "https://www.searchenginejournal.com/survey-shows-where-seos-get-their-clients/525399/"
     ]
 }
