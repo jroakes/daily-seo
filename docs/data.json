@@ -1,76 +1,88 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update: Winners, Losers, and Impacts",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update has shaken up the search results, with some surprising winners and losers. Reddit, Spotify, and PetMD saw significant gains, while Google, TikTok, and LinkedIn experienced drops. The update also impacts Google's AI-powered overviews, confirming that core updates affect all aspects of search.",
-            "Links": [
-                "https://twitter.com/aleyda/status/1827719553377595756",
-                "https://www.searchenginejournal.com/google-confirms-ai-overviews-affected-by-core-updates/525239/",
-                "https://twitter.com/glenngabe/status/1827035342135763192"
-            ]
-        },
-        {
-            "Title": "Google Updates Video SEO Documentation for Clarity and Effectiveness",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has revamped its video SEO documentation to provide clearer guidelines and improve content effectiveness. The updated documentation clarifies video indexing requirements, technical specifications, and introduces a new \"watch page\" section. It also emphasizes four key reasons to refresh content: removing outdated information, improving information density, adding fresh insights, and updating for brevity and clarity.",
-            "Links": [
-                "https://www.searchenginejournal.com/googles-revamped-documentation-shows-4-reasons-to-refresh-content/525290/",
-                "https://twitter.com/glenngabe/status/1827679029635240087",
-                "https://twitter.com/rustybrick/status/1828034908981244099"
-            ]
-        },
-        {
-            "Title": "Google Merchant Center Next Migration in September",
-            "Category": "Ecommerce",
-            "Description": "Google is migrating all merchants to its new platform, Google Merchant Center Next, in September. This migration aims to simplify the merchant experience and provide enhanced features for managing product listings and online sales.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1827054700698779787",
-                "https://twitter.com/rustybrick/status/1826994302418813307",
-                "https://twitter.com/rustybrick/status/1826950262042325466"
-            ]
-        },
-        {
-            "Title": "Baidu Baike Blocks Google and Bing Crawlers Amidst AI Data Demand",
+            "Title": "Microsoft Bing Copilot Accused of Defamation",
             "Category": "Artificial Intelligence",
-            "Description": "Baidu's Wikipedia-style service, Baidu Baike, has restricted Google and Bing's search engine crawlers from indexing its content. This move comes amidst growing demand for data used in AI projects, highlighting the increasing value of proprietary information in the age of artificial intelligence.",
+            "Description": "Hallucinating AI models excel at defamation",
             "Links": [
-                "https://www.scmp.com/tech/big-tech/article/3275717/baidu-blocks-google-bing-scraping-content-amid-demand-data-used-ai-projects"
+                "https://www.theregister.com/2024/08/26/microsoft_bing_copilot_ai_halluciation/"
             ]
         },
         {
-            "Title": "Spammers Exploit Google Search Using Reddit",
-            "Category": "Search Engine Optimization",
-            "Description": "SEO professionals are expressing frustration over the increasing use of Reddit by spammers to manipulate Google's search results.  Cheaters are employing various tactics on the platform to gain an unfair advantage in search rankings.",
-            "Links": [
-                "https://www.searchenginejournal.com/6-ways-spammers-exploit-google-with-reddit/525231/"
-            ]
-        },
-        {
-            "Title": "Midjourney Launches Web Interface for AI Image Generation",
+            "Title": "Gannett to Shut Down Product Reviews Site Reviewed",
             "Category": "Artificial Intelligence",
-            "Description": "Midjourney, a popular AI image generator, has launched a new web interface, making it more accessible for users to create images using artificial intelligence. The web app is receiving positive feedback for its user-friendly design and features.",
+            "Description": "Gannett was accused of publishing AI-generated products reviews on the site (a subdomain of USAToday). \u201cAfter careful consideration and evaluation of our Reviewed\u2026",
             "Links": [
-                "https://twitter.com/glenngabe/status/1827677717354975370"
+                "https://twitter.com/glenngabe/status/1828155787145028002"
             ]
         },
         {
-            "Title": "Bing Image Search Introduces Refinement Cards for Enhanced Image Discovery",
-            "Category": "Search Engine Optimization",
-            "Description": "Bing Image Search has rolled out refinement cards within its results interface to improve the image search experience. These cards offer refinement options for search queries, accompanied by visual examples of potential results for the refined search, making it easier for users to find the perfect image.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1826979203457376712",
-                "https://www.seroundtable.com/bing-images-search-refinement-cards-37927.html"
-            ]
-        },
-        {
-            "Title": "TikTok Enables Users to Create AI-Generated Voiceovers",
-            "Category": "Social Media",
-            "Description": "TikTok has introduced a new feature that allows users to create AI-generated voiceovers using their own voices. This feature also supports translation into other languages, expanding creative possibilities for content creators on the platform.",
+            "Title": "TikTok Enables Users to Create AI Voiceovers",
+            "Category": "Artificial Intelligence",
+            "Description": "TikTok\u2019s now enabling users to create AI simulations of their own voice in the app, so that you can voice over your TikTok clips with your own\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1828045687713358261"
             ]
+        },
+        {
+            "Title": "Google Overhauls Video SEO Documentation",
+            "Category": "Search Engine Optimization",
+            "Description": "Google has overhauled its video SEO documentation to vastly clarify the video indexing criteria and technical requirements. Plus, Google added a new watch page section to the document and expanded the examples in the document.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828077691125240080",
+                "https://twitter.com/rustybrick/status/1828034908981244099",
+                "https://www.seroundtable.com/google-overhauls-video-seo-documentation-37966.html"
+            ]
+        },
+        {
+            "Title": "Google Tests New Default Favicon Designs",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is testing new default favicon designs",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828073916218200064",
+                "https://twitter.com/rustybrick/status/1828032392507936769"
+            ]
+        },
+        {
+            "Title": "Google May Now Use OG Title for Title Links",
+            "Category": "Search Engine Optimization",
+            "Description": "Google added a 9th source that Google Search may use for title links.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828123996627587319",
+                "https://twitter.com/rustybrick/status/1828063598339367360",
+                "https://searchengineland.com/google-search-may-now-use-og-title-for-title-links-446023"
+            ]
+        },
+        {
+            "Title": "Google August 2024 Core Update Impacts Sites",
+            "Category": "Search Engine Optimization",
+            "Description": "This Google August 2024 core update has been shaking things up since it began to rollout.  We saw some early signs of some sites hit by the September 2023 helpful content see some signs of life. Then some saw reversals of sorts, but maybe that was the search ranking bug that got fixed a few days later. Here are some charts a week or so after the August core update was released.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828141863770927428",
+                "https://twitter.com/rustybrick/status/1828081466439524383",
+                "https://www.seroundtable.com/google-august-core-update-helpful-content-surge-charts-37970.html"
+            ]
+        },
+        {
+            "Title": "Google Says Low-Quality Traffic Doesn't Impact Rankings",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Martin Splitt explains why low-quality traffic cannot have an effect on the trustworthiness of a website",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828130539401806297",
+                "https://twitter.com/rustybrick/status/1828070141826871331",
+                "https://www.searchenginejournal.com/google-explains-why-low-quality-traffic-cant-impact-rankings/525350/"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Appeals Experiencing Delays",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Business Profile appeal wait time is very delayed",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828126764708831412",
+                "https://twitter.com/rustybrick/status/1828066366399623503",
+                "https://twitter.com/rustybrick/status/1828027359255003567"
+            ]
         }
     ],
-    "date": "2024-08-26"
+    "date": "2024-08-27"
 }
