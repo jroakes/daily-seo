@@ -1,86 +1,123 @@
 {
     "data": [
         {
-            "Title": "Microsoft Bing Copilot Accused of Defamation",
-            "Category": "Artificial Intelligence",
+            "Title": "Google Overhauls Video SEO Documentation",
+            "Category": "SEO",
+            "Description": "Google has overhauled its video SEO documentation to vastly clarify the video indexing criteria and technical requirements. Plus, Google added a new watch page section to the document and expanded the examples in the document.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828077691125240080",
+                "https://www.seroundtable.com/google-overhauls-video-seo-documentation-37966.html",
+                "https://twitter.com/glenngabe/status/1827679029635240087"
+            ]
+        },
+        {
+            "Title": "Google May Now Use Open Graph Title Tag for Title Links",
+            "Category": "SEO",
+            "Description": "Google adds og:title to sources for generating search result titles, expanding use of Open Graph data beyond social media.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828123996627587319",
+                "https://twitter.com/rustybrick/status/1828063598339367360",
+                "https://www.searchenginejournal.com/google-now-uses-open-graph-title-tag-ogtitle-for-title-links/525382/",
+                "https://searchengineland.com/google-search-may-now-use-og-title-for-title-links-446023",
+                "https://twitter.com/glenngabe/status/1828039269446734304"
+            ]
+        },
+        {
+            "Title": "Google Says Low-Quality Traffic Can't Impact Rankings",
+            "Category": "SEO",
+            "Description": "Google's Martin Splitt explains why low-quality traffic cannot have an effect on the trustworthiness of a website",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828130539401806297",
+                "https://twitter.com/rustybrick/status/1828030253815472440",
+                "https://www.searchenginejournal.com/google-explains-why-low-quality-traffic-cant-impact-rankings/525350/"
+            ]
+        },
+        {
+            "Title": "Google August 2024 Core Update Sees Helpful Content Surge",
+            "Category": "SEO",
+            "Description": "This Google August 2024 core update has been shaking things up since it began to rollout.  We saw some early signs of some sites hit by the September 2023 helpful content see some signs of life. Then some saw reversals of sorts, but maybe that was the search ranking bug that got fixed a few days later. Here are some charts a week or so after the August core update was released.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828141863770927428",
+                "https://twitter.com/rustybrick/status/1828081466439524383",
+                "https://twitter.com/rustybrick/status/1828037426235023705",
+                "https://www.seroundtable.com/google-august-core-update-helpful-content-surge-charts-37970.html"
+            ]
+        },
+        {
+            "Title": "Survey: Google Updates, Self-Preferencing, AI Overviews are Top SEO Threats",
+            "Category": "SEO",
+            "Description": "To counter these threats, SEOs are focusing on content quality, E-E-A-T, traffic diversification and staying updated.",
+            "Links": [
+                "https://searchengineland.com/seo-threats-google-updates-self-preferencing-ai-overviews-survey-446032",
+                "https://twitter.com/aleyda/status/1827984802953224628"
+            ]
+        },
+        {
+            "Title": "Google Tests New Default Favicon Designs",
+            "Category": "SEO",
+            "Description": "seroundtable.com/google-new-def\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828134313923150141",
+                "https://twitter.com/rustybrick/status/1828073916218200064",
+                "https://twitter.com/rustybrick/status/1828032392507936769"
+            ]
+        },
+        {
+            "Title": "Google Business Profile Appeals are Super Delayed",
+            "Category": "SEO",
+            "Description": "seroundtable.com/google-busines\u2026",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1828126764708831412",
+                "https://twitter.com/rustybrick/status/1828066366399623503",
+                "https://twitter.com/rustybrick/status/1828027359255003567"
+            ]
+        },
+        {
+            "Title": "Reframing SEO: Why Training Search Engines is the New Game in the Age of AI",
+            "Category": "SEO",
+            "Description": "SEO isn't dead, but 'optimization' might be. Here\u2019s why 'search engine training' better reflects our interactions with AI-powered search.",
+            "Links": [
+                "https://searchengineland.com/reframing-seo-training-search-engines-ai-445441"
+            ]
+        },
+        {
+            "Title": "Microsoft Bing Copilot Blames Reporter for Crimes He Covered",
+            "Category": "AI",
             "Description": "Hallucinating AI models excel at defamation",
             "Links": [
                 "https://www.theregister.com/2024/08/26/microsoft_bing_copilot_ai_halluciation/"
             ]
         },
         {
-            "Title": "Gannett to Shut Down Product Reviews Site Reviewed",
-            "Category": "Artificial Intelligence",
-            "Description": "Gannett was accused of publishing AI-generated products reviews on the site (a subdomain of USAToday). \u201cAfter careful consideration and evaluation of our Reviewed\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1828155787145028002"
-            ]
-        },
-        {
-            "Title": "TikTok Enables Users to Create AI Voiceovers",
-            "Category": "Artificial Intelligence",
+            "Title": "TikTok Enables Users to Create Their Own AI Voiceover Voice",
+            "Category": "AI",
             "Description": "TikTok\u2019s now enabling users to create AI simulations of their own voice in the app, so that you can voice over your TikTok clips with your own\u2026",
             "Links": [
                 "https://twitter.com/glenngabe/status/1828045687713358261"
             ]
         },
         {
-            "Title": "Google Overhauls Video SEO Documentation",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has overhauled its video SEO documentation to vastly clarify the video indexing criteria and technical requirements. Plus, Google added a new watch page section to the document and expanded the examples in the document.",
+            "Title": "Want to Turn Off AI Overviews in Google Search?",
+            "Category": "AI",
+            "Description": "AI Overview functionality is now available in the UK, following early tests in the USA",
             "Links": [
-                "https://twitter.com/rustybrick/status/1828077691125240080",
-                "https://twitter.com/rustybrick/status/1828034908981244099",
-                "https://www.seroundtable.com/google-overhauls-video-seo-documentation-37966.html"
+                "https://www.gbnews.com/tech/how-to-disable-ai-overviews-in-google-search-uk"
             ]
         },
         {
-            "Title": "Google Tests New Default Favicon Designs",
-            "Category": "Search Engine Optimization",
-            "Description": "Google is testing new default favicon designs",
+            "Title": "Gannett is Shutting Down Reviewed",
+            "Category": "Media",
+            "Description": "Gannett was accused of publishing AI-generated products reviews on the site (a subdomain of USAToday). \u201cAfter careful consideration and evaluation of our Reviewed\u2026",
             "Links": [
-                "https://twitter.com/rustybrick/status/1828073916218200064",
-                "https://twitter.com/rustybrick/status/1828032392507936769"
+                "https://twitter.com/glenngabe/status/1828155787145028002"
             ]
         },
         {
-            "Title": "Google May Now Use OG Title for Title Links",
-            "Category": "Search Engine Optimization",
-            "Description": "Google added a 9th source that Google Search may use for title links.",
+            "Title": "Netflix Still Struggling to Get Advertisers On Board",
+            "Category": "Media",
+            "Description": "Netflix is currently left offering modest scale in terms of reach, high CPMs, limited targeting capabilities and little in the way of measurement, at least for now.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1828123996627587319",
-                "https://twitter.com/rustybrick/status/1828063598339367360",
-                "https://searchengineland.com/google-search-may-now-use-og-title-for-title-links-446023"
-            ]
-        },
-        {
-            "Title": "Google August 2024 Core Update Impacts Sites",
-            "Category": "Search Engine Optimization",
-            "Description": "This Google August 2024 core update has been shaking things up since it began to rollout.  We saw some early signs of some sites hit by the September 2023 helpful content see some signs of life. Then some saw reversals of sorts, but maybe that was the search ranking bug that got fixed a few days later. Here are some charts a week or so after the August core update was released.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828141863770927428",
-                "https://twitter.com/rustybrick/status/1828081466439524383",
-                "https://www.seroundtable.com/google-august-core-update-helpful-content-surge-charts-37970.html"
-            ]
-        },
-        {
-            "Title": "Google Says Low-Quality Traffic Doesn't Impact Rankings",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's Martin Splitt explains why low-quality traffic cannot have an effect on the trustworthiness of a website",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828130539401806297",
-                "https://twitter.com/rustybrick/status/1828070141826871331",
-                "https://www.searchenginejournal.com/google-explains-why-low-quality-traffic-cant-impact-rankings/525350/"
-            ]
-        },
-        {
-            "Title": "Google Business Profile Appeals Experiencing Delays",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Business Profile appeal wait time is very delayed",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828126764708831412",
-                "https://twitter.com/rustybrick/status/1828066366399623503",
-                "https://twitter.com/rustybrick/status/1828027359255003567"
+                "https://digiday.com/marketing/over-a-year-and-a-half-later-netflix-still-has-a-long-road-ahead-to-get-advertisers-on-board/"
             ]
         }
     ],
