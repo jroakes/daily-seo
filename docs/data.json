@@ -1,95 +1,89 @@
 {
     "data": [
         {
-            "Title": "Yelp Sues Google for Antitrust Violations",
-            "Category": "Legal",
-            "Description": "Yelp has filed an antitrust lawsuit against Google, alleging that the search giant leverages its monopolistic power in local search and advertising to stifle competition and harm consumers. Yelp claims that Google unfairly favors its own services, pushing Yelp's listings lower in search results and making it difficult for consumers to find local businesses.",
+            "Title": "OpenAI Seeks Billions in Funding at $100B+ Valuation",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI, the company behind ChatGPT, is reportedly in talks to raise billions of dollars in funding, potentially valuing the company at over $100 billion, signaling the growing investment in artificial intelligence.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1828904304687587634",
-                "https://twitter.com/Yelp/status/1828901826265051230",
-                "https://twitter.com/glenngabe/status/1829124454196072759"
+                "https://twitter.com/glenngabe/status/1829123872324530673"
             ]
         },
         {
-            "Title": "Google August 2024 Core Update Impacts Websites",
+            "Title": "Yelp Sues Google Over Alleged Antitrust Violations in Local Search",
             "Category": "Search Engines",
-            "Description": "Google's August 2024 core update has caused significant fluctuations in search rankings, impacting websites across various industries. Some sites experienced significant drops in visibility, while others saw improvements. Analysis suggests that the update may be related to Google's ongoing efforts to prioritize high-quality, helpful content.",
+            "Description": "Yelp has filed a lawsuit against Google, alleging that the search giant leverages its dominance in general search to gain an unfair advantage in local search services and advertising.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1828866639972184412",
-                "https://twitter.com/rustybrick/status/1828806241570656510",
-                "https://www.seroundtable.com/google-august-2024-core-update-impact-poll-37977.html"
+                "https://twitter.com/glenngabe/status/1829124454196072759",
+                "https://twitter.com/rustybrick/status/1829114523242127715",
+                "https://twitter.com/rustybrick/status/1828904304687587634"
             ]
         },
         {
-            "Title": "Google Discover Penalizes Misleading Content",
-            "Category": "Search Engines",
-            "Description": "Google has taken action against websites displaying misleading content in Google Discover. The search engine is enforcing its policies to ensure users find trustworthy and accurate information. Website owners are advised to review their content and ensure it aligns with Google's guidelines to avoid penalties.",
+            "Title": "Google Debunks Outbound Links For SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mueller put a fork in a popular tactic that recommends linking out to other sites as good for SEO",
+            "Links": [
+                "https://www.searchenginejournal.com/google-debunks-outbound-links-for-seo/525732/"
+            ]
+        },
+        {
+            "Title": "Google Updates Tag Diagnostics and Consent Management",
+            "Category": "Search Engine Optimization",
+            "Description": "Google introduces updates to its Tag Diagnostics and consent management setup within Google Ads, Google Analytics, and Tag Manager, potentially impacting how websites manage user consent and data tracking.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1829117039593570347",
+                "https://twitter.com/rustybrick/status/1829101940057264573"
+            ]
+        },
+        {
+            "Title": "New Google Gemini AI Experts Called Gems Might Be Good For SEO",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Gemini AI introduces \"Gems,\" customizable AI experts that could revolutionize SEO by enabling users to create specialized AI agents for specific tasks, potentially leading to more efficient and effective optimization.",
+            "Links": [
+                "https://www.searchenginejournal.com/new-google-gemini-ai-experts-called-gems-might-be-good-for-seo/525677/"
+            ]
+        },
+        {
+            "Title": "Google Unifies Booking Across Google Business Profiles and Local Service Ads",
+            "Category": "Search Engine Optimization",
+            "Description": "Google is streamlining its booking system by unifying it across Google Business Profiles (GBP) and Local Service Ads (LSAs), potentially simplifying the booking process for both businesses and customers.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1829122072745820320"
+            ]
+        },
+        {
+            "Title": "Google's John Mu: Link and Word Count Not Ranking Factors",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's John Mu clarifies that Google does not consider the number of links or words in a blog post as ranking factors, emphasizing the importance of quality content over quantity.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1829119556394049668"
+            ]
+        },
+        {
+            "Title": "Cameo Surges in SERPs Following August Google Core Update",
+            "Category": "Search Engine Optimization",
+            "Description": "Cameo, a platform for personalized celebrity video messages, has seen a significant increase in search engine rankings following the August Google core update, according to SEO expert Glenn Gabe.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1829144806133748189"
+            ]
+        },
+        {
+            "Title": "Google's June Spam Update Shows Delayed Impact",
+            "Category": "Search Engine Optimization",
+            "Description": "Glenn Gabe observes a website experiencing a significant drop in rankings at the tail end of the June spam update, highlighting the potential for delayed effects from Google's algorithm updates.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1829143122678321596"
+            ]
+        },
+        {
+            "Title": "Google Discover policy violations for misleading content have been unleashed",
+            "Category": "Content Moderation",
+            "Description": "Google has begun enforcing its policy against misleading content in Google Discover.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1828862864754430178",
-                "https://twitter.com/rustybrick/status/1828802466948747277",
-                "https://twitter.com/rustybrick/status/1828759684666298699"
-            ]
-        },
-        {
-            "Title": "Google Local Service Ads Review Links to Expire",
-            "Category": "Advertising",
-            "Description": "Google is changing its policy for Google Local Service Ads review links. The links will now expire, and businesses are encouraged to use Google Business Profile review links instead. This change aims to streamline the review process and ensure users see the most up-to-date feedback.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828859089629184492",
-                "https://twitter.com/rustybrick/status/1828798691756417176",
-                "https://twitter.com/rustybrick/status/1828757168226480411"
-            ]
-        },
-        {
-            "Title": "Looker Studio Loses Access to Google Ads Auction Insights Data",
-            "Category": "Advertising",
-            "Description": "Looker Studio users have reported losing access to Google Ads Auction Insights data. The change has raised concerns among marketers who rely on this data for competitive analysis and campaign optimization. Google has not yet provided an official explanation or alternative solution.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828855315770798495",
-                "https://twitter.com/rustybrick/status/1828794917209993356",
-                "https://twitter.com/rustybrick/status/1828754651639939154"
-            ]
-        },
-        {
-            "Title": "Google Ads Introduces \"Internal Tools\" Button",
-            "Category": "Advertising",
-            "Description": "Google Ads has rolled out a new \"Internal tools\" button, sparking curiosity and speculation within the digital marketing community. The button's purpose remains unclear, with some speculating it could be a mistake or a placeholder for upcoming features.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828852798202449988",
-                "https://twitter.com/rustybrick/status/1828792149376475278",
-                "https://twitter.com/rustybrick/status/1828750626333012443"
-            ]
-        },
-        {
-            "Title": "Google Gemini AI Gets Personalized with \"Custom Gems\"",
-            "Category": "Artificial Intelligence",
-            "Description": "Google's Gemini AI now offers \"Custom Gems,\" a feature allowing users to create personalized AI experts on any topic. This development signifies a step towards more customizable and tailored AI experiences, potentially impacting various fields, including SEO.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1828829722681233738",
-                "https://www.searchenginejournal.com/new-google-gemini-ai-experts-called-gems-might-be-good-for-seo/525677/",
-                "https://twitter.com/glenngabe/status/1828762960224809392"
-            ]
-        },
-        {
-            "Title": "Google Ads Merchant Center Enhances AI Tools and Reporting",
-            "Category": "Advertising",
-            "Description": "Google Ads Merchant Center introduces new AI-powered tools, summaries, and reporting features. These enhancements aim to provide advertisers with deeper insights, streamline campaign management, and improve overall performance.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828791142118314118",
-                "https://twitter.com/rustybrick/status/1828670345902993659",
-                "https://twitter.com/rustybrick/status/1828752134956851702"
-            ]
-        },
-        {
-            "Title": "Baidu Restricts Google and Bing from Scraping Content for AI Training",
-            "Category": "Artificial Intelligence",
-            "Description": "Chinese tech giant Baidu has updated its Baike service to prevent Google and Bing from scraping its content for AI training. This move highlights the growing competition and concerns surrounding data privacy and usage in the AI development race.",
-            "Links": [
-                "https://www.artificialintelligence-news.com/news/baidu-restricts-google-bing-from-scraping-content-ai-training/",
-                "https://twitter.com/glenngabe/status/1829125579825709320",
-                "https://twitter.com/glenngabe/status/1828400439500402968"
+                "https://twitter.com/rustybrick/status/1828802466948747277"
             ]
         }
     ],
-    "date": "2024-08-29"
+    "date": "2024-08-30"
 }
