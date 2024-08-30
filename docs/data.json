@@ -1,18 +1,25 @@
 {
     "data": [
         {
-            "Title": "Google Debunks Outbound Links as SEO Ranking Factor",
-            "Category": "SEO",
-            "Description": "Google's John Mueller has dismissed the popular belief that linking out to other websites is beneficial for SEO. He clarified that Google does not consider the number of outbound links as a ranking factor, emphasizing the importance of quality content over quantity.",
+            "Title": "OpenAI Seeks Billions in Funding at $100B+ Valuation",
+            "Category": "Artificial Intelligence",
+            "Description": "OpenAI, the company behind ChatGPT, is reportedly in talks to raise billions of dollars in funding, potentially valuing the company at over $100 billion, signaling the growing investment in artificial intelligence.",
             "Links": [
-                "https://www.searchenginejournal.com/google-debunks-outbound-links-for-seo/525732/",
-                "https://twitter.com/rustybrick/status/1829119556394049668"
+                "https://twitter.com/glenngabe/status/1829123872324530673"
             ]
         },
         {
-            "Title": "Yelp Sues Google for Antitrust Violations in Local Search",
-            "Category": "Legal/Antitrust",
-            "Description": "Yelp has filed a lawsuit against Google, alleging that the search giant is engaging in anticompetitive practices by leveraging its dominance in general search to gain an unfair advantage in local search services and advertising.",
+            "Title": "OpenAI says ChatGPT weekly active users doubled since last year to 200M+, 92% of Fortune 500 companies use its tools, and automated API usage doubled since July axios.com/2024/08/29/ope\\u2026",
+            "Category": "Artificial Intelligence",
+            "Description": "200M+ -> OpenAI says ChatGPT weekly active users doubled since last year to 200M+, 92% of Fortune 500 companies use its tools, and automated API usage doubled since July axios.com/2024/08/29/ope\\u2026",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1829256264360308968"
+            ]
+        },
+        {
+            "Title": "Yelp Sues Google Over Alleged Antitrust Violations in Local Search",
+            "Category": "Search Engines",
+            "Description": "Yelp has filed a lawsuit against Google, alleging that the search giant leverages its dominance in general search to gain an unfair advantage in local search services and advertising.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1829124454196072759",
                 "https://twitter.com/rustybrick/status/1829114523242127715",
@@ -20,128 +27,68 @@
             ]
         },
         {
-            "Title": "OpenAI Seeks Billions in Funding at $100B+ Valuation",
-            "Category": "AI/Funding",
-            "Description": "OpenAI, the company behind ChatGPT, is reportedly in talks to raise billions of dollars in funding, potentially valuing the company at over $100 billion. This move highlights the growing investment and interest in the field of artificial intelligence.",
+            "Title": "Google Unifies Booking Across Google Business Profiles and Local Service Ads",
+            "Category": "Search Engines",
+            "Description": "Google is streamlining its booking system by unifying it across Google Business Profiles (GBP) and Local Service Ads (LSAs), potentially simplifying the booking process for both businesses and customers.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1829123872324530673"
+                "https://twitter.com/rustybrick/status/1829122072745820320"
+            ]
+        },
+        {
+            "Title": "Google's John Mu: Link and Word Count Not Ranking Factors",
+            "Category": "SEO",
+            "Description": "Google's John Mu clarifies that Google does not consider the number of links or words in a blog post as ranking factors, emphasizing the importance of quality content over quantity.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1829119556394049668"
+            ]
+        },
+        {
+            "Title": "Google Debunks Outbound Links For SEO",
+            "Category": "SEO",
+            "Description": "Google's John Mueller put a fork in a popular tactic that recommends linking out to other sites as good for SEO",
+            "Links": [
+                "https://www.searchenginejournal.com/google-debunks-outbound-links-for-seo/525732/"
             ]
         },
         {
             "Title": "Google Updates Tag Diagnostics and Consent Management",
-            "Category": "Google/Advertising",
-            "Description": "Google has announced updates to its Tag Diagnostics and consent management setup within Google Ads, Google Analytics, and Tag Manager. These changes are expected to impact how websites manage user consent and data tracking.",
+            "Category": "Privacy",
+            "Description": "Google introduces updates to its Tag Diagnostics and consent management setup within Google Ads, Google Analytics, and Tag Manager, potentially impacting how websites manage user consent and data tracking.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1829117039593570347",
                 "https://twitter.com/rustybrick/status/1829101940057264573"
             ]
         },
         {
-            "Title": "Google Gemini AI: Custom Gems and Improved Image Generation",
-            "Category": "AI/Search",
-            "Description": "Google has introduced \"Custom Gems\" for its Gemini AI, allowing users to create personalized AI experts for specific tasks. Additionally, Gemini's image generation capabilities have been enhanced with Imagen 3, potentially revolutionizing SEO and content creation.",
+            "Title": "Apple's Applebot-Extended AI Crawler Blocked by Major Websites",
+            "Category": "Artificial Intelligence",
+            "Description": "Multiple high-profile websites, including Facebook, Instagram, Craigslist, and The New York Times, have blocked Apple's Applebot-Extended AI crawler, potentially impacting Apple's ability to gather data for its AI initiatives.",
             "Links": [
-                "https://www.searchenginejournal.com/new-google-gemini-ai-experts-called-gems-might-be-good-for-seo/525677/",
-                "https://twitter.com/glenngabe/status/1828829722681233738"
+                "https://twitter.com/glenngabe/status/1829125579825709320"
             ]
         },
         {
-            "Title": "Cameo Experiences Surge in Search Rankings After Google Core Update",
-            "Category": "SEO/Google",
-            "Description": "Cameo, a platform for personalized celebrity video messages, has seen a significant boost in its search engine rankings following the August Google core update. This observation highlights the impact of Google's algorithm updates on website visibility.",
+            "Title": "Google Search Introduces \"From Your Notifications\" Box",
+            "Category": "Search Engines",
+            "Description": "Google Search is testing a new feature that displays a \"from your notifications\" box within search results, potentially providing users with more personalized and contextually relevant information.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1829124589655601300"
+            ]
+        },
+        {
+            "Title": "Cameo Surges in SERPs Following August Google Core Update",
+            "Category": "SEO",
+            "Description": "Cameo, a platform for personalized celebrity video messages, has seen a significant increase in search engine rankings following the August Google core update, according to SEO expert Glenn Gabe.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1829144806133748189"
             ]
         },
         {
             "Title": "Google's June Spam Update Shows Delayed Impact",
-            "Category": "SEO/Google",
-            "Description": "SEO expert Glenn Gabe has observed a website experiencing a significant drop in rankings weeks after the June spam update. This finding underscores the potential for delayed effects from Google's algorithm updates.",
+            "Category": "SEO",
+            "Description": "Glenn Gabe observes a website experiencing a significant drop in rankings at the tail end of the June spam update, highlighting the potential for delayed effects from Google's algorithm updates.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1829143122678321596"
-            ]
-        },
-        {
-            "Title": "Apple's AI Crawler Blocked by Major Websites",
-            "Category": "AI/Apple",
-            "Description": "Several high-profile websites, including Facebook, Instagram, Craigslist, and The New York Times, have blocked Apple's Applebot-Extended AI crawler. This action could potentially hinder Apple's ability to gather data for its AI initiatives.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1829125579825709320"
-            ]
-        },
-        {
-            "Title": "Google Search Testing \"From Your Notifications\" Box",
-            "Category": "Google/Search",
-            "Description": "Google Search is experimenting with a new feature that displays a \"from your notifications\" box within search results. This addition aims to provide users with more personalized and contextually relevant information.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1829124589655601300"
-            ]
-        },
-        {
-            "Title": "Google Unifies Booking Across Business Profiles and Local Service Ads",
-            "Category": "Google/Local Search",
-            "Description": "Google is simplifying its booking system by unifying it across Google Business Profiles (GBP) and Local Service Ads (LSAs). This move is expected to streamline the booking process for both businesses and customers.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1829122072745820320"
-            ]
-        },
-        {
-            "Title": "OpenAI's ChatGPT Usage Skyrockets",
-            "Category": "AI/ChatGPT",
-            "Description": "OpenAI reports that ChatGPT's weekly active users have doubled since last year, reaching over 200 million. Additionally, 92% of Fortune 500 companies are now utilizing OpenAI's tools, and automated API usage has doubled since July.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1829256264360308968"
-            ]
-        },
-        {
-            "Title": "Meta AI Assistant Usage Numbers Questioned",
-            "Category": "AI/Meta",
-            "Description": "While Meta has reported that its AI Assistant has 400 million monthly users and 40 million daily users, there are concerns about the accuracy of these figures. It remains unclear how many people are using Meta AI unintentionally.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1829257583640596795"
-            ]
-        },
-        {
-            "Title": "Google Discover Enforces Policy Against Misleading Content",
-            "Category": "Google/Discover",
-            "Description": "Google has begun taking action against misleading content in Google Discover, issuing policy violations to websites that violate its guidelines.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828862864754430178",
-                "https://twitter.com/rustybrick/status/1828802466948747277"
-            ]
-        },
-        {
-            "Title": "Google Local Service Ads Review Links to Expire",
-            "Category": "Google/Local Search",
-            "Description": "Google has updated its policy for Google Local Service Ads, stating that review links will now have an expiration date.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828859089629184492",
-                "https://twitter.com/rustybrick/status/1828798691756417176"
-            ]
-        },
-        {
-            "Title": "Looker Studio Loses Access to Google Ads Auction Insights Data",
-            "Category": "Google/Advertising",
-            "Description": "Users of Looker Studio have reported losing access to data and fields related to Google Ads Auction Insights.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1828855315770798495",
-                "https://twitter.com/rustybrick/status/1828794917209993356"
-            ]
-        },
-        {
-            "Title": "Baidu Restricts Google and Bing from Scraping Content for AI Training",
-            "Category": "AI/Data Scraping",
-            "Description": "Chinese search engine Baidu has implemented measures to prevent Google and Bing from scraping content from its Baike service for AI training purposes.",
-            "Links": [
-                "https://www.artificialintelligence-news.com/news/baidu-restricts-google-bing-from-scraping-content-ai-training/"
-            ]
-        },
-        {
-            "Title": "OpenAI Developing 'Strawberry' Reasoning AI",
-            "Category": "AI/OpenAI",
-            "Description": "OpenAI is reportedly racing to launch 'Strawberry,' a new reasoning AI designed to enhance its chatbot capabilities. Strawberry is said to excel at solving complex word puzzles and could potentially reduce AI hallucinations.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1828428185534394422"
             ]
         }
     ],
