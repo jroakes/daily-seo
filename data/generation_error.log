@@ -34678,3 +34678,425 @@ Error occurred at 2024-09-02 16:03:14.999319:
 RESPONSE: 
 {"stories": [{"Title": "Google August 2024 Core Update: Impact and Analysis", "Category": "SEO", "Description": "Analysis and discussions about the impact of Google's August 2024 Core Update on website rankings, including observations on fluctuations, potential recovery strategies, and insights from industry experts.", "Links": ["https://twitter.com/aleyda/status/1829609455660486787", "https://twitter.com/rustybrick/status/1829591415569211845", "https://twitter.com/glenngabe/status/1829501895217447414"]}, {"Title": "Google Search Now Supports AVIF Image Format", "Category": "SEO", "Description": "Google Search now officially supports the AVIF image format, potentially impacting website performance and SEO. However, experts advise against blindly switching all images to AVIF and recommend proper redirection strategies.", "Links": ["https://twitter.com/glenngabe/status/1829865734115057673", "https://twitter.com/aleyda/status/1829568587121766751", "https://www.searchenginejournal.com/googles-new-support-for-avif-images-may-boost-seo/525780/"]}, {"Title": "Google Analytics 4 Introduces Benchmarking Data", "Category": "Analytics", "Description": "Google Analytics 4 now offers benchmarking data, allowing users to compare their website's performance metrics against industry averages, providing valuable context for decision-making and strategy development.", "Links": ["https://twitter.com/glenngabe/status/1829871461185831353", "https://twitter.com/rustybrick/status/1830618181549109278"]}, {"Title": "The Rise of Niche Social Platforms", "Category": "Social Media", "Description": "Niche social platforms are gaining traction as users seek alternatives to larger, more generalized platforms. This trend reflects a growing preference for interest-based communities and a desire for more focused online interactions.", "Links": ["https://twitter.com/glenngabe/status/1830216175638183989"]}, {"Title": "Manipulating AI Chatbots: Ethical Concerns and SEO Implications", "Category": "AI & SEO", "Description": "SEO experts warn against attempting to manipulate AI chatbots by employing black-hat tactics, such as hiding text on websites. Such practices can lead to penalties from search engines and raise ethical concerns about AI manipulation.", "Links": ["https://twitter.com/glenngabe/status/1830217832531165354", "https://www.nytimes.com/2024/08/30/technology/ai-chatbot-chatgpt-manipulation.html"]}, {"Title": "Programmatic SEO for E-commerce", "Category": "SEO", "Description": "Exploring the use of programmatic SEO in e-commerce, leveraging keywords, databases, and AI to generate a large number of long-tail product pages for improved search visibility.", "Links": ["https://www.practicalecommerce.com/programmatic-seo-for-ecommerce-ai-driven"]}, {"Title": "YouTube Expands Paid Courses Feature", "Category": "Content Creation", "Description": "YouTube is making its paid courses feature available to more creators, providing opportunities to monetize educational content and offer structured learning experiences directly on the platform.", "Links": ["https://twitter.com/aleyda/status/1830557795202003234"]}, {"Title": "Google's AI Products and the 2024 US Elections", "Category": "AI & Search", "Description": "Google has announced that its AI products, including Search AI Overviews and Gemini image generation, will not respond to election-related topics in the lead-up to the 2024 US elections.", "Links": ["https://twitter.com/glenngabe/status/1829863458529321311"]}]}
 
+Error occurred at 2024-09-02 20:03:25.292420:
+PROMPT: 
+Please review the following JSON list of new web articles/posts and consolidate the items into a list of unique news stories organized by category.  Please pick a concise high-level category for each story and supply a title and description from the supplied articles.  Carefully select up to 3 source links from the articles/posts that are highly relevant to each story.  Each story MUST have at least one source link. DO NOT attempt to guess a source link URL.  Only use the provided links and do not attempt to infer them from the titles or descriptions. 
+
+Articles to Review:
+[
+  {
+    "Title": "@aleyda: \ud83d\udcc8 Key changes to check when assessing your site increases/decreases after a Google Update to identify the cause of your traffic change, besides your queries rankings changes: 1. Changes in Ranked Pages inclusions in Search Features and Search features Inclusions in SERPs.\u2026",
+    "Description": "Tweet thread discussing key changes to check when assessing website traffic fluctuations after a Google Update, focusing on factors beyond keyword ranking changes, such as inclusion in search features and SERP layout.",
+    "Link": "https://twitter.com/aleyda/status/1830327628529631604"
+  },
+  {
+    "Title": "@rustybrick: @ClaraSoteras @searchliaison Google Discover is impacted by Core Updates.",
+    "Description": "Tweet confirming that Google Discover, a content recommendation feature, is affected by Google's Core Updates, which are significant algorithm changes.",
+    "Link": "https://twitter.com/rustybrick/status/1830306064643817836"
+  },
+  {
+    "Title": "@glenngabe: Love these in-depth posts from @ViperChill -> The Sites Dominating Google\u2019s Top Stories SERP Feature in 2024 (with help from @JShehata) And super interesting to see several of the sites listed there. I may know a thing or two about some of those. :)",
+    "Description": "Tweet praising an in-depth analysis of websites dominating Google's Top Stories SERP feature, highlighting the competitive landscape and insights into successful strategies.",
+    "Link": "https://twitter.com/glenngabe/status/1830250407186305235"
+  },
+  {
+    "Title": "@glenngabe: Alexandria, QBST, the \"green ring\", \"blue ring\", Superroot, Twiddlers, NAVBOOST, and more -> How Google search ranking works - a look at systems, structure, and components I enjoyed reading this post. I find many site owners aren't familiar with how this works. And I bring up\u2026",
+    "Description": "Tweet recommending an article that demystifies Google's search ranking system, explaining key components and processes for a better understanding of how websites are ranked.",
+    "Link": "https://twitter.com/glenngabe/status/1830241338886967632"
+  },
+  {
+    "Title": "@glenngabe: Regarding the HCU(X), I still love this example of a site that surged BEYOND where it was before Sep 2023. See the first screenshot below. Note, there are not many examples like this one. The last HCU(X) check I completed, 88 out of the 390+ sites I'm tracking as part of my",
+    "Description": "Tweet thread discussing the impact of Google's Helpful Content Update (HCU) on website rankings, providing an example of a site that experienced significant growth after the update.",
+    "Link": "https://twitter.com/glenngabe/status/1830235184563683630"
+  },
+  {
+    "Title": "@glenngabe: Good Morning Google Land! This is the September 1st edition of \"Core Update Notes\". We are now 17 days into the core update. Will it complete this week? Only Google knows. :) First, I covered the 8/24 into 8/25 tremor heavily last week, and in my latest podcast. And it was big\u2026",
+    "Description": "Tweet thread providing updates on the ongoing Google Core Update, including observations on its progress, potential completion timeline, and notable fluctuations in website rankings.",
+    "Link": "https://twitter.com/glenngabe/status/1830233742314467722"
+  },
+  {
+    "Title": "@glenngabe: PSA: If you've read a recent article about adding white text to a white background to try and change how AI chatbots answer questions about something, you might want to stop. That will probably not end well for you Google-wise. :)",
+    "Description": "Tweet advising against using black-hat SEO tactics, specifically warning against attempting to manipulate AI chatbots by hiding text on websites, as it can lead to penalties from Google.",
+    "Link": "https://twitter.com/glenngabe/status/1830217832531165354"
+  },
+  {
+    "Title": "@glenngabe: \"Niche apps take hold as alternative to larger online platforms\" -> A look at the surge of interest-based sites as users grow weary of big platforms; MAUs for Letterboxd, Strava, and AllTrails grew 55%, 20%, and 10% YoY in H1 \u201cPeople would much rather find people who can\u2026",
+    "Description": "Tweet highlighting the growing trend of niche social platforms as users seek alternatives to larger, more general platforms, citing examples of platforms experiencing significant user growth.",
+    "Link": "https://twitter.com/glenngabe/status/1830216175638183989"
+  },
+  {
+    "Title": "@aleyda: The latest SEO Updates & News from Today's #SEOFOMO - To be sent in a couple of hours \ud83d\udc40\ud83d\udc47 * Google August Core Update Helpful Content Surges* \u200bGoogle Now Uses Open Graph Title Tag (og:title) For Title Links* \u200bGoogle Gemini Now Accessible From Chrome Address Bar * Yelp filed\u2026",
+    "Description": "Tweet teasing upcoming SEO news and updates, including Google's August Core Update impact, the use of Open Graph title tags, Google Gemini's accessibility, and a legal case involving Yelp.",
+    "Link": "https://twitter.com/aleyda/status/1830214034781564974"
+  },
+  {
+    "Title": "SEO Can Kill! Creative Strategies for De-optimization",
+    "Description": "Article discussing the concept of creative de-optimization in SEO, which involves intentionally reducing over-optimization to recover from search engine penalties and improve rankings.",
+    "Link": "https://www.webpronews.com/seo-can-kill-creative-strategies-for-de-optimization/"
+  },
+  {
+    "Title": "Programmatic SEO for Ecommerce, AI Driven",
+    "Description": "Article exploring the use of programmatic SEO in e-commerce, leveraging keywords, databases, and AI to generate a large number of long-tail product pages for improved search visibility.",
+    "Link": "https://www.practicalecommerce.com/programmatic-seo-for-ecommerce-ai-driven"
+  },
+  {
+    "Title": "Every SEO Should Read This: Mario Fischer Dissects the Google Search Algorithm",
+    "Description": "Article recommending an in-depth analysis of Google's search algorithm by Mario Fischer, highlighting its significance for SEO professionals and providing insights into its inner workings.",
+    "Link": "https://www.webpronews.com/every-seo-should-read-this-mario-fischer-dissects-the-google-search-algorithm/"
+  },
+  {
+    "Title": "Rand Fishkin: \"It's Sad, Weird, and Dumb that Content Marketing Has Turned into 'Target Keywords in Google.'\"",
+    "Description": "Article featuring Rand Fishkin's critique of the oversimplification of content marketing, emphasizing the importance of creating valuable content beyond just targeting keywords for search engines.",
+    "Link": "https://www.webpronews.com/rand-fishkin-its-sad-weird-and-dumb-that-content-marketing-has-turned-into-target-keywords-in-google/"
+  },
+  {
+    "Title": "The Google-Bing-Amazon Ad Battle and Amazon\u2019s Double Play Strategy",
+    "Description": "Article analyzing the competitive landscape of online advertising among Google, Bing, and Amazon, highlighting Amazon's strategy of leveraging its e-commerce platform for targeted advertising.",
+    "Link": "https://www.tekedia.com/the-google-bing-amazon-ad-battle-and-amazons-double-play-strategy/"
+  },
+  {
+    "Title": "@glenngabe: Oh, and the final segment of the podcast covers the surge in \"Things to Know\" that I'm seeing across sites that are surging. That was brought up to me by a listener who posted a comment, and they are right. I already covered how other SERP features were surging for some sites",
+    "Description": "Tweet mentioning a podcast segment discussing the increasing prevalence of \"Things to Know\" sections on websites experiencing ranking improvements, suggesting a potential correlation.",
+    "Link": "https://twitter.com/glenngabe/status/1829877376987041879"
+  },
+  {
+    "Title": "@glenngabe: If you're interested in learning more about the August core update, you should check out my latest \"SEO From The Front Lines\" episode. I cover another round of core update notes as of 8/30, including site reputation abuse, the latest tremors from 8/25 and beyond, AI-generated\u2026",
+    "Description": "Tweet promoting a podcast episode providing insights into Google's August Core Update, covering topics such as site reputation, algorithm fluctuations, AI-generated content, and more.",
+    "Link": "https://twitter.com/glenngabe/status/1829876380604998039"
+  },
+  {
+    "Title": "@glenngabe: \"Benchmarks are refreshed every 24 hours\" -> Google Analytics 4 introduces benchmarking data \"You can now compare your performance across key metrics with industry peers, providing crucial context for strategic decision-making.\"",
+    "Description": "Tweet announcing the introduction of benchmarking data in Google Analytics 4, allowing users to compare their website's performance against industry averages for better decision-making.",
+    "Link": "https://twitter.com/glenngabe/status/1829871461185831353"
+  },
+  {
+    "Title": "Finally official -&gt; Google Search now supports the AVIF image format But like Google explains in the post, DO NOT just go and change all images on your site to AVIF... And if you do change images, make sure to redirect the old ones to the new ones. I wrote a post about that\u2026",
+    "Description": "Tweet about Google Search now supporting the AVIF image format.",
+    "Link": "https://twitter.com/glenngabe/status/1829865734115057673"
+  },
+  {
+    "Title": "Includes AI Overviews -&gt; Google says Search AI Overviews, Gemini image generation, and other AI products will not respond to election-related topics ahead of the US elections",
+    "Description": "Tweet about Google's AI products not responding to election-related topics.",
+    "Link": "https://twitter.com/glenngabe/status/1829863458529321311"
+  },
+  {
+    "Title": "Google August 2024 Core Update Impact So far based on Poll Results ran by @rustybrick \ud83d\ude4c seems that until now the impact that most are seeing is negative in X and SER but \u201cNo change\u201d in LI. It would be great to know the nature/type of sites of those that mentioned a negative\u2026",
+    "Description": "Tweet discussing the impact of the August 2024 Google Core Update based on poll results.",
+    "Link": "https://twitter.com/aleyda/status/1829609455660486787"
+  },
+  {
+    "Title": "ICYMI: Google August 2024 core update survey results are in...",
+    "Description": "Tweet announcing that the results of the Google August 2024 core update survey are available.",
+    "Link": "https://twitter.com/rustybrick/status/1829591415569211845"
+  },
+  {
+    "Title": "rustybrick: @casspa @searchliaison core updates impact Google Discover, that is not new.",
+    "Description": "Tweet confirming that Google Core updates affect Google Discover.",
+    "Link": "https://twitter.com/rustybrick/status/1829600513043939520"
+  },
+  {
+    "Title": "ICYMI: Google store rating reviews of popular products with videos",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1829587641081495803"
+  },
+  {
+    "Title": "ICYMI: Here are some in the area Google Ads",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1829583865855512980"
+  },
+  {
+    "Title": "ICYMI: Google Ads change big strategy pop-up",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1829580090918727864"
+  },
+  {
+    "Title": "ICYMI: Google Search shopping \"more like this\" button",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1829576316104126714"
+  },
+  {
+    "Title": "Interested in the August Core Update? I just published Episode 12 of \"SEO From The Front Lines\" where I cover findings from the past week. There was a lot to cover and I tried to keep it as brief as possible. The episode covers the tremors we have seen over the past several\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/glenngabe/status/1829572209330799066"
+  },
+  {
+    "Title": ".@googlesearchc has just announced that AVIF is now a supported file type in Google Search, for Google Images as well as any place that uses images in Google Search. You don't need to do anything special to have your AVIF files indexed by Google. This image format is also\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1829568587121766751"
+  },
+  {
+    "Title": "Google's New Support For AVIF Images May Boost SEO",
+    "Description": "Google's support for AVIF images in Search will significantly boost site performance. It's time to look into it",
+    "Link": "https://www.searchenginejournal.com/googles-new-support-for-avif-images-may-boost-seo/525780/"
+  },
+  {
+    "Title": "I am interviewing the @dannysullivan - the @searchliaison next week - the topic will be focused on the Google August core update - if you have solid questions you want clarity on, reply here with them.",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/rustybrick/status/1829554438035718441"
+  },
+  {
+    "Title": "@terryvanhorne You are confusing the August 2022 HCU (the original) with the September HCU(X). Very different.",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/glenngabe/status/1829539083175252426"
+  },
+  {
+    "Title": "We\u2019ve just finished The craziest culinary experience we\u2019ve ever hard at a Michelin starred restaurant - despite the divisive reviews in recent years @Mugaritz didn\u2019t disappointed and I had a wonderful, tasty although different birthday lunch of what you would expect from a\u2026",
+    "Description": "No description available.",
+    "Link": "https://twitter.com/aleyda/status/1829535047029850168"
+  },
+  {
+    "Title": "Google August 2024 core update survey results are in...",
+    "Description": "Barry Schwartz reports that the results from his Google August 2024 core update survey are in.",
+    "Link": "https://twitter.com/rustybrick/status/1829531017843274178"
+  },
+  {
+    "Title": "Google Search now supports AVIF file formats",
+    "Description": "Barry Schwartz reports that Google Search now supports AVIF file formats.",
+    "Link": "https://twitter.com/rustybrick/status/1829515750010438077"
+  },
+  {
+    "Title": "Links will not save your site from a broad core update",
+    "Description": "Glenn Gabe reports that links will not save your site from a broad core update and shares an example of a site with over 22 million backlinks that is tanking.",
+    "Link": "https://twitter.com/glenngabe/status/1829504791522812071"
+  },
+  {
+    "Title": "Bing Ventures Announces 'THE CRYPTO BASH' at TOKEN2049 Singapore",
+    "Description": "Bing Ventures and TOKEN2049 are presenting THE CRYPTO BASH, an event featuring industry leaders and entrepreneurs in the Web3 and crypto space at Singapore\u2019s C\u00c9 LA VI.",
+    "Link": "https://www.citybuzz.co/2024/08/30/bing-ventures-announces-the-crypto-bash-at-token2049-singapore/"
+  },
+  {
+    "Title": "Good Morning Google Land! This is the August 30th edition of \"Core Update Notes\"",
+    "Description": "Glenn Gabe shares his August 30th edition of \"Core Update Notes,\" discussing the recent Google August core update and its impact on websites.",
+    "Link": "https://twitter.com/glenngabe/status/1829501895217447414"
+  },
+  {
+    "Title": "Interesting quotes -&gt; Here\u2019s how 7 news audience directors are thinking about Google\u2019s AI Overviews",
+    "Description": "Glenn Gabe shares an article about how 7 news audience directors are thinking about Google\u2019s AI Overviews and the challenges of tracking AIOs in Search Console.",
+    "Link": "https://twitter.com/glenngabe/status/1829495767838732458"
+  },
+  {
+    "Title": "Authoritas Data: An analysis of 6,599 keywords shows Google is offering AI Overviews for 17% of queries in the UK and US",
+    "Description": "Glenn Gabe highlights data from Authoritas showing that Google is offering AI Overviews for 17% of queries in the UK and US, but rarely for others.",
+    "Link": "https://twitter.com/glenngabe/status/1829493276782547372"
+  },
+  {
+    "Title": "The Pros and Cons of Jamstack Websites for SEO",
+    "Description": "This article explores the pros and cons of using Jamstack architecture for websites, focusing on its impact on SEO performance.",
+    "Link": "https://techbullion.com/the-pros-and-cons-of-jamstack-websites-for-seo/"
+  },
+  {
+    "Title": "OpenAI says ChatGPT weekly active users doubled since last year to 200M+, 92% of Fortune 500 companies use its tools, and automated API usage doubled since July",
+    "Description": "Glenn Gabe reports that OpenAI has announced ChatGPT's weekly active users have doubled since last year to over 200 million, with 92% of Fortune 500 companies using its tools.",
+    "Link": "https://twitter.com/glenngabe/status/1829490412601442559"
+  },
+  {
+    "Title": "Video: Google August Core Update Data, SEO, Google Ads Features, Yelp Sues Google & More",
+    "Description": "Barry Schwartz shares a video recap covering the ongoing Google August core update results, SEO topics, Google Ads features, Yelp suing Google, and more.",
+    "Link": "https://www.seroundtable.com/video-08-30-2024-37990.html"
+  },
+  {
+    "Title": "New Gemini features -&gt; You can now prompt @OpenStax to pull in trustworthy responses based on Rice University's OpenStax (with citations and links to relevant textbook content)",
+    "Description": "Glenn Gabe announces new features in Gemini, allowing users to prompt OpenStax to pull in trustworthy responses based on Rice University's OpenStax, including citations and links to relevant textbook content.",
+    "Link": "https://twitter.com/glenngabe/status/1829487937278329044"
+  },
+  {
+    "Title": "Amid a new CEO-hunt, is Criteo up for sale?",
+    "Description": "Armchair analysts speculate on the next move of one of the biggest names on ad tech's chessboard.",
+    "Link": "https://digiday.com/media-buying/amid-a-new-ceo-hunt-is-criteo-up-for-sale/"
+  },
+  {
+    "Title": "After keeping them at arm\u2019s length, sports brands are opening the door to creators",
+    "Description": "The PGA and soccer club Juventus are taking a more progressive approach to creator-based marketing.",
+    "Link": "https://digiday.com/marketing/after-keeping-them-at-arms-length-sports-brands-are-opening-the-door-to-creators/"
+  },
+  {
+    "Title": "Omnicom is consolidating B2B shop Doremus+Co with Merkley and Partners",
+    "Description": "The move is part of ongoing consolidation throughout agencies and holding companies as holding companies look for ways to drive efficiencies and boost revenue.",
+    "Link": "https://digiday.com/marketing/omnicom-is-consolidating-b2b-shop-doremusco-within-merkley-and-partners/"
+  },
+  {
+    "Title": "Why Washington State is investing in a new kind of voter education campaign",
+    "Description": "The $1.8 million campaign, paid for by the Washington Secretary of State\u2019s office, goes beyond boosting voter turnout to explain the mail-in voting and how the process is safe, secure and transparent.",
+    "Link": "https://digiday.com/media-buying/why-washington-state-is-investing-in-a-new-kind-of-voter-education-campaign/"
+  },
+  {
+    "Title": "Gale immerses clients into social beyond just media buys \u2014 will it pay off?",
+    "Description": "Historically known for CRM specialization, data-crunching and use of channels others have forgotten about (email, for example) to find business opportunities for its clients, Gale's immersive social culture unit leverages all social elements in rapid turnaround fashion to launch clients\u2019 new brands or expand them into new markets.",
+    "Link": "https://digiday.com/media-buying/gale-immerses-clients-into-social-beyond-just-media-buys-will-it-pay-off/"
+  },
+  {
+    "Title": "Ask an Expert: Should Merchants Sell on TikTok Shop?",
+    "Description": "We asked the founder of SimplicityDX to evaluate selling on the popular social media platform.",
+    "Link": "https://www.practicalecommerce.com/ask-an-expert-should-merchants-sell-on-tiktok-shop"
+  },
+  {
+    "Title": "Best SEO services in 2024",
+    "Description": "Explore the best SEO services to keep your website optimized and generating leads or sales by helping you get found online.",
+    "Link": "https://www.cnn.com/cnn-underscored/money/best-seo-services"
+  },
+  {
+    "Title": "How Do You Change a Chatbot\u2019s Mind?",
+    "Description": "When I set out to improve my tainted reputation with chatbots, I discovered a new world of A.I. manipulation.",
+    "Link": "https://www.nytimes.com/2024/08/30/technology/ai-chatbot-chatgpt-manipulation.html"
+  },
+  {
+    "Title": "Media Buying Briefing: Why indie agency Langrand tilts against consultancies, rather than fellow agencies, to help clients transform",
+    "Description": "Houston-based Langrand pits itself against the consultancies of the world \u2014 the McKinseys and Accentures and BCGs \u2014 as much as it does other agencies.",
+    "Link": "https://digiday.com/media-buying/media-buying-briefing-why-indie-agency-langrand-tilts-against-consultancies-rather-than-fellow-agencies-to-help-clients-transform/"
+  },
+  {
+    "Title": "What do advertisers want from Tubi in the U.K.?",
+    "Description": "Execs there are currently in full market-scout mode, meeting a few key players and figuring out how to stand out in an arena bursting at the seams with options.",
+    "Link": "https://digiday.com/marketing/what-do-advertisers-want-from-tubi-in-the-u-k/"
+  },
+  {
+    "Title": "AI Briefing: How state governments and businesses are addressing AI deepfakes",
+    "Description": "New state laws and new tools from cybersecurity firms both aim to help mitigate the risks of AI content and deepfakes in this election season.",
+    "Link": "https://digiday.com/media/ai-briefing-how-governments-and-businesses-are-addressing-ai-deepfake/"
+  },
+  {
+    "Title": "Digiday+ Research: Pinterest surpasses X when it comes to brands' usage of UGC-focused social platforms",
+    "Description": "X has historically been dominant among UGC-focused social platforms, but Digiday+ Research surveys have found that, this year, Pinterest has passed X in brand usage for the first time \u2014 and brand and retailer ad spend on Pinterest is higher than on X, too.",
+    "Link": "https://digiday.com/marketing/digiday-research-pinterest-surpasses-x-when-it-comes-to-brands-usage-of-ugc-focused-social-platforms/"
+  },
+  {
+    "Title": "Will AI Kill SEO? Not Likely!",
+    "Description": "industry experts argue that while AI will undoubtedly transform SEO, it is far from \"killing\" it. Instead, AI and SEO are poised to evolve together, shaping the future of digital marketing in ways that we are only beginning to understand.",
+    "Link": "https://www.webpronews.com/will-ai-kill-seo-not-likely/"
+  },
+  {
+    "Title": "Google Search \"you visit often\" testing accordion user experience, instead of a label",
+    "Description": "Google is testing an accordion user experience for sites you visit often in the search results.",
+    "Link": "https://twitter.com/rustybrick/status/1830564074368770127"
+  },
+  {
+    "Title": "YouTube Rolls Out Paid Courses To More Channels",
+    "Description": "YouTube is expanding access to its paid courses feature, allowing more creators to offer educational content directly on the platform.",
+    "Link": "https://twitter.com/aleyda/status/1830557795202003234"
+  },
+  {
+    "Title": "Social media is the new search engine. Are you ready?",
+    "Description": "Discussion on the increasing role of social media platforms as search engines and the implications for digital marketing.",
+    "Link": "https://twitter.com/aleyda/status/1830557795202003234"
+  },
+  {
+    "Title": "Google introduces YouTube creator-based audience targeting",
+    "Description": "Google Ads is introducing new targeting options that allow advertisers to reach audiences based on their engagement with specific YouTube creators.",
+    "Link": "https://twitter.com/aleyda/status/1830557795202003234"
+  },
+  {
+    "Title": "Meta Unveils Five New...",
+    "Description": "Meta has announced five new features or updates, the specifics of which are not fully detailed in the provided tweet.",
+    "Link": "https://twitter.com/aleyda/status/1830557795202003234"
+  },
+  {
+    "Title": "Reddit's SEO Surge: The Unintended Consequences of Google's August 2024 Core Update",
+    "Description": "Reddit has seen a significant increase in its search visibility following Google's August 2024 Core Update. This article explores the reasons behind Reddit's rise and the potential implications for SEO and digital marketing.",
+    "Link": "https://www.webpronews.com/reddits-seo-surge-the-unintended-consequences-of-googles-august-2024-core-update/"
+  },
+  {
+    "Title": "The top SEO Consulting Threats and What SEOs say they're doing about them From the #SEOFOMO SEO Consulting Survey",
+    "Description": "The top SEO Consulting Threats and What SEOs say they're doing about them From the #SEOFOMO SEO Consulting Survey",
+    "Link": "https://twitter.com/aleyda/status/1830690164764504115"
+  },
+  {
+    "Title": "Google Analytics 4 benchmarking data and reports",
+    "Description": "Google Analytics 4 benchmarking data and reports",
+    "Link": "https://twitter.com/rustybrick/status/1830678579010490525"
+  },
+  {
+    "Title": "Google Search now supports AVIF image file types",
+    "Description": "Google Search now supports AVIF image file types",
+    "Link": "https://twitter.com/rustybrick/status/1830674804560797914"
+  },
+  {
+    "Title": "New Google shopping search interface tests",
+    "Description": "New Google shopping search interface tests",
+    "Link": "https://twitter.com/rustybrick/status/1830671029624283419"
+  },
+  {
+    "Title": "Google Ads product category-level insights",
+    "Description": "Google Ads product category-level insights",
+    "Link": "https://twitter.com/rustybrick/status/1830667254607859785"
+  },
+  {
+    "Title": "Google Search \"you visit often\" testing accordion UX",
+    "Description": "Google Search \"you visit often\" testing accordion UX",
+    "Link": "https://twitter.com/rustybrick/status/1830663479377682721"
+  },
+  {
+    "Title": "Google Analytics 4 benchmarking data and reports",
+    "Description": "Google Analytics 4 benchmarking data and reports",
+    "Link": "https://twitter.com/rustybrick/status/1830618181549109278"
+  },
+  {
+    "Title": "Google Search now supports AVIF image file types",
+    "Description": "Google Search now supports AVIF image file types",
+    "Link": "https://twitter.com/rustybrick/status/1830614406339719486"
+  },
+  {
+    "Title": "New Google shopping search interface tests",
+    "Description": "New Google shopping search interface tests",
+    "Link": "https://twitter.com/rustybrick/status/1830610631755764126"
+  },
+  {
+    "Title": "Google Ads product category-level insights",
+    "Description": "Google Ads product category-level insights",
+    "Link": "https://twitter.com/rustybrick/status/1830606857339359295"
+  },
+  {
+    "Title": "Special Labor Day Edition - It's New: Sep 2: Google Core Update Poll, New Shopping UI, Ads Product Insights & GA4 Benchmarking",
+    "Description": "Special Labor Day Edition - It's New: Sep 2: Google Core Update Poll, New Shopping UI, Ads Product Insights & GA4 Benchmarking",
+    "Link": "https://twitter.com/rustybrick/status/1830606646554624353"
+  },
+  {
+    "Title": "Google Search \"you visit often\" testing accordion UX",
+    "Description": "Google Search \"you visit often\" testing accordion UX",
+    "Link": "https://twitter.com/rustybrick/status/1830603081991819568"
+  },
+  {
+    "Title": "\u201cIs SEO Dead?\u201d Why AI Isn\u2019t the End of Law Firm Marketing",
+    "Description": "With the emergence of Artificial Intelligence (AI) technology, many business owners have feared that marketing as we know it is coming to an end. After all, Google Gemini is routinely surfacing AI-generated responses over organic search results, AI content is abundant, and AI-driven tools are being used more than ever to automate tasks previously performed by human marketers.",
+    "Link": "https://natlawreview.com/article/seo-dead-why-ai-isnt-end-law-firm-marketing"
+  },
+  {
+    "Title": "Catch up on last week with SEO Video Recap covering the ongoing Google August core update results, SEO topics, Google Ads features, Yelp suing Google and much more",
+    "Description": "Catch up on last week with SEO Video Recap covering the ongoing Google August core update results, SEO topics, Google Ads features, Yelp suing Google and much more",
+    "Link": "https://twitter.com/rustybrick/status/1830580684089352201"
+  },
+  {
+    "Title": "New Google Analytics benchmarking data in GA4",
+    "Description": "New Google Analytics benchmarking data in GA4",
+    "Link": "https://twitter.com/rustybrick/status/1830574140870344769"
+  },
+  {
+    "Title": "Google Search now supports AVIF image file types after much anticipation and wait (and no, there is no SEO boost for using AVIF images)",
+    "Description": "Google Search now supports AVIF image file types after much anticipation and wait (and no, there is no SEO boost for using AVIF images)",
+    "Link": "https://twitter.com/rustybrick/status/1830571624237560184"
+  },
+  {
+    "Title": "Google is testing a new shopping search interface on mobile - before and after attached",
+    "Description": "Google is testing a new shopping search interface on mobile - before and after attached",
+    "Link": "https://twitter.com/rustybrick/status/1830569108427125108"
+  },
+  {
+    "Title": "Google Ads product category-level insights (newish)",
+    "Description": "Google Ads product category-level insights (newish)",
+    "Link": "https://twitter.com/rustybrick/status/1830566591416999949"
+  }
+]
+
+Output should be valid JSON with a list of story objects with the following keys:
+- Title (string): Title of the story. Escape any quotes in title value.
+- Category (string): Category of the story
+- Description (string): Description of the story. Escape any quotes in description value.
+- Links (array of strings): List of links to pages that discuss the same story
+
+DO NOT use markdown formatting in your response; it will be interpreted as an error.  Ensure that you escape any quotes found within JSON values.
+
+Valid JSON:
+
+Error occurred at 2024-09-02 20:03:25.292835:
+RESPONSE: 
+{"stories": [{"Title": "Google August 2024 Core Update: Impact and Analysis", "Category": "SEO", "Description": "Google released its August 2024 Core Update, causing significant ranking fluctuations and impacting various aspects of search.  Analysis of the update reveals both positive and negative impacts on websites, with discussions around factors like site reputation, AI-generated content, and the performance of specific SERP features.", "Links": ["https://twitter.com/glenngabe/status/1829877376987041879", "https://twitter.com/glenngabe/status/1829876380604998039", "https://twitter.com/aleyda/status/1829609455660486787"]}, {"Title": "Google Search Updates: AVIF Support, Shopping Interface, and More", "Category": "SEO", "Description": "Google Search introduces several updates, including support for AVIF image format, a new shopping search interface on mobile, and experiments with an accordion user experience for frequently visited sites.  The search giant also incorporates benchmarking data in Google Analytics 4, providing insights for performance comparison.", "Links": ["https://twitter.com/glenngabe/status/1829865734115057673", "https://twitter.com/rustybrick/status/1830569108427125108", "https://twitter.com/rustybrick/status/1830564074368770127"]}, {"Title": "The Rise of Niche Social Platforms", "Category": "Social Media", "Description": "Niche social platforms are gaining traction as users seek alternatives to larger, more generalized platforms.  This trend is driven by a desire for more focused communities and content, leading to significant user growth for platforms like Letterboxd, Strava, and AllTrails.", "Links": ["https://twitter.com/glenngabe/status/1830216175638183989"]}, {"Title": "AI in Search: Overviews, Election Neutrality, and SEO Implications", "Category": "AI & Search", "Description": "Google's AI initiatives continue to shape the search landscape, with AI Overviews being offered for a growing number of queries.  The company emphasizes the neutrality of its AI products in relation to election-related topics.  Discussions arise around the impact of AI on SEO, with experts suggesting a transformative rather than destructive relationship.", "Links": ["https://twitter.com/glenngabe/status/1829863458529321311", "https://twitter.com/glenngabe/status/1829495767838732458", "https://twitter.com/glenngabe/status/1829493276782547372"]}, {"Title": "Content Marketing in the Age of AI and SEO", "Category": "Content Marketing", "Description": "Experts discuss the evolving landscape of content marketing, emphasizing the need to move beyond simply targeting keywords for search engines.  The focus shifts towards creating valuable and engaging content that resonates with audiences, even as AI plays an increasingly prominent role in content creation and SEO strategies.", "Links": ["https://www.webpronews.com/rand-fishkin-its-sad-weird-and-dumb-that-content-marketing-has-turned-into-target-keywords-in-google/"]}]}
+
