@@ -1,28 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google Trends Email Notifications to End",
-            "Category": "SEO/SEM",
-            "Description": "As of October 29, 2024, Google Trends will no longer support trend notifications. Existing alerts will cease, and creating new ones via subscriptions will be disabled.",
+            "Title": "Google Trends Email Subscriptions Sunset",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "As of 29 October 2024, Google Trends trend notifications will no longer be supported and existing alerts will no longer be sent. In addition, creating new trend alerts using the subscription page will no longer be possible.",
             "Links": [
                 "https://twitter.com/aleyda/status/1830707378712650222",
-                "https://twitter.com/rustybrick/status/1830931495709454574"
+                "https://twitter.com/rustybrick/status/1830931495709454574",
+                "https://twitter.com/rustybrick/status/1830973019633950770"
             ]
         },
         {
-            "Category": "SEO/SEM",
-            "Title": "Google August 2024 Core Update Impacts",
-            "Description": "The August 2024 Google core update, launched on August 15th, has caused significant ranking shifts. Some sites benefited, while others experienced declines.  Analysis points to factors like site reputation and helpful content playing a role.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1830606646554624353",
-                "https://twitter.com/glenngabe/status/1830233742314467722",
-                "https://www.seroundtable.com/september-2024-google-webmaster-report-38000.html"
-            ]
-        },
-        {
-            "Title": "Google Search Supports AVIF Image Format",
-            "Category": "SEO/SEM",
-            "Description": "Google Search now officially supports the AVIF image format. However, SEOs advise against mass image conversion and stress the importance of redirects for any changes.",
+            "Title": "Google Search Now Supports AVIF Image Files",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google Search now supports AVIF image file types after much anticipation and wait (and no, there is no SEO boost for using AVIF images)",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830674804560797914",
                 "https://twitter.com/rustybrick/status/1830614406339719486",
@@ -30,9 +21,19 @@
             ]
         },
         {
-            "Title": "Google Analytics 4 Introduces Benchmarking Data",
-            "Category": "SEO/SEM",
-            "Description": "Google Analytics 4 now offers benchmarking data, allowing users to compare their website performance metrics against industry peers. This data refreshes every 24 hours.",
+            "Title": "Google August 2024 Core Update Analysis and Impact",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Reddit has become the third most visible site in Google's U.S. search results, following a recent core update. The article explores the reasons behind Reddit's rise, its implications for SEO, and potential conflicts of interest due to Google's investment in Reddit.",
+            "Links": [
+                "https://www.webpronews.com/reddits-seo-surge-the-unintended-consequences-of-googles-august-2024-core-update/",
+                "https://twitter.com/glenngabe/status/1830233742314467722",
+                "https://www.seroundtable.com/september-2024-google-webmaster-report-38000.html"
+            ]
+        },
+        {
+            "Title": "Google Analytics 4 Introduces Benchmarking Data and Reports",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google Analytics 4 benchmarking data and reports",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830678579010490525",
                 "https://twitter.com/rustybrick/status/1830618181549109278",
@@ -41,8 +42,8 @@
         },
         {
             "Title": "Google Testing New Shopping Search Interface",
-            "Category": "SEO/SEM",
-            "Description": "Google is experimenting with a new shopping search interface on mobile devices. The updated design features visual changes and aims to enhance the user experience.",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "New Google shopping search interface tests",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830671029624283419",
                 "https://twitter.com/rustybrick/status/1830610631755764126",
@@ -50,9 +51,18 @@
             ]
         },
         {
+            "Title": "Google Ads Introduces Product Category-Level Insights",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google Ads product category-level insights (newish)",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830667254607859785",
+                "https://twitter.com/rustybrick/status/1830566591416999949"
+            ]
+        },
+        {
             "Title": "Google Search Tests Accordion UX for Frequently Visited Sites",
-            "Category": "SEO/SEM",
-            "Description": "Google is testing an accordion-style user experience for websites users frequently visit in search results. This replaces the previous label-based approach.",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google Search \"you visit often\" testing accordion UX",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830663479377682721",
                 "https://twitter.com/rustybrick/status/1830603081991819568",
@@ -60,94 +70,30 @@
             ]
         },
         {
-            "Title": "Google Ads Introduces Product Category-Level Insights",
-            "Category": "SEO/SEM",
-            "Description": "Google Ads has rolled out product category-level insights, providing advertisers with more granular data and analysis for their campaigns.",
+            "Title": "Bing Enhances Featured Answers with Interactive Table of Contents",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Microsoft recently added an animation or highlight effect on its featured answers or knowledge panels at the top of its Bing Search results. When you hover your mouse over the table of content on the left side, the section it corresponds to in the answer, will expand.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1830667254607859785",
-                "https://twitter.com/rustybrick/status/1830566591416999949"
+                "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html",
+                "https://twitter.com/rustybrick/status/1830969244588147139"
             ]
         },
         {
-            "Title": "Google Discover Impacted by Core Updates",
-            "Category": "SEO/SEM",
-            "Description": "John Mueller, Google Search Advocate, confirmed that Google Discover is affected by core algorithm updates.",
+            "Title": "Google Experiments with New Map Pin Design",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google is experimenting with a new design for map pins.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1830306064643817836"
+                "https://twitter.com/rustybrick/status/1830926462775632286",
+                "https://twitter.com/rustybrick/status/1830965469924446582"
             ]
         },
         {
-            "Title": "Reddit's Visibility Surges in Google Search Results",
-            "Category": "SEO/SEM",
-            "Description": "Following the recent Google core update, Reddit has become the third most visible site in U.S. search results. This raises questions about potential conflicts of interest due to Google's investment in Reddit.",
+            "Title": "Google's August 2024 Core Update Rollout Completed",
+            "Category": "SEO & Search Industry Updates",
+            "Description": "Google confirms the August core update has finished rolling out, taking 19 days to complete.",
             "Links": [
-                "https://www.webpronews.com/reddits-seo-surge-the-unintended-consequences-of-googles-august-2024-core-update/"
-            ]
-        },
-        {
-            "Title": "Bing Enhances Knowledge Panels with Interactive Animations",
-            "Category": "Search Engines",
-            "Description": "Microsoft Bing has introduced an animation effect for its featured answers and knowledge panels. Hovering over the table of contents on the left side highlights the corresponding section in the answer.",
-            "Links": [
-                "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
-            ]
-        },
-        {
-            "Title": "Niche Platforms Gain Traction as Alternatives to Major Social Networks",
-            "Category": "Social Media",
-            "Description": "Interest-based platforms like Letterboxd, Strava, and AllTrails are experiencing significant user growth as individuals seek more focused communities and content.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830216175638183989"
-            ]
-        },
-        {
-            "Title": "Pinterest Surpasses X in Brand Usage for User-Generated Content",
-            "Category": "Social Media",
-            "Description": "According to Digiday+ Research, Pinterest has overtaken X (formerly Twitter) as the leading platform for brands leveraging user-generated content (UGC).",
-            "Links": [
-                "https://digiday.com/marketing/digiday-research-pinterest-surpasses-x-when-it-comes-to-brands-usage-of-ugc-focused-social-platforms/"
-            ]
-        },
-        {
-            "Title": "Publishers Explore Strategies for Reddit Engagement",
-            "Category": "Social Media",
-            "Description": "Despite the absence of a formal publisher program, Reddit has been actively introducing features and resources to attract media companies and increase their presence on the platform.",
-            "Links": [
-                "https://digiday.com/media/publishers-share-tips-for-experimenting-with-reddit/"
-            ]
-        },
-        {
-            "Title": "AI's Impact on SEO: Evolution, Not Extinction",
-            "Category": "Artificial Intelligence",
-            "Description": "Experts believe that while AI will significantly influence SEO, it won't eliminate the field. Instead, AI and SEO are expected to evolve together, shaping the future of digital marketing.",
-            "Links": [
-                "https://www.webpronews.com/will-ai-kill-seo-not-likely/",
-                "https://natlawreview.com/article/seo-dead-why-ai-isnt-end-law-firm-marketing"
-            ]
-        },
-        {
-            "Title": "Addressing AI Deepfakes: Government and Business Initiatives",
-            "Category": "Artificial Intelligence",
-            "Description": "State governments and cybersecurity companies are implementing laws and tools to combat the spread of AI-generated deepfakes, particularly in the context of elections and misinformation.",
-            "Links": [
-                "https://digiday.com/media/ai-briefing-how-governments-and-businesses-are-addressing-ai-deepfake/"
-            ]
-        },
-        {
-            "Title": "Manipulating AI Chatbot Responses: A Risky SEO Tactic",
-            "Category": "Artificial Intelligence",
-            "Description": "Using techniques like adding white text on a white background to manipulate AI chatbot responses is strongly discouraged. This practice could have negative consequences for SEO and website credibility.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830217832531165354",
-                "http://gigazine.net/gsc_news/en/20240902-ai-chatbot-aio/"
-            ]
-        },
-        {
-            "Title": "Google's AI Products to Avoid Election-Related Topics",
-            "Category": "Artificial Intelligence",
-            "Description": "Google has announced that its AI products, including Search AI Overviews and Gemini image generation, will not engage with election-related topics in the lead-up to the US elections.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1829863458529321311"
+                "https://www.searchenginejournal.com/googles-august-core-update-rollout-completed/526070",
+                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
             ]
         }
     ],
