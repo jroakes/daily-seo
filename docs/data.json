@@ -1,67 +1,86 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update: Impact and Observations",
-            "Category": "SEO",
-            "Description": "Analysis and discussions about the ongoing Google August 2024 Core Update, including its impact on website rankings, observations from industry experts, and potential implications for SEO strategies.",
+            "Title": "Google Trends Notifications to End",
+            "Category": "SEO & Analytics Tools",
+            "Description": "As of 29 October 2024, Google Trends trend notifications will no longer be supported and existing alerts will no longer be sent. In addition, creating new trend alerts using the subscription page will no longer be possible.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1830233742314467722",
-                "https://twitter.com/aleyda/status/1829609455660486787",
-                "https://twitter.com/rustybrick/status/1829591415569211845"
+                "https://twitter.com/aleyda/status/1830707378712650222"
             ]
         },
         {
-            "Title": "Google Search Now Supports AVIF Image Format",
-            "Category": "SEO",
-            "Description": "Announcement of Google Search's support for the AVIF image format, potentially impacting website performance and SEO. It is advised to handle image format changes and redirects carefully.",
+            "Title": "Google Analytics 4 Introduces Benchmarking Data and Reports",
+            "Category": "SEO & Analytics Tools",
+            "Description": "Google Analytics 4 now offers benchmarking data and reports, allowing users to compare their website's performance against industry peers. The benchmarks are refreshed every 24 hours, providing up-to-date insights for strategic decision-making.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1829865734115057673",
-                "https://twitter.com/aleyda/status/1829568587121766751",
-                "https://www.searchenginejournal.com/googles-new-support-for-avif-images-may-boost-seo/525780/"
-            ]
-        },
-        {
-            "Title": "Google Discover Impacted by Core Updates",
-            "Category": "SEO",
-            "Description": "Confirmation that Google Discover, a content recommendation feature, is affected by Google's Core Updates, emphasizing the importance of algorithm updates for content visibility and reach.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1830306064643817836",
-                "https://twitter.com/rustybrick/status/1829600513043939520"
-            ]
-        },
-        {
-            "Title": "The Rise of Niche Social Platforms",
-            "Category": "Social Media",
-            "Description": "Highlighting the growing trend of users seeking alternatives to larger social platforms, favoring niche platforms that cater to specific interests and communities.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830216175638183989"
-            ]
-        },
-        {
-            "Title": "Manipulating AI Chatbots: Ethical Concerns and Potential Consequences",
-            "Category": "AI",
-            "Description": "Discussion on the ethics and potential consequences of manipulating AI chatbots, including warnings against black-hat SEO tactics that attempt to game search engine algorithms.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830217832531165354",
-                "https://www.nytimes.com/2024/08/30/technology/ai-chatbot-chatgpt-manipulation.html"
-            ]
-        },
-        {
-            "Title": "Google Analytics 4 Introduces Benchmarking Data",
-            "Category": "Analytics",
-            "Description": "Announcement of benchmarking data availability in Google Analytics 4, enabling users to compare their website's performance against industry averages for improved decision-making.",
-            "Links": [
+                "https://twitter.com/rustybrick/status/1830678579010490525",
+                "https://twitter.com/rustybrick/status/1830618181549109278",
                 "https://twitter.com/glenngabe/status/1829871461185831353"
             ]
         },
         {
-            "Title": "YouTube Expands Paid Courses Feature",
-            "Category": "Content Creation",
-            "Description": "YouTube is providing more creators with the ability to offer paid educational courses directly on the platform, expanding monetization opportunities and educational content availability.",
+            "Title": "Google Search Now Supports AVIF Image File Types",
+            "Category": "SEO & Search Engine Updates",
+            "Description": "Google Search has officially added support for AVIF image file types. While this doesn't offer an immediate SEO boost, it's recommended to implement changes cautiously and ensure proper redirects from old image formats.",
             "Links": [
-                "https://twitter.com/aleyda/status/1830557795202003234"
+                "https://twitter.com/rustybrick/status/1830674804560797914",
+                "https://twitter.com/rustybrick/status/1830614406339719486",
+                "https://twitter.com/glenngabe/status/1829865734115057673"
+            ]
+        },
+        {
+            "Title": "Google Testing New Shopping Search Interface on Mobile",
+            "Category": "Ecommerce & Search Engine Updates",
+            "Description": "Google is experimenting with a new shopping search interface on mobile devices. The updated design aims to enhance the user experience and potentially impact product visibility in search results.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830671029624283419",
+                "https://twitter.com/rustybrick/status/1830610631755764126",
+                "https://twitter.com/rustybrick/status/1830569108427125108"
+            ]
+        },
+        {
+            "Title": "Google Ads Introduces Product Category-Level Insights",
+            "Category": "Paid Advertising & Analytics",
+            "Description": "Google Ads has rolled out product category-level insights, providing advertisers with more granular data and analysis for their campaigns. This feature allows for better understanding of performance trends and optimization opportunities within specific product categories.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830667254607859785",
+                "https://twitter.com/rustybrick/status/1830566591416999949"
+            ]
+        },
+        {
+            "Title": "Google Search Tests Accordion UX for \"You Visit Often\" Sites",
+            "Category": "Search Engine Updates & User Experience",
+            "Description": "Google is testing an accordion-style user experience for websites frequently visited by users in search results. This change replaces the previous label-based approach and aims to improve the visual presentation and interaction with these sites.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830663479377682721",
+                "https://twitter.com/rustybrick/status/1830603081991819568",
+                "https://twitter.com/rustybrick/status/1830564074368770127"
+            ]
+        },
+        {
+            "Title": "Reddit's Visibility Soars in Google Search After August 2024 Core Update",
+            "Category": "SEO & Search Engine Updates",
+            "Description": "Reddit has emerged as the third most visible site in Google's U.S. search results following the recent August 2024 core update. This surge in visibility raises questions about the update's impact on platform rankings and potential conflicts of interest due to Google's investment in Reddit.",
+            "Links": [
+                "https://www.webpronews.com/reddits-seo-surge-the-unintended-consequences-of-googles-august-2024-core-update/"
+            ]
+        },
+        {
+            "Title": "Google Discover Impacted by Core Updates, Confirms John Mueller",
+            "Category": "SEO & Search Engine Updates",
+            "Description": "Google's John Mueller has confirmed that Google Discover, the content recommendation feed, is indeed affected by core algorithm updates. This revelation sheds light on the factors influencing content visibility and performance within Discover.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830306064643817836"
+            ]
+        },
+        {
+            "Title": "Google's AI Products, Including Search AI Overviews and Gemini, to Remain Neutral on Election-Related Topics",
+            "Category": "AI & Search Engine Updates",
+            "Description": "In the lead-up to the US elections, Google has announced that its AI-powered products, including Search AI Overviews and Gemini image generation, will not respond to or engage with election-related topics. This decision aims to prevent potential bias or manipulation of information during the sensitive election period.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1829863458529321311"
             ]
         }
     ],
-    "date": "2024-09-02"
+    "date": "2024-09-03"
 }
