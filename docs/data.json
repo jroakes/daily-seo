@@ -1,19 +1,19 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Completes",
+            "Title": "Google August 2024 Core Update Rollout Complete",
             "Category": "Search Engine Optimization",
-            "Description": "Google has confirmed that the August 2024 core update has finished rolling out, taking 19 days to complete.  Analysis of the update suggests that while some sites experienced recoveries from previous updates, many saw little change or further negative impact.",
+            "Description": "Google has confirmed that the August 2024 core update has finished rolling out, taking 19 days to complete. The update was expected to take a month but ended up taking less than 3 weeks to roll out.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-august-core-update-rollout-completed/526070/",
-                "https://twitter.com/glenngabe/status/1830953328685076778",
-                "https://twitter.com/rustybrick/status/1831298916601462817"
+                "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
+                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
             ]
         },
         {
-            "Title": "Google Trends Email Subscriptions Ending October 29th",
+            "Title": "Google Trends Email Subscriptions to End October 29th",
             "Category": "Search Engine Optimization",
-            "Description": "Google has announced that email subscriptions for Google Trends will be discontinued on October 29, 2024. Users will no longer be able to create new trend alerts or receive updates for existing ones.",
+            "Description": "Google Trends will discontinue its email subscription option for trend notifications starting October 29, 2024. Users will no longer be able to create new trend alerts or receive existing ones.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830973019633950770",
                 "https://twitter.com/rustybrick/status/1830931495709454574",
@@ -21,9 +21,9 @@
             ]
         },
         {
-            "Title": "Bing Enhances Featured Snippets and Knowledge Panels with Interactive Animation",
+            "Title": "Bing Introduces Interactive Animation for Featured Snippets and Knowledge Panels",
             "Category": "Search Engine Optimization",
-            "Description": "Bing Search has introduced a new interactive animation for featured snippets and knowledge panels. When users hover over the table of contents, the corresponding section within the answer box is highlighted.",
+            "Description": "Microsoft's Bing Search introduces an interactive animation for featured snippets and knowledge panels. Hovering over the table of contents highlights the corresponding section within the answer box.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830969244588147139",
                 "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
@@ -32,50 +32,24 @@
         {
             "Title": "Google Tests New Map Pin Design",
             "Category": "Search Engine Optimization",
-            "Description": "Google is experimenting with a new design for map pins in its search results.",
+            "Description": "Google tests new map pin design",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830965469924446582"
             ]
         },
         {
-            "Title": "Google's \"View Simplified Page\" Option: A Red Flag for Poor User Experience?",
-            "Category": "Search Engine Optimization",
-            "Description": "Glenn Gabe suggests that the appearance of Google's \"View simplified page\" option in search results could indicate a poor user experience on the linked page. Website owners are advised to investigate if their pages trigger this feature.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830945589216903478"
-            ]
-        },
-        {
-            "Title": "Tracking Google's AI Overviews: A Challenge for SEOs",
-            "Category": "Search Engine Optimization",
-            "Description": "Glenn Gabe highlights the difficulties in tracking Google's AI Overviews, as search results for the same query can differ significantly based on browsing mode (logged in, incognito, Search Labs).",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830941412017274943"
-            ]
-        },
-        {
-            "Title": "Understanding YouTube's Algorithm: Key Factors and Best Practices",
-            "Category": "Online Video",
-            "Description": "Glenn Gabe recommends YouTube videos that offer insights into the platform's algorithm, covering aspects such as categories, tags, upload frequency, video descriptions, and embedded videos.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1830937593774535141",
-                "https://www.seroundtable.com/youtube-algorithm-seo-questions-38003.html"
-            ]
-        },
-        {
             "Title": "Google Search Now Supports AVIF Image File Types",
             "Category": "Search Engine Optimization",
-            "Description": "Google Search has added support for AVIF image file types. However, using AVIF images does not provide any inherent SEO boost.",
+            "Description": "Google Search now supports AVIF image file types after much anticipation and wait.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830674804560797914",
-                "https://twitter.com/rustybrick/status/1830614406339719486",
-                "https://twitter.com/rustybrick/status/1830571624237560184"
+                "https://twitter.com/rustybrick/status/1830614406339719486"
             ]
         },
         {
             "Title": "Google Testing New Shopping Search Interface on Mobile",
             "Category": "Ecommerce",
-            "Description": "Google is conducting tests for a new shopping search interface on mobile devices.",
+            "Description": "Google is testing a new shopping search interface on mobile.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830671029624283419",
                 "https://twitter.com/rustybrick/status/1830610631755764126",
@@ -83,9 +57,18 @@
             ]
         },
         {
-            "Title": "Google Ads Introduces Product Category-Level Insights",
-            "Category": "Advertising",
-            "Description": "Google Ads has rolled out product category-level insights, providing advertisers with more granular data.",
+            "Title": "Google Analytics 4 Benchmarking Data and Reports Now Available",
+            "Category": "Web Analytics",
+            "Description": "Google Analytics 4 benchmarking data and reports are now available.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830678579010490525",
+                "https://twitter.com/rustybrick/status/1830618181549109278"
+            ]
+        },
+        {
+            "Title": "Google Ads Product Category-Level Insights Released",
+            "Category": "Paid Advertising",
+            "Description": "Google Ads product category-level insights have been released.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830667254607859785",
                 "https://twitter.com/rustybrick/status/1830606857339359295",
@@ -93,9 +76,9 @@
             ]
         },
         {
-            "Title": "Google Search Experiments with Accordion UX for \"You Visit Often\" Section",
+            "Title": "Google Search Testing Accordion User Experience for \"You Visit Often\"",
             "Category": "Search Engine Optimization",
-            "Description": "Google is testing an accordion-style user experience for the \"You visit often\" section in search results, replacing the previous label-based design.",
+            "Description": "Google Search is testing an accordion user experience, instead of a label, for \"you visit often.\"",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830663479377682721",
                 "https://twitter.com/rustybrick/status/1830603081991819568",
@@ -103,67 +86,45 @@
             ]
         },
         {
-            "Title": "Google Analytics 4 Enhances Benchmarking with New Data and Reports",
-            "Category": "Web Analytics",
-            "Description": "Google Analytics 4 (GA4) users now have access to new benchmarking data and reports, providing deeper insights into website performance.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1830678579010490525",
-                "https://twitter.com/rustybrick/status/1830618181549109278",
-                "https://twitter.com/rustybrick/status/1830574140870344769"
-            ]
-        },
-        {
-            "Title": "Reddit's Visibility Soars in Google Search Results",
+            "Title": "Google Updates Canonical Documentation: Don't Specify a Fragment URL",
             "Category": "Search Engine Optimization",
-            "Description": "Reddit has climbed to become the third most visible site in Google's U.S. search results, trailing only Wikipedia and Amazon. This surge has sparked discussions about the factors behind Reddit's rise and its implications for SEO.",
+            "Description": "Google updates its canonical documentation to say \"Don't specify a fragment URL as canonical, as Google generally doesn't support fragment URLs.\"",
             "Links": [
-                "https://www.webpronews.com/reddits-seo-surge-the-unintended-consequences-of-googles-august-2024-core-update/"
-            ]
-        },
-        {
-            "Title": "Search Engine Roundtable (SER) Impacted by Recent Google Algorithm Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Search Engine Roundtable (SER) has confirmed that their site was affected by recent Google algorithm updates.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1831085778300219599"
-            ]
-        },
-        {
-            "Title": "Google Updates Canonical Documentation: Fragment URLs Not Supported",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has revised its canonical documentation to clarify that fragment URLs are not supported. Website owners should avoid specifying fragment URLs as canonical.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1831296400090391003"
+                "https://twitter.com/rustybrick/status/1831296400090391003",
+                "https://twitter.com/rustybrick/status/1831339181915648032"
             ]
         },
         {
             "Title": "Google Business Profiles Q&A Feature Disabled in India",
             "Category": "Local Search",
-            "Description": "The Q&A feature within Google Business Profiles appears to be disabled for users in India. It remains unclear whether this is a temporary bug, a permanent change, or a test for a potential wider rollout.",
+            "Description": "The Google Business Profiles Q&A feature is reportedly disabled in India.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831293883491192855"
+                "https://twitter.com/rustybrick/status/1831293883491192855",
+                "https://twitter.com/rustybrick/status/1831335407029485919"
             ]
         },
         {
-            "Title": "Microsoft Advertising Announces Five New Features for Search Ads",
-            "Category": "Advertising",
-            "Description": "Microsoft Advertising has unveiled five new features specifically designed for search ads, aiming to enhance campaign performance and targeting capabilities.",
+            "Title": "Microsoft Advertising Announces 5 New Features",
+            "Category": "Paid Advertising",
+            "Description": "Microsoft Advertising has announced 5 new features, with a focus on search ads.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831291366804013308"
+                "https://twitter.com/rustybrick/status/1831291366804013308",
+                "https://twitter.com/rustybrick/status/1831331632646606849"
             ]
         },
         {
-            "Title": "Google Image Search Refines \"From This Image\" Functionality",
+            "Title": "Google Image Search \"From This Image\" Refinement Released",
             "Category": "Search Engine Optimization",
-            "Description": "Google has implemented refinements to the \"from this image\" feature within Google Image Search, potentially improving the accuracy and relevance of results.",
+            "Description": "Google has released a refinement for its \"from this image\" image search feature.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831288850477375974"
+                "https://twitter.com/rustybrick/status/1831288850477375974",
+                "https://twitter.com/rustybrick/status/1831327857294848185"
             ]
         },
         {
-            "Title": "Google Analytics 4 (GA4) Report Update: Visualize Up to 5 Rows of Data in Detail Reports",
+            "Title": "GA4 Report Update: Visualize Up to 5 Rows of Data in Detail Reports",
             "Category": "Web Analytics",
-            "Description": "GA4 users can now visualize up to five rows of data directly within their detail reports using the new \"plot rows\" functionality.",
+            "Description": "GA4 report update - You can now visualize up to 5 rows of data directly within your detail reports using plot rows.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831267057519763829"
             ]
