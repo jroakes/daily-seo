@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Rollout Complete",
-            "Category": "Search Engine Optimization",
+            "Title": "Google August 2024 Core Update Completed",
+            "Category": "Search Engines",
             "Description": "Google has confirmed that the August 2024 core update has finished rolling out, taking 19 days to complete. The update was expected to take a month but ended up taking less than 3 weeks to roll out.",
             "Links": [
                 "https://www.searchenginejournal.com/googles-august-core-update-rollout-completed/526070/",
-                "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
-                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
+                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225",
+                "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html"
             ]
         },
         {
-            "Title": "Google Trends Email Subscriptions to End October 29th",
-            "Category": "Search Engine Optimization",
+            "Title": "Google Trends Email Subscriptions to End",
+            "Category": "Search Engines",
             "Description": "Google Trends will discontinue its email subscription option for trend notifications starting October 29, 2024. Users will no longer be able to create new trend alerts or receive existing ones.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830973019633950770",
@@ -22,8 +22,8 @@
         },
         {
             "Title": "Bing Introduces Interactive Animation for Featured Snippets and Knowledge Panels",
-            "Category": "Search Engine Optimization",
-            "Description": "Microsoft's Bing Search introduces an interactive animation for featured snippets and knowledge panels. Hovering over the table of contents highlights the corresponding section within the answer box.",
+            "Category": "Search Engines",
+            "Description": "Microsoft's Bing Search has introduced an interactive animation for featured snippets and knowledge panels. Hovering over the table of contents highlights the corresponding section within the answer box.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830969244588147139",
                 "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
@@ -31,25 +31,42 @@
         },
         {
             "Title": "Google Tests New Map Pin Design",
-            "Category": "Search Engine Optimization",
-            "Description": "Google tests new map pin design",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with a new design for map pins in its search results.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830965469924446582"
             ]
         },
         {
+            "Title": "Google's \"View Simplified Page\" Option: A Red Flag for Poor User Experience?",
+            "Category": "Search Engines",
+            "Description": "Glenn Gabe highlights Google's \"View simplified page\" option in search results as a potential indicator of poor user experience, urging website owners to investigate if their pages trigger this feature.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1830945589216903478"
+            ]
+        },
+        {
+            "Title": "Tracking Google's AI Overviews: A Challenge Across Browsing Modes",
+            "Category": "Search Engines",
+            "Description": "Glenn Gabe discusses the difficulties of tracking Google's AI Overviews, showing how search results for the same query can differ significantly across logged-in, incognito, and Search Labs browsing modes.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1830941412017274943"
+            ]
+        },
+        {
             "Title": "Google Search Now Supports AVIF Image File Types",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search now supports AVIF image file types after much anticipation and wait.",
+            "Category": "Search Engines",
+            "Description": "Google Search has added support for AVIF image file types, a next-generation image format known for its improved compression and quality compared to older formats like JPEG and PNG.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830674804560797914",
-                "https://twitter.com/rustybrick/status/1830614406339719486"
+                "https://twitter.com/rustybrick/status/1830614406339719486",
+                "https://twitter.com/rustybrick/status/1830571624237560184"
             ]
         },
         {
             "Title": "Google Testing New Shopping Search Interface on Mobile",
-            "Category": "Ecommerce",
-            "Description": "Google is testing a new shopping search interface on mobile.",
+            "Category": "Search Engines",
+            "Description": "Google is experimenting with a new interface for shopping-related searches on mobile devices. The updated design aims to provide a more visually appealing and user-friendly experience for shoppers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830671029624283419",
                 "https://twitter.com/rustybrick/status/1830610631755764126",
@@ -57,18 +74,9 @@
             ]
         },
         {
-            "Title": "Google Analytics 4 Benchmarking Data and Reports Now Available",
-            "Category": "Web Analytics",
-            "Description": "Google Analytics 4 benchmarking data and reports are now available.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1830678579010490525",
-                "https://twitter.com/rustybrick/status/1830618181549109278"
-            ]
-        },
-        {
-            "Title": "Google Ads Product Category-Level Insights Released",
-            "Category": "Paid Advertising",
-            "Description": "Google Ads product category-level insights have been released.",
+            "Title": "Google Ads Introduces Product Category-Level Insights",
+            "Category": "Advertising",
+            "Description": "Google Ads has rolled out product category-level insights, providing advertisers with more granular data and analysis for specific product categories within their campaigns.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830667254607859785",
                 "https://twitter.com/rustybrick/status/1830606857339359295",
@@ -76,9 +84,9 @@
             ]
         },
         {
-            "Title": "Google Search Testing Accordion User Experience for \"You Visit Often\"",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is testing an accordion user experience, instead of a label, for \"you visit often.\"",
+            "Title": "Google Search Experiments with Accordion UX for \"You Visit Often\" Section",
+            "Category": "Search Engines",
+            "Description": "Google is testing an accordion-style user experience for the \"You Visit Often\" section in search results, replacing the previous label-based design. This change aims to improve the organization and readability of frequently visited sites.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1830663479377682721",
                 "https://twitter.com/rustybrick/status/1830603081991819568",
@@ -86,47 +94,85 @@
             ]
         },
         {
-            "Title": "Google Updates Canonical Documentation: Don't Specify a Fragment URL",
-            "Category": "Search Engine Optimization",
-            "Description": "Google updates its canonical documentation to say \"Don't specify a fragment URL as canonical, as Google generally doesn't support fragment URLs.\"",
+            "Title": "Google Analytics 4 Introduces Benchmarking Data and Reports",
+            "Category": "Analytics",
+            "Description": "Google Analytics 4 (GA4) now offers benchmarking data and reports, allowing users to compare their website's performance against industry averages and competitors.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1830678579010490525",
+                "https://twitter.com/rustybrick/status/1830618181549109278",
+                "https://twitter.com/rustybrick/status/1830574140870344769"
+            ]
+        },
+        {
+            "Title": "Google Updates Canonical Documentation: No Fragment URLs",
+            "Category": "Search Engines",
+            "Description": "Google has revised its canonical documentation to clarify that fragment URLs should not be specified as canonical. The updated guidance states that Google generally does not support fragment URLs for canonicalization.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831296400090391003",
-                "https://twitter.com/rustybrick/status/1831339181915648032"
+                "https://twitter.com/rustybrick/status/1831339181915648032",
+                "https://twitter.com/rustybrick/status/1831399579893276735"
             ]
         },
         {
-            "Title": "Google Business Profiles Q&A Feature Disabled in India",
-            "Category": "Local Search",
-            "Description": "The Google Business Profiles Q&A feature is reportedly disabled in India.",
+            "Title": "Google Business Profiles Q&A Feature Disabled in India?",
+            "Category": "Search Engines",
+            "Description": "Users in India are reporting issues with the Google Business Profiles Q&A feature, suggesting that it may have been disabled in the region. It remains unclear whether this is a temporary bug, a permanent change, or a test for a wider rollout.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831293883491192855",
-                "https://twitter.com/rustybrick/status/1831335407029485919"
+                "https://twitter.com/rustybrick/status/1831335407029485919",
+                "https://twitter.com/rustybrick/status/1831395805271617884"
             ]
         },
         {
-            "Title": "Microsoft Advertising Announces 5 New Features",
-            "Category": "Paid Advertising",
-            "Description": "Microsoft Advertising has announced 5 new features, with a focus on search ads.",
+            "Title": "Microsoft Advertising Announces Updates",
+            "Category": "Advertising",
+            "Description": "Microsoft Advertising has released a series of updates, with a particular focus on search ads. The updates aim to enhance campaign performance, targeting options, and reporting capabilities for advertisers.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831291366804013308",
-                "https://twitter.com/rustybrick/status/1831331632646606849"
+                "https://twitter.com/rustybrick/status/1831331632646606849",
+                "https://twitter.com/rustybrick/status/1831392030532235695"
             ]
         },
         {
-            "Title": "Google Image Search \"From This Image\" Refinement Released",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has released a refinement for its \"from this image\" image search feature.",
+            "Title": "Google Image Search Enhances \"From This Image\" Refinement",
+            "Category": "Search Engines",
+            "Description": "Google has refined its \"from this image\" functionality within Google Image Search, improving the accuracy and relevance of results when users search using an image as input.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831288850477375974",
-                "https://twitter.com/rustybrick/status/1831327857294848185"
+                "https://twitter.com/rustybrick/status/1831327857294848185",
+                "https://twitter.com/rustybrick/status/1831388255318671825"
             ]
         },
         {
             "Title": "GA4 Report Update: Visualize Up to 5 Rows of Data in Detail Reports",
-            "Category": "Web Analytics",
-            "Description": "GA4 report update - You can now visualize up to 5 rows of data directly within your detail reports using plot rows.",
+            "Category": "Analytics",
+            "Description": "Google Analytics 4 (GA4) has updated its reporting features, allowing users to visualize up to 5 rows of data directly within their detail reports using the new \"plot rows\" functionality.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831267057519763829"
+            ]
+        },
+        {
+            "Title": "SEO Poisoning and VPN Spoofing Used to Spread WikiLoader Malware",
+            "Category": "Cybersecurity",
+            "Description": "Cybercriminals are using a combination of SEO poisoning and VPN spoofing techniques to distribute the WikiLoader malware. The attacks involve manipulating search engine results and impersonating legitimate VPN services to trick users into downloading malicious files.",
+            "Links": [
+                "https://www.techradar.com/pro/vpn/seo-poisoning-and-vpn-spoofing-used-to-target-anything-and-everything-with-wikiloader-malware"
+            ]
+        },
+        {
+            "Title": "Snapchat Expands Ad Opportunities with Sponsored Snaps",
+            "Category": "Advertising",
+            "Description": "Snapchat is introducing \"Sponsored Snaps,\" a new ad format that appears in users' chat inboxes without push notifications. This non-intrusive approach allows advertisers to engage with users in a more subtle and organic way.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1831308364808171933"
+            ]
+        },
+        {
+            "Title": "Circle to Search Adds Song Finder and Gemini-Powered TalkBack",
+            "Category": "Search Engines",
+            "Description": "Circle to Search, a visual search tool, is getting new features, including a song finder and Gemini-powered TalkBack functionality. These additions aim to enhance the search experience and provide more interactive results.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1831299961712955489"
             ]
         }
     ],
