@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Completed",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update is complete, and few websites saw full recoveries. Some experienced small recoveries, but most saw no change or even further declines. The update's impact is analyzed with volatility charts and insights from the SEO community. The update finished rolling out on September 3rd, taking 19 days to complete.",
+            "Title": "Google August 2024 Core Update Complete",
+            "Category": "Search Engines",
+            "Description": "Google's August 2024 core update is complete, and few websites saw full recoveries. Some experienced small recoveries, but most saw no change or even further declines. The update's impact is analyzed with volatility charts and insights from the SEO community.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831298916601462817",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
@@ -11,8 +11,8 @@
             ]
         },
         {
-            "Title": "Sites surging or dropping AFTER the Google August 2024 core update",
-            "Category": "Search Engine Optimization",
+            "Title": "Sites Fluctuate After Google August 2024 Core Update",
+            "Category": "Search Engines",
             "Description": "Observations on how websites are performing after the completion of Google's August 2024 core update. Some sites are continuing to surge or drop in rankings, and the fluctuations are being monitored closely.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1831304569927651729"
@@ -20,31 +20,15 @@
         },
         {
             "Title": "Google's Handling of Canonical Tags",
-            "Category": "Search Engine Optimization",
-            "Description": "A recent test revealed that Google might completely ignore canonical tags in certain situations. This finding, based on a Google documentation update, highlights the importance of careful canonical tag implementation. Google updated its canonical documentation to say \"Don't specify a fragment URL as canonical, as Google generally doesn't support fragment URLs.\"",
+            "Category": "Search Engines",
+            "Description": "A recent test revealed that Google might completely ignore canonical tags in certain situations. This finding, based on a Google documentation update, highlights the importance of careful canonical tag implementation.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1831303451290034345",
                 "https://twitter.com/rustybrick/status/1831296400090391003"
             ]
         },
         {
-            "Title": "Tips for Internal and External Page Links",
-            "Category": "Search Engine Optimization",
-            "Description": "Links remain critical to search engine optimization despite confusion and suggestions otherwise.",
-            "Links": [
-                "https://www.practicalecommerce.com/tips-for-internal-and-external-page-links"
-            ]
-        },
-        {
-            "Title": "Googler's Tip About Favicons Can Make A Big Difference",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller offered a tip for optimizing favicons that isn't officially documented but could improve their impact",
-            "Links": [
-                "https://www.searchenginejournal.com/googlers-tip-about-favicons-can-make-a-big-difference/525979/"
-            ]
-        },
-        {
-            "Title": "Google \"from this image\" image search refinement",
+            "Title": "Google Refines Image Search with \"from this image\" Feature",
             "Category": "Search Engines",
             "Description": "Google has updated its image search with a \"from this image\" refinement feature.",
             "Links": [
@@ -52,7 +36,7 @@
             ]
         },
         {
-            "Title": "Circle to Search adds song finder and Gemini-powered TalkBack coming",
+            "Title": "Circle to Search Adds Song Finder, Gemini-Powered TalkBack Coming Soon",
             "Category": "Search Engines",
             "Description": "Circle to Search, a search tool, is getting an upgrade with a new song finder feature and upcoming Gemini-powered TalkBack functionality.",
             "Links": [
@@ -60,7 +44,23 @@
             ]
         },
         {
-            "Title": "Emerging search engines challenge Google, Bing with AI advances",
+            "Title": "Bing Introduces Knowledge Panel & Featured Snippet Table of Contents Animation",
+            "Category": "Search Engines",
+            "Description": "Microsoft recently added an animation or highlight effect on its featured answers or knowledge panels at the top of its Bing Search results. When you hover your mouse over the table of content on the left side, the section it corresponds to in the answer, will expand.",
+            "Links": [
+                "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
+            ]
+        },
+        {
+            "Title": "Google's John Mueller Offers Favicon Optimization Tip",
+            "Category": "Search Engines",
+            "Description": "Google's John Mueller offered a tip for optimizing favicons that isn't officially documented but could improve their impact",
+            "Links": [
+                "https://www.searchenginejournal.com/googlers-tip-about-favicons-can-make-a-big-difference/525979/"
+            ]
+        },
+        {
+            "Title": "Emerging Search Engines Challenge Google and Bing with AI",
             "Category": "Search Engines",
             "Description": "Explore how emerging search engines are leveraging AI technology to challenge the dominance of Google and Bing in the online search industry.",
             "Links": [
@@ -68,143 +68,15 @@
             ]
         },
         {
-            "Title": "Snapchat's Adding Sponsored Snaps to Expands Its Ad Opportunities",
-            "Category": "Social Media",
-            "Description": "Snapchat is adding sponsored snaps to its platform, expanding its advertising opportunities. The sponsored snaps will appear in the chat inbox as a new snap without a push notification, and opening the message is optional.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831308364808171933"
-            ]
-        },
-        {
-            "Title": "How publishers are experimenting with Reddit \u2014 even without a formal publisher program",
-            "Category": "Social Media",
-            "Description": "While it hasn\u2019t formally launched a publisher program, over the last 18 months Reddit has been steadily rolling out products and resources aimed at courting media companies to increase their presence on the platform.",
-            "Links": [
-                "https://digiday.com/media/publishers-share-tips-for-experimenting-with-reddit/"
-            ]
-        },
-        {
-            "Title": "Digiday+ Research: Pinterest surpasses X when it comes to brands' usage of UGC-focused social platforms",
-            "Category": "Social Media",
-            "Description": "X has historically been dominant among UGC-focused social platforms, but Digiday+ Research surveys have found that, this year, Pinterest has passed X in brand usage for the first time \u2014 and brand and retailer ad spend on Pinterest is higher than on X, too.",
-            "Links": [
-                "https://digiday.com/marketing/digiday-research-pinterest-surpasses-x-when-it-comes-to-brands-usage-of-ugc-focused-social-platforms/"
-            ]
-        },
-        {
-            "Title": "Madison and Wall forecast $397 billion in 2024 ad spend",
-            "Category": "Advertising",
-            "Description": "However, despite their rhetoric, marketers are emphasizing 'performance' over quality content.",
-            "Links": [
-                "https://digiday.com/media/madison-and-wall-forecast-397-billion-in-2024-ad-spend/"
-            ]
-        },
-        {
-            "Title": "Attention metrics step forward in guidelines \u2014 as their value is questioned",
-            "Category": "Advertising",
-            "Description": "The burgeoning field of attention metrics, which has made some progress in being used by more publishers, brands and agencies in the pursuit of reaching consumers more effectively, has to be happy about the fact that accreditation could bring an added level of legitimacy to their offerings.",
-            "Links": [
-                "https://digiday.com/media-buying/attention-metrics-step-forward-in-guidelines-as-their-value-is-questioned/"
-            ]
-        },
-        {
-            "Title": "Why Sam\u2019s Club's ad platform is banking on member data to attract advertisers",
-            "Category": "Advertising",
-            "Description": "With an estimated 600 locations in the U.S., size and scale are what Sam\u2019s Club Member Access Platform (MAP), the company\u2019s retail access and ad platform, is banking on to draw in advertisers.",
-            "Links": [
-                "https://digiday.com/podcasts/why-sams-clubs-ad-platform-is-banking-on-member-data-to-attract-advertisers/"
-            ]
-        },
-        {
-            "Title": "What do advertisers want from Tubi in the U.K.?",
-            "Category": "Advertising",
-            "Description": "Execs there are currently in full market-scout mode, meeting a few key players and figuring out how to stand out in an arena bursting at the seams with options.",
-            "Links": [
-                "https://digiday.com/marketing/what-do-advertisers-want-from-tubi-in-the-u-k/"
-            ]
-        },
-        {
-            "Title": "SEO poisoning and VPN spoofing used to target anything and everything with WikiLoader malware",
-            "Category": "Cybersecurity",
-            "Description": "Palo Alto saw its VPN tool being spoofed to spread malware",
-            "Links": [
-                "https://www.techradar.com/pro/vpn/seo-poisoning-and-vpn-spoofing-used-to-target-anything-and-everything-with-wikiloader-malware"
-            ]
-        },
-        {
-            "Title": "Bing Knowledge Panel & Featured Snippet Table Of Contents Animation",
-            "Category": "User Interface",
-            "Description": "Microsoft recently added an animation or highlight effect on its featured answers or knowledge panels at the top of its Bing Search results. When you hover your mouse over the table of content on the left side, the section it corresponds to in the answer, will expand.",
-            "Links": [
-                "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
-            ]
-        },
-        {
-            "Title": "Summer 2024: Affiliate and SEO analysis of US online gambling market",
-            "Category": "Marketing",
-            "Description": "Online Gambling Quarterly provides a segment-specific breakdown of US online gambling operators' affiliate and SEO activities",
-            "Links": [
-                "https://www.egr.global/northamerica/insight/summer-2024-affiliate-and-seo-analysis-of-us-online-gambling-market/"
-            ]
-        },
-        {
-            "Title": "YouTube Algorithm & SEO Questions Answered",
-            "Category": "Marketing",
-            "Description": "A few months ago, we posted some answers about how YouTube ranking is affected by various variables and factors - YouTube SEO questions and answers, if you will. Well, the YouTube Liaison posted a number of short video answers around the YouTube algorithm and YouTube SEO over the past week that I wanted to share.",
-            "Links": [
-                "https://www.seroundtable.com/youtube-algorithm-seo-questions-38003.html"
-            ]
-        },
-        {
-            "Title": "Media Buying Briefing: Why indie agency Langrand tilts against consultancies, rather than fellow agencies, to help clients transform",
-            "Category": "Marketing",
-            "Description": "Houston-based Langrand pits itself against the consultancies of the world \u2014 the McKinseys and Accentures and BCGs \u2014 as much as it does other agencies.",
-            "Links": [
-                "https://digiday.com/media-buying/media-buying-briefing-why-indie-agency-langrand-tilts-against-consultancies-rather-than-fellow-agencies-to-help-clients-transform/"
-            ]
-        },
-        {
-            "Title": "CMO Strategies: eBay, Hyundai, Duolingo and other advertisers share key tactics for marketing channels",
-            "Category": "Marketing",
-            "Description": "This is a bonus behind-the-scenes look at our conversations with executives for Digiday's CMO Strategies series. In this report, Hyundai, eBay, Duolingo and other advertisers share their current marketing strategies within four key media channels: social media, retail media, display ads and ad-supported streaming.",
-            "Links": [
-                "https://digiday.com/marketing/cmo-strategies-ebay-hyundai-duolingo-and-other-advertisers-share-key-tactics-for-marketing-channels/"
-            ]
-        },
-        {
-            "Title": "The cases for and against the CMO role",
-            "Category": "Marketing",
-            "Description": "The answer depends on your vantage point. Gap is bringing back the CMO role after a two-year break, while Hyundai is choosing to phase it out. With the CMO under the spotlight once more, let\u2019s dive into the pros and cons to see why a top marketer can be an invaluable asset for some companies and an outdated figurehead for others.",
-            "Links": [
-                "https://digiday.com/marketing/the-cases-for-and-against-the-cmo/"
-            ]
-        },
-        {
-            "Title": "'The big opportunity with GenAI is the holy grail of all marketing: one-to-one client engagement at scale'",
-            "Category": "Marketing",
-            "Description": "MyMai\u2019s Michael Idinopulos discusses how law firms and business development teams can use AI to increase opportunity generation",
-            "Links": [
-                "https://www.globallegalpost.com/news/the-big-opportunity-with-genai-is-the-holy-grail-of-all-marketing-one-to-one-client-engagement-at-scale-1490930332"
-            ]
-        },
-        {
-            "Title": "What are the results of putting into practice the advice of 'AI optimization (AIO)' that modifies the output of AI like SEO?",
+            "Title": "Will ChatGPT Replace Google? The Future of Search",
             "Category": "Artificial Intelligence",
-            "Description": "Due to the decline in search accuracy caused by search engine optimization (SEO) and the development of AI, an increasing number of Internet users are turning to chatbots rather than search engines to find information. The New York Times reported on the results of a user following the instructions of a startup that specializes in 'artificial intelligence optimization (AIO),' which conveniently alters the evaluations of people and products output by AI.",
+            "Description": "A deep dive into how AI is disrupting search engines and its impact on SEO, digital marketing and the future of information access.",
             "Links": [
-                "http://gigazine.net/gsc_news/en/20240902-ai-chatbot-aio/"
+                "https://searchengineland.com/will-chatgpt-be-the-new-google-446223"
             ]
         },
         {
-            "Title": "AI Briefing: How state governments and businesses are addressing AI deepfakes",
-            "Category": "Artificial Intelligence",
-            "Description": "New state laws and new tools from cybersecurity firms both aim to help mitigate the risks of AI content and deepfakes in this election season.",
-            "Links": [
-                "https://digiday.com/media/ai-briefing-how-governments-and-businesses-are-addressing-ai-deepfake/"
-            ]
-        },
-        {
-            "Title": "\u201cIs SEO Dead?\u201d Why AI Isn\u2019t the End of Law Firm Marketing",
+            "Title": "Is SEO Dead? AI's Impact on Law Firm Marketing",
             "Category": "Artificial Intelligence",
             "Description": "With the emergence of Artificial Intelligence (AI) technology, many business owners have feared that marketing as we know it is coming to an end. After all, Google Gemini is routinely surfacing AI-generated responses over organic search results, AI content is abundant, and AI-driven tools are being used more than ever to automate tasks previously performed by human marketers.",
             "Links": [
@@ -212,19 +84,147 @@
             ]
         },
         {
-            "Title": "Marketing Briefing: Why holding companies are taking a 'platform' approach to pitch more cohesively",
-            "Category": "Business",
-            "Description": "Structure shifts like Omnicom\u2019s recent move have become commonplace at holding companies in recent years.",
+            "Title": "The Impact of \"AI Optimization (AIO)\" on AI Output",
+            "Category": "Artificial Intelligence",
+            "Description": "Due to the decline in search accuracy caused by search engine optimization (SEO) and the development of AI, an increasing number of Internet users are turning to chatbots rather than search engines to find information. The New York Times reported on the results of a user following the instructions of a startup that specializes in 'artificial intelligence optimization (AIO),' which conveniently alters the evaluations of people and products output by AI.",
             "Links": [
-                "https://digiday.com/marketing/marketing-briefing-why-holding-companies-are-taking-a-platform-approach-to-pitch-more-cohesively/"
+                "http://gigazine.net/gsc_news/en/20240902-ai-chatbot-aio/"
             ]
         },
         {
-            "Title": "I won $400 in free Amazon gift cards by surfing online and playing video games",
+            "Title": "Snapchat Expands Ad Opportunities with Sponsored Snaps",
+            "Category": "Social Media",
+            "Description": "Snapchat is adding sponsored snaps to its platform, expanding its advertising opportunities. The sponsored snaps will appear in the chat inbox as a new snap without a push notification, and opening the message is optional.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1831308364808171933"
+            ]
+        },
+        {
+            "Title": "Publishers Experiment with Reddit Despite Lack of Formal Program",
+            "Category": "Social Media",
+            "Description": "While it hasn\u2019t formally launched a publisher program, over the last 18 months Reddit has been steadily rolling out products and resources aimed at courting media companies to increase their presence on the platform.",
+            "Links": [
+                "https://digiday.com/media/publishers-share-tips-for-experimenting-with-reddit/"
+            ]
+        },
+        {
+            "Title": "Pinterest Surpasses X in Brand Usage for UGC-Focused Platforms",
+            "Category": "Social Media",
+            "Description": "X has historically been dominant among UGC-focused social platforms, but Digiday+ Research surveys have found that, this year, Pinterest has passed X in brand usage for the first time \u2014 and brand and retailer ad spend on Pinterest is higher than on X, too.",
+            "Links": [
+                "https://digiday.com/marketing/digiday-research-pinterest-surpasses-x-when-it-comes-to-brands-usage-of-ugc-focused-social-platforms/"
+            ]
+        },
+        {
+            "Title": "SEO Poisoning and VPN Spoofing Target Users with WikiLoader Malware",
+            "Category": "Cybersecurity",
+            "Description": "Palo Alto saw its VPN tool being spoofed to spread malware",
+            "Links": [
+                "https://www.techradar.com/pro/vpn/seo-poisoning-and-vpn-spoofing-used-to-target-anything-and-everything-with-wikiloader-malware"
+            ]
+        },
+        {
+            "Title": "Madison and Wall Forecast $397 Billion in 2024 Ad Spend",
+            "Category": "Advertising & Marketing",
+            "Description": "However, despite their rhetoric, marketers are emphasizing 'performance' over quality content.",
+            "Links": [
+                "https://digiday.com/media/madison-and-wall-forecast-397-billion-in-2024-ad-spend/"
+            ]
+        },
+        {
+            "Title": "Attention Metrics Gain Traction Despite Value Questioned",
+            "Category": "Advertising & Marketing",
+            "Description": "The burgeoning field of attention metrics, which has made some progress in being used by more publishers, brands and agencies in the pursuit of reaching consumers more effectively, has to be happy about the fact that accreditation could bring an added level of legitimacy to their offerings.",
+            "Links": [
+                "https://digiday.com/media-buying/attention-metrics-step-forward-in-guidelines-as-their-value-is-questioned/"
+            ]
+        },
+        {
+            "Title": "Tips for Internal and External Page Links for SEO",
+            "Category": "Advertising & Marketing",
+            "Description": "Links remain critical to search engine optimization despite confusion and suggestions otherwise.",
+            "Links": [
+                "https://www.practicalecommerce.com/tips-for-internal-and-external-page-links"
+            ]
+        },
+        {
+            "Title": "YouTube Algorithm & SEO Questions Answered",
+            "Category": "Advertising & Marketing",
+            "Description": "A few months ago, we posted some answers about how YouTube ranking is affected by various variables and factors - YouTube SEO questions and answers, if you will. Well, the YouTube Liaison posted a number of short video answers around the YouTube algorithm and YouTube SEO over the past week that I wanted to share.",
+            "Links": [
+                "https://www.seroundtable.com/youtube-algorithm-seo-questions-38003.html"
+            ]
+        },
+        {
+            "Title": "Langrand Agency Challenges Consultancies, Not Just Other Agencies",
+            "Category": "Advertising & Marketing",
+            "Description": "Houston-based Langrand pits itself against the consultancies of the world \u2014 the McKinseys and Accentures and BCGs \u2014 as much as it does other agencies.",
+            "Links": [
+                "https://digiday.com/media-buying/media-buying-briefing-why-indie-agency-langrand-tilts-against-consultancies-rather-than-fellow-agencies-to-help-clients-transform/"
+            ]
+        },
+        {
+            "Title": "What Advertisers Want from Tubi in the U.K.",
+            "Category": "Advertising & Marketing",
+            "Description": "Execs there are currently in full market-scout mode, meeting a few key players and figuring out how to stand out in an arena bursting at the seams with options.",
+            "Links": [
+                "https://digiday.com/marketing/what-do-advertisers-want-from-tubi-in-the-u-k/"
+            ]
+        },
+        {
+            "Title": "CMO Strategies: eBay, Hyundai, Duolingo and Others Share Key Tactics",
+            "Category": "Advertising & Marketing",
+            "Description": "This is a bonus behind-the-scenes look at our conversations with executives for Digiday's CMO Strategies series. In this report, Hyundai, eBay, Duolingo and other advertisers share their current marketing strategies within four key media channels: social media, retail media, display ads and ad-supported streaming.",
+            "Links": [
+                "https://digiday.com/marketing/cmo-strategies-ebay-hyundai-duolingo-and-other-advertisers-share-key-tactics-for-marketing-channels/"
+            ]
+        },
+        {
+            "Title": "Sam's Club Ad Platform Leverages Member Data to Attract Advertisers",
+            "Category": "Advertising & Marketing",
+            "Description": "With an estimated 600 locations in the U.S., size and scale are what Sam\u2019s Club Member Access Platform (MAP), the company\u2019s retail access and ad platform, is banking on to draw in advertisers.",
+            "Links": [
+                "https://digiday.com/podcasts/why-sams-clubs-ad-platform-is-banking-on-member-data-to-attract-advertisers/"
+            ]
+        },
+        {
+            "Title": "The Pros and Cons of the CMO Role in Today's Market",
+            "Category": "Advertising & Marketing",
+            "Description": "The answer depends on your vantage point. Gap is bringing back the CMO role after a two-year break, while Hyundai is choosing to phase it out. With the CMO under the spotlight once more, let\u2019s dive into the pros and cons to see why a top marketer can be an invaluable asset for some companies and an outdated figurehead for others.",
+            "Links": [
+                "https://digiday.com/marketing/the-cases-for-and-against-the-cmo/"
+            ]
+        },
+        {
+            "Title": "How Law Firms Can Use AI for One-to-One Client Engagement",
+            "Category": "Artificial Intelligence",
+            "Description": "MyMai\u2019s Michael Idinopulos discusses how law firms and business development teams can use AI to increase opportunity generation",
+            "Links": [
+                "https://www.globallegalpost.com/news/the-big-opportunity-with-genai-is-the-holy-grail-of-all-marketing-one-to-one-client-engagement-at-scale-1490930332"
+            ]
+        },
+        {
+            "Title": "Earn Free Amazon Gift Cards with Microsoft Rewards",
             "Category": "Rewards Programs",
             "Description": "MICROSOFT users can unlock free gift cards through everyday activities like surfing the internet and shopping online. Microsoft Rewards is a program that allows users to earn virtual points and red\u2026",
             "Links": [
                 "https://www.the-sun.com/tech/12348789/microsoft-rewards-amazon-gift-cards-bing-charity/"
+            ]
+        },
+        {
+            "Title": "U.S. Online Gambling Market Analysis: Affiliate and SEO Activities",
+            "Category": "Online Gambling",
+            "Description": "Online Gambling Quarterly provides a segment-specific breakdown of US online gambling operators' affiliate and SEO activities",
+            "Links": [
+                "https://www.egr.global/northamerica/insight/summer-2024-affiliate-and-seo-analysis-of-us-online-gambling-market/"
+            ]
+        },
+        {
+            "Title": "State Governments and Businesses Combat AI Deepfakes",
+            "Category": "Artificial Intelligence",
+            "Description": "New state laws and new tools from cybersecurity firms both aim to help mitigate the risks of AI content and deepfakes in this election season.",
+            "Links": [
+                "https://digiday.com/media/ai-briefing-how-governments-and-businesses-are-addressing-ai-deepfake/"
             ]
         }
     ],
