@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Microsoft Partners with StopNCII to Combat Revenge Porn and Deepfakes on Bing",
+            "Title": "Microsoft Partners with StopNCII to Combat Non-Consensual Intimate Images on Bing",
             "Category": "Technology",
-            "Description": "Microsoft is taking steps to address the spread of non-consensual intimate images, including deepfakes, on its Bing search engine. The company has partnered with StopNCII to proactively remove such harmful content using digital hashes provided by victims.",
+            "Description": "Microsoft announced a partnership with StopNCII to proactively remove harmful intimate images and videos from Bing search results. This includes the use of digital hashes to identify and remove non-consensual content, including deepfakes.",
             "Links": [
                 "https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/",
                 "https://www.engadget.com/big-tech/microsoft-joins-coalition-to-scrub-revenge-and-deepfake-porn-from-bing-195316677.html",
@@ -11,9 +11,9 @@
             ]
         },
         {
-            "Title": "Google August 2024 Core Update Completed: Mixed Results Reported",
+            "Title": "Google August 2024 Core Update Completed",
             "Category": "SEO",
-            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations from SEO professionals indicate a mixed bag of results, with some websites experiencing positive ranking improvements while others saw significant drops.",
+            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations suggest a mixed bag of results, with some sites seeing promising gains while others experienced significant ranking drops.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1831403354657902974",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
@@ -21,31 +21,21 @@
             ]
         },
         {
-            "Title": "OpenAI's SearchGPT: Early User Feedback Reveals Limitations",
-            "Category": "AI",
-            "Description": "While OpenAI's SearchGPT prototype shows potential as a Google competitor, early user feedback highlights limitations. Users report difficulties with shopping and local queries, along with instances of inaccurate or fabricated information.",
+            "Title": "SEO Tools Enhance AI Overview Tracking and Analysis",
+            "Category": "SEO",
+            "Description": "SEO tools are incorporating features to track and analyze AI Overviews in search results. Semrush and SERanking are highlighted for their new capabilities, providing insights into opportunities, competitive challenges, and ranked page overlap.",
             "Links": [
-                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/",
+                "https://twitter.com/aleyda/status/1830998420624228720",
+                "https://twitter.com/aleyda/status/1830987330443976860"
+            ]
+        },
+        {
+            "Title": "OpenAI's SearchGPT Faces Early User Feedback and Challenges",
+            "Category": "AI",
+            "Description": "Early users of OpenAI's SearchGPT have reported challenges with the AI-powered search tool, particularly in handling shopping and local queries.  There are also concerns about the potential for inaccurate or fabricated information.",
+            "Links": [
                 "https://twitter.com/glenngabe/status/1831366047082938811",
                 "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/"
-            ]
-        },
-        {
-            "Title": "SEO and CRO: A Winning Combination for Business Growth",
-            "Category": "Digital Marketing",
-            "Description": "Businesses are shifting their focus from solely driving traffic to implementing holistic strategies that encompass user experience, conversion optimization (CRO), and long-term customer value. Combining SEO and CRO is crucial for sustainable growth.",
-            "Links": [
-                "https://www.webpronews.com/seo-cro-is-the-winning-combo-why-traffic-alone-isnt-enough-to-drive-growth/",
-                "https://www.practicalecommerce.com/optimized-landing-pages-reduce-ad-costs"
-            ]
-        },
-        {
-            "Title": "Google Search Testing New Forum Display with Top Comments",
-            "Category": "Search",
-            "Description": "Google is experimenting with a new search results display for forum content. The updated format features top comments and related discussions, aiming to provide users with more relevant and engaging information from forum threads.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1831705344650694968",
-                "https://twitter.com/rustybrick/status/1831661304966455549"
             ]
         }
     ],
