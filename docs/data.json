@@ -1,309 +1,35 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Complete",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's August 2024 core update is complete, and few websites saw full recoveries. Some experienced small recoveries, but most saw no change or even further declines. The update's impact is analyzed with volatility charts and insights from the SEO community.",
+            "Title": "Microsoft Partners with StopNCII to Combat Revenge Porn on Bing",
+            "Category": "Technology",
+            "Description": "Microsoft is taking a stand against revenge porn and deepfakes on its Bing search engine. The company has partnered with StopNCII to proactively remove harmful intimate images and videos using digital hashes. This tool allows individuals to create unique identifiers for their sensitive media, enabling Bing to detect and remove non-consensual content.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831298916601462817",
+                "https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/",
+                "https://www.engadget.com/big-tech/microsoft-joins-coalition-to-scrub-revenge-and-deepfake-porn-from-bing-195316677.html",
+                "https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/"
+            ]
+        },
+        {
+            "Title": "Google August 2024 Core Update Concludes",
+            "Category": "SEO",
+            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations from SEO professionals indicate a mixed bag of results, with some websites experiencing positive ranking improvements while others saw significant drops. The update, which began on August 15th, has sparked discussions and analysis within the SEO community.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1831081843602653358",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
                 "https://www.searchenginejournal.com/googles-august-core-update-rollout-completed/526070/"
             ]
         },
         {
-            "Title": "Google Search Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has updated its image search with a \"from this image\" refinement feature.",
+            "Title": "OpenAI's SearchGPT Faces Early Criticism",
+            "Category": "Technology",
+            "Description": "OpenAI's SearchGPT, positioned as a potential competitor to Google, is facing scrutiny from early users. While showing promise, the AI-powered search tool reportedly struggles with shopping and local queries.  Additionally, concerns have been raised about SearchGPT's tendency to present inaccurate or fabricated information, highlighting the challenges of developing reliable AI search engines.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831327857294848185",
-                "https://twitter.com/glenngabe/status/1831303451290034345",
-                "https://twitter.com/rustybrick/status/1831296400090391003"
-            ]
-        },
-        {
-            "Title": "Snapchat Expands Ad Opportunities with Sponsored Snaps",
-            "Category": "Social Media Marketing",
-            "Description": "Snapchat is adding sponsored snaps to its platform, expanding its advertising opportunities. The sponsored snaps will appear in the chat inbox as a new snap without a push notification, and opening the message is optional.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831308364808171933"
-            ]
-        },
-        {
-            "Title": "Circle to Search Adds Song Finder and Gemini-Powered TalkBack",
-            "Category": "Artificial Intelligence",
-            "Description": "Circle to Search, a search tool, is getting an upgrade with a new song finder feature and upcoming Gemini-powered TalkBack functionality.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831299961712955489"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing's New Features",
-            "Category": "Search Engine Optimization",
-            "Description": "Microsoft recently added an animation or highlight effect on its featured answers or knowledge panels at the top of its Bing Search results. When you hover your mouse over the table of content on the left side, the section it corresponds to in the answer, will expand.",
-            "Links": [
-                "https://www.seroundtable.com/bing-knowledge-panel-featured-snippet-table-of-contents-animation-37959.html"
-            ]
-        },
-        {
-            "Title": "Marketing Spend Forecast",
-            "Category": "Advertising & Marketing",
-            "Description": "Madison and Wall forecast $397 billion in 2024 ad spend. However, despite their rhetoric, marketers are emphasizing 'performance' over quality content.",
-            "Links": [
-                "https://digiday.com/media/madison-and-wall-forecast-397-billion-in-2024-ad-spend/"
-            ]
-        },
-        {
-            "Title": "SEO Poisoning and VPN Spoofing Target Websites with WikiLoader Malware",
-            "Category": "Cybersecurity",
-            "Description": "Palo Alto saw its VPN tool being spoofed to spread malware",
-            "Links": [
-                "https://www.techradar.com/pro/vpn/seo-poisoning-and-vpn-spoofing-used-to-target-anything-and-everything-with-wikiloader-malware"
-            ]
-        },
-        {
-            "Title": "Attention Metrics Gain Traction Despite Value Questioned",
-            "Category": "Advertising & Marketing",
-            "Description": "The burgeoning field of attention metrics, which has made some progress in being used by more publishers, brands and agencies in the pursuit of reaching consumers more effectively, has to be happy about the fact that accreditation could bring an added level of legitimacy to their offerings.",
-            "Links": [
-                "https://digiday.com/media-buying/attention-metrics-step-forward-in-guidelines-as-their-value-is-questioned/"
-            ]
-        },
-        {
-            "Title": "Tips for Internal and External Page Links for SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Links remain critical to search engine optimization despite confusion and suggestions otherwise.",
-            "Links": [
-                "https://www.practicalecommerce.com/tips-for-internal-and-external-page-links"
-            ]
-        },
-        {
-            "Title": "YouTube Algorithm and SEO Q&A",
-            "Category": "Search Engine Optimization",
-            "Description": "A few months ago, we posted some answers about how YouTube ranking is affected by various variables and factors - YouTube SEO questions and answers, if you will. Well, the YouTube Liaison posted a number of short video answers around the YouTube algorithm and YouTube SEO over the past week that I wanted to share.",
-            "Links": [
-                "https://www.seroundtable.com/youtube-algorithm-seo-questions-38003.html"
-            ]
-        },
-        {
-            "Title": "Googler's Tip for Optimizing Favicons",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller offered a tip for optimizing favicons that isn't officially documented but could improve their impact",
-            "Links": [
-                "https://www.searchenginejournal.com/googlers-tip-about-favicons-can-make-a-big-difference/525979/"
-            ]
-        },
-        {
-            "Title": "Publishers Experiment with Reddit Despite Lack of Formal Program",
-            "Category": "Social Media Marketing",
-            "Description": "While it hasn\u2019t formally launched a publisher program, over the last 18 months Reddit has been steadily rolling out products and resources aimed at courting media companies to increase their presence on the platform.",
-            "Links": [
-                "https://digiday.com/media/publishers-share-tips-for-experimenting-with-reddit/"
-            ]
-        },
-        {
-            "Title": "The Evolving Role of the CMO",
-            "Category": "Advertising & Marketing",
-            "Description": "The answer depends on your vantage point. Gap is bringing back the CMO role after a two-year break, while Hyundai is choosing to phase it out. With the CMO under the spotlight once more, let\u2019s dive into the pros and cons to see why a top marketer can be an invaluable asset for some companies and an outdated figurehead for others.",
-            "Links": [
-                "https://digiday.com/marketing/the-cases-for-and-against-the-cmo/"
-            ]
-        },
-        {
-            "Title": "Emerging Search Engines Challenge Google and Bing with AI",
-            "Category": "Artificial Intelligence",
-            "Description": "Explore how emerging search engines are leveraging AI technology to challenge the dominance of Google and Bing in the online search industry.",
-            "Links": [
-                "https://www.dmnews.com/emerging-search-engines-challenge-google-bing-with-ai-advances/"
-            ]
-        },
-        {
-            "Title": "Is SEO Dead? The Impact of AI on Law Firm Marketing",
-            "Category": "Artificial Intelligence",
-            "Description": "With the emergence of Artificial Intelligence (AI) technology, many business owners have feared that marketing as we know it is coming to an end. After all, Google Gemini is routinely surfacing AI-generated responses over organic search results, AI content is abundant, and AI-driven tools are being used more than ever to automate tasks previously performed by human marketers.",
-            "Links": [
-                "https://natlawreview.com/article/seo-dead-why-ai-isnt-end-law-firm-marketing"
-            ]
-        },
-        {
-            "Title": "The Impact of AI Optimization (AIO) on Online Reputation",
-            "Category": "Artificial Intelligence",
-            "Description": "Due to the decline in search accuracy caused by search engine optimization (SEO) and the development of AI, an increasing number of Internet users are turning to chatbots rather than search engines to find information. The New York Times reported on the results of a user following the instructions of a startup that specializes in 'artificial intelligence optimization (AIO),' which conveniently alters the evaluations of people and products output by AI.",
-            "Links": [
-                "http://gigazine.net/gsc_news/en/20240902-ai-chatbot-aio/"
-            ]
-        },
-        {
-            "Title": "Tubi's UK Expansion: What Advertisers Want",
-            "Category": "Advertising & Marketing",
-            "Description": "Execs there are currently in full market-scout mode, meeting a few key players and figuring out how to stand out in an arena bursting at the seams with options.",
-            "Links": [
-                "https://digiday.com/marketing/what-do-advertisers-want-from-tubi-in-the-u-k/"
-            ]
-        },
-        {
-            "Title": "Pinterest Surpasses X in Brand Usage for UGC-Focused Platforms",
-            "Category": "Social Media Marketing",
-            "Description": "X has historically been dominant among UGC-focused social platforms, but Digiday+ Research surveys have found that, this year, Pinterest has passed X in brand usage for the first time \u2014 and brand and retailer ad spend on Pinterest is higher than on X, too.",
-            "Links": [
-                "https://digiday.com/marketing/digiday-research-pinterest-surpasses-x-when-it-comes-to-brands-usage-of-ugc-focused-social-platforms/"
-            ]
-        },
-        {
-            "Title": "Will ChatGPT Replace Google? The Future of Search",
-            "Category": "Artificial Intelligence",
-            "Description": "A deep dive into how AI is disrupting search engines and its impact on SEO, digital marketing and the future of information access.",
-            "Links": [
-                "https://searchengineland.com/will-chatgpt-be-the-new-google-446223"
-            ]
-        },
-        {
-            "Title": "Google August 2024 Core Update Rollout Complete",
-            "Category": "Search Engine Optimization",
-            "Description": "The update took 19 days to rollout and was a pretty impactful update.",
-            "Links": [
-                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
-            ]
-        },
-        {
-            "Title": "Social Media Platforms Embrace AI for Ad Creative Tools",
-            "Category": "Social Media Marketing",
-            "Description": "The AI arms race continues as social platforms have spent the last few months rolling out generative AI-powered creative tools allowing marketers to more quickly generate ad copy and images.",
-            "Links": [
-                "https://digiday.com/marketing/social-media-platforms-fuel-ai-ad-rush-with-new-creative-tools/"
-            ]
-        },
-        {
-            "Title": "Post-Taylor Swift NFL: Advertisers Seek to Convert Viewers into Buyers",
-            "Category": "Advertising & Marketing",
-            "Description": "Following a record-breaking season for NFL viewership, advertisers are adapting their media approaches to ensure they capture the attention of a football audience that\u2019s broader than ever before \u2014 due, at least in part, to the impact of the singer.",
-            "Links": [
-                "https://digiday.com/marketing/applebees-joins-advertisers-hoping-a-post-taylor-swift-nfl-can-convert-viewers-into-buyers/"
-            ]
-        },
-        {
-            "Title": "Amazon's Media Spend Shakeup: Omnicom and WPP Share the Win",
-            "Category": "Advertising & Marketing",
-            "Description": "The long-awaited decision from Amazon to place more than $2 billion in media spend finally was announced, with a bit of a surprise: both Omnicom and WPP shared the win, rather than one winner-take-all.",
-            "Links": [
-                "https://digiday.com/media-buying/wpp-omnicom-and-even-dentsu-have-a-good-day-at-the-office-thanks-to-amazon-and-ebay/"
-            ]
-        },
-        {
-            "Title": "Google Tests New Forum Display in Search Results",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search is experimenting with a new forum display that prominently features top comments and related discussions.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1831661304966455549",
-                "https://twitter.com/rustybrick/status/1831705344650694968"
-            ]
-        },
-        {
-            "Title": "Google Ads Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Ads introduces a new \"Merchant products\" tab within its image library.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1831658787930775843",
-                "https://twitter.com/rustybrick/status/1831701570011992245",
-                "https://twitter.com/rustybrick/status/1831697794760921221"
-            ]
-        },
-        {
-            "Title": "Google Advises Ignoring Spam Scores",
-            "Category": "Search Engine Optimization",
-            "Description": "Google's John Mueller advises focusing on creating valuable content instead of obsessing over spam scores, which he considers insignificant.",
-            "Links": [
-                "https://www.searchenginejournal.com/google-confirms-its-okay-to-ignore-spam-scores/526194/"
-            ]
-        },
-        {
-            "Title": "How to Create High-Quality Content for SEO",
-            "Category": "Search Engine Optimization",
-            "Description": "Enhance your SEO with high-quality content. Learn the definition of quality content and how to create and present it effectively to your target audience.",
-            "Links": [
-                "https://www.searchenginejournal.com/how-to-create-quality-content/524184/"
-            ]
-        },
-        {
-            "Title": "Etsy's Search Algorithm Updates Improve Customer Experience",
-            "Category": "Ecommerce",
-            "Description": "Etsy's search algorithm updates, prioritizing listing quality, have led to improved customer experiences and fewer refund requests.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831668267510870345"
-            ]
-        },
-        {
-            "Title": "YouTube Enhances Thumbnail Editing Options for Shorts",
-            "Category": "Content Creation",
-            "Description": "YouTube introduces enhanced thumbnail editing options for Shorts, allowing creators to add text, filters, and customize frames.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831664963603022316"
-            ]
-        },
-        {
-            "Title": "Microsoft Combats Deepfake Porn on Bing with New Tool",
-            "Category": "Artificial Intelligence",
-            "Description": "The advancement of generative AI tools has created a new problem for the internet: the proliferation of synthetic nude images resembling real people.",
-            "Links": [
-                "https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/",
-                "https://www.neowin.net/news/microsoft-partners-with-stopncii-to-remove-harmful-intimate-images-from-bing/"
-            ]
-        },
-        {
-            "Title": "Google's AI Shopping Tool Allows Virtual Dress Try-On",
-            "Category": "Artificial Intelligence",
-            "Description": "Just ahead of the holiday shopping season -> Virtually try on dresses with Google's AI shopping tool \"You can now virtually try on dresses while shopping on Google to get a more accurate idea of how they\u2019ll look.\"",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831738497352523881"
-            ]
-        },
-        {
-            "Title": "Optimized Landing Pages for Reduced Ad Costs",
-            "Category": "Search Engine Optimization",
-            "Description": "Algorithms on Google, Meta, and others evaluate an ad and its linked landing page, assigning a relevancy score that influences cost and performance.",
-            "Links": [
-                "https://www.practicalecommerce.com/optimized-landing-pages-reduce-ad-costs"
-            ]
-        },
-        {
-            "Title": "YouTube Announces AI Detection Tools to Protect Creators",
-            "Category": "Artificial Intelligence",
-            "Description": "I wonder who else could use these new technologies to detect AI across media types? :) -> YouTube announces AI detection tools to protect against copying creators' likeness, including their faces and voices, and plans to offer AI scraping controls \"This system will be expanded\u2026",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1831726659076046857"
-            ]
-        },
-        {
-            "Title": "Yoast Integrates AI into SEO Plugin",
-            "Category": "Search Engine Optimization",
-            "Description": "Users can now optimize their pages for search engines with a click of a button.",
-            "Links": [
-                "https://www.techradar.com/pro/yoast-adds-ai-to-its-seo-plugin"
-            ]
-        },
-        {
-            "Title": "SEO and CRO: A Winning Combination for Growth",
-            "Category": "Search Engine Optimization",
-            "Description": "Traffic is only part of the equation\u2014without strong CRO, it\u2019s like \"filling a shop with customers who never buy,\" as Luke Carthy puts it. Businesses must shift their focus from pure traffic growth to holistic strategies that encompass user experience, conversion, and long-term customer value. In other words,",
-            "Links": [
-                "https://www.webpronews.com/seo-cro-is-the-winning-combo-why-traffic-alone-isnt-enough-to-drive-growth/"
-            ]
-        },
-        {
-            "Title": "OpenAI's SearchGPT: A Potential Google Killer?",
-            "Category": "Artificial Intelligence",
-            "Description": "OpenAI\u2019s search tool shows promise but lacks Google\u2019s specialized functions and can suffer from hallucinations.",
-            "Links": [
-                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/"
-            ]
-        },
-        {
-            "Title": "The Impact of AI Search on Marketing",
-            "Category": "Artificial Intelligence",
-            "Description": "The advent of AI search is going to cause headaches for Google - and change the balance of power from performance marketing back to brand.",
-            "Links": [
-                "https://www.marketingweek.com/ai-search-change-marketing-prepared/"
+                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/",
+                "https://twitter.com/glenngabe/status/1831366047082938811",
+                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/"
             ]
         }
     ],
-    "date": "2024-09-05"
+    "date": "2024-09-06"
 }
