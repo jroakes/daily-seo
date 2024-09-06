@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Microsoft Partners with StopNCII to Combat Revenge Porn on Bing",
+            "Title": "Microsoft Partners with StopNCII to Combat Revenge Porn and Deepfakes on Bing",
             "Category": "Technology",
-            "Description": "Microsoft is taking a stand against revenge porn and deepfakes on its Bing search engine. The company has partnered with StopNCII to proactively remove harmful intimate images and videos using digital hashes. This tool allows individuals to create unique identifiers for their sensitive media, enabling Bing to detect and remove non-consensual content.",
+            "Description": "Microsoft is taking steps to address the spread of non-consensual intimate images, including deepfakes, on its Bing search engine. The company has partnered with StopNCII to proactively remove such harmful content using digital hashes provided by victims.",
             "Links": [
                 "https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/",
                 "https://www.engadget.com/big-tech/microsoft-joins-coalition-to-scrub-revenge-and-deepfake-porn-from-bing-195316677.html",
@@ -13,21 +13,41 @@
         {
             "Title": "Google August 2024 Core Update Concludes",
             "Category": "SEO",
-            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations from SEO professionals indicate a mixed bag of results, with some websites experiencing positive ranking improvements while others saw significant drops. The update, which began on August 15th, has sparked discussions and analysis within the SEO community.",
+            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations from industry experts suggest a mixed bag of results, with some websites experiencing positive ranking improvements while others saw significant drops.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831081843602653358",
+                "https://twitter.com/rustybrick/status/1831403354657902974",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
-                "https://www.searchenginejournal.com/googles-august-core-update-rollout-completed/526070/"
+                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
             ]
         },
         {
             "Title": "OpenAI's SearchGPT Faces Early Criticism",
             "Category": "Technology",
-            "Description": "OpenAI's SearchGPT, positioned as a potential competitor to Google, is facing scrutiny from early users. While showing promise, the AI-powered search tool reportedly struggles with shopping and local queries.  Additionally, concerns have been raised about SearchGPT's tendency to present inaccurate or fabricated information, highlighting the challenges of developing reliable AI search engines.",
+            "Description": "Early users of OpenAI's SearchGPT, a prototype aiming to challenge Google's search dominance, have reported mixed experiences. While some praise its potential, others point out limitations in handling shopping and local queries, as well as instances of inaccurate or fabricated information.",
             "Links": [
-                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/",
+                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/",
                 "https://twitter.com/glenngabe/status/1831366047082938811",
-                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/"
+                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/"
+            ]
+        },
+        {
+            "Title": "Google Tests New Forum Display in Search Results",
+            "Category": "SEO",
+            "Description": "Google is experimenting with a new search interface for forum results, aiming to improve user experience. The updated layout features prominent displays of top comments and links to related discussions within the forum.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1831705344650694968",
+                "https://twitter.com/rustybrick/status/1831661304966455549",
+                "https://twitter.com/rustybrick/status/1831424687492231443"
+            ]
+        },
+        {
+            "Title": "SEO Experts Emphasize Holistic Strategies for Online Growth",
+            "Category": "SEO",
+            "Description": "Industry leaders are urging businesses to move beyond focusing solely on traffic acquisition and prioritize a comprehensive approach to online growth. This includes optimizing user experience, improving conversion rates, and building long-term customer value.",
+            "Links": [
+                "https://www.webpronews.com/seo-cro-is-the-winning-combo-why-traffic-alone-isnt-enough-to-drive-growth/",
+                "https://twitter.com/aleyda/status/1830994150935928886",
+                "https://builtin.com/articles/topic-authority-for-SEO"
             ]
         }
     ],
