@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Microsoft Partners with StopNCII to Combat Non-Consensual Intimate Images on Bing",
+            "Title": "Microsoft Combats Non-Consensual Intimate Images on Bing",
             "Category": "Technology",
-            "Description": "Microsoft announced a partnership with StopNCII to proactively remove harmful intimate images and videos from Bing search results. This includes the use of digital hashes to identify and remove non-consensual content, including deepfakes.",
+            "Description": "Microsoft partners with StopNCII to remove non-consensual intimate images, including deepfakes, from Bing search results, using a hash database to identify and block such content.",
             "Links": [
                 "https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/",
                 "https://www.engadget.com/big-tech/microsoft-joins-coalition-to-scrub-revenge-and-deepfake-porn-from-bing-195316677.html",
@@ -11,31 +11,73 @@
             ]
         },
         {
-            "Title": "Google August 2024 Core Update Completed",
+            "Title": "Google August 2024 Core Update Concludes",
             "Category": "SEO",
-            "Description": "The Google August 2024 core update has finished rolling out after 19 days. Initial observations suggest a mixed bag of results, with some sites seeing promising gains while others experienced significant ranking drops.",
+            "Description": "The Google August 2024 core update has finished rolling out, taking 19 days to complete. Initial observations suggest a mixed bag of results, with some positive outcomes but a predominantly negative impact overall.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831403354657902974",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
-                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
+                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225",
+                "https://twitter.com/rustybrick/status/1831342956785041484"
+            ]
+        },
+        {
+            "Title": "Google Search Volatility Persists After August Core Update",
+            "Category": "SEO",
+            "Description": "Despite the completion of the August core update, Google Search ranking volatility remains high, raising questions about whether it's the tail end of the update or a new development.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1832071507884781978",
+                "https://www.seroundtable.com/google-search-volatility-still-heated-38027.html",
+                "https://searchengineland.com/google-danny-sullivan-algorithm-update-recovery-uncertain-446317"
+            ]
+        },
+        {
+            "Title": "OpenAI's SearchGPT Faces Early User Feedback and Analysis",
+            "Category": "Technology",
+            "Description": "Early users of OpenAI's SearchGPT report challenges with shopping and local queries, along with instances of inaccurate or fabricated information, highlighting the need for further development.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1831366047082938811",
+                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/",
+                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/"
             ]
         },
         {
             "Title": "SEO Tools Enhance AI Overview Tracking and Analysis",
             "Category": "SEO",
-            "Description": "SEO tools are incorporating features to track and analyze AI Overviews in search results. Semrush and SERanking are highlighted for their new capabilities, providing insights into opportunities, competitive challenges, and ranked page overlap.",
+            "Description": "SEO tools are incorporating features to track and analyze AI Overviews, providing insights into opportunities, competitive challenges, and ranked page overlap. Semrush and SERanking are highlighted for their new capabilities.",
             "Links": [
                 "https://twitter.com/aleyda/status/1830998420624228720",
-                "https://twitter.com/aleyda/status/1830987330443976860"
+                "https://twitter.com/aleyda/status/1830987330443976860",
+                "https://twitter.com/glenngabe/status/1830941412017274943"
             ]
         },
         {
-            "Title": "OpenAI's SearchGPT Faces Early User Feedback and Challenges",
-            "Category": "AI",
-            "Description": "Early users of OpenAI's SearchGPT have reported challenges with the AI-powered search tool, particularly in handling shopping and local queries.  There are also concerns about the potential for inaccurate or fabricated information.",
+            "Title": "Google Emphasizes Contextual Links in Core Updates",
+            "Category": "SEO",
+            "Description": "Following the August Core Update, the importance of contextual links for SEO is highlighted, emphasizing their role in signaling content relevance and authority to Google.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1831366047082938811",
-                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/"
+                "https://www.designrush.com/news/contextual-links-matter-when-it-comes-to-google-core-updates",
+                "https://twitter.com/glenngabe/status/1831303451290034345",
+                "https://twitter.com/rustybrick/status/1831399579893276735"
+            ]
+        },
+        {
+            "Title": "Google Ads and Merchant Center Updates",
+            "Category": "Marketing",
+            "Description": "Google introduces several updates to Google Ads and Merchant Center, including a new \"Merchant products\" tab in the image library, automatic account linking, and changes to parked domain advertising.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1831761968170201354",
+                "https://twitter.com/rustybrick/status/1831656271528825161",
+                "https://twitter.com/rustybrick/status/1831653755051504059"
+            ]
+        },
+        {
+            "Title": "YouTube Algorithm and SEO Insights Revealed",
+            "Category": "Marketing",
+            "Description": "A series of videos and a compiled post provide insights into YouTube's algorithm and SEO, covering factors influencing video ranking, such as categories, tags, posting consistency, descriptions, and embedded videos.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1830937593774535141",
+                "https://www.seroundtable.com/september-2024-google-webmaster-report-38000.html",
+                "https://www.seroundtable.com/youtube-algorithm-seo-questions-38003.html"
             ]
         }
     ],
