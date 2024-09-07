@@ -1,45 +1,90 @@
 {
     "data": [
         {
-            "Title": "Microsoft Combats Deepfakes and Non-Consensual Intimate Images on Bing",
+            "Title": "Microsoft Bing Partners with StopNCII to Combat Deepfake Nudes",
             "Category": "Technology",
-            "Description": "Microsoft has partnered with StopNCII to remove non-consensual intimate images, including deepfakes, from its Bing search engine. This initiative aims to protect individuals from the harmful spread of such content online.",
+            "Description": "Microsoft has partnered with StopNCII to remove non-consensual intimate images, including deepfakes, from Bing Image Search. The initiative has already addressed nearly 270,000 images since its pilot program began earlier this year.",
             "Links": [
-                "https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/",
-                "https://www.engadget.com/big-tech/microsoft-joins-coalition-to-scrub-revenge-and-deepfake-porn-from-bing-195316677.html",
-                "https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/"
+                "https://uk.pcmag.com/news/154245/microsoft-to-help-users-remove-deepfake-nudes-from-bing-image-search",
+                "https://mashable.com/article/microsoft-bing-tackles-nonconsensual-deepfake-porn-in-results",
+                "https://www.digitalinformationworld.com/2024/09/microsoft-bing-takes-major-step-against.html"
             ]
         },
         {
-            "Title": "Google August 2024 Core Update Completed: Impact and Analysis",
-            "Category": "SEO",
-            "Description": "The Google August 2024 Core Update has finished rolling out, taking 19 days to complete. Initial observations suggest a mixed bag of results, with some websites experiencing positive ranking changes while others saw negative impacts.",
+            "Title": "Hackers Exploit SEO Campaigns to Spread Malware",
+            "Category": "Cybersecurity",
+            "Description": "Hackers are increasingly manipulating SEO campaigns to spread new and potentially dangerous malware, posing a significant threat to online safety and digital marketing efforts.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831403354657902974",
+                "https://www.killerstartups.com/hackers-exploit-seo-campaign-to-spread-new-malware/",
+                "https://www.techradar.com/pro/vpn/seo-poisoning-and-vpn-spoofing-used-to-target-anything-and-everything-with-wikiloader-malware"
+            ]
+        },
+        {
+            "Title": "Google Search Volatility Continues After August Core Update",
+            "Category": "Search Engine Optimization",
+            "Description": "The SEO community is buzzing with discussions about ongoing search ranking volatility following Google's August 2024 core update. Experts are unsure if the update is still rolling out or if other factors are contributing to the fluctuations.",
+            "Links": [
+                "https://www.seroundtable.com/google-search-volatility-still-heated-38027.html",
                 "https://www.seroundtable.com/google-august-2024-core-update-done-38013.html",
-                "https://searchengineland.com/google-august-2024-core-update-rollout-is-now-complete-446225"
+                "https://www.seroundtable.com/video-09-06-2024-38028.html"
             ]
         },
         {
-            "Title": "OpenAI's SearchGPT: Early User Feedback and Comparisons to Google",
-            "Category": "AI",
-            "Description": "OpenAI's SearchGPT, a prototype AI-powered search tool, is being evaluated by early users. While showing potential, it faces challenges with shopping and local queries, and concerns about accuracy and potential for generating false information.",
+            "Title": "Google's Danny Sullivan Discusses Algorithm Update Impacts",
+            "Category": "Search Engine Optimization",
+            "Description": "Google's Search Liaison, Danny Sullivan, acknowledged that publishers might not fully recover their previous traffic levels after algorithm updates. He emphasized the importance of adapting to these changes for long-term success.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1831366047082938811",
-                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/",
-                "https://www.searchenginejournal.com/searchgpt-vs-google-early-analysis-user-feedback/526232/"
+                "https://searchengineland.com/google-danny-sullivan-algorithm-update-recovery-uncertain-446317",
+                "https://www.seroundtable.com/interview-google-august-core-update-38024.html"
             ]
         },
         {
-            "Title": "Google Search UI Updates: Forum Results, Shopping Features, and More",
-            "Category": "SEO",
-            "Description": "Google is testing a new search UI for forum results, featuring top comments and related discussions. Additionally, Google Ads introduces a \"Merchant products\" image tab and automatic linking of Google Ads and Merchant Center accounts.",
+            "Title": "UK CMA Challenges Google's Ad Tech Practices",
+            "Category": "Antitrust",
+            "Description": "The UK's Competition and Markets Authority (CMA) has raised objections to Google's ad tech practices, alleging that the company leverages its dominance in online display advertising to favor its own services, potentially harming competition.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1831765742846619721",
-                "https://twitter.com/rustybrick/status/1831705344650694968",
-                "https://twitter.com/rustybrick/status/1831661304966455549"
+                "https://twitter.com/Techmeme/status/1831995289642656115",
+                "https://digiday.com/marketing/the-rundown-why-a-landmark-antitrust-trial-on-googles-ad-tech-business-could-reshape-the-industry/",
+                "https://digiday.com/media-buying/from-jedi-blue-to-banksy-what-googles-code-names-reveal-in-the-dojs-landmark-antitrust-case/"
+            ]
+        },
+        {
+            "Title": "Studios Leverage Meme Culture for Movie Marketing",
+            "Category": "Marketing",
+            "Description": "Studios are increasingly embracing meme culture to promote their films, recognizing the influence of online virality on younger generations. Data shows that a significant portion of Gen Z and millennials decide to watch movies based on memes and online buzz.",
+            "Links": [
+                "https://digiday.com/marketing/studios-embrace-creator-and-meme-culture-as-movies-like-twisters-beetlejuice-beetlejuice-memeify-marketing/"
+            ]
+        },
+        {
+            "Title": "Google Shopping Updates and Features",
+            "Category": "Ecommerce",
+            "Description": "Google has introduced several updates and features related to Google Shopping, including new image tabs, automatic account linking between Google Ads and Merchant Center, and changes to ad serving on parked domains.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1831746868684190077",
+                "https://twitter.com/googlesearchc/status/1831739295759053197",
+                "https://twitter.com/rustybrick/status/1831701570011992245",
+                "https://twitter.com/rustybrick/status/1831697794760921221",
+                "https://twitter.com/rustybrick/status/1831694020869026161"
+            ]
+        },
+        {
+            "Title": "Yoast Integrates AI into SEO Plugin",
+            "Category": "Search Engine Optimization",
+            "Description": "Yoast has enhanced its popular SEO plugin with AI capabilities, making it easier for users to optimize their web pages for search engines. The new features aim to streamline the SEO process and improve website visibility.",
+            "Links": [
+                "https://www.techradar.com/pro/yoast-adds-ai-to-its-seo-plugin"
+            ]
+        },
+        {
+            "Title": "The Rise of AI in Search and Information Retrieval",
+            "Category": "Artificial Intelligence",
+            "Description": "The emergence of AI, particularly ChatGPT, is transforming search engines and information retrieval. Experts are exploring the implications of this shift for SEO, digital marketing, and the future of information access.",
+            "Links": [
+                "https://searchengineland.com/will-chatgpt-be-the-new-google-446223",
+                "https://www.washingtonpost.com/technology/2024/09/04/openai-searchgpt-chatgpt-google/"
             ]
         }
     ],
-    "date": "2024-09-06"
+    "date": "2024-09-07"
 }
