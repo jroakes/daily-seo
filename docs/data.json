@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Causes Significant Search Volatility",
+            "Title": "Google August 2024 Core Update Causes Volatility",
             "Category": "Search Engine Optimization",
-            "Description": "The Google August 2024 core update, which finished rolling out earlier than expected, continues to cause significant search ranking volatility.  SEO experts and tools are observing significant changes in search results, and discussions within the SEO community remain active.",
+            "Description": "Google rolled out its August 2024 core update, causing significant search ranking volatility even days after completion.  Experts are unsure whether the volatility is residual or indicative of new changes.  Google's Search Liaison, Danny Sullivan, stated that recovery from core updates is not guaranteed, and publishers may not regain previous traffic levels.",
             "Links": [
                 "https://www.seroundtable.com/video-09-06-2024-38028.html",
                 "https://www.seroundtable.com/google-search-volatility-still-heated-38027.html",
@@ -11,19 +11,9 @@
             ]
         },
         {
-            "Title": "Google's Danny Sullivan Discusses Impact and Recovery from Algorithm Updates",
-            "Category": "Search Engine Optimization",
-            "Description": "In a recent interview, Google's Search Liaison Danny Sullivan discussed the impact of Google's algorithm updates, noting that publishers may not always recover to previous traffic levels. Sullivan highlighted Google's continuous efforts to improve ranking systems through testing and experimentation.",
-            "Links": [
-                "https://searchengineland.com/google-danny-sullivan-algorithm-update-recovery-uncertain-446317",
-                "https://twitter.com/glenngabe/status/1832025115623633320",
-                "https://twitter.com/rustybrick/status/1832023692232081682"
-            ]
-        },
-        {
             "Title": "Microsoft Partners with StopNCII to Remove Non-Consensual Intimate Images from Bing",
-            "Category": "Internet Privacy",
-            "Description": "Microsoft has partnered with StopNCII to remove non-consensual intimate images, including deepfakes, from its Bing search engine. This initiative aims to protect victims of revenge porn and combat the spread of harmful content online.",
+            "Category": "Internet Safety",
+            "Description": "Microsoft is partnering with StopNCII to remove non-consensual intimate images, including deepfakes, from Bing search results. This initiative aims to protect victims of revenge porn and combat the spread of harmful content. Users can now use a tool to create digital hashes of their sensitive media, allowing Bing to detect and remove those images from search results.",
             "Links": [
                 "https://www.digitalinformationworld.com/2024/09/microsoft-bing-takes-major-step-against.html",
                 "https://www.fudzilla.com/news/ai/59656-microsoft-wants-to-purge-deepfakes-from-bing",
@@ -33,34 +23,9 @@
         {
             "Title": "Hackers Target SEO Campaigns to Spread Malware",
             "Category": "Cybersecurity",
-            "Description": "Hackers are exploiting SEO campaigns to spread new and potentially dangerous malware, posing a threat to online safety and digital marketing efforts. This tactic highlights the increasing sophistication of cyberattacks and the need for enhanced security measures in the digital landscape.",
+            "Description": "Hackers are exploiting SEO campaigns to spread new malware, posing a threat to online safety and digital marketing efforts.  The tactics used by these hackers are unknown, but the impact on businesses and individuals could be significant.",
             "Links": [
                 "https://www.killerstartups.com/hackers-exploit-seo-campaign-to-spread-new-malware/"
-            ]
-        },
-        {
-            "Title": "Google Search Console Reporting Anomaly with Blocked Redirects",
-            "Category": "Search Engine Optimization",
-            "Description": "Google Search Console is reporting URLs passed through a robots.txt blocked redirect as blocked, even when they are not technically blocked. This discrepancy can cause confusion for website owners and SEOs analyzing their website's indexing status.",
-            "Links": [
-                "https://twitter.com/thetafferboy/status/1832007042443211033"
-            ]
-        },
-        {
-            "Title": "UK CMA Raises Concerns Over Google's Ad Tech Practices",
-            "Category": "Antitrust",
-            "Description": "The UK's Competition and Markets Authority (CMA) has expressed concerns over Google's ad tech practices, alleging that the company leverages its dominance in online display advertising to favor its own services, potentially harming competition in the market.",
-            "Links": [
-                "https://twitter.com/Techmeme/status/1831995289642656115"
-            ]
-        },
-        {
-            "Title": "Local SEO Strategies for Business Growth in 2024",
-            "Category": "Search Engine Optimization",
-            "Description": "Local SEO is crucial for businesses aiming to dominate their local market. By optimizing their online presence for local searches, businesses can enhance visibility, attract nearby customers, and drive growth. Effective local SEO strategies encompass various aspects, including optimizing Google Business Profile listings and building local citations.",
-            "Links": [
-                "https://pctechmag.com/2024/09/local-seo-tactics-to-dominate-your-market/",
-                "https://ocnjdaily.com/news/2024/sep/05/guide-local-seo-best-practices-to-follow/"
             ]
         }
     ],
