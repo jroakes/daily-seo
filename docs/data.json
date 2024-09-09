@@ -2,56 +2,62 @@
     "data": [
         {
             "Title": "Google August 2024 Core Update Impacts and Analysis",
-            "Category": "Search Engine Optimization",
-            "Description": "Google rolled out its August 2024 core update, impacting numerous websites. Analysis and poll results reveal that many sites affected by this update were also hit by previous updates, including the March 2024 and September 2023 updates. Google's Danny Sullivan provided insights into the update, stating that recovery for affected publishers is uncertain.  Experts emphasize the importance of contextual links in SEO strategies following the update.",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "The August 2024 Google Core Update has impacted a significant number of websites, many of which were also affected by previous updates in March 2024 and September 2023.  Analysis and observations of the update are being shared widely within the SEO community.",
             "Links": [
+                "https://twitter.com/aleyda/status/1832885577940717640",
                 "https://twitter.com/aleyda/status/1832716532046090377",
-                "https://www.searchenginejournal.com/google-offers-guidance-about-the-recent-ranking-update/526368/",
-                "https://searchengineland.com/google-danny-sullivan-algorithm-update-recovery-uncertain-446317"
+                "https://www.searchenginejournal.com/google-offers-guidance-about-the-recent-ranking-update/526368/"
             ]
         },
         {
-            "Title": "Google Faces Antitrust Scrutiny Over Ad Business Practices",
-            "Category": "Antitrust and Regulation",
-            "Description": "The United States Department of Justice (DOJ) and multiple states are pursuing an antitrust lawsuit against Google, alleging that the company leverages its dominance in online display advertising to stifle competition. The trial, scheduled to begin on September 9th, will delve into Google's ad tech practices and their impact on the industry. The outcome of this case could have significant implications for Google and the digital advertising landscape.",
+            "Title": "Google Search Results Page (SERP) Features Updated",
+            "Category": "Search Engine Optimization (SEO)",
+            "Description": "Google has combined the \"Latest Posts\" and \"Article Carousel\" into a single \"Latest Posts\" carousel in search results. This consolidated carousel now includes both articles and social media posts.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1832393325854298582",
-                "https://digiday.com/media-buying/from-jedi-blue-to-banksy-what-googles-code-names-reveal-in-the-dojs-landmark-antitrust-case/",
-                "https://digiday.com/marketing/the-rundown-why-a-landmark-antitrust-trial-on-googles-ad-tech-business-could-reshape-the-industry/"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing Combats Deepfakes and Explicit Content",
-            "Category": "Search Engine Technology",
-            "Description": "Microsoft has partnered with StopNCII to enhance Bing's ability to detect and remove non-consensual intimate images, including AI-generated deepfakes, from its search results. This initiative aims to protect individuals from the harmful spread of explicit content and aligns with similar efforts by other platforms like Facebook, Instagram, and TikTok. Bing is the first search engine to join StopNCII in this endeavor.",
-            "Links": [
-                "https://www.moneycontrol.com/technology/microsoft-outlines-plan-to-remove-abusive-deepfake-content-from-bing-article-12816801.html",
-                "https://mashable.com/article/microsoft-bing-tackles-nonconsensual-deepfake-porn-in-results",
-                "https://www.fudzilla.com/news/ai/59656-microsoft-wants-to-purge-deepfakes-from-bing"
+                "https://twitter.com/glenngabe/status/1832763148538892437"
             ]
         },
         {
             "Title": "Mediavine Bans Publisher for Excessive AI-Generated Content",
-            "Category": "Content Marketing",
-            "Description": "Mediavine, an advertising management platform, has taken action against a publisher for overuse of AI-generated content. This move underscores Mediavine's commitment to maintaining content quality and ensuring a positive experience for advertisers and users. The incident serves as a reminder that while AI can be a valuable tool for content creation, it should not come at the expense of quality and originality.",
+            "Category": "Artificial Intelligence (AI) in Marketing",
+            "Description": "Mediavine has taken action against a publisher for overusing AI-generated content, signaling a firm stance against low-quality AI content and its potential impact on advertising partnerships.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1832398125849284803"
             ]
         },
         {
-            "Title": "YouTube Studio Enhances Website Traffic Generation",
-            "Category": "Online Video and Advertising",
-            "Description": "YouTube Studio has introduced a new website visits goal within its promotions feature, empowering businesses to drive traffic from their YouTube channels to their websites more effectively. This update simplifies the process of converting video views into website visits, enabling businesses to leverage their YouTube presence for increased online visibility and lead generation.",
+            "Title": "YouTube Studio Enhances Promotions with Website Visits Goal",
+            "Category": "Video Marketing & Advertising",
+            "Description": "YouTube Studio now allows businesses to set website visits as a goal for their promotions, making it easier to drive traffic from YouTube channels directly to their websites.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1832395488877822015"
             ]
         },
         {
-            "Title": "Google Search Results Page (SERP) Features Updated",
-            "Category": "Search Engine Optimization",
-            "Description": "Google has combined the \"Latest Posts\" and \"Article Carousel\" into a single \"Latest Posts\" carousel on its search results pages. This consolidated carousel now displays both articles and social media shares from platforms like X (formerly Twitter) and Threads. The change aims to provide users with a more streamlined and comprehensive view of recent content related to their search queries.",
+            "Title": "Microsoft Partners with StopNCII to Combat Deepfakes on Bing",
+            "Category": "Artificial Intelligence (AI) & Ethics",
+            "Description": "Microsoft is taking steps to remove abusive deepfake content from Bing search results by partnering with StopNCII. This initiative aims to identify and eliminate AI-generated explicit imagery, including deepfakes.",
             "Links": [
-                "https://twitter.com/glenngabe/status/1832763148538892437"
+                "https://www.moneycontrol.com/technology/microsoft-outlines-plan-to-remove-abusive-deepfake-content-from-bing-article-12816801.html",
+                "https://uk.pcmag.com/news/154245/microsoft-to-help-users-remove-deepfake-nudes-from-bing-image-search",
+                "https://mashable.com/article/microsoft-bing-tackles-nonconsensual-deepfake-porn-in-results"
+            ]
+        },
+        {
+            "Title": "DOJ and Google Head to Court in Second Antitrust Battle",
+            "Category": "Technology & Law",
+            "Description": "The US Department of Justice (DOJ) and Google are set for another round in their ongoing antitrust fight, this time focusing on Google's advertising business practices. The trial is scheduled to begin on September 9th.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832393325854298582"
+            ]
+        },
+        {
+            "Title": "Judge Delays Decision on Remedies in Google Monopoly Case",
+            "Category": "Technology & Law",
+            "Description": "The judge overseeing the Google monopoly ruling has announced a delay in determining remedies, pushing the decision to August 2025. Potential remedies could include restrictions on Google's search engine on mobile devices or even a breakup of the company.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832390257116950784"
             ]
         }
     ],
