@@ -1,81 +1,149 @@
 {
     "data": [
         {
-            "Title": "Google August 2024 Core Update Analysis and Impact",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google rolled out its August 2024 Core Update, impacting website rankings. Analysis and poll results reveal that sites negatively affected were also hit by previous updates, with advertising-based models being the most common. Volatility in search rankings remains high even after the update's completion.",
+            "Title": "Google Ads to Sunset Enhanced CPC in March 2025",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Ads is saying goodbye to Enhanced CPC next March 2025. It will be migrated to Manual CPC bidding.",
             "Links": [
+                "https://twitter.com/rustybrick/status/1833215294447489308",
+                "https://twitter.com/rustybrick/status/1833154896469844415",
+                "https://twitter.com/rustybrick/status/1833110855958810826"
+            ]
+        },
+        {
+            "Title": "Google Business Profiles Now Sends Broken Appointment Link Notifications",
+            "Category": "Search Engine Optimization",
+            "Description": "Google Business Profiles is sending email notifications when appointment links are broken.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833211519271588330",
+                "https://twitter.com/rustybrick/status/1833151121382117830",
+                "https://twitter.com/rustybrick/status/1833108339355455935"
+            ]
+        },
+        {
+            "Title": "Bing May Soon Support ProductGroup Markup",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing may soon start supporting ProductGroup markup for its \"captions\" in search results. The team is closely monitoring its adoption.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833207744372895867",
+                "https://twitter.com/rustybrick/status/1833147346626187440",
+                "https://twitter.com/rustybrick/status/1833105823389868180",
+                "https://www.seroundtable.com/bing-productgroup-markup-38032.html"
+            ]
+        },
+        {
+            "Title": "Bing Treats 308 Redirects the Same as 301 Redirects",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing Search treats 308 redirects the same as 301 redirects, similar to Google's stance since 2021.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833203969956749425",
+                "https://twitter.com/rustybrick/status/1833143572318896260",
+                "https://www.seroundtable.com/bing-308-redirects-38031.html",
+                "https://twitter.com/rustybrick/status/1833103306324955633"
+            ]
+        },
+        {
+            "Title": "Bing Search Tests \"See Details\" Button for Product Listings",
+            "Category": "Search Engine Optimization",
+            "Description": "Bing is testing a large blue \"see details\" button for some product listings in its search results.  Hovering over products expands them, and now a blue button to \"see details\" is also displayed.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833200194747298049",
+                "https://twitter.com/rustybrick/status/1833139797004898485",
+                "https://www.seroundtable.com/bing-search-testing-product-see-details-button-38017.html"
+            ]
+        },
+        {
+            "Title": "Product Carousels Return to AI Overviews for Commercial Queries",
+            "Category": "Search Engine Optimization",
+            "Description": "Product carousels are appearing again for product-focused queries with a mix of commercial and informational intent, currently ranked by a combination of guides.",
+            "Links": [
+                "https://twitter.com/aleyda/status/1833210852620833142"
+            ]
+        },
+        {
+            "Title": "Apple Unveils \"Visual Intelligence\" for Enhanced Search",
+            "Category": "Artificial Intelligence",
+            "Description": "Apple's new \"Visual Intelligence\" feature offers local and shopping search assistance, similar to Google Lens. It integrates with Google and other services.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833203285760872501"
+            ]
+        },
+        {
+            "Title": "Mediavine Bans Publisher for Excessive Use of AI-Generated Content",
+            "Category": "Artificial Intelligence",
+            "Description": "Mediavine has banned a publisher for overusing AI-generated content. The Director of Ad Operations and Market Quality stated that their top partners would stop spending on the publisher's site due to the low-quality AI content.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1833120888029393191",
+                "https://twitter.com/glenngabe/status/1832398125849284803"
+            ]
+        },
+        {
+            "Title": "Back Button Hijacking: Impact on SEO and Google's Spam Policies",
+            "Category": "Search Engine Optimization",
+            "Description": "Back button hijacking persists, with some publishers manipulating the back button. This practice's potential impact on Navboost, Google's spam policies, and aggressive advertising is explored.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1833186243284173043",
+                "https://twitter.com/glenngabe/status/1833116976937340979"
+            ]
+        },
+        {
+            "Title": "Microsoft Partners with StopNCII to Combat Revenge Porn on Bing",
+            "Category": "Artificial Intelligence",
+            "Description": "Microsoft is collaborating with StopNCII to identify and eliminate AI-generated deepfake content and non-consensual intimate images from Bing search results, although deepfakes pose a challenge.",
+            "Links": [
+                "https://www.telecoms.com/public-policy/seo-be-damned-as-etno-rebrands-to-connect-europe",
+                "https://www.computing.co.uk/news/4356322/microsoft-partners-stopncii-scrub-revenge-porn-bing",
+                "https://www.moneycontrol.com/technology/microsoft-outlines-plan-to-remove-abusive-deepfake-content-from-bing-article-12816801.html"
+            ]
+        },
+        {
+            "Title": "Google August 2024 Core Update: Volatility and Analysis",
+            "Category": "Search Engine Optimization",
+            "Description": "The Google August 2024 core update has finished, but search ranking volatility remains high. Analysis and observations on the update's impact are provided.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1833183864916771164",
+                "https://twitter.com/glenngabe/status/1833124164044984501",
+                "https://twitter.com/rustybrick/status/1833120167590809697",
                 "https://twitter.com/aleyda/status/1832716532046090377",
-                "https://twitter.com/glenngabe/status/1832038354889691417",
-                "https://www.seroundtable.com/google-search-volatility-still-heated-38027.html"
+                "https://www.searchenginejournal.com/google-offers-guidance-about-the-recent-ranking-update/526368/"
             ]
         },
         {
-            "Title": "Google Antitrust Trial: DOJ Targets Ad Business Practices",
-            "Category": "Antitrust and Legal",
-            "Description": "The US Department of Justice (DOJ) is engaging in a second antitrust trial against Google, this time focusing on the company's ad business practices. The trial, starting September 9th, will examine allegations of Google leveraging its dominance in online display advertising, potentially leading to industry-wide changes.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1832393325854298582",
-                "https://digiday.com/media-buying/from-jedi-blue-to-banksy-what-googles-code-names-reveal-in-the-dojs-landmark-antitrust-case/",
-                "https://digiday.com/marketing/the-rundown-why-a-landmark-antitrust-trial-on-googles-ad-tech-business-could-reshape-the-industry/"
-            ]
-        },
-        {
-            "Title": "Mediavine Bans Publisher for Excessive AI Content Use",
-            "Category": "Artificial Intelligence (AI) in Content",
-            "Description": "Mediavine has taken action against a publisher for overusing AI-generated content, demonstrating their commitment to maintaining high-quality content standards. This incident highlights the growing concern surrounding the use of AI in content creation and its potential impact on quality and authenticity.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1832398125849284803",
-                "https://twitter.com/glenngabe/status/1832036359847944576",
-                "https://twitter.com/glenngabe/status/1833120888029393191"
-            ]
-        },
-        {
-            "Title": "Microsoft Bing Combats Deepfakes and Explicit Content",
-            "Category": "Search Engine Technology",
-            "Description": "Microsoft is taking steps to remove abusive deepfake content and explicit imagery from its Bing search engine. Partnering with StopNCII, Bing aims to identify and eliminate non-consensual intimate images, including AI-generated deepfakes, from its search results.",
-            "Links": [
-                "https://www.moneycontrol.com/technology/microsoft-outlines-plan-to-remove-abusive-deepfake-content-from-bing-article-12816801.html",
-                "https://mashable.com/article/microsoft-bing-tackles-nonconsensual-deepfake-porn-in-results",
-                "https://www.fudzilla.com/news/ai/59656-microsoft-wants-to-purge-deepfakes-from-bing"
-            ]
-        },
-        {
-            "Title": "Google Search Results Page (SERP) Feature Update",
-            "Category": "Search Engine Optimization (SEO)",
-            "Description": "Google has combined the \"Latest Posts\" and \"Article Carousel\" into a single \"Latest Posts\" carousel on its search results page. This update merges articles and social media shares from platforms like X (formerly Twitter) and Threads into one carousel.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1832763148538892437"
-            ]
-        },
-        {
-            "Title": "YouTube Studio Enhances Website Traffic Features",
-            "Category": "Video Marketing and Advertising",
-            "Description": "YouTube Studio introduces a new website visits goal for promotions, allowing businesses to drive traffic from their YouTube channels to their websites more effectively. This update aims to convert video views into website visits, promoting products or services directly from YouTube channels.",
+            "Title": "YouTube Studio Introduces Website Visits Goal for Promotions",
+            "Category": "Digital Marketing",
+            "Description": "YouTube Studio now offers a website visits goal for promotions, allowing users to drive traffic from their YouTube channel to their websites. This update aims to simplify the process of promoting products or services directly from YouTube.",
             "Links": [
                 "https://twitter.com/glenngabe/status/1832395488877822015"
             ]
         },
         {
-            "Title": "Google Ads Updates: Enhanced CPC Sunset, Audience Insights Issues",
-            "Category": "Paid Advertising and Marketing",
-            "Description": "Google Ads is sunsetting Enhanced CPC (ECPC) in March 2025, migrating users to Manual CPC bidding. Additionally, the platform's Audience insights report is experiencing issues for some advertisers, with Google actively working on a resolution.",
+            "Title": "DOJ Antitrust Lawsuit Targets Google's Ad Business",
+            "Category": "Antitrust",
+            "Description": "The Department of Justice (DOJ) and multiple states have filed an antitrust lawsuit against Google, alleging a monopoly in the ad tech market. The trial is scheduled to begin on September 9th.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1832056408151339064",
-                "https://twitter.com/rustybrick/status/1833110855958810826",
-                "https://twitter.com/rustybrick/status/1832016142967423090"
+                "https://twitter.com/glenngabe/status/1832393325854298582",
+                "https://digiday.com/marketing/wtf-is-the-justice-departments-ad-tech-antitrust-case-against-google/",
+                "https://digiday.com/media-buying/ai-briefing-how-the-ai-race-could-pay-a-role-in-googles-antitrust-trial/",
+                "https://digiday.com/marketing/meet-judge-leonie-m-brinkema-whos-overseeing-googles-second-antitrust-case/",
+                "https://digiday.com/media-buying/doj-vs-google-the-arguments-for-and-against-the-defendants-alleged-ad-market-monopoly/"
             ]
         },
         {
-            "Title": "Bing Explores ProductGroup Markup and Tests New Features",
-            "Category": "Search Engine Technology",
-            "Description": "Bing is considering utilizing ProductGroup markup for captions in its search results, indicating potential future support. The search engine is also testing a new \"see details\" button for product listings, aiming to enhance user experience and provide more product information.",
+            "Title": "Judge Delays Remedy Decision in Google Monopoly Case Until August 2025",
+            "Category": "Antitrust",
+            "Description": "The judge overseeing the Google monopoly ruling has announced a delay in determining remedies until August 2025. Potential remedies include restrictions on deals featuring Google's search engine on mobile devices and even a potential breakup of the company.",
             "Links": [
-                "https://twitter.com/rustybrick/status/1833105823389868180",
-                "https://www.seroundtable.com/bing-productgroup-markup-38032.html",
-                "https://www.seroundtable.com/bing-search-testing-product-see-details-button-38017.html"
+                "https://twitter.com/glenngabe/status/1832390257116950784"
+            ]
+        },
+        {
+            "Title": "Replit Launches AI Agent for Building Apps from Prompts",
+            "Category": "Artificial Intelligence",
+            "Description": "Replit has introduced Replit Agent, an AI agent capable of creating entire applications based on user prompts. Currently in beta for Replit Core and Teams subscribers, this agent goes beyond typical coding assistants.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832756509794509200"
             ]
         }
     ],
-    "date": "2024-09-09"
+    "date": "2024-09-10"
 }
