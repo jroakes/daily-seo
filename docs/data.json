@@ -1,27 +1,27 @@
 {
     "data": [
         {
-            "Title": "Google Ads to Sunset Enhanced CPC in 2025",
+            "Title": "Google Ads to Sunset Enhanced CPC in March 2025",
             "Category": "Advertising & Paid Search",
-            "Description": "Google Ads is phasing out Enhanced CPC (ECPC) bidding in March 2025. Campaigns using ECPC will be migrated to Manual CPC.",
+            "Description": "Google Ads is phasing out Enhanced CPC (ECPC) and will automatically migrate users to Manual CPC bidding starting in March 2025.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1833154896469844415",
                 "https://twitter.com/rustybrick/status/1833110855958810826"
             ]
         },
         {
-            "Title": "Google Business Profile Appointment Link Monitoring",
+            "Title": "Google Business Profile Appointment Link Notifications",
             "Category": "Local Search",
-            "Description": "Google Business Profiles will now send email notifications to businesses if appointment links on their profiles are found to be broken.",
+            "Description": "Google Business Profiles has introduced email notifications to alert businesses of broken appointment links, helping ensure a seamless customer experience.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1833151121382117830",
                 "https://twitter.com/rustybrick/status/1833108339355455935"
             ]
         },
         {
-            "Title": "Bing May Adopt ProductGroup Markup",
-            "Category": "Structured Data & Bing Search",
-            "Description": "Bing is considering supporting ProductGroup structured data markup in the future, according to Microsoft's Fabrice Canel. While not yet implemented, the Bing team is monitoring its adoption.",
+            "Title": "Bing May Soon Support ProductGroup Markup",
+            "Category": "Search Engines",
+            "Description": "Bing is considering incorporating ProductGroup markup in its search results, potentially impacting how product listings are displayed and accessed by users.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1833147346626187440",
                 "https://twitter.com/rustybrick/status/1833105823389868180",
@@ -29,9 +29,9 @@
             ]
         },
         {
-            "Title": "Bing's Handling of 308 Redirects",
-            "Category": "Technical SEO & Bing Search",
-            "Description": "Bing treats 308 redirects the same way as 301 redirects, confirming that link equity and signals are passed similarly for both redirect types.",
+            "Title": "Bing Handles 308 Redirects Like 301 Redirects",
+            "Category": "Search Engines",
+            "Description": "Bing has confirmed that it treats 308 redirects the same way as 301 redirects, aligning with Google's approach and impacting how websites manage URL changes.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1833143572318896260",
                 "https://twitter.com/rustybrick/status/1833103306324955633",
@@ -39,9 +39,71 @@
             ]
         },
         {
-            "Title": "Bing Tests \"See Details\" Button for Product Listings",
-            "Category": "User Interface & Bing Search",
-            "Description": "Bing is experimenting with a new \"See Details\" button for product listings in search results. This button provides a more prominent call to action for users to view product information.",
+            "Title": "Google August 2024 Core Update Volatility and Impacts",
+            "Category": "Search Engines",
+            "Description": "The Google August 2024 core update has concluded, but search ranking volatility remains high, with many sites experiencing significant fluctuations. Analysis suggests a correlation with impacts from previous updates, including the March 2024 Core Update and the September 2023 Helpful Content Update.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1833124164044984501",
+                "https://twitter.com/glenngabe/status/1833183864916771164",
+                "https://twitter.com/aleyda/status/1832716532046090377"
+            ]
+        },
+        {
+            "Title": "Mediavine Bans Publisher for Excessive AI-Generated Content",
+            "Category": "Content & AI",
+            "Description": "Mediavine has taken action against a publisher for overusing AI-generated content, citing concerns about quality and advertiser partnerships. This incident highlights the growing importance of content authenticity and the potential consequences of relying solely on AI.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832398125849284803",
+                "https://twitter.com/aleyda/status/1833248815471817086"
+            ]
+        },
+        {
+            "Title": "YouTube Studio Introduces Website Visits Goal for Promotions",
+            "Category": "Video & YouTube",
+            "Description": "YouTube Studio now offers a \"website visits\" goal for promotional campaigns, enabling creators to directly drive traffic from their videos to external websites, enhancing marketing and audience engagement efforts.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832395488877822015"
+            ]
+        },
+        {
+            "Title": "Justice Department's Antitrust Lawsuit Against Google's Ad Business",
+            "Category": "Advertising & Legal",
+            "Description": "The Justice Department's antitrust lawsuit against Google's ad business is set to begin on September 9th, focusing on allegations of monopolistic practices and their impact on the online advertising market.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832393325854298582",
+                "https://digiday.com/media-buying/doj-vs-google-the-arguments-for-and-against-the-defendants-alleged-ad-market-monopoly/"
+            ]
+        },
+        {
+            "Title": "Judge Delays Remedy Decision in Google Monopoly Case Until 2025",
+            "Category": "Legal & Search Engines",
+            "Description": "The judge overseeing the Google monopoly case has announced a delay in determining remedies until August 2025. Potential remedies include restrictions on Google's search engine presence on mobile devices and even a potential breakup of the company.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832390257116950784"
+            ]
+        },
+        {
+            "Title": "Replit Launches Replit Agent: An AI for Building Apps",
+            "Category": "Artificial Intelligence",
+            "Description": "Replit has introduced Replit Agent, an AI agent capable of generating entire applications from user prompts. Currently in beta for Replit Core and Teams subscribers, this tool signifies a potential shift in software development.",
+            "Links": [
+                "https://twitter.com/glenngabe/status/1832756509794509200"
+            ]
+        },
+        {
+            "Title": "Apple Introduces Visual Intelligence for Local and Shopping Search",
+            "Category": "Search Engines & Technology",
+            "Description": "Apple has unveiled Visual Intelligence, a new feature similar to Google Lens, allowing iPhone users to perform visual searches for local businesses and shopping. The feature integrates with Google, ChatGPT, and Yelp, potentially impacting user behavior and competition in visual search.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833517283894853692",
+                "https://twitter.com/glenngabe/status/1833475308474765709",
+                "https://twitter.com/rustybrick/status/1833473244101546260"
+            ]
+        },
+        {
+            "Title": "Bing Search Tests \"See Details\" Button for Product Listings",
+            "Category": "Search Engines",
+            "Description": "Bing is experimenting with a prominent \"see details\" button for product listings in its search results, aiming to enhance user experience and potentially drive engagement with product information.",
             "Links": [
                 "https://twitter.com/rustybrick/status/1833139797004898485",
                 "https://twitter.com/rustybrick/status/1833100789956723134",
@@ -49,82 +111,30 @@
             ]
         },
         {
-            "Title": "Mediavine Enforces Policy Against Low-Quality AI Content",
-            "Category": "Content & AI",
-            "Description": "Mediavine, an advertising management platform, has banned a publisher for excessive use of AI-generated content. This action highlights the platform's commitment to quality content and the potential consequences for publishers who rely heavily on AI.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1832398125849284803"
-            ]
-        },
-        {
-            "Title": "YouTube Studio Introduces Website Visits Goal for Promotions",
-            "Category": "Video & YouTube Advertising",
-            "Description": "YouTube Studio now offers a \"Website Visits\" goal for video promotions, allowing creators to optimize campaigns for driving traffic to external websites directly from their YouTube channel.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1832395488877822015"
-            ]
-        },
-        {
-            "Title": "Google's August 2024 Core Update: Volatility and Impacts",
-            "Category": "Search Algorithms & Updates",
-            "Description": "Google's August 2024 core update has finished rolling out, but search ranking volatility remains high. Analysis suggests a correlation between sites impacted by this update and those affected by previous updates in March 2024 and September 2023.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1833183864916771164",
-                "https://twitter.com/glenngabe/status/1833124164044984501",
-                "https://twitter.com/aleyda/status/1832716532046090377"
-            ]
-        },
-        {
-            "Title": "Back Button Hijacking and SEO Implications",
-            "Category": "User Experience & SEO",
-            "Description": "The practice of \"back button hijacking,\" where websites manipulate the browser's back button, is discussed in relation to its potential impact on user experience, Google's spam policies, and the Navboost signal.",
-            "Links": [
-                "https://twitter.com/glenngabe/status/1833186243284173043",
-                "https://twitter.com/glenngabe/status/1833116976937340979"
-            ]
-        },
-        {
-            "Title": "Google's AI Overviews Display Product Results for Commercial Queries",
-            "Category": "Search Engine Results Pages (SERPs)",
-            "Description": "Google's AI Overviews, a new feature on search result pages, are now incorporating product and shopping results for queries with commercial intent, indicating a shift towards a more integrated shopping experience.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1833468210789707943",
-                "https://twitter.com/aleyda/status/1833420303197999372"
-            ]
-        },
-        {
-            "Title": "Overlap Between AI Overviews and Traditional Organic Results",
-            "Category": "Search Engine Results Pages (SERPs)",
-            "Description": "Research suggests that approximately 50% of the links displayed in Google's AI Overviews are duplicates of links found in traditional organic search results, raising questions about the distinctiveness and value of the new feature.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1833465694047932713"
-            ]
-        },
-        {
-            "Title": "Google Integrates Business Photos in Local Review Sentiments",
-            "Category": "Local Search",
-            "Description": "Google is enhancing its local search results by displaying business photos within the review sentiments section, providing users with a more visually rich and informative experience.",
-            "Links": [
-                "https://twitter.com/rustybrick/status/1833463177566425110"
-            ]
-        },
-        {
             "Title": "Microsoft Partners with StopNCII to Combat Deepfakes on Bing",
-            "Category": "Content Moderation & AI",
-            "Description": "Microsoft is collaborating with StopNCII to identify and remove abusive deepfake content, particularly non-consensual intimate imagery, from its Bing search engine, addressing the growing concern of AI-generated harmful content.",
+            "Category": "Artificial Intelligence & Search Engines",
+            "Description": "Microsoft has teamed up with StopNCII to develop strategies for detecting and removing abusive deepfake content from Bing search results, addressing concerns about the spread of harmful AI-generated imagery.",
             "Links": [
                 "https://www.computing.co.uk/news/4356322/microsoft-partners-stopncii-scrub-revenge-porn-bing",
                 "https://www.moneycontrol.com/technology/microsoft-outlines-plan-to-remove-abusive-deepfake-content-from-bing-article-12816801.html"
             ]
         },
         {
-            "Title": "Justice Department's Antitrust Case Against Google's Ad Tech",
-            "Category": "Advertising & Antitrust",
-            "Description": "The U.S. Department of Justice's antitrust lawsuit against Google's ad tech practices is set to begin. The case centers around allegations that Google holds a monopoly in the digital advertising market and engages in anti-competitive behavior.",
+            "Title": "Google AI Overviews Now Include Product and Shopping Results",
+            "Category": "Search Engines",
+            "Description": "Google's AI Overviews are expanding to incorporate product and shopping results for commercially-focused search queries, potentially impacting user shopping behavior and search results visibility for businesses.",
             "Links": [
-                "https://digiday.com/marketing/wtf-is-the-justice-departments-ad-tech-antitrust-case-against-google/",
-                "https://digiday.com/media-buying/ai-briefing-how-the-ai-race-could-pay-a-role-in-googles-antitrust-trial/",
-                "https://digiday.com/marketing/meet-judge-leonie-m-brinkema-whos-overseeing-googles-second-antitrust-case/"
+                "https://twitter.com/rustybrick/status/1833468210789707943",
+                "https://twitter.com/rustybrick/status/1833509734327967984"
+            ]
+        },
+        {
+            "Title": "Study Finds 50% Overlap Between Google AI Overviews and Organic Results",
+            "Category": "Search Engines",
+            "Description": "Research indicates that approximately half of the links displayed in Google's AI Overviews are duplicates of those found in traditional organic search results, raising questions about the distinctiveness and potential impact of AI-generated summaries.",
+            "Links": [
+                "https://twitter.com/rustybrick/status/1833465694047932713",
+                "https://twitter.com/rustybrick/status/1833505960167673966"
             ]
         }
     ],
